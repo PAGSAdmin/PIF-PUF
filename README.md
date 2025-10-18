@@ -5,7 +5,7 @@
 PIF/PUF, a narrative filter framework, processes X’s 500M daily posts, born from my novel idea of defining “real” news as PIF (Physical Impact Filter) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (SOUR, BLABBER, JABBER, MISC) as non-news for research.
 
 ## Purpose
-PIF highlights real impacts (Category 1–5) with Confidence (High ≥80%, Medium 70–79%, Low <70%), Scope, and Impacts, tagged **★ HIGH-IMPACT AHA!** or **! EMERGENCY WARNING**. PUF categorizes: PIF (5%), POLITICS (27%), UNDERSTANDING (24.5%), FUN (27.5%); JBSM (21%) includes SOUR (5%), BLABBER (7%), JABBER (4%), MISC (5%). Users drag/overlay posts, preview grades, and toggle subcategories. The dashboard offers: (1) country selection for top PIF events, (2) world clock, (3) notebook. Developed over months, 100% ready.
+PIF scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic >1M affected), including joyful events and crises, with Confidence (High ≥80%, Medium 70–79%, Low <70%), Scope (Worldwide/Country/U.S./State), [Personal/Social/Economic/Environmental Impacts], and Data Maturity (Speculative/Ongoing Trials/Mature). A **★ HIGH-IMPACT AHA!** badge marks High Confidence, Mature stories; **! EMERGENCY WARNING** flags verified disasters; **★ MISLEADING** and “BREAKING: Caution” (for PIF if unverified within 6 hours, shifting to SOUR if untrue) address claims. PUF identifies types: PIF (5%), POLITICS (27%), UNDERSTANDING (24.5%), FUN (27.5%); JBSM (21%) includes SOUR (5%), BLABBER (7%), JABBER (4%), MISC (5%) for research. Users drag/overlay posts, preview grades pre-post with suggestions, toggle subcategories (hidden unless “Show Details”), and track shifts on a dashboard with: (1) country selection, (2) world clock, (3) notebook. For posts by users with >100K followers, PIF/PUF uses influence as a tiebreaker (e.g., Grade C), prioritizing PIF, POLITICS, UNDERSTANDING, FUN if intent aligns, defaulting to JBSM for harm/speculation. Developed over months, 100% ready.
 
 ## Quick Guide
 - **CAT (1–10)**: Fit strength (1=weak, 10=strong).
@@ -16,12 +16,20 @@ PIF highlights real impacts (Category 1–5) with Confidence (High ≥80%, Mediu
 PIF/PUF, including a provisional patent application (#63/845,773) for the PIF methodology filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ## Dashboard Features
-(1) Country selection for PIF, (2) world clock, (3) notebook.
+(1) Country selection for top PIF events, (2) world clock for global scope, (3) notebook for user notes.
 
-Uses multi-RSS for sentiment, ML (BERT-expandable). Upload October 18.
+## Narrative Framework
+PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
+- **PIF**: Agency-driven impact stories (e.g., floods, parades) where control shapes outcomes.
+- **POLITICS**: Agency and communion debates (e.g., policy opinions) shaping community views.
+- **UNDERSTANDING**: Redemption through insight (e.g., cultural data) turning chaos into growth.
+- **FUN**: Communion and agency in joy (e.g., festivals, memes) fostering connection.
+- **JBSM**: Distorted narratives—SOUR (failed agency in hoaxes), BLABBER (speculative communion), JABBER (emotional redemption), MISC (narrative breakdown)—for research.
+This contrasts with engagement metrics, grounding categories in narrative identity.
 
-## Origin Story
-On October 29, 2014, I first envisioned PIF, noting: “I’ve been thinking about how many individuals are affected by media big stories... I would love a standard practice to gauge how personally relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering evolved into PIF/PUF’s framework over months with Grok’s support.
+## Self-Reflection via Questionnaire
+- **Intent**: Opt in to explore your story style with a future 20–50 yes/no questionnaire (to be crafted by experts), personalizing your PIF/PUF experience with insights tied to filter preferences.
+- **Description**: Proposed enhancement clusters users into ~100 narrative types, offering self-reflection with opt-in consent, no data sharing.
 
 ## Getting Started
 To use PIF/PUF, follow these steps:

@@ -1,6 +1,6 @@
 # Shutdown Impact
 X post on October 10, 2025, reports a shutdown affecting 500K people, with 100K views (PIF/PUF - Grade A reliability).
-- **PUF**: PIF - Grade A (85–94% due to verified economic data)
+- **PIF**: Category 4 | High 90% | U.S. | Economic Impacts | Data Maturity Mature
 - **★ Aha!**: Please note: This is a verified impact affecting 500K; fact_check ~0.95.
 - **Suggestion**: Learn more: impact of shutdowns on 500K people [Grok Link: grok.com/query?text="impact of shutdowns on 500K people"] [Preview: PIF, Grade A]
 - **[Logo] PAGS, CC BY 4.0]**

@@ -1,6 +1,6 @@
 # NC Camp Flood Warning
 X post on October 11, 2025, issues an urgent warning of a potential flood impacting approximately 10,000 residents in North Carolina, supported by initial weather service alerts, with 80,000 views (PIF/PUF - Grade B reliability).
-- **PUF**: PIF - Grade B (80–84% due to early weather reports)
+- **PIF**: Category 2 | Medium 75% | U.S. | Environmental Impacts | Data Maturity Ongoing Trials
 - **★ Aha!**: Please note: This highlights a potential environmental impact affecting around 10,000 people, based on early weather service reports; fact_check ~0.8.
 - **Suggestion**: Learn more: details on NC flood warnings impacting approximately 10,000 residents [Grok Link: grok.com/query?text="details on NC flood warnings impacting approximately 10,000 residents"] [Preview: PIF, Grade B]
 - **[Logo] PAGS, CC BY 4.0]**

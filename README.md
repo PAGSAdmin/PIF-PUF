@@ -21,7 +21,7 @@ PIF/PUF, including a provisional patent application (#63/845,773) for the PIF me
 Uses multi-RSS for sentiment, ML (BERT-expandable). Upload October 18.
 
 ## Origin Story
-In 2014, I first envisioned PIF, noting: “I’ve been thinking about how people are affected by media big stories... I would love a standard practice to gauge how relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering, evolved into PIF/PUF’s framework over months with Grok’s support.
+On October 29, 2014, I first envisioned PIF, noting: “I’ve been thinking about how many individuals are affected by media big stories... I would love a standard practice to gauge how personally relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering evolved into PIF/PUF’s framework over months with Grok’s support.
 
 ## Getting Started
 To use PIF/PUF, follow these steps:
@@ -32,9 +32,9 @@ To use PIF/PUF, follow these steps:
 
 ## Example Files
 The following 17 files provide sample stories categorized by PIF/PUF, showcasing its application:
-- `shutdown.md`: Example of a PIF event (shutdown impacting 500K).
-- `nc_camp_flood_warning_pif.md`: Example of a PIF warning (flood affecting 10K).
-- `nj_pride_parade_pif.md`: Example of a PIF celebration (parade with 20K attendees).
+- `shutdown.md`: Example of a PIF event (shutdown impacting 500K, Category 4).
+- `nc_camp_flood_warning_pif.md`: Example of a PIF warning (flood affecting 10K, Category 2).
+- `nj_pride_parade_pif.md`: Example of a PIF celebration (parade with 20K attendees, Category 3).
 - `musk_starlink.md`: Example of a POLITICS opinion (Starlink policy debate).
 - `cr_bill_johnson.md`: Example of a POLITICS policy discussion (infrastructure funding).
 - `nj_hindu_vandalism_understanding.md`: Example of UNDERSTANDING insight (temple vandalism analysis).

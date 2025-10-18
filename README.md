@@ -32,22 +32,22 @@ To use PIF/PUF, follow these steps:
 
 ## Example Files
 The following 17 files provide sample stories categorized by PIF/PUF, showcasing its application:
-- `shutdown.md`: Example of a PIF event (shutdown impacting 500K, Category 4).
-- `nc_camp_flood_warning_pif.md`: Example of a PIF warning (flood affecting 10K, Category 2).
-- `nj_pride_parade_pif.md`: Example of a PIF celebration (parade with 20K attendees, Category 3).
-- `musk_starlink.md`: Example of a POLITICS opinion (Starlink policy debate).
-- `cr_bill_johnson.md`: Example of a POLITICS policy discussion (infrastructure funding).
-- `nj_hindu_vandalism_understanding.md`: Example of UNDERSTANDING insight (temple vandalism analysis).
-- `florence_antisemitism_understanding.md`: Example of UNDERSTANDING historical insight (Florence antisemitism).
-- `nj_cherry_blossom_pif.md`: Example of FUN event (cherry blossom festival with 3K attendees).
-- `boss_meme_fun.md`: Example of FUN humor (boss meme trend).
-- `british_jews_jabber.md`: Example of JABBER venting (British Jews’ experiences).
-- `child_cops_jabber.md`: Example of JABBER rumor (child police claim).
-- `big_pharma_conspiracy.md`: Example of BLABBER speculation (Big Pharma cover-up).
-- `nj_pesticide_misinfo.md`: Example of BLABBER misinformation (NJ pesticide hoax).
-- `vaccine_conspiracy_sour.md`: Example of SOUR hoax (vaccine infertility claim).
-- `election_rigging_sour.md`: Example of SOUR conspiracy (election rigging claim).
-- `cr_page57.md`: Example of MISC nonsense (cryptic CR page 57).
-- `robbery_scare_misc.md`: Example of MISC prank (robbery scare incident).
+- `PIF_CAT4_shutdown.md`: Example of a PIF event (shutdown impacting 500K, Category 4).
+- `PIF_CAT2_nc_camp_flood_warning_pif.md`: Example of a PIF warning (flood affecting 10K, Category 2).
+- `PIF_CAT3_nj_pride_parade_pif.md`: Example of a PIF celebration (parade with 20K attendees, Category 3).
+- `POLITICS_musk_starlink.md`: Example of a POLITICS opinion (Starlink policy debate).
+- `POLITICS_cr_bill_johnson.md`: Example of a POLITICS policy discussion (infrastructure funding).
+- `UNDERSTANDING_nj_hindu_vandalism_understanding.md`: Example of UNDERSTANDING insight (temple vandalism analysis).
+- `UNDERSTANDING_florence_antisemitism_understanding.md`: Example of UNDERSTANDING historical insight (Florence antisemitism).
+- `FUN_nj_cherry_blossom_pif.md`: Example of FUN event (cherry blossom festival with 3K attendees).
+- `FUN_boss_meme_fun.md`: Example of FUN humor (boss meme trend).
+- `JABBER_british_jews_jabber.md`: Example of JABBER venting (British Jews’ experiences).
+- `JABBER_child_cops_jabber.md`: Example of JABBER rumor (child police claim).
+- `BLABBER_big_pharma_conspiracy.md`: Example of BLABBER speculation (Big Pharma cover-up).
+- `BLABBER_nj_pesticide_misinfo.md`: Example of BLABBER misinformation (NJ pesticide hoax).
+- `SOUR_vaccine_conspiracy_sour.md`: Example of SOUR hoax (vaccine infertility claim).
+- `SOUR_election_rigging_sour.md`: Example of SOUR conspiracy (election rigging claim).
+- `MISC_cr_page57.md`: Example of MISC nonsense (cryptic CR page 57).
+- `MISC_robbery_scare_misc.md`: Example of MISC prank (robbery scare incident).
 
 The tool is 100% ready, with all tasks completed; upload planned for October 18, guided by non-tech vision with engaging authenticity; developed over months. Uses multi-RSS (Full Fact, AFP, Washington Post, Poynter, BBC, AP, Reuters, Snopes, FactCheck.org, PolitiFact, NASA Earth, EPA, NOAA, IPCC, USGS) for X sentiment (PIF/PUF - Grade A+ to F reliability), with ML bias detection (BERT-expandable). The Narrative Dynamics Tracker enhances filtering, shift tracking, pre-post previews, and JBSM research, boosting Grok and X.

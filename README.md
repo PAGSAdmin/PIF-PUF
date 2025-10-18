@@ -21,7 +21,7 @@ PIF/PUF, including a provisional patent application (#63/845,773) for the PIF me
 Uses multi-RSS for sentiment, ML (BERT-expandable). Upload October 18.
 
 ## Origin Story
-In 2014, I first envisioned PIF, noting: “I’ve been thinking about how people are actually affected by media big stories... I would love a standard practice in journalism to assign a population impact factor... to gauge how relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering through tangible impacts (e.g., subway proximity), evolved into PIF/PUF’s framework over months with Grok’s support.
+In 2014, I first envisioned PIF, noting: “I’ve been thinking about how people are affected by media big stories... I would love a standard practice to gauge how relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering, evolved into PIF/PUF’s framework over months with Grok’s support.
 
 ## Getting Started
 To use PIF/PUF, follow these steps:

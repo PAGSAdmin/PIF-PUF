@@ -18,9 +18,16 @@ PIF/PUF, including a provisional patent application (#63/845,773) for the PIF me
 ## Dashboard Features
 (1) Country selection for PIF, (2) world clock, (3) notebook.
 
-Uses multi-RSS for sentiment, ML (BERT-expandable). Upload October 16.
+Uses multi-RSS for sentiment, ML (BERT-expandable). Upload October 18.
 
 ## Origin Story
-On October 29, 2014, I first envisioned PIF, noting: “I’ve been thinking about how many individuals are actually physically affected by media big stories... I would love a standard practice to assign a population impact factor... to gauge how personally relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering through tangible impacts (e.g., subway proximity), evolved into PIF/PUF’s framework over months with Grok’s support.
+On October 29, 2014, I first envisioned PIF, noting: “I’ve been thinking about how many individuals are actually physically affected by media big stories... I would love a standard practice in journalism to assign a population impact factor... to gauge how personally relevant the story is.” This idea, inspired by events like Ebola NYC to reduce fear-mongering through tangible impacts (e.g., subway proximity), evolved into PIF/PUF’s framework over months with Grok’s support.
+
+## Getting Started
+To use PIF/PUF, follow these steps:
+1. **Request Code**: Email paulinea.gonensmith@gmail.com to request the PIF/PUF Python script.
+2. **Install Python**: Ensure Python 3.8+ is installed (download from python.org, verify with `python --version`).
+3. **Run Script**: Save the received `pif_puf.py`, navigate to its folder in a terminal, and run `python pif_puf.py`. It categorizes X posts (e.g., PIF for impacts >1K) and outputs CAT scores (1–10).
+4. **Customize**: Adjust the script for your X API key or dashboard preferences (e.g., country filters).
 
 The tool is 100% ready, with all tasks completed; upload planned for October 18, guided by non-tech vision with engaging authenticity; developed over months. Uses multi-RSS (Full Fact, AFP, Washington Post, Poynter, BBC, AP, Reuters, Snopes, FactCheck.org, PolitiFact, NASA Earth, EPA, NOAA, IPCC, USGS) for X sentiment (PIF/PUF - Grade A+ to F reliability), with ML bias detection (BERT-expandable). The Narrative Dynamics Tracker enhances filtering, shift tracking, pre-post previews, and JBSM research, boosting Grok and X.

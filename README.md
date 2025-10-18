@@ -39,7 +39,7 @@ To use PIF/PUF, follow these steps:
 4. **Customize**: Adjust the script for your X API key or dashboard preferences (e.g., country filters).
 
 ## Example Files
-The following 17 files provide sample stories categorized by PIF/PUF, showcasing its application:
+The following 16 files provide sample stories categorized by PIF/PUF, showcasing its application:
 - `PIF_CAT4_shutdown.md`: Example of a PIF event (shutdown impacting 500K, Category 4).
 - `PIF_CAT2_nc_camp_flood_warning_pif.md`: Example of a PIF warning (flood affecting 10K, Category 2).
 - `PIF_CAT3_nj_pride_parade_pif.md`: Example of a PIF celebration (parade with 20K attendees, Category 3).
@@ -49,7 +49,6 @@ The following 17 files provide sample stories categorized by PIF/PUF, showcasing
 - `UNDERSTANDING_florence_antisemitism_understanding.md`: Example of UNDERSTANDING historical insight (Florence antisemitism).
 - `FUN_nj_cherry_blossom_pif.md`: Example of FUN event (cherry blossom festival with 3K attendees).
 - `FUN_boss_meme_fun.md`: Example of FUN humor (boss meme trend).
-- `JABBER_british_jews_jabber.md`: Example of JABBER venting (British Jews’ experiences).
 - `JABBER_child_cops_jabber.md`: Example of JABBER rumor (child police claim).
 - `BLABBER_big_pharma_conspiracy.md`: Example of BLABBER speculation (Big Pharma cover-up).
 - `BLABBER_nj_pesticide_misinfo.md`: Example of BLABBER misinformation (NJ pesticide hoax).

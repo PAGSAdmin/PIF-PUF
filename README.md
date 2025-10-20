@@ -16,7 +16,10 @@ PIF scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic
 PIF/PUF, including a provisional patent application (#63/845,773) for the PIF methodology filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ## Dashboard Features
-(1) Country selection for top PIF events, (2) world clock for global scope, (3) notebook for user notes.
+1. Country selection for top PIF events.
+2. World clock for global scope.
+3. Notebook for user notes.
+4. Pre-post feedback: Preview category (PIF, PUF, JBSM), grade (A+ to F), and insights (★ HIGH-IMPACT AHA! for facts) before posting to ensure clarity and relevance.
 
 ## Narrative Framework
 PIF/PUF categorizes X’s 500M posts using a human storytelling lens:

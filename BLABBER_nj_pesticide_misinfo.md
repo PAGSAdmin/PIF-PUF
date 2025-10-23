@@ -7,3 +7,5 @@ X post on October 16, 2025, spreads unverified claims about harmful pesticides i
 - **Relevance**: This aids U.S. health and environmental discussions, with Grade F reliability noting a false narrative.
 - **Determination**: This is BLABBER because it’s unverified speculation, CAT PIF/PUF score 1.
 - *Note: This output was generated as a report on October 16, 2025, serving as an example from the past; the misinformation remains relevant as of October 17, 2025, with no official confirmation to date.*
+
+[← Back to README](README.md)

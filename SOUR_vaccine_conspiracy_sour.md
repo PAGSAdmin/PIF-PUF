@@ -7,3 +7,5 @@ X post on October 17, 2025, spreads a hoax claiming COVID vaccines cause inferti
 - **Relevance**: This aids U.S. health discussions, with Grade F reliability noting a harmful hoax.
 - **Determination**: This is SOUR because it’s a harmful falsehood, CAT PIF/PUF score 1.
 - *Note: This output was generated as a report on October 17, 2025, serving as an example from the past; the hoax remains relevant as of October 17, 2025, with ongoing debunking efforts.*
+
+[← Back to README](README.md)

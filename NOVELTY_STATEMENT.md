@@ -47,7 +47,8 @@ PIF/PUF isn’t another NLP black box. It’s a **user-first, auditable narrativ
 
 [Discuss on X →](https://x.com/@PIFPUFbyPAGS)  
 [Contribute →](https://github.com/PAGSAdmin/PIF-PUF/issues)
-[Back to README →](README.md)
+---
+[← Back to README](README.md)
 
 ---
 *By Pauline A. Gonen-Smith (PAGS) | CC BY 4.0*

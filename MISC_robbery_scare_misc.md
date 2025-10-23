@@ -7,3 +7,5 @@ X post on October 16, 2025, shares a robbery scare prank causing brief panic, su
 - **Relevance**: This aids U.S. prank and safety discussions, with Grade D reliability noting a risky narrative.
 - **Determination**: This is MISC because it’s a harmful prank, CAT PIF/PUF score 3.
 - *Note: This output was generated as a report on October 16, 2025, serving as an example from the past; the prank remains relevant as of October 17, 2025, with ongoing social media buzz.*
+
+[← Back to README](README.md)

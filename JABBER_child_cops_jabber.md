@@ -7,3 +7,5 @@ X post on October 17, 2025, vents about a rumor of child police officers, suppor
 - **Relevance**: This aids U.S. rumor and emotional discussions, with Grade D reliability noting a questionable narrative.
 - **Determination**: This is JABBER because it’s emotional venting, CAT PIF/PUF score 3.
 - *Note: This output was generated as a report on October 17, 2025, serving as an example from the past; the rumor remains relevant as of October 17, 2025, with no official verification to date.*
+- 
+[← Back to README](README.md)

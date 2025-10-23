@@ -7,3 +7,5 @@ X post on October 16, 2025, offers educational insight on historical antisemitis
 - **Relevance**: This aids U.S. historical and educational discussions, with Grade B reliability noting a plausible insight.
 - **Determination**: This is UNDERSTANDING because it offers educational content, CAT PIF/PUF score 7.
 - *Note: This output was generated as a report on October 16, 2025, serving as an example from the past; the insight remains relevant as of October 17, 2025, with ongoing academic interest.*
+
+[← Back to README](README.md)

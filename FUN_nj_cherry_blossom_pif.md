@@ -6,3 +6,5 @@ X post on October 17, 2025, celebrates the annual cherry blossom festival in New
 - **Relevance**: This aids U.S. joyful and cultural discussions, with Grade A reliability noting a confirmed event.
 - **Determination**: This is FUN because it’s a joyful celebration, CAT PIF/PUF score 9.
 - *Note: This output was generated as a report on October 17, 2025, serving as an example from the past; the event occurred on October 17, 2025, and proved relevant as an effective notice based on pre-event promotion.*
+
+[← Back to README](README.md)

@@ -7,3 +7,5 @@ X post on October 11, 2025, issues an urgent warning of a potential flood impact
 - **Relevance**: This aids U.S. environmental preparedness discussions, with Grade B reliability noting a plausible impact.
 - **Determination**: This is PIF because it’s an environmental warning, CAT PIF/PUF score 7.
 - *Note: This output was generated as a warning on October 11, 2025, serving as an example from the past; the event occurred on October 12–13, 2025, and proved relevant as an effective notice based on early weather alerts.*
+
+[← Back to README](README.md)

@@ -1,6 +1,6 @@
 # PIF/PUF: A Narrative Filter Framework for X
 
-[Logo: PIF_PUF_Wynn_Logo.png](#) *(Coming soon: A Wynn rune (ᚹ) with a faint AI circuit trace on a black-gray-white gradient, symbolizing clarity's rediscovery, designed by Pauline Gonen-Smith)*
+[![PIF/PUF Logo](PIF_PUF_Wynn_Logo.png)](README.md){target="_blank"}
 
 [Novelty Statement](./NOVELTY_STATEMENT.md)  
 *Pre-read this to understand PIF/PUF's groundbreaking approach before diving in!*

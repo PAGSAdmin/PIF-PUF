@@ -1,6 +1,6 @@
 # PIF/PUF: A Narrative Filter Framework for X
 
-[![PIF/PUF Logo](PIF_PUF_Wynn_Logo.png)](README.md){target="_blank"}
+[![PIF/PUF Logo](PIF_PUF_Wynn_Logo.png)](README.md)
 
 [Novelty Statement](./NOVELTY_STATEMENT.md)  
 *Pre-read this to understand PIF/PUF's groundbreaking approach before diving in!*

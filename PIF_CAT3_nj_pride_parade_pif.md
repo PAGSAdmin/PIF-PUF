@@ -7,3 +7,5 @@ X post on October 12, 2025, celebrates a Pride parade in New Jersey with approxi
 - **Relevance**: This aids U.S. social and cultural discussions, with Grade A reliability noting a confirmed impact.
 - **Determination**: This is PIF because it’s a tangible social celebration, CAT PIF/PUF score 8.
 - *Note: This output was generated as a report on October 12, 2025, serving as an example from the past; the event occurred on October 13, 2025, and proved relevant as an effective notice based on pre-event promotion.*
+
+[← Back to README](README.md)

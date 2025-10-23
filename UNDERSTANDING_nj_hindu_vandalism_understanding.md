@@ -7,3 +7,5 @@ X post on October 15, 2025, shares educational insight on recent Hindu temple va
 - **Relevance**: This aids U.S. cultural and educational discussions, with Grade A reliability noting a confirmed insight.
 - **Determination**: This is UNDERSTANDING because it offers educational content, CAT PIF/PUF score 9.
 - *Note: This output was generated as a report on October 15, 2025, serving as an example from the past; the insight remains relevant as of October 17, 2025, with ongoing community responses.*
+
+[← Back to README](README.md)

@@ -7,3 +7,5 @@ X post on October 17, 2025, speculates about a Big Pharma cover-up, supported by
 - **Relevance**: This aids U.S. speculative and health discussions, with Grade D reliability noting an unverified narrative.
 - **Determination**: This is BLABBER because it’s speculative conjecture, CAT PIF/PUF score 3.
 - *Note: This output was generated as a report on October 17, 2025, serving as an example from the past; the speculation remains relevant as of October 17, 2025, with no official rebuttal to date.*
+
+[← Back to README](README.md)

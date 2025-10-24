@@ -28,6 +28,9 @@ PIF/PUF, including a provisional patent application (#63/845,773) filed July 202
 3. Notebook for user notes, auto-populated with fresh web facts for context.
 4. Pre-post feedback: Preview category (PIF, PUF, JBSM), grade (A+ to F), and insights (e.g., ★ HIGH-IMPACT AHA! for learning, ! EMERGENCY WARNING with haptic option), supported by the Narrative Dynamics Tracker for filtering and shift tracking.
 
+## Community Features
+- **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); JBSM filters noise.
+
 ## Narrative Framework
 PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - PIF: Agency-driven impact stories (e.g., floods, parades) where control shapes outcomes.

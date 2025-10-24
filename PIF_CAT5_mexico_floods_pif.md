@@ -6,7 +6,9 @@
   - **Impacts**: Personal (64 deaths, 100K displaced), Social (isolated communities), Economic (homes/roads lost), Environmental (landslides)
   - **Date**: October 20, 2025 (example of live event)
   - **Note**: This is what it would look like as it happens
+  - **Source**: Based on Reuters/AP reports (multi-RSS)
   - **Grade**: A
   - **Badge**: ! EMERGENCY WARNING (haptic buzz + flashing for urgent evacuations)
   - **Suggestion**: Evacuate low-lying areas
-[← Back to README](README.md)
+ 
+    [← Back to README](README.md)

@@ -45,6 +45,11 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - FUN: Communion and agency in joy (e.g., festivals, memes) fostering connection.
 - JBSM: Distorted narratives—SOUR (failed agency in hoaxes), BLABBER (speculative communion), JABBER (emotional redemption), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity.
 
+## Truth and Aha! in PIF/PUF
+- **PIF Anchors Truth in Impacts**: PIF tracks real-world impacts (like ! EMERGENCY WARNING for floods) using solid data, such as how many people are affected. It’s verified with high confidence (80% or more), serving as a guide for action.
+- **PUF and Clarity Guard Bring Aha! Moments**: PUF lights up stories (POLITICS, UNDERSTANDING, FUN) with fresh insights that change with viewpoints. Clarity Guard, a catch-all term for noise categories (JABBER, BLABBER, SOUR, MISC), filters out clutter while protecting free speech, letting perspectives shift without sticking to one truth.
+- **Dynamic vs. Static**: This setup embraces lively ideas over fixed claims, keeping X clear and open for all.
+
 ## Self-Reflection via Questionnaire
 - Intent: Opt in to explore your story style with a future 20–50 yes/no questionnaire (to be crafted by experts), personalizing your PIF/PUF experience with insights tied to filter preferences.
 - Description: Proposed enhancement clusters users into ~100 narrative types, offering self-reflection with opt-in consent, no data sharing.

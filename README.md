@@ -62,7 +62,7 @@ To use PIF/PUF, follow these steps:
 4. Customize: Adjust the script with help for your X API key or dashboard preferences (e.g., country filters).
 
 ## Example Files
-The following 16 files provide sample stories categorized by PIF/PUF, showcasing its application:
+The following 17 files provide sample stories categorized by PIF/PUF, showcasing its application:
 - [PIF_CAT5_mexico_floods_pif.md](./PIF_CAT5_mexico_floods_pif.md): Example of a PIF event (floods in Mexico impacting 100K+, Category 5).
 - [PIF_CAT4_shutdown.md](./PIF_CAT4_shutdown.md): Example of a PIF event (shutdown impacting 500K, Category 4).
 - [PIF_CAT2_nc_camp_flood_warning_pif.md](./PIF_CAT2_nc_camp_flood_warning_pif.md): Example of a PIF warning (flood affecting 10K, Category 2).

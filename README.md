@@ -34,7 +34,7 @@ totaling 74%,
 sparking Aha! moments with dynamic insights.
 
 Clarity Guard as JBSM filters noise 
-(covering BLABBER 7%, JABBER 4%, SOUR 5%, MISC 5%, totaling 21%) 
+(covering JABBER 4%, BLABBER 7%, SOUR 5%, MISC 5%, totaling 21%) 
 to guard clarity and free speech.
 
 *User Features*: 

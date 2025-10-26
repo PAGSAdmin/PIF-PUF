@@ -12,20 +12,39 @@
 Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Physical Impact Filter) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (JABBER, BLABBER, SOUR, MISC) as non-news for research.
 
 ## Purpose
-PIF/PUF provides an 8-category adaptive narrative filter (PIF, PUF, Clarity Guard covering JBSM) for users to adapt. 
+PIF/PUF provides an 8-category adaptive narrative filter 
+(PIF, PUF, Clarity Guard as JBSM) 
+for users to adapt.
 
-PIF scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic >1M affected, ~5% of posts) with Confidence (High ≥80%, Medium 70-79%, Low <70%), Scope (Worldwide/Country/U.S./State), [Personal/Social/Economic/Environmental Impacts], and Data Maturity (Speculative/Ongoing Trials/Mature). Badges include:
+PIF scores real news impacts 
+(Category 1=Negligible <1K affected; 5=Catastrophic >1M affected, ~5% of posts) 
+with Confidence (High ≥80%, Medium 70-79%, Low <70%), 
+Scope (Worldwide/Country/U.S./State), 
+[Personal/Social/Economic/Environmental Impacts], 
+and Data Maturity (Speculative/Ongoing Trials/Mature).
+
+Badges include:
 - ! EMERGENCY WARNING for verified disasters (haptic buzz option)
 - ★ HIGH-IMPACT AHA! for High Confidence stories
 - ★ MISLEADING with “BREAKING: Caution” (unverified within 6 hours, shifts to SOUR if untrue)
 
-PUF covers other news: POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%) totaling 74%, sparking Aha! moments with dynamic insights. 
+PUF covers other news: 
+POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%) 
+totaling 74%, 
+sparking Aha! moments with dynamic insights.
 
-Clarity Guard filters noise—covering SOUR 5%, BLABBER 7%, JABBER 4%, MISC 5%, totaling 21%—to guard clarity and free speech. 
+Clarity Guard as JBSM filters noise 
+(covering BLABBER 7%, JABBER 4%, SOUR 5%, MISC 5%, totaling 21%) 
+to guard clarity and free speech.
 
-*User Features*: Drag/overlay posts, preview grades pre-post, toggle subcategories, track shifts on a dashboard (country selection, world clock, notebook).
+*User Features*: 
+Drag/overlay posts, preview grades pre-post, 
+toggle subcategories, 
+track shifts on a dashboard (country selection, world clock, notebook).
 
-*Technical Enhancements*: Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), with ML bias detection (BERT-expandable) and AI for insights.
+*Technical Enhancements*: 
+Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), 
+with ML bias detection (BERT-expandable) and AI for insights.
 
 Designed for xAI’s Grok to enhance X’s global clarity.
 

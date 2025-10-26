@@ -33,7 +33,7 @@ PIF/PUF, including a provisional patent application (#63/845,773) filed July 202
 2. World clock for international scope, reflecting diverse time zones.
 3. Notebook for user notes, auto-populated with web facts from worldwide sources.
 4. Pre-post feedback: Preview category, grade, and insights (e.g., ! EMERGENCY WARNING with haptic option or ★ MISLEADING for risky posts) before posting, helping users avoid legal pitfalls (e.g., UK arrests for misinformation) with a global safety net.
-5. Community Connect: For Jabber posts, offers a “Support Link” for lonely voices (e.g., global helplines) and “Authentic Angle” prompts for influencers, redirecting clutter to meaningful engagement while preserving free speech.
+5. Community Connect: For Jabber posts, offers a “Support Link” for those seeking supportive connection (e.g., global helplines) and “Authentic Angle” prompts for influencers, redirecting clutter to meaningful engagement while preserving free speech.
    
 ## Community Features
 - **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); JBSM filters noise.

@@ -12,7 +12,22 @@
 Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Physical Impact Filter) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (JABBER, BLABBER, SOUR, MISC) as non-news for research.
 
 ## Purpose
-PIF/PUF provides an 8-category adaptive narrative filter (PIF, POLITICS, UNDERSTANDING, FUN, JABBER, BLABBER, SOUR, MISC) for users to adapt and expand with subcategories as needed. PIF scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic >1M affected), accounting for approximately 5% of posts, including joyful events and crises, with Confidence (High ≥80%, Medium 70–79%, Low <70%), Scope (Worldwide/Country/U.S./State), [Personal/Social/Economic/Environmental Impacts], and Data Maturity (Speculative/Ongoing Trials/Mature). Badges include: ! EMERGENCY WARNING for verified disasters (with haptic buzz option for urgent alerts, e.g., NC floods), ★ HIGH-IMPACT AHA! for High Confidence, Mature stories (earned with a subtle "Great job!" for consistent quality posts), and ★ MISLEADING with “BREAKING: Caution” (for PIF, unverified within 6 hours, shifting to SOUR if untrue). PUF categorizes other news: POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%), totaling 74%; JBSM (21%) includes JABBER (4%), BLABBER (7%), SOUR (5%), MISC (5%) for research. *User Features*: Drag/overlay posts, preview grades pre-post with suggestions, toggle subcategories (hidden unless “Show Details”), and track shifts on a dashboard with: (1) country selection, (2) world clock, (3) notebook. *Technical Enhancements*: Multi-RSS and ML bias detection (BERT-expandable) boost accuracy, with potential AI integration for real-time insights. For posts by users with >100K followers, PIF/PUF uses influence as a tiebreaker (e.g., Grade C), prioritizing PIF, POLITICS, UNDERSTANDING, FUN if intent aligns, defaulting to JBSM for harm/speculation. Developed over months, 100% ready as an adaptive narrative filter for adaptation.
+PIF/PUF provides an 8-category adaptive narrative filter (PIF, PUF, Clarity Guard covering JBSM) for users to adapt. 
+
+PIF scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic >1M affected, ~5% of posts) with Confidence (High ≥80%, Medium 70-79%, Low <70%), Scope (Worldwide/Country/U.S./State), [Personal/Social/Economic/Environmental Impacts], and Data Maturity (Speculative/Ongoing Trials/Mature). Badges include:
+- ! EMERGENCY WARNING for verified disasters (haptic buzz option)
+- ★ HIGH-IMPACT AHA! for High Confidence stories
+- ★ MISLEADING with “BREAKING: Caution” (unverified within 6 hours, shifts to SOUR if untrue)
+
+PUF covers other news: POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%) totaling 74%, sparking Aha! moments with dynamic insights. 
+
+Clarity Guard filters noise—covering SOUR 5%, BLABBER 7%, JABBER 4%, MISC 5%, totaling 21%—to guard clarity and free speech. 
+
+*User Features*: Drag/overlay posts, preview grades pre-post, toggle subcategories, track shifts on a dashboard (country selection, world clock, notebook).
+
+*Technical Enhancements*: Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), with ML bias detection (BERT-expandable) and AI for insights.
+
+Designed for xAI’s Grok to enhance X’s global clarity.
 
 ## Revenue Opportunities
 - **Creator Boost**: PIF spots high-impact posts (e.g., Cat 3 floods with ! EMERGENCY WARNING) for top ad slots, earning creators approximately $200+ in ad revenue or X shares for 100K+ views (2025 X data).
@@ -29,11 +44,12 @@ PIF/PUF provides an 8-category adaptive narrative filter (PIF, POLITICS, UNDERST
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ## Dashboard Features
-1. Country selection for top PIF events, enhanced by real-time X updates across global regions.
+1. Country selection for top PIF events, enhanced by real-time X updates and Trend Alerts for recurring impacts (e.g., flood seasons) across global regions.
 2. World clock for international scope, reflecting diverse time zones.
 3. Notebook for user notes, auto-populated with web facts from worldwide sources.
 4. Pre-post feedback: Preview category, grade, and insights (e.g., ! EMERGENCY WARNING with haptic option or ★ MISLEADING for risky posts) before posting, helping users avoid legal pitfalls (e.g., UK arrests for misinformation) with a global safety net.
-5. Community Connect: For Jabber posts, offers a “Support Link” for those seeking supportive connection (e.g., global helplines) and “Authentic Angle” prompts for influencers, redirecting clutter to meaningful engagement while preserving free speech.
+5. Community Connect: For Jabber posts, offers a “Support Link” for those seeking supportive connection (e.g., global helplines) and “Authentic Angle” prompts or “Voice Boost” mode for influencers to shift coherent rants to PUF’s UNDERSTANDING, redirecting clutter to meaningful engagement while preserving free speech.
+6. User Profiles: Customize PIF/PUF prefs with sliders or checkboxes (e.g., more FUN, less POLITICS), tailoring feeds to personal interests across global cultures.
    
 ## Community Features
 - **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); JBSM filters noise.

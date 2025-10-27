@@ -45,7 +45,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - POLITICS: Agency and communion debates (e.g., policy opinions) shaping community views.
 - UNDERSTANDING: Redemption through insight (e.g., cultural data) turning chaos into growth.
 - FUN: Communion and agency in joy (e.g., festivals, memes) fostering connection.
-- JBSM: Distorted narratives—JABBER (emotional redemption), BLABBER (speculative communion), SOUR (failed agency in hoaxes), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity. (See Truth and Aha! for scoring roles.)
+- Clarity Guard (JBSM): Distorted narratives—JABBER (emotional redemption), BLABBER (speculative communion), SOUR (failed agency in hoaxes), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity.
 
 ## Evaluation Stages
 - **PIF First**: If a post has a physical impact (e.g., flood, homicide), PIF (Population Impact Factor) scores it with Category 1-5, using Grade and Confidence to ensure data integrity (e.g., A, High for Sandy).
@@ -61,7 +61,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 6. User Profiles: Customize PIF/PUF prefs with sliders or checkboxes (e.g., more FUN, less POLITICS), tailoring feeds to personal interests across global cultures.
    
 ## Community Features
-- **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (POLITICS, UNDERSTANDING, FUN); Clarity Guard filters noise (JABBER, BLABBER, SOUR, MISC).
+- **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); Clarity Guard filters noise (JABBER, BLABBER, SOUR, MISC).
 
 ## Truth and Aha! in PIF/PUF
 - **PIF Anchors Truth in Impacts**: PIF tracks real-world impacts (like ! EMERGENCY WARNING for floods) using solid data, such as how many people are affected. It’s verified with high confidence (80% or more), serving as a guide for action.

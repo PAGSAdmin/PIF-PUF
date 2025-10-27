@@ -12,25 +12,25 @@
 Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Population Impact Factor) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (JABBER, BLABBER, SOUR, MISC) as non-news for research.
 
 ## Purpose
-PIF/PUF offers an adaptive narrative filter with three main categories—PIF (Population Impact Factor), PUF (Politics Understanding Fun), and Clarity Guard (covering JBSM)—comprising 8 subcategories for users to adapt. PIF (Population Impact Factor) identifies real news impacts, PUF (Politics Understanding Fun) covers other news, and Clarity Guard (covering JBSM) filters noise, each evaluated with tailored scoring methods. Badges include:
+PIF/PUF offers an adaptive narrative filter with three main categories—PIF (Population Impact Factor), PUF (Politics Understanding Fun), and Clarity Guard (covering JBSM)—comprising 8 subcategories for users to adapt. PIF (Population Impact Factor) identifies real news impacts across 1-5 severity levels, PUF (Politics Understanding Fun) covers other news, and Clarity Guard (covering JBSM) filters noise, each evaluated with tailored scoring methods. Badges include:
 - ! EMERGENCY WARNING for verified disasters (haptic buzz option)
 - ★ HIGH-IMPACT AHA! for High Confidence stories
 - ★ MISLEADING with “BREAKING: Caution” (unverified within 6 hours, shifts to SOUR if untrue)
 
-PUF (Politics Understanding Fun) covers other news: POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%) totaling 74%, sparking Aha! moments with dynamic insights. 
+PUF (Politics Understanding Fun) covers other news: POLITICS (27%), UNDERSTANDING (24.5%), FUN (22.5%) totaling 74%, sparking Aha! moments with dynamic insights.
 
-Clarity Guard (covering JBSM) filters noise: JABBER (4%), BLABBER (7%), SOUR (5%), MISC (5%) totaling 21%, with MISC capturing unique outliers, guarding clarity and free speech. 
+Clarity Guard (covering JBSM) filters noise: JABBER (4%), BLABBER (7%), SOUR (5%), MISC (5%) totaling 21%, with MISC capturing unique outliers, guarding clarity and free speech.
 
-*User Features*: Drag/overlay posts, preview grades pre-post, toggle subcategories, track shifts on a dashboard (country selection, world clock, notebook). 
+*User Features*: Drag/overlay posts, preview grades pre-post, toggle subcategories, track shifts on a dashboard (country selection, world clock, notebook).
 
-*Technical Enhancements*: Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), with ML bias detection (BERT-expandable) and AI for insights. 
+*Technical Enhancements*: Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), with ML bias detection (BERT-expandable) and AI for insights.
 
 Designed for xAI’s Grok to enhance X’s global clarity.
 
 ## Revenue Opportunities
 - **Creator Boost**: PIF spots high-impact posts (e.g., Cat 3 floods with ! EMERGENCY WARNING) for top ad slots, earning creators approximately $200+ in ad revenue or X shares for 100K+ views (2025 X data).
 - **Story Paydays**: PUF tags hit content (FUN jokes, UNDERSTANDING tips) with ★ HIGH-IMPACT AHA!, boosting payouts—approximately $500 extra for 50K likes (Taisly 2025). Example: A tech tutorial with 50K likes earned $370 on YouTube equivalent (Epidemic Sound 2025), scalable on X.
-- **Lawsuit Shield**: JBSM mutes junk (hoaxes, rants) by default, cutting legal risks—2025 saw 1,200+ U.S. cases costing platforms millions (e.g., X’s $128M executive settlement). PIF/PUF’s audit logs (e.g., high-confidence verification) provide court-ready defense.
+- **Lawsuit Shield**: Clarity Guard mutes junk (hoaxes, rants) by default, cutting legal risks—2025 saw 1,200+ U.S. cases costing platforms millions (e.g., X’s $128M executive settlement). PIF/PUF’s audit logs (e.g., high-confidence verification) provide court-ready defense.
 - **Community Pulse Pay**: Local impact posts (e.g., neighborhood alerts) earn approximately $100-300 “Pulse Pay” bonuses for verified creators (e.g., $200 for 20K views on a verified alert, per HubSpot 2025).
 
 ## Scoring Snapshot
@@ -45,7 +45,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - POLITICS: Agency and communion debates (e.g., policy opinions) shaping community views.
 - UNDERSTANDING: Redemption through insight (e.g., cultural data) turning chaos into growth.
 - FUN: Communion and agency in joy (e.g., festivals, memes) fostering connection.
-- JBSM: Distorted narratives—SOUR (failed agency in hoaxes), BLABBER (speculative communion), JABBER (emotional redemption), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity.
+- JBSM: Distorted narratives—JABBER (emotional redemption), BLABBER (speculative communion), SOUR (failed agency in hoaxes), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity. (See Truth and Aha! for scoring roles.)
 
 ## Evaluation Stages
 - **PIF First**: If a post has a physical impact (e.g., flood, homicide), PIF (Population Impact Factor) scores it with Category 1-5, using Grade and Confidence to ensure data integrity (e.g., A, High for Sandy).
@@ -61,7 +61,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 6. User Profiles: Customize PIF/PUF prefs with sliders or checkboxes (e.g., more FUN, less POLITICS), tailoring feeds to personal interests across global cultures.
    
 ## Community Features
-- **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); JBSM filters noise.
+- **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (POLITICS, UNDERSTANDING, FUN); Clarity Guard filters noise (JABBER, BLABBER, SOUR, MISC).
 
 ## Truth and Aha! in PIF/PUF
 - **PIF Anchors Truth in Impacts**: PIF tracks real-world impacts (like ! EMERGENCY WARNING for floods) using solid data, such as how many people are affected. It’s verified with high confidence (80% or more), serving as a guide for action.

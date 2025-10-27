@@ -9,7 +9,7 @@
 [Novelty Statement](./NOVELTY_STATEMENT.md)  
 *Pre-read this to understand PIF/PUF's groundbreaking approach before diving in!*
 
-Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Population Impact Factor) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (JABBER, BLABBER, SOUR, MISC) as non-news for research.
+Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Population Impact Factor) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with Clarity Guard (JABBER, BLABBER, SOUR, MISC) as non-news for research.
 
 ## Purpose
 PIF/PUF offers an adaptive narrative filter with three main categories—PIF (Population Impact Factor), PUF (Politics Understanding Fun), and Clarity Guard (covering JBSM)—comprising 8 subcategories for users to adapt. PIF (Population Impact Factor) identifies real news impacts across 1-5 severity levels, PUF (Politics Understanding Fun) covers other news, and Clarity Guard (covering JBSM) filters noise, each evaluated with tailored scoring methods. Badges include:

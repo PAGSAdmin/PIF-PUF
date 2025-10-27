@@ -71,8 +71,8 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 PIF/PUF aims to reduce Clarity Guard’s noise (JABBER 4%, BLABBER 7%, SOUR 5%, MISC 5%, totaling 21%) by enhancing category fit, not limiting expression. PIF flags real impacts, PUF sparks stories, and Community Connect redirects clutter to supportive or authentic engagement, potentially cutting noise to 10-15% and amplifying global voices.
 
 ## Self-Reflection via Questionnaire
-- Intent: Opt in to explore your story style with a future 20–50 yes/no questionnaire (to be crafted by experts), personalizing your PIF/PUF experience with insights tied to filter preferences.
-- Description: Proposed enhancement clusters users into ~100 narrative types, offering self-reflection with opt-in consent, no data sharing.
+- **Intent**: Opt in to explore your story style with a 20–50 yes/no questionnaire (to be developed by xAI and psych experts, targeted for Q1 2026), personalizing your PIF/PUF experience with insights tied to filter preferences and custom feed tweaks.
+- **Description**: This enhancement will use Grok’s AI to cluster users into ~100 narrative types based on storytelling traits (e.g., agency, communion), refined by experts. Responses will be anonymized with differential privacy and k-anonymity to prevent re-identification, ensuring no data sharing. Email paulinea.gonensmith@gmail.com to join the waitlist and stay updated.
 
 ## Getting Started
 To use PIF/PUF, follow these steps:

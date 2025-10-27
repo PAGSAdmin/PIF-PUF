@@ -12,10 +12,7 @@
 Rooted in 40 years of admin expertise, PIF/PUF delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes X’s 500M daily posts, offering a novel starting point to define “real” news as PIF (Population Impact Factor) for tangible events, while all other news falls under PUF (Politics Understanding Fun), with JBSM (JABBER, BLABBER, SOUR, MISC) as non-news for research.
 
 ## Purpose
-PIF/PUF offers an adaptive narrative filter with three main categories—PIF (Population Impact Factor), PUF (Politics Understanding Fun), and Clarity Guard (covering JBSM)—comprising 8 subcategories for users to adapt. 
-
-PIF (Population Impact Factor) scores real news impacts (Category 1=Negligible <1K affected; 5=Catastrophic >1M affected, ~5% of posts) with Confidence (High ≥80%, Medium 70-79%, Low <70%), Scope (Worldwide/Country/U.S./State), [Personal/Social/Economic/Environmental Impacts], and Data Maturity (Speculative/Ongoing Trials/Mature). Badges include:
-
+PIF/PUF offers an adaptive narrative filter with three main categories—PIF (Population Impact Factor), PUF (Politics Understanding Fun), and Clarity Guard (covering JBSM)—comprising 8 subcategories for users to adapt. PIF (Population Impact Factor) identifies real news impacts, PUF (Politics Understanding Fun) covers other news, and Clarity Guard (covering JBSM) filters noise, each evaluated with tailored scoring methods. Badges include:
 - ! EMERGENCY WARNING for verified disasters (haptic buzz option)
 - ★ HIGH-IMPACT AHA! for High Confidence stories
 - ★ MISLEADING with “BREAKING: Caution” (unverified within 6 hours, shifts to SOUR if untrue)
@@ -36,10 +33,16 @@ Designed for xAI’s Grok to enhance X’s global clarity.
 - **Lawsuit Shield**: JBSM mutes junk (hoaxes, rants) by default, cutting legal risks—2025 saw 1,200+ U.S. cases costing platforms millions (e.g., X’s $128M executive settlement). PIF/PUF’s audit logs (e.g., high-confidence verification) provide court-ready defense.
 - **Community Pulse Pay**: Local impact posts (e.g., neighborhood alerts) earn approximately $100-300 “Pulse Pay” bonuses for verified creators (e.g., $200 for 20K views on a verified alert, per HubSpot 2025).
 
-## Quick Guide
-- CAT (1–10): Fit strength (1=weak, 10=strong).
-- Grade (A+ to F): Reliability (A+ ≥95%, F <60%).
-- Confidence: Certainty (High ≥80%, Low <70%).
+## Scoring Snapshot
+Get a fast overview of how posts are evaluated: two scoring methods—Grade for data trustworthiness and Confidence for certainty—work together to assign categories across PIF, PUF, and Clarity Guard, starting with PIF’s impacts, then PUF’s stories, and Clarity Guard’s noise if needed.
+- **CAT (1–10): Fit Strength** - Rates how well a post fits into PUF or Clarity Guard categories (1=poor fit, e.g., a rumor misaligned with FUN; 10=perfect fit, e.g., a clear political debate). Not used for PIF, where impacts are data-defined (1-5 scale).
+- **Grade (A+ to F): Reliability** - Measures reliability to ensure posts are credible across PIF, PUF, and Clarity Guard. Uses a weighted score: 40% source quality (e.g., NOAA vs. blogs), 30% precision (exact vs. estimates), 20% corroboration (multiple sources), 10% recency (within 24 hours). Ranges from A+ (≥95%, top sources) to F (<60%, unverified claims), e.g., a PIF impact with 89.5% confidence might earn an A.
+- **Confidence: How Sure We Are** - Gauges certainty to guide category placement, using the same score: 40% source quality, 30% precision, 20% corroboration, 10% recency (High ≥80%, Medium 50-79%, Low <70%). E.g., a PIF impact like Sandy’s 8-9M affected scored 89.5% (High).
+
+## Your Hierarchy
+- **PIF First**: If a post has a physical impact (e.g., flood, homicide), PIF (Population Impact Factor) scores it with Category 1-5, using Grade and Confidence to ensure data integrity (e.g., A, High for Sandy).
+- **PUF if No PIF**: If no impact, PUF (Politics Understanding Fun) applies—POLITICS, UNDERSTANDING, FUN—assessed by Grade and Confidence for narrative reliability (e.g., B, Medium for a debate).
+- **Clarity Guard (JBSM) if PUF Doesn’t Apply**: If PUF isn’t suitable (e.g., low Grade/F), Clarity Guard (JBSM: Jabber, Blabber, Sour, Misc) filters noise, relying on Grade and Confidence to flag unverified clutter.
 
 ## Licensing
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.

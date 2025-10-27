@@ -39,13 +39,18 @@ Get a fast overview of how posts are evaluated: two scoring methods—Grade for 
 - **Grade (A+ to F): Reliability** - Measures reliability to ensure posts are credible across PIF, PUF, and Clarity Guard. Uses a weighted score: 40% source quality (e.g., NOAA vs. blogs), 30% precision (exact vs. estimates), 20% corroboration (multiple sources), 10% recency (within 24 hours). Ranges from A+ (≥95%, top sources) to F (<60%, unverified claims), e.g., a PIF impact with 89.5% confidence might earn an A.
 - **Confidence: How Sure We Are** - Gauges certainty to guide category placement, using the same score: 40% source quality, 30% precision, 20% corroboration, 10% recency (High ≥80%, Medium 50-79%, Low <70%). E.g., a PIF impact like Sandy’s 8-9M affected scored 89.5% (High).
 
-## Your Hierarchy
+## Narrative Framework
+PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
+- PIF: Agency-driven impact stories (e.g., floods, parades) where control shapes outcomes.
+- POLITICS: Agency and communion debates (e.g., policy opinions) shaping community views.
+- UNDERSTANDING: Redemption through insight (e.g., cultural data) turning chaos into growth.
+- FUN: Communion and agency in joy (e.g., festivals, memes) fostering connection.
+- JBSM: Distorted narratives—SOUR (failed agency in hoaxes), BLABBER (speculative communion), JABBER (emotional redemption), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity.
+
+## Evaluation Stages
 - **PIF First**: If a post has a physical impact (e.g., flood, homicide), PIF (Population Impact Factor) scores it with Category 1-5, using Grade and Confidence to ensure data integrity (e.g., A, High for Sandy).
 - **PUF if No PIF**: If no impact, PUF (Politics Understanding Fun) applies—POLITICS, UNDERSTANDING, FUN—assessed by Grade and Confidence for narrative reliability (e.g., B, Medium for a debate).
 - **Clarity Guard (JBSM) if PUF Doesn’t Apply**: If PUF isn’t suitable (e.g., low Grade/F), Clarity Guard (JBSM: Jabber, Blabber, Sour, Misc) filters noise, relying on Grade and Confidence to flag unverified clutter.
-
-## Licensing
-PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ## Dashboard Features
 1. Country selection for top PIF events, enhanced by real-time X updates and Trend Alerts for recurring impacts (e.g., flood seasons) across global regions.
@@ -58,18 +63,12 @@ PIF/PUF, including a provisional patent application (#63/845,773) filed July 202
 ## Community Features
 - **Community Pulse Check**: PIF scans X for local chatter (e.g., floods, closures), scoring urgency by tweet volume and confidence. Flags impacts with ! EMERGENCY WARNING; PUF tags related stories (UNDERSTANDING, FUN); JBSM filters noise.
 
-## Narrative Framework
-PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
-- PIF: Agency-driven impact stories (e.g., floods, parades) where control shapes outcomes.
-- POLITICS: Agency and communion debates (e.g., policy opinions) shaping community views.
-- UNDERSTANDING: Redemption through insight (e.g., cultural data) turning chaos into growth.
-- FUN: Communion and agency in joy (e.g., festivals, memes) fostering connection.
-- JBSM: Distorted narratives—SOUR (failed agency in hoaxes), BLABBER (speculative communion), JABBER (emotional redemption), MISC (narrative breakdown)—for research. This contrasts with engagement metrics, grounding categories in narrative identity.
-
 ## Truth and Aha! in PIF/PUF
 - **PIF Anchors Truth in Impacts**: PIF tracks real-world impacts (like ! EMERGENCY WARNING for floods) using solid data, such as how many people are affected. It’s verified with high confidence (80% or more), serving as a guide for action.
 - **PUF and Clarity Guard Bring Aha! Moments**: PUF lights up stories (POLITICS, UNDERSTANDING, FUN) with fresh insights that change with viewpoints. Clarity Guard, a catch-all term for noise categories (JABBER, BLABBER, SOUR, MISC), filters out clutter while protecting free speech, letting perspectives shift without sticking to one truth.
 - **Dynamic vs. Static**: This setup embraces lively ideas over fixed claims, keeping X clear and open for all.
+## Reducing Clutter for More Voice
+PIF/PUF aims to reduce Clarity Guard’s noise (JABBER 4%, BLABBER 7%, SOUR 5%, MISC 5%, totaling 21%) by enhancing category fit, not limiting expression. PIF flags real impacts, PUF sparks stories, and Community Connect redirects clutter to supportive or authentic engagement, potentially cutting noise to 10-15% and amplifying global voices.
 
 ## Self-Reflection via Questionnaire
 - Intent: Opt in to explore your story style with a future 20–50 yes/no questionnaire (to be crafted by experts), personalizing your PIF/PUF experience with insights tied to filter preferences.
@@ -112,6 +111,9 @@ No releases published
 
 ## Packages
 No packages published
+
+## Licensing
+PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ## Footer
 © 2025 GitHub, Inc.

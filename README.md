@@ -86,10 +86,6 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 
 ---
 
-[Novelty Statement](./NOVELTY_STATEMENT.md) | [Architecture](./ARCHITECTURE.md)
-
-
-
 ## Dashboard Features
 1. Country selection for top PIF events, enhanced by real-time X updates and Trend Alerts for recurring impacts (e.g., flood seasons) across global regions.
 2. World clock for international scope, reflecting diverse time zones.

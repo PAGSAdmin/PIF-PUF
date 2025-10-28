@@ -64,10 +64,8 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - PUF surfaces **Aha! moments** (POLITICS, UNDERSTANDING, FUN).  
 - Clarity Guard cuts **21 % junk** (JABBER, BLABBER, SOUR, MISC) to **10-15 %**.  
 
-**[Full Integration Demo → GROKIPEDIA_INTEGRATION.md](./GROKIPEDIA_INTEGRATION.md)**  
+[Full Integration Demo → GROKIPEDIA_INTEGRATION.md](GROKIPEDIA_INTEGRATION.md)
 *See how a Grokipedia page on “Hurricane Melissa 2025” instantly gains a PIF/PUF sidebar with confidence, grade, impacts, and evacuation suggestions.*
-
-*Contact:* [paulinea.gonensmith@gmail.com](mailto:paulinea.gonensmith@gmail.com) – waitlist for questionnaire beta.
 
 ---
 

@@ -82,8 +82,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 ---
 
 **NEW: LIVE DEMO**  
-[Open `pifpuf_demo.html` → Try PIF/PUF on Hurricane Melissa 2025](pifpuf_demo.html)  
-*Tested live: Cat 5 landfall, Jamaica, Oct 28, 2025*
+[Open `pifpuf_demo.html` → Try PIF/PUF on Hurricane Melissa 2025](pifpuf_demo.html)
 
 ---
 

@@ -73,6 +73,24 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 
 *“Knowledge without context is just trivia. PIF/PUF gives context that saves lives.”* – Pauline Gonen-Smith
 
+# PIF/PUF + Grokipedia Integration Demo
+> **Real-time narrative verification for Grokipedia entries**  
+> *By Pauline Gonen-Smith – 40 years research-administration expertise*  
+> *Provisional patent #63/845,773 – filed July 17, 2025*  
+> *License: CC BY 4.0 – Free to use with credit*
+
+---
+
+**NEW: LIVE DEMO**  
+[Open `pifpuf_demo.html` → Try PIF/PUF on Hurricane Melissa 2025](pifpuf_demo.html)  
+*Tested live: Cat 5 landfall, Jamaica, Oct 28, 2025*
+
+---
+
+[Novelty Statement](./NOVELTY_STATEMENT.md) | [Architecture](./ARCHITECTURE.md)
+
+
+
 ## Dashboard Features
 1. Country selection for top PIF events, enhanced by real-time X updates and Trend Alerts for recurring impacts (e.g., flood seasons) across global regions.
 2. World clock for international scope, reflecting diverse time zones.

@@ -52,6 +52,27 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 - **PUF if No PIF**: If no impact, PUF (Politics Understanding Fun) applies—POLITICS, UNDERSTANDING, FUN—assessed by Grade and Confidence for narrative reliability (e.g., B, Medium for a debate).
 - **Clarity Guard (JBSM) if PUF Doesn’t Apply**: If PUF isn’t suitable (e.g., low Grade/F), Clarity Guard (JBSM: Jabber, Blabber, Sour, Misc) filters noise, relying on Grade and Confidence to flag unverified clutter.
 
+## PIF/PUF + Grokipedia Integration *(Optional Narrative Layer)*
+
+> **Real-time social context for every Grokipedia entry**  
+> *By Pauline Gonen-Smith – 40 years research-administration expertise*  
+> *Provisional patent #63/845,773 – filed 17 July 2025*  
+
+**Grokipedia** surfaces obscure, authoritative facts. **PIF/PUF** adds live urgency, verified impacts, and noise-filtered X chatter. Together they form a **truth-maximising loop**: encyclopedia knowledge + actionable narrative triage.
+
+- PIF delivers **Impact Level 1–5** with **High Confidence (≥80 %)** and **! EMERGENCY WARNING** badges.  
+- PUF surfaces **Aha! moments** (POLITICS, UNDERSTANDING, FUN).  
+- Clarity Guard cuts **21 % junk** (JABBER, BLABBER, SOUR, MISC) to **10-15 %**.  
+
+**[Full Integration Demo → GROKIPEDIA_INTEGRATION.md](./GROKIPEDIA_INTEGRATION.md)**  
+*See how a Grokipedia page on “Hurricane Melissa 2025” instantly gains a PIF/PUF sidebar with confidence, grade, impacts, and evacuation suggestions.*
+
+*Contact:* [paulinea.gonensmith@gmail.com](mailto:paulinea.gonensmith@gmail.com) – waitlist for questionnaire beta.
+
+---
+
+*“Knowledge without context is just trivia. PIF/PUF gives context that saves lives.”* – Pauline Gonen-Smith
+
 ## Dashboard Features
 1. Country selection for top PIF events, enhanced by real-time X updates and Trend Alerts for recurring impacts (e.g., flood seasons) across global regions.
 2. World clock for international scope, reflecting diverse time zones.

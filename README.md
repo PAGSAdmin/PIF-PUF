@@ -102,8 +102,33 @@ PIF/PUF aims to reduce Clarity Guard’s noise (JABBER 4%, BLABBER 7%, SOUR 5%, 
 To use PIF/PUF, follow these steps:
 1. Request Code: Email paulinea.gonensmith@gmail.com to request the PIF/PUF Python script.
 2. Install Python: Ensure Python 3.8+ is installed (download from python.org, verify with `python --version` if comfortable).
-3. Run Script: Save the received `pif_puf.py` and use it with provided support to categorize X posts (e.g., PIF for impacts >1K), outputting CAT scores (1–10).
-4. Customize: Adjust the script with help for your X API key or dashboard preferences (e.g., country filters).
+3. Run Script: Save the received `pif_puf.py` and use it with provided support to categorize X posts (e.g., PIF for impacts >1K), outputting CAT scores (1–10).  ## Quick Grok-Powered Test (No Full Script Needed)
+
+## Quick Grok-Powered Test (No Full Script Needed)
+
+Copy-paste this Python snippet into any file (e.g., `test_grok.py`) and run it with your **xAI Grok API key**:
+
+```python
+import requests   # pip install requests
+
+def pifpuf_grok(post_text, grok_key):
+    prompt = (
+        f"Apply PIF/PUF to this X post: \"{post_text}\"\n"
+        "1. PIF impact level (1-5) or \"none\"\n"
+        "2. PUF category (POLITICS/UNDERSTANDING/FUN) or \"none\"\n"
+        "3. Grade (A+ to F)\n"
+        "4. Confidence (High/Medium/Low)\n"
+        "Return JSON only."
+    )
+    resp = requests.post(
+        "https://api.x.ai/v1/chat/completions",
+        json={"model": "grok-beta", "messages": [{"role": "user", "content": prompt}]},
+        headers={"Authorization": f"Bearer {grok_key}"}
+    )
+    return resp.json()["choices"][0]["message"]["content"]
+
+# ---- TRY IT ----
+print(pifpuf_grok("Flash flood in Queens – roads closed", "YOUR_GROK_KEY_HERE"))
 
 ## Example Files
 The following 17 files provide sample stories categorized by PIF/PUF, showcasing its application:

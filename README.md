@@ -74,17 +74,6 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 
 *“Knowledge without context is just trivia. PIF/PUF gives context that saves lives.”* – Pauline Gonen-Smith
 
-# PIF/PUF + Grokipedia Integration Demo
-> **Real-time narrative verification for Grokipedia entries**  
-> *By Pauline Gonen-Smith – 40 years research-administration expertise*  
-> *Provisional patent #63/845,773 – filed July 17, 2025*  
-> *License: CC BY 4.0 – Free to use with credit*
-
----
-
-**NEW: LIVE DEMO**  
-[Open `pifpuf_demo.html` → Try PIF/PUF on Hurricane Melissa 2025](pifpuf_demo.html)
-
 ---
 
 ## Dashboard Features

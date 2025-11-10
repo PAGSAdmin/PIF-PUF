@@ -100,7 +100,48 @@ PIF/PUF aims to reduce Clarity Guard’s noise (JABBER 4%, BLABBER 7%, SOUR 5%, 
 
 ## Getting Started
 To use PIF/PUF, follow these steps:
-1. Request Code: Email paulinea.gonensmith@gmail.com to request the PIF/PUF Python script.
+1. Download Code: [`pif_puf.py`](./pif_puf.py) (ready to run)
+
+# pif_puf.py - PIF/PUF Prototype (October 18, 2025)
+def calculate_pif_impact(affected_people):
+    """Calculate PIF category based on number of people affected."""
+    if affected_people > 1000000:
+        return 5, 'Catastrophic'
+    elif affected_people > 100000:
+        return 4, 'Major'
+    elif affected_people > 10000:
+        return 3, 'Significant'
+    elif affected_people > 1000:
+        return 2, 'Moderate'
+    else:
+        return 1, 'Negligible'
+
+def categorize_story(story_text):
+    """Categorize story into PIF, PUF, or JBSM based on content."""
+    lower_text = story_text.lower()
+    if 'shutdown' in lower_text or 'flood' in lower_text or 'parade' in lower_text:
+        return 'PIF'
+    elif 'policy' in lower_text or 'debate' in lower_text:
+        return 'POLITICS'
+    elif 'insight' in lower_text or 'historical' in lower_text:
+        return 'UNDERSTANDING'
+    elif 'festival' in lower_text or 'meme' in lower_text:
+        return 'FUN'
+    elif 'venting' in lower_text or 'rumor' in lower_text:
+        return 'JABBER'
+    elif 'conspiracy' in lower_text or 'misinfo' in lower_text:
+        return 'BLABBER'
+    elif 'hoax' in lower_text:
+        return 'SOUR'
+    else:
+        return 'MISC'
+
+# Test example
+story = "Trump commutes George Santos sentence, affecting 50,000 people."
+category = categorize_story(story)
+cat_num, cat_desc = calculate_pif_impact(50000)
+print(f"Category: {category}, PIF Impact: Category {cat_num} - {cat_desc}")
+
 2. Install Python: Ensure Python 3.8+ is installed (download from python.org, verify with `python --version` if comfortable).
 3. Run Script: Save the received `pif_puf.py` and use it with provided support to categorize X posts (e.g., PIF for impacts >1K), outputting CAT scores (1–10).  ## Quick Grok-Powered Test (No Full Script Needed)
 
@@ -168,6 +209,10 @@ No packages published
 
 ## Licensing
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
+
+---
+**Credit**: Pauline Gonen-Smith (non-tech architect, 40 years research-administration)  
+**Contact**: paulinea.gonensmith@gmail.com
 
 ## Footer
 © 2025 GitHub, Inc.

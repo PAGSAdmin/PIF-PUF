@@ -210,7 +210,9 @@ The tool is 100% ready, with all tasks completed; uploaded on October 18, guided
 - Acquisition interest? Provisional patent #63/845,773 ready for collab.
 
 ## About
-Open-source adaptive narrative filter for X posts.
+Open-source narrative filter framework for X posts.
+
+Built in collaboration with Grok over 2025 — a thoughtful exercise between my lived experience and AI's broad knowledge.
 
 ## Releases
 No releases published

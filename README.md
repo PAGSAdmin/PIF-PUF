@@ -13,8 +13,8 @@ PIF/PUF turns Grok into X's clarity engine—triage posts in real-time, surface 
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
 
 ---
-**Credit**: Pauline Gonen-Smith (non-tech architect, 40 years research-administration)  
-**Contact**: paulinea.gonensmith@gmail.com
+**Credit**: Pauline (non-tech architect, 40 years research-administration)  
+**Contact**: respond to @clarityguard on x 
 
 
 ## Built for xAI & Grok: A Drop-In Narrative Upgrade for X

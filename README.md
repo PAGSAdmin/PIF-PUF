@@ -10,7 +10,7 @@
 PIF/PUF turns Grok into X's clarity engine—triage posts in real-time, surface truths via RSS + ML, and boost engagement without censorship. Early Grok access? Hook it to our script for instant prototypes. xAI/X teams: Let's integrate.
 
 ## Licensing
-PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact via x @clarityguard to discuss, with credit to Pauline Gonen-Smith optional based on agreement.
+PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact via x @clarityguard to discuss, with credit to Pauline optional based on agreement.
 
 ---
 **Credit**: Pauline (non-tech architect, 40 years research-administration)  

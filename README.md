@@ -18,7 +18,7 @@ PIF/PUF, including a provisional patent application (#63/845,773) filed July 202
 
 
 ## Built for xAI & Grok: A Drop-In Narrative Upgrade for X
-PIF/PUF turns Grok into X's clarity engine—triage posts in real-time, surface truths via RSS + ML, and boost engagement without censorship. Early Grok access? Hook it to our script for instant prototypes. xAI/X teams: Let's integrate (email: paulinea.gonensmith@gmail.com).
+PIF/PUF turns Grok into X's clarity engine—triage posts in real-time, surface truths via RSS + ML, and boost engagement without censorship. Early Grok access? Hook it to our script for instant prototypes. xAI/X teams: Let's integrate.
 
 [Novelty Statement](./NOVELTY_STATEMENT.md)  
 *Pre-read this to understand PIF/PUF's groundbreaking approach before diving in!*

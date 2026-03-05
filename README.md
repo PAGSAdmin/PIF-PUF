@@ -107,7 +107,7 @@ PIF/PUF aims to reduce Clarity Guard’s noise (JABBER 4%, BLABBER 7%, SOUR 5%, 
 
 ## Self-Reflection via Questionnaire
 - **Intent**: Opt in to explore your story style with a 20–50 yes/no questionnaire (to be developed by xAI and psych experts, targeted for Q1 2026), personalizing your PIF/PUF experience with insights tied to filter preferences and custom feed tweaks.
-- **Description**: This enhancement will use Grok’s AI to cluster users into ~100 narrative types based on storytelling traits (e.g., agency, communion), refined by experts. Responses will be anonymized with differential privacy and k-anonymity to prevent re-identification, ensuring no data sharing. Email paulinea.gonensmith@gmail.com to join the waitlist and stay updated.
+- **Description**: This enhancement will use Grok’s AI to cluster users into ~100 narrative types based on storytelling traits (e.g., agency, communion), refined by experts. Responses will be anonymized with differential privacy and k-anonymity to prevent re-identification, ensuring no data sharing. Contact me to join the waitlist and stay updated.
 
 ## Getting Started
 To use PIF/PUF, follow these steps:

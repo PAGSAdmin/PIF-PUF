@@ -69,7 +69,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 ## PIF/PUF + Grokipedia Integration *(Optional Narrative Layer)*
 
 > **Real-time social context for every Grokipedia entry**  
-> *By Pauline Gonen-Smith – 40 years research-administration expertise*  
+> *By Pauline – 40 years research-administration expertise*  
 > *Provisional patent #63/845,773 – filed 17 July 2025*  
 
 **Grokipedia** surfaces obscure, authoritative facts. **PIF/PUF** adds live urgency, verified impacts, and noise-filtered X chatter. Together they form a **truth-maximising loop**: encyclopedia knowledge + actionable narrative triage.
@@ -83,7 +83,7 @@ PIF/PUF categorizes X’s 500M posts using a human storytelling lens:
 
 ---
 
-*“Knowledge without context is just trivia. PIF/PUF gives context that saves lives.”* – Pauline Gonen-Smith
+*“Knowledge without context is just trivia. PIF/PUF gives context that saves lives.”* – Pauline
 
 ---
 

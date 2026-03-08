@@ -1,4 +1,5 @@
 # PIF/PUF: A Narrative Filter Framework for X
+![License: CC0](https://img.shields.io/badge/License-CC0-green)
 
 <p align="center">
   <a href="README.md" target="_blank">

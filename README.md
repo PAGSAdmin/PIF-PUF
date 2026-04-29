@@ -50,7 +50,7 @@ xAI/X teams: Let's integrate.
 
 ## How to Use
 
-See `pif_puf.py` for the working prototype and dashboard concepts.
+See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) for the working Python prototype and `pifpuf_demo.html` for the dashboard concept.
 
 ## Credit & Status
 

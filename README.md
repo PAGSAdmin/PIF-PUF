@@ -253,4 +253,3 @@ Feedback and contributions welcome — especially from X/xAI product teams worki
 
 ## Licensing
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.
-

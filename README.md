@@ -8,7 +8,26 @@
 </p>
 
 ## Built for xAI & Grok: A Drop-In Narrative Upgrade for X
+# PIF/PUF Framework — ClarityGuard
+
+**PIF = News.**  
+
+A simple, open-source system to cut through opinion noise and surface **real population impacts** first (positive or negative). Built because users are tired of hot takes drowning out what actually matters.
+
+- **PIF** = Tangible effects on people, economies, safety, and infrastructure (scored Cat 1–5).
+- **PUF** = Optional context you choose (Politics, Policies, Understanding, Fun).
+- **Clarity Guard** = Noise filter (Jabber, Blabber, Sour, Misc).
+
+Created by **Pauline** (@clarityguard) after 9 months of research and testing.
+
 PIF/PUF turns Grok into X's clarity engine—triage posts in real-time, surface truths via RSS + ML, and boost engagement without censorship. Early Grok access? Hook it to our script for instant prototypes. xAI/X teams: Let's integrate.
+
+## Why This Matters
+
+Social media overwhelms users with noise while burying real signal.  
+PIF/PUF gives a clean default **Impact Feed** while letting users customize context.  
+
+It is specifically designed to work with Grok Custom Timelines and could make X far more useful long-term.
 
 ## Licensing
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact via x @clarityguard to discuss, with credit to Pauline optional based on agreement.
@@ -41,6 +60,16 @@ Clarity Guard (covering JBSM) filters noise: JABBER (4%), BLABBER (7%), SOUR (5%
 *Technical Enhancements*: Multi-RSS (Full Fact, AFP, etc.) for X sentiment (Grade A+ to F), with ML bias detection (BERT-expandable) and AI for insights.
 
 Designed for xAI’s Grok to enhance X’s global clarity.
+
+## Example (April 30, 2026)
+
+**High-PIF**  
+- Strait of Hormuz Standoff → **Cat 4** + **! EMERGENCY WARNING**
+
+**Emerging PIF**  
+- Appalachia Lithium Discovery → **Emerging Cat 3 (Positive, Medium-term)**
+
+**Local Filter** (Monmouth/Middletown NJ) → Quiet today
 
 ## Revenue Opportunities
 - **Creator Boost**: PIF spots high-impact posts (e.g., Cat 3 floods with ! EMERGENCY WARNING) for top ad slots, earning creators approximately $200+ in ad revenue or X shares for 100K+ views (2025 X data).
@@ -220,6 +249,11 @@ No releases published
 
 ## Packages
 No packages published
+
+## Credit & Status
+Created by Pauline Gonen-Smith. Open source under MIT license. Provisional patent filed.  
+
+Feedback and contributions welcome — especially from X/xAI product teams working on Custom Timelines.
 
 ## Licensing
 PIF/PUF, including a provisional patent application (#63/845,773) filed July 2025, is available for potential acquisition. Interested parties can contact paulinea.gonensmith@gmail.com to discuss offers, with credit to Pauline Gonen-Smith optional based on agreement.

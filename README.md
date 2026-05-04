@@ -19,13 +19,15 @@ It is specifically designed to work with Grok Custom Timelines and could make X 
 
 ## Core Philosophy
 
-- **PIF** = Tangible effects on people (scored Cat 1–5)  
+- **PIF** = Tangible effects on people (scored Cat 1–5) — good or bad  
 - **Emerging PIF** = Future potential stories (with Time Horizon)  
 - **Impactful People** = Key actors driving measurable effects  
 - **PUF** = Your chosen context (Politics, Policies, Understanding with sub-tags, Fun, Reliable Voices)  
 - **Clarity Guard + No Attack Mode** = Protection from noise and personal attacks  
 
 **Balanced Morning Feed** (optional preset for 50+ users): High-PIF + one Understanding slice + one Fun slice for a calm, grounding start to the day.
+
+**Sponsored Novelty Stream** (optional): Gentle late-night/insomnia-friendly stream with clear upfront disclosure that it includes thoughtful suggestions and advertising. All other parts of the feed remain completely ad-free and unmanipulated.
 
 ## Updated PIF Structure
 
@@ -35,11 +37,11 @@ It is specifically designed to work with Grok Custom Timelines and could make X 
 
 **Badges**:
 - `! EMERGENCY WARNING` for urgent negative events  
-- `Positive Impact` for beneficial developments  
+- `Positive Impact` for beneficial or unifying developments  
 
 Core impacts are drawn from open or corroborated sources whenever possible (paywall-resilient design).
 
-## Example (April 30, 2026)
+## Example (May 4, 2026)
 
 **High-PIF**  
 - Strait of Hormuz / Iran Standoff → **Cat 4** + **! EMERGENCY WARNING**
@@ -58,4 +60,9 @@ See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) fo
 
 Created by Pauline Gonen-Smith. Open source under MIT license.  
 
-Feedback and contributions welcome — especially from X/xAI product teams working on Custom Timelines.
+This is a living, work-in-progress project. Feedback and contributions welcome — especially from X/xAI product teams working on Custom Timelines and from users who want a calmer, more human-centered information experience.
+
+---
+
+**GitHub Repo:** https://github.com/PAGSAdmin/PIF-PUF  
+**ClarityGuard Prompt Framework:** https://github.com/PAGSAdmin/ClarityGuard

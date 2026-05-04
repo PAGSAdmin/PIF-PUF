@@ -20,7 +20,7 @@ It is specifically designed to work with Grok Custom Timelines and could make X 
 ## Core Philosophy
 
 - **PIF** = Tangible effects on people (scored Cat 1–5) — good or bad  
-- **Emerging PIF** = Future potential stories (with Time Horizon)  
+- **Emerging PIF** = Future potential stories (with Time Horizon) — now using a broader but still responsible net to catch more credible medium-term signals  
 - **Impactful People** = Key actors driving measurable effects  
 - **PUF** = Your chosen context (Politics, Policies, Understanding with sub-tags, Fun, Reliable Voices)  
 - **Clarity Guard + No Attack Mode** = Protection from noise and personal attacks  
@@ -32,7 +32,7 @@ It is specifically designed to work with Grok Custom Timelines and could make X 
 ## Updated PIF Structure
 
 - **High-PIF (Cat 3–5)**: Immediate or ongoing population impacts  
-- **Emerging PIF**: Significant future potential (positive or negative)  
+- **Emerging PIF**: Significant future potential (positive or negative) — broader net applied to capture more credible medium-term stories while avoiding speculation  
 - **Mid/Lower PIF (Cat 1–2)**: Localized or smaller-scale impacts  
 
 **Badges**:
@@ -48,7 +48,9 @@ Core impacts are drawn from open or corroborated sources whenever possible (payw
 
 **Emerging PIF**  
 - Appalachia Lithium Discovery → **Emerging Cat 3 (Positive, Medium-term)**  
-  Time Horizon: 1–5+ years • Source Confidence: High
+  Time Horizon: 1–5+ years • Source Confidence: High  
+- Next-Gen Battery Technologies → **Emerging Cat 2 (Positive, Medium-term)**  
+- AI-Driven Drug Discovery Acceleration → **Emerging Cat 2 (Positive, Medium-term)**
 
 **Local Filter** (Monmouth/Middletown NJ) → Quiet today
 

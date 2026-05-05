@@ -59,12 +59,21 @@ Core impacts are drawn from open or corroborated sources whenever possible (payw
 
 ## Example (May 4, 2026)
 
-**High-PIF**  
-- Strait of Hormuz / Iran Standoff → **Cat 4** + **! EMERGENCY WARNING**
+### **PIF** (Real Population Impacts)
+- **Strait of Hormuz / Iran-U.S. Standoff** → **Cat 4** + **! EMERGENCY WARNING**
+- **Middle East Conflicts** → **Cat 3**
 
-**Emerging PIF**  
-- Appalachia Lithium Discovery → **Emerging Cat 3 (Positive, Medium-term)**  
+### **Emerging PIF** (Future Signals)
+- **Appalachia Lithium Discovery** → **Cat 3 (Positive, Medium-term)**  
   Time Horizon: 1–5+ years • Source Confidence: High
+- **Next-Gen Battery Technologies** → **Cat 2 (Positive)**
+- **AI-Driven Drug Discovery Acceleration** → **Cat 2 (Positive)**
+
+### **Top Surfacing PUF** (Most Relevant Context Today)
+- **Politics**: U.S.–Iran Hormuz confrontation
+- **Policies**: Energy security & critical minerals strategy
+- **Understanding**: Strategic resource insights (lithium, battery tech)
+- **Fun**: Local Monmouth County events
 
 **Local Filter** (Monmouth/Middletown NJ) → Quiet today
 

@@ -1,91 +1,100 @@
 # PIF/PUF Framework — ClarityGuard
 
+![PIF/PUF Logo](https://raw.githubusercontent.com/PAGSAdmin/PIF-PUF/main/PIF_PUF_Wynn.Logo.png)
+
 **PIF = News.**
 
-A simple, open-source system to cut through opinion noise and surface **real population impacts** first (positive or negative). 
+A simple, open-source system to cut through opinion noise and surface **real population impacts** first (positive or negative).
 
-Built by **Pauline Gonen-Smith** (@clarityguard) after 9 months of deep thinking and testing.  
-
-The framework has been further developed and refined in open collaboration with Grok (xAI) through daily testing and discussion. All ideas, structure, and refinements remain fully open source and free for anyone to use or build upon.
+Created by **Pauline Gonen-Smith** (@clarityguard) and refined through daily testing with Grok (xAI) since March 2025.
 
 ---
 
 ## Why This Matters
 
-Social media overwhelms users with noise while burying real signal.  
-PIF/PUF gives a clean default **Impact Feed** while letting users customize context through PUF layers.  
+In the past, news had a clear “go-to place” — the newspaper, evening TV broadcast, or radio.
 
-It is specifically designed to work with Grok Custom Timelines and could make X far more useful long-term for people who want clarity without chaos.
+Today, social media offers no reliable go-to place. Feeds are flooded with opinions, memes, outrage, and endless scrolling. Most people now treat whatever appears in their feed as “news.”
+
+Real news is something more specific: measurable events that affect large numbers of people’s lives, safety, health, jobs, or future — what I call **Population Impact Factors (PIFs)**.
+
+Social media platforms are built to maximize engagement for advertisers. Algorithms learn your interests mainly to keep you scrolling longer, often amplifying negativity bias and leaving very little room for nourishing content. The result is draining rather than informative — it keeps users in a constant state of low-level alertness and emotional drain.
+
+## Algorithm vs Narrative Framework
+
+| Aspect                  | Algorithm (Social Media)                  | Narrative Framework (PIF/PUF)                  |
+|-------------------------|-------------------------------------------|------------------------------------------------|
+| Who controls it?        | The platform (for profit)                 | You (the individual)                           |
+| Main goal               | Keep you scrolling longer                 | Give you clear, useful information             |
+| How it chooses content  | Engagement + negativity bias              | Real population impact + your chosen context   |
+| Transparency            | Opaque (black box)                        | Fully visible and tweakable                    |
+| Effect on user          | Draining, addictive, low Fun              | Calmer, more nourishing, higher signal         |
+| Handles forgotten stories | Ignores them                              | Explicitly surfaces them (Forgotten Conflicts) |
+
+## PIF/PUF as a Practical Alternative
+
+PIF/PUF puts **real population impacts first**, adds personal context layers the user chooses, and gives individuals the levers instead of surrendering them to opaque algorithms. It is truly democratic in practice: you decide what matters most to you.
+
+It also demonstrates that AI is still open enough for self-directed outsiders — people with no institutional team or organization — to contribute meaningfully if they put in the time and stay curious. In a world where information is largely owned and shaped by trillion-dollar infrastructures, PIF/PUF shows itself to be a simple, practical alternative.
+
+## Key New Feature: Forgotten Conflicts
+
+PIF/PUF is designed to surface PIFs from what is actually surfacing in the news.  
+But it can also tell you what is **not** surfacing.  
+
+The new **Forgotten Conflicts** line in the PUF section highlights real population impacts that evolve into stories written by journalists or discussed by influencers but still get largely ignored by the current system.
 
 ## For All Ages
 
-PIF/PUF is intentionally flexible and naturally addresses generational differences with the same core framework:
+PIF/PUF is flexible and naturally addresses generational differences with the same core framework.
 
-**For Seniors (50+)**  
-- Balanced Morning Feed for calm, grounding starts to the day  
-- Strong No Attack Mode and Clarity Guard to protect peace of mind  
-- Gentle Sponsored Novelty Stream (clearly disclosed) for late-night reading or insomnia  
+## Core Features (Locked-In)
 
-**For Children**  
-- Simplified “Big Impact” and “Things That Might Matter Soon” language  
-- Kid-friendly PUF layers: Adventure & Discovery, Kindness & People, Fun & Creativity  
-- Maximum Clarity Guard with optional parent/teacher controls and safe wonder-focused content  
+- **PIF** — Real population impacts scored Cat 1–5 (all levels now surfaced)  
+- **Mid-PUF Items** — Cat 2 and Cat 1 events with start dates for clarity  
+- **Positive PIF Spotlight** — Deliberately counters negativity bias  
+- **PUF Layers** — Politics, Policies, Understanding (with sub-tags), Fun, and **Forgotten Conflicts**  
+- **Clarity Guard + No Attack Mode** — Keeps the tone calm and respectful  
+- **Local Filter** — Monmouth / Middletown NJ (or any user-chosen location)
 
-The same honest system serves both — showing how one thoughtful framework can support different life stages without creating separate products.
+## Example Daily Output (May 11, 2026)
 
-## Core Philosophy
+**PIF**  
+- **Strait of Hormuz / Iran-U.S. Standoff** → **Cat 4** + **! EMERGENCY WARNING** (escalated military activity)  
+- **Middle East Conflicts** → **Cat 3** (ongoing civilian impact)
 
-- **PIF** = Tangible effects on people (scored Cat 1–5) — good or bad  
-- **Emerging PIF** = Future potential stories (with Time Horizon) — broader but responsible net  
-- **Impactful People** = Key actors driving measurable effects  
-- **PUF** = Your chosen context (Politics, Policies, Understanding with sub-tags, Fun, Reliable Voices)  
-- **Clarity Guard + No Attack Mode** = Protection from noise and personal attacks  
+**Mid-PUF Items**  
+- Hantavirus Outbreak (MV Hondius) — Started May 4 — **Cat 2**  
+- Secret Service Shooting (Washington DC) — Started May 4 — **Cat 2**  
+- Kīlauea Volcano Activity — Started May 5 — **Cat 2**  
+- Spirit Airlines Financial Struggles — Started May 2 — **Cat 1**
 
-**Balanced Morning Feed** (optional preset for 50+ users): High-PIF + one Understanding slice + one Fun slice for a calm, grounding start to the day.
+**Positive PIF Spotlight**  
+- Appalachia Lithium Discovery → **Positive Emerging PIF Cat 3**  
+- Next-Gen Battery Technologies → **Positive Emerging PIF Cat 2**
 
-**Sponsored Novelty Stream** (optional): Gentle late-night/insomnia-friendly stream with clear upfront disclosure that it includes thoughtful suggestions and advertising. All other parts of the feed remain completely ad-free and unmanipulated.
+**Top Surfacing PUF**  
+- **Politics**: U.S.–Iran talks  
+- **Policies**: Energy security  
+- **Understanding**: Philosophy, religion, AI ethics  
+- **Fun**: Gardening, home design, antiques, crafts  
+- **Forgotten Conflicts**: Russia-Ukraine, Sudan, Myanmar, Sahel insurgencies (significant but under-covered impacts)
 
-## Updated PIF Structure
+**Local Filter (Monmouth / Middletown NJ)** → Quiet today
 
-- **High-PIF (Cat 3–5)**: Immediate or ongoing population impacts  
-- **Emerging PIF**: Significant future potential (positive or negative)  
-- **Mid/Lower PIF (Cat 1–2)**: Localized or smaller-scale impacts  
-
-**Badges**:
-- `! EMERGENCY WARNING` for urgent negative events  
-- `Positive Impact` for beneficial or unifying developments  
-
-Core impacts are drawn from open or corroborated sources whenever possible (paywall-resilient design).
-
-## Example (May 4, 2026)
-
-### **PIF** (Real Population Impacts)
-- **Strait of Hormuz / Iran-U.S. Standoff** → **Cat 4** + **! EMERGENCY WARNING**
-- **Middle East Conflicts** → **Cat 3**
-
-### **Emerging PIF** (Future Signals)
-- **Appalachia Lithium Discovery** → **Cat 3 (Positive, Medium-term)**  
-  Time Horizon: 1–5+ years • Source Confidence: High
-- **Next-Gen Battery Technologies** → **Cat 2 (Positive)**
-- **AI-Driven Drug Discovery Acceleration** → **Cat 2 (Positive)**
-
-### **Top Surfacing PUF** (Most Relevant Context Today)
-- **Politics**: U.S.–Iran Hormuz confrontation
-- **Policies**: Energy security & critical minerals strategy
-- **Understanding**: Strategic resource insights (lithium, battery tech)
-- **Fun**: Local Monmouth County events
-
-**Local Filter** (Monmouth/Middletown NJ) → Quiet today
+Full daily summaries and tracking chart are in the repo.
 
 ## How to Use
 
-See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) for the working Python prototype.
+See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) for the current Python prototype.  
+A live web demo (Streamlit app) is planned for easy testing.
 
 ## Credit & Status
 
-Created by Pauline Gonen-Smith. Open source under MIT license.  
+Created by Pauline Gonen-Smith (@clarityguard).  
+Open source under MIT license.  
 
-This is a living, work-in-progress project. Feedback and contributions welcome — especially from X/xAI product teams working on Custom Timelines and from users who want a calmer, more human-centered information experience.
+This is a living, work-in-progress project. Feedback welcome — especially from X/xAI teams working on Custom Timelines or anyone who wants a calmer, more human-centered information experience.
 
 ---
 

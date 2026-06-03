@@ -6,7 +6,7 @@
 
 A simple, open-source system to cut through opinion noise and surface **real population impacts** first (positive or negative).
 
-Created by **Pauline Gonen-Smith** (@clarityguard) and refined through daily testing with Grok (xAI) since March 2025.
+Created by **Pauline Gonen-Smith** and refined through daily testing with Grok (xAI) since March 2025.
 
 ---
 

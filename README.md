@@ -96,7 +96,7 @@ Open source under MIT license.
 
 This is a living, work-in-progress project. Feedback welcome — especially from X/xAI teams working on Custom Timelines or anyone who wants a calmer, more human-centered information experience.
 
----
+--
 
 **GitHub Repo:** https://github.com/PAGSAdmin/PIF-PUF  
 **ClarityGuard Prompt Framework:** https://github.com/PAGSAdmin/ClarityGuard

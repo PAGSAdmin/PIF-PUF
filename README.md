@@ -42,7 +42,7 @@ It also demonstrates that AI is still open enough for self-directed outsiders �
 PIF/PUF is designed to surface PIFs from what is actually surfacing in the news.  
 But it can also tell you what is **not** surfacing.  
 
-The new **Forgotten Conflicts** line in the PUF section highlights real population impacts that evolve into stories written by journalists or discussed by influencers but still get largely ignored by the current system.
+The **Forgotten Conflicts** line in the PUF section highlights real population impacts that evolve into stories written by journalists or discussed by influencers but still get largely ignored by the current system.
 
 ## For All Ages
 
@@ -55,39 +55,57 @@ PIF/PUF is flexible and naturally addresses generational differences with the sa
 - **Positive PIF Spotlight** — Deliberately counters negativity bias  
 - **PUF Layers** — Politics, Policies, Understanding (with sub-tags), Fun, and **Forgotten Conflicts**  
 - **Clarity Guard + No Attack Mode** — Keeps the tone calm and respectful  
-- **Local Filter** — Monmouth / Middletown NJ (or any user-chosen location)
+- **Local Filter** — Monmouth / Middletown NJ (or any user-chosen location)  
+- **Enhanced Daily Tracking** — “What changed since yesterday”, Signal vs Noise note, and Story duration for clearer day-to-day context  
+- **Optional Tracking Chart** — Positive PIF cumulative tracker and chart row available when needed
 
-## Example Daily Output (May 11, 2026)
+## Example Daily Output (June 9, 2026)
 
 **PIF**  
-- **Strait of Hormuz / Iran-U.S. Standoff** → **Cat 4** + **! EMERGENCY WARNING** (escalated military activity)  
-- **Middle East Conflicts** → **Cat 3** (ongoing civilian impact)
+1. **Iran-Israel / Middle East Escalation (including Hormuz dynamics)** → **Cat 4** + **! EMERGENCY WARNING** (direct missile exchanges followed by de-escalation and resuming diplomacy)  
+2. **Ebola Outbreak (DRC & Uganda)** → **Cat 3** (ongoing expansion with updated case numbers)
 
 **Mid-PUF Items**  
-- Hantavirus Outbreak (MV Hondius) — Started May 4 — **Cat 2**  
-- Secret Service Shooting (Washington DC) — Started May 4 — **Cat 2**  
-- Kīlauea Volcano Activity — Started May 5 — **Cat 2**  
-- Spirit Airlines Financial Struggles — Started May 2 — **Cat 1**
+- Delaney Hall ICE Facility Protests (Newark, NJ) — Lower visibility post-curfew  
+- Hantavirus on MV Hondius — Ongoing  
+- Kīlauea Volcano — Ongoing monitoring  
+- Philippines Earthquake (Mindanao) — Response continuing
 
 **Positive PIF Spotlight**  
-- Appalachia Lithium Discovery → **Positive Emerging PIF Cat 3**  
-- Next-Gen Battery Technologies → **Positive Emerging PIF Cat 2**
+- Appalachia Lithium Discovery → Steady development progress  
+- Next-Gen Battery Technologies → Continued advancements
+
+**Emerging PIF**  
+- Next-Gen Battery Technologies  
+- AI Safety Concerns (recursive self-improvement risks and calls for potential development pauses)
 
 **Top Surfacing PUF**  
-- **Politics**: U.S.–Iran talks  
-- **Policies**: Energy security  
-- **Understanding**: Philosophy, religion, AI ethics  
-- **Fun**: Gardening, home design, antiques, crafts  
-- **Forgotten Conflicts**: Russia-Ukraine, Sudan, Myanmar, Sahel insurgencies (significant but under-covered impacts)
+- **Politics**: De-escalation between Iran and Israel after direct exchanges; diplomacy resuming  
+- **Policies**: Regional security and Hormuz navigation; international public health coordination  
+- **Understanding**: How Lebanon/Hezbollah dynamics trigger broader Iran-Israel exchanges; challenges of containing Ebola in insecure regions  
+- **Fun**: NBA Finals — Series now 2-1 after Spurs win Game 3 (115-111). Game 4 upcoming  
+- **Forgotten Conflicts**: Russia-Ukraine war; Sudan, Myanmar, and Sahel conflicts (significant but under-covered impacts)
 
 **Local Filter (Monmouth / Middletown NJ)** → Quiet today
+
+**What changed since yesterday**: De-escalation in the Iran-Israel file after direct exchanges; both sides halted further strikes with diplomacy resuming. Ebola case numbers continued rising with updated figures. NBA Finals momentum shifted as the Spurs won Game 3.
+
+**Signal vs Noise note**: The direct Iran-Israel exchanges represented a clear spike in risk; today’s de-escalation is a meaningful development, though underlying tensions remain. Overall signal stayed concentrated in a small number of persistent threads.
+
+**Story duration**:  
+- Iran/Middle East escalation – dominant for ~51+ days (with recent sharp spike and partial de-escalation)  
+- Ebola – dominant for ~25 days  
+- NBA Finals – active for ~7 days
 
 Full daily summaries and tracking chart are in the repo.
 
 ## How to Use
 
-See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) for the current Python prototype.  
-A live web demo (Streamlit app) is planned for easy testing.
+See [`pif_puf.py`](https://github.com/PAGSAdmin/PIF-PUF/blob/main/pif_puf.py) for the current Python prompt generator.
+
+Run the script to generate a complete, ready-to-copy daily prompt. Copy the output and paste it to Grok along with the current date.
+
+The tracking chart row and Positive PIF cumulative tracker are optional and can be toggled in the script.
 
 ## Credit & Status
 
@@ -96,7 +114,7 @@ Open source under MIT license.
 
 This is a living, work-in-progress project. Feedback welcome — especially from X/xAI teams working on Custom Timelines or anyone who wants a calmer, more human-centered information experience.
 
---
+---
 
 **GitHub Repo:** https://github.com/PAGSAdmin/PIF-PUF  
 **ClarityGuard Prompt Framework:** https://github.com/PAGSAdmin/ClarityGuard

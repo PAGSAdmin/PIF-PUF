@@ -5,7 +5,6 @@ Open source under MIT License
 
 Updated May 4, 2026 — Broader Emerging PIF logic included
 """
-
 from typing import Dict, Any
 
 def analyze_text(text: str) -> Dict[str, Any]:

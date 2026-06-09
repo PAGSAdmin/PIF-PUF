@@ -66,7 +66,6 @@ def analyze_text(text: str) -> Dict[str, Any]:
         "raw_text": text[:300] + "..." if len(text) > 300 else text
     }
 
-
 # Simple demo / test
 if __name__ == "__main__":
     samples = [

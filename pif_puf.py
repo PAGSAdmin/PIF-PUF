@@ -1,77 +1,98 @@
 """
-PIF/PUF Framework — ClarityGuard
-Created by Pauline Gonen-Smith (@clarityguard)
-Open source under MIT License
+PIF/PUF Daily Prompt Generator
+------------------------------
+Generates a ready-to-use daily PIF/PUF prompt.
 
-Updated May 4, 2026 — Broader Emerging PIF logic included
+Created by Pauline Gonen-Smith
+This is an open-source project.
+
+Usage:
+    python pif_puf.py
+
+The script outputs a complete, detailed daily prompt you can copy and paste to Grok.
+
+Features:
+- Full current structure (PIF, Mid-PUF, Positive PIF Spotlight, Emerging PIF, PUF layers)
+- Includes: What changed since yesterday, Signal vs Noise, Story duration
+- Tracking chart / Positive PIF tracker is OPTIONAL (toggle below)
+- Date handling: tries to use today's date automatically, with manual override option
 """
-from typing import Dict, Any
 
-def analyze_text(text: str) -> Dict[str, Any]:
-    """
-    Core PIF/PUF analysis function.
-    Now includes broader Emerging PIF detection while avoiding speculation.
-    """
-    if not text or not text.strip():
-        return {"error": "No text provided"}
+from datetime import datetime
 
-    t = text.lower()
+# ====================== USER SETTINGS ======================
+# Set a specific date here if you don't want to use today's date
+# Format: "June 9, 2026"   Leave as None to use current date automatically.
+MANUAL_DATE = None
 
-    # ==================== 1. PIF Scoring ====================
-    pif_cat = 0
-    pif_type = "neutral"
-    pif_desc = ""
-    is_emerging = False
+# Set to True if you want the tracking chart + Positive PIF tracker included
+# (useful for demonstrations or when you want to update the chart)
+INCLUDE_TRACKING = False
+# ===========================================================
 
-    # High impact detection
-    if any(word in t for word in ["hormuz", "iran standoff", "oil price", "energy crisis", "war", "conflict", "disaster", "casualty", "emergency"]):
-        pif_cat = 4
-        pif_type = "negative"
-        pif_desc = "Major population impact on energy, safety, or stability"
 
-    elif any(word in t for word in ["lithium", "discovery", "breakthrough", "major find", "strategic resource"]):
-        pif_cat = 3
-        pif_type = "positive"
-        pif_desc = "Emerging positive strategic opportunity"
-        is_emerging = True
+def get_current_date() -> str:
+    if MANUAL_DATE:
+        return MANUAL_DATE
+    return datetime.now().strftime("%B %d, %Y")
 
-    # Broader Emerging PIF detection (Cat 2 level)
-    elif any(word in t for word in ["battery", "solid state", "ai drug", "ai discovery", "nuclear smr", "next gen", "long term"]):
-        pif_cat = 2
-        pif_type = "positive"
-        pif_desc = "Medium-term emerging opportunity"
-        is_emerging = True
 
-    # ==================== 2. Bucket Classification ====================
-    if pif_cat >= 3:
-        bucket = "HIGH_PIF"
-    elif pif_cat == 2 or is_emerging:
-        bucket = "EMERGING_PIF"
-    elif any(word in t for word in ["trump", "iran", "politics", "policy", "election"]):
-        bucket = "POLITICS"
-    elif any(word in t for word in ["study", "research", "explain", "insight", "history"]):
-        bucket = "UNDERSTANDING"
-    elif any(word in t for word in ["fun", "joke", "garden", "event", "how to"]):
-        bucket = "FUN"
-    else:
-        bucket = "MISC"
+def generate_daily_prompt() -> str:
+    date_str = get_current_date()
 
-    return {
-        "pif_cat": pif_cat,
-        "pif_type": pif_type,
-        "pif_desc": pif_desc,
-        "bucket": bucket,
-        "is_emerging": is_emerging,
-        "raw_text": text[:300] + "..." if len(text) > 300 else text
-    }
+    prompt = f"""You are my PIF/PUF daily analyst for {date_str}.
 
-# Simple demo / test
+Perform a genuine real-time scan using your available search tools.
+
+Output the following sections using the established PIF/PUF format:
+
+**PIF** (Real Population Impacts)
+- List the top 2–3 stories with Cat level (1–5) and a short description.
+- Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate.
+
+**Mid-PUF Items**
+- List relevant Cat 2 and Cat 1 items with start dates when known.
+
+**Positive PIF Spotlight**
+- Highlight clearly positive high-impact developments.
+
+**Emerging PIF**
+- Note any developing future signals worth watching.
+
+**Top Surfacing PUF**
+- **Politics**
+- **Policies**
+- **Understanding** (use sub-tags where helpful)
+- **Fun** — Only stories that genuinely break through about large celebrations, major sports/games, awards, or reasonable positive PIF-level joyful events.
+- **Forgotten Conflicts**
+
+**Local Filter** (Monmouth / Middletown NJ or your chosen location)
+
+**What changed since yesterday**
+- One short paragraph summarizing the main shifts from the previous day.
+
+**Signal vs Noise note**
+- One line noting how concentrated or sparse the real high-impact signal feels today.
+
+**Story duration**
+- Note how long the main dominant stories have been active.
+
+"""
+
+    if INCLUDE_TRACKING:
+        prompt += """
+**Positive PIF cumulative tracker** (building)
+- Briefly note any positive high-impact developments observed so far.
+
+**Tracking Chart row (optional)**
+- Provide a suggested row for the tracking chart in markdown format.
+"""
+
+    prompt += """
+Be accurate, balanced, and calm. Focus on real population impact rather than media volume or noise.
+"""
+    return prompt
+
+
 if __name__ == "__main__":
-    samples = [
-        "Iran proposes reopening Strait of Hormuz amid rising oil prices.",
-        "Appalachia lithium discovery could transform U.S. energy security.",
-        "New solid-state battery breakthrough announced."
-    ]
-    for sample in samples:
-        result = analyze_text(sample)
-        print(result)
+    print(generate_daily_prompt())

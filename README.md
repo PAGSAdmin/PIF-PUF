@@ -10,6 +10,12 @@ Created by **Pauline Gonen-Smith** and refined through daily testing with Grok (
 
 ---
 
+**Origin**  
+
+I developed PIF/PUF as a simple, human-centered alternative to algorithmic news feeds — one that starts with measurable population impact rather than engagement or media volume. It remains an early, open-source framework.
+
+---
+
 ## Why This Matters
 
 In the past, news had a clear “go-to place” — the newspaper, evening TV broadcast, or radio.

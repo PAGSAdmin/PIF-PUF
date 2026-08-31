@@ -45,6 +45,8 @@ Copy the printed prompt into Grok with today’s date. You get:
 - **Signal vs Noise**
 - **Story duration**
 
+Worked example (31 August 2026): [`examples/DAILY_2026-08-31.md`](examples/DAILY_2026-08-31.md)
+
 In `pif_puf.py` you can set `MANUAL_DATE` and turn `INCLUDE_TRACKING` on if you want the optional chart row.
 
 Tone comes from ClarityGuard: calm, no attack mode, impact first, media volume last.
@@ -77,6 +79,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
+| `examples/DAILY_2026-08-31.md` | Sample full daily reading |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |
 | Scored `*.md` examples | Worked labels, one post each |

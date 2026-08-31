@@ -1,32 +1,28 @@
 """
-PIF/PUF Daily Prompt Generator
-------------------------------
-Generates a ready-to-use daily PIF/PUF prompt.
+PIF/PUF + ClarityGuard — daily prompt generator
+-----------------------------------------------
+Generates a ready-to-paste daily reading prompt.
 
-Created by Pauline Gonen-Smith
-This is an open-source project.
+PIF/PUF is Pauline Gonen-Smith's framework, developed as a
+disclosed collaboration with Grok (xAI): she defined the filter;
+Grok produced the working prompts, examples, and repo text.
 
 Usage:
     python pif_puf.py
 
-The script outputs a complete, detailed daily prompt you can copy and paste to Grok.
-
-Features:
-- Full current structure (PIF, Mid-PUF, Positive PIF Spotlight, Emerging PIF, PUF layers)
-- Includes: What changed since yesterday, Signal vs Noise, Story duration
-- Tracking chart / Positive PIF tracker is OPTIONAL (toggle below)
-- Date handling: tries to use today's date automatically, with manual override option
+Copy the output into Grok (or another model with search) for today's date.
 """
 
 from datetime import datetime
 
 # ====================== USER SETTINGS ======================
-# Set a specific date here if you don't want to use today's date
-# Format: "June 9, 2026"   Leave as None to use current date automatically.
+# Example: "August 31, 2026"   Leave as None for today's date.
 MANUAL_DATE = None
 
-# Set to True if you want the tracking chart + Positive PIF tracker included
-# (useful for demonstrations or when you want to update the chart)
+# Change this to your place.
+LOCAL_FILTER = "Monmouth / Middletown NJ"
+
+# Optional tracking chart row + positive PIF cumulative tracker
 INCLUDE_TRACKING = False
 # ===========================================================
 
@@ -40,11 +36,13 @@ def get_current_date() -> str:
 def generate_daily_prompt() -> str:
     date_str = get_current_date()
 
-    prompt = f"""You are my PIF/PUF daily analyst for {date_str}.
+    prompt = f"""You are ClarityGuard applying the PIF/PUF framework for a daily reading on {date_str}.
+
+PIF/PUF is Pauline Gonen-Smith's framework. Apply it as a disclosed Grok collaboration: impact first, calm tone, no attack mode.
 
 Perform a genuine real-time scan using your available search tools.
 
-Output the following sections using the established PIF/PUF format:
+Output the following sections:
 
 **PIF** (Real Population Impacts)
 - List the top 2–3 stories with Cat level (1–5) and a short description.
@@ -66,7 +64,7 @@ Output the following sections using the established PIF/PUF format:
 - **Fun** — Only stories that genuinely break through about large celebrations, major sports/games, awards, or reasonable positive PIF-level joyful events.
 - **Forgotten Conflicts**
 
-**Local Filter** (Monmouth / Middletown NJ or your chosen location)
+**Local Filter** ({LOCAL_FILTER})
 
 **What changed since yesterday**
 - One short paragraph summarizing the main shifts from the previous day.

@@ -1,6 +1,6 @@
 
-PIF/PUF is a groundbreaking narrative filter framework, born in 2014, that redefines news categorization in a way never done before. Unlike traditional models, it splits X’s 500M daily posts into:
-- **PIF (Population Impact Filter, ~5%)**: Tangible events (e.g., hurricanes, parades) with ★ HIGH-IMPACT AHA! badges for evidence-supported impacts.
+PIF/PUF is a groundbreaking narrative framework, born in 2014, that redefines news categorization in a way never done before. Unlike traditional models, it splits attention into:
+- **PIF (Population Impact Factor, ~5%)**: Tangible events (e.g., hurricanes, parades) with ★ HIGH-IMPACT AHA! badges for evidence-supported impacts.
 - **PUF (Politics Understanding Fun, ~74%)**: Narratives (POLITICS 27%, UNDERSTANDING 24.5%, FUN 22.5%) shaped by human storytelling (agency, communion, redemption).
 - **JBSM (21%)**: Non-news (JABBER, BLABBER, SOUR, MISC) for research, flagging distortions.
 
@@ -18,14 +18,14 @@ But detection doesn’t protect a 14-year-old doomscrolling at 2 a.m. from disto
 **PIF/PUF fights with triage.**  
 It uniquely asks two questions no one else does:
 
-> **How many real bodies are at risk? (PIF)**  
+> **How many real bodies are at risk? (PIF — Population Impact Factor)**  
 > **How warped is the shared reality? (PUF)**
 
 ---
 
 ## PIF/PUF vs. Peers: Where We Stand in the Open-Source Landscape
 
-PIF/PUF isn’t another NLP black box. It’s a **user-first, auditable narrative filter** designed for **X and Grok** — prioritizing **physical stakes** (PIF) and **social clarity** (PUF) over bot scores or keyword bans.
+PIF/PUF isn’t another NLP black box. It’s a **user-first, auditable framework** designed for daily reading — prioritizing **physical stakes** (PIF) and **social clarity** (PUF) over bot scores or keyword bans.
 
 | Project | Focus | Real-Time? | Physical Impact? | Youth Mode? | X-Native? | Open-Source | PIF/PUF Edge |
 |--------|-------|------------|------------------|-------------|-----------|-------------|--------------|
@@ -36,20 +36,18 @@ PIF/PUF isn’t another NLP black box. It’s a **user-first, auditable narrativ
 | **Xarta** | Contextual cards | Yes | No | No | Yes | Yes | No urgency scoring |
 | **OSoMe Tools** | Exposure scoring | Yes | No | No | Yes | Yes | No physical risk model |
 | **Capí** | Climate fact-check | Yes | Yes (niche) | No | No | Yes | Domain-locked; no general PUF |
-| <mark>**PIF/PUF**</mark> | **Physical + Social Triage** | **Yes** | **Yes (PIF)** | **Yes (toggle)** | **Yes (Grok/X)** | **Yes (CC BY 4.0)** | **Only framework with dual scoring + youth shield** |
+| <mark>**PIF/PUF**</mark> | **Physical + Social Triage** | **Yes** | **Yes (PIF)** | **Yes (toggle)** | **Yes (Grok)** | **Yes (MIT)** | **Only framework with dual scoring + youth shield** |
 
 > **Key Differentiation**:  
-> - **PIF** = First to quantify *affected population × category × confidence* for physical risk.  
+> - **PIF** = First to quantify *affected population × category × confidence* as a Population Impact Factor.  
 > - **PUF** = First to score *narrative distortion* without ML opacity.  
 > - **Youth Mode** = Built-in, not bolted-on.  
-> - **Grok-Ready** = Designed for real-time X integration.
+> - **Grok-Ready** = Designed for real-time daily reading.
 
-[Discuss on X →](https://x.com/@PIFPUFbyPAGS)  
 [Contribute →](https://github.com/PAGSAdmin/PIF-PUF/issues)
 ---
 [← Back to README](README.md)
 
 ---
-*By Pauline A. Gonen-Smith (PAGS) | CC BY 4.0*
-
+*By Pauline A. Gonen-Smith (PAGS)*
 

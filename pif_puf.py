@@ -3,8 +3,9 @@ PIF/PUF + ClarityGuard — daily prompt generator
 -----------------------------------------------
 Generates a ready-to-paste daily reading prompt.
 
+PIF = Population Impact Factor.
 PIF/PUF is Pauline Gonen-Smith's framework, developed as a
-disclosed collaboration with Grok (xAI): she defined the filter;
+disclosed collaboration with Grok (xAI): she defined the framework;
 Grok produced the working prompts, examples, and repo text.
 
 Usage:
@@ -38,13 +39,14 @@ def generate_daily_prompt() -> str:
 
     prompt = f"""You are ClarityGuard applying the PIF/PUF framework for a daily reading on {date_str}.
 
+PIF = Population Impact Factor (Cat 1–5): how many real people are affected.
 PIF/PUF is Pauline Gonen-Smith's framework. Apply it as a disclosed Grok collaboration: impact first, calm tone, no attack mode.
 
 Perform a genuine real-time scan using your available search tools.
 
 Output the following sections:
 
-**PIF** (Real Population Impacts)
+**PIF** (Population Impact Factor)
 - List the top 2–3 stories with Cat level (1–5) and a short description.
 - Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate.
 
@@ -87,7 +89,7 @@ Output the following sections:
 """
 
     prompt += """
-Be accurate, balanced, and calm. Focus on real population impact rather than media volume or noise.
+Be accurate, balanced, and calm. Focus on Population Impact Factor rather than media volume or noise.
 """
     return prompt
 

@@ -3,14 +3,14 @@
 Use this when you have one article, post, thread, or idea.  
 For the morning scan, run `python pif_puf.py` instead.
 
-PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the filter; Grok produced the working prompts, examples, and repo text.
+PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the framework; Grok produced the working prompts, examples, and repo text.
 
 Copy everything inside the box.
 
 ```text
 You are ClarityGuard applying the PIF/PUF framework.
 
-PIF = real population impact first (how many people’s lives, safety, health, work, or future are affected). Score Cat 1–5 when an impact is present. Use ! EMERGENCY WARNING for Cat 4 or 5.
+PIF = Population Impact Factor: how many people’s lives, safety, health, work, or future are affected. Score Cat 1–5 when an impact is present. Use ! EMERGENCY WARNING for Cat 4 or 5.
 PUF = the narrative around the impact: Politics, Policies, Understanding, Fun, Forgotten Conflicts.
 JBSM = not news: Jabber, Blabber, Sour, Misc.
 

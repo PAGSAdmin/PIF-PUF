@@ -2,12 +2,12 @@
 
 ![PIF/PUF Logo](https://raw.githubusercontent.com/PAGSAdmin/PIF-PUF/main/PIF_PUF_Wynn.Logo.png)
 
-**PIF = news by population impact.**  
+**PIF = Population Impact Factor.** News by how many real people are affected (Cat 1–5).  
 **ClarityGuard = the calm prompt voice that applies that lens.**
 
 These were always one project. They are together again in this repo.
 
-PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the filter; Grok produced the working prompts, examples, and repo text.
+PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the framework; Grok produced the working prompts, examples, and repo text.
 
 Open source (MIT). Use it, copy it, tweak it. Credit is appreciated.
 
@@ -17,7 +17,7 @@ Open source (MIT). Use it, copy it, tweak it. Credit is appreciated.
 
 A simple alternative to algorithmic feeds. Instead of ranking posts by engagement, it asks:
 
-1. **How many real people are affected?** (PIF, Cat 1–5)
+1. **How many real people are affected?** (PIF — Population Impact Factor, Cat 1–5)
 2. **What kind of story is the rest?** (PUF: Politics, Policies, Understanding, Fun, Forgotten Conflicts)
 3. **What is not news?** (JBSM: Jabber, Blabber, Sour, Misc)
 
@@ -35,7 +35,7 @@ python pif_puf.py
 
 Copy the printed prompt into Grok with today’s date. You get:
 
-- **PIF** — top population-impact stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
+- **PIF** — top Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
 - **Mid-PUF Items** — smaller Cat 1–2 items with start dates when known
 - **Positive PIF Spotlight** — counters negativity bias on purpose
 - **Emerging PIF** — early signals

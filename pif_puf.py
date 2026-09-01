@@ -47,8 +47,12 @@ Perform a genuine real-time scan using your available search tools.
 Output the following sections:
 
 **PIF** (Population Impact Factor)
-- List the top 2–3 stories with Cat level (1–5) and a short description.
-- Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate.
+- List up to 8 stories with Cat level (1–5) and a short description. Do not pad to 8 if the signal is thinner.
+- Put breaking or still-escalating shocks first.
+- Then list standing high-caseload recoveries that the feed has already dropped. Current standing files until the caseload has actually fallen:
+  - Venezuela twin earthquakes, 24 June 2026
+  - Colombia M7.4 earthquake, 10 August 2026 (Chocó / Valle del Cauca / Risaralda)
+- Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate (including recoveries that are still Cat 4–5 by bodies, not by novelty).
 
 **Mid-PUF Items**
 - List relevant Cat 2 and Cat 1 items with start dates when known.
@@ -75,7 +79,7 @@ Output the following sections:
 - One line noting how concentrated or sparse the real high-impact signal feels today.
 
 **Story duration**
-- Note how long the main dominant stories have been active.
+- Note how long the main dominant stories have been active, including standing recoveries.
 
 """
 

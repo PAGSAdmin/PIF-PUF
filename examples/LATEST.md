@@ -1,6 +1,9 @@
 # Latest daily reading
 
-This file is overwritten each morning. Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
+This file is overwritten each morning at **about 7:30 a.m. US Eastern Time**  
+(**11:30 UTC / GMT** on US daylight time; **12:30 UTC / GMT** on US standard time).
+
+Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
 
 PIF = Population Impact Factor.
 

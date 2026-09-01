@@ -9,7 +9,7 @@ These were always one project. They are together again in this repo.
 
 PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the framework; Grok produced the working prompts, examples, and repo text.
 
-Open source (MIT). Use it, copy it, tweak it. Credit is appreciated.
+Open source (MIT). Unpaid public good. Use it, copy it, tweak it. Credit is appreciated.
 
 ---
 
@@ -44,7 +44,7 @@ python pif_puf.py
 
 Copy the printed prompt into Grok with today’s date. You get:
 
-- **PIF** — top Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
+- **PIF** — up to 8 Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
 - **Mid-PUF Items** — smaller Cat 1–2 items with start dates when known
 - **Positive PIF Spotlight** — counters negativity bias on purpose
 - **Emerging PIF** — early signals
@@ -91,7 +91,7 @@ No install beyond Python 3. No API key required for the generator itself.
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |
 | Scored `*.md` examples | Worked labels, one post each |
-| `LICENSE` | MIT, with a note on provisional patent #63/845,773 |
+| `LICENSE` | MIT. A July 2025 provisional (#63/845,773) expired; not for sale. |
 
 The old [ClarityGuard](https://github.com/PAGSAdmin/ClarityGuard) repo now points here.
 

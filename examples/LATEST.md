@@ -6,10 +6,10 @@ PIF = Population Impact Factor.
 
 ---
 
-# Example daily reading — 31 August 2026
+# Daily reading — 1 September 2026
 
-Generated in the disclosed Grok collaboration using the current `pif_puf.py` prompt.  
-Sources checked the morning of 31 August 2026; Venezuela line added the same afternoon after it was missed. Numbers move; this is a snapshot, not a wire service.
+Generated in the disclosed Grok collaboration.  
+Sources checked the morning of 1 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -18,59 +18,64 @@ Local filter: Monmouth / Middletown NJ.
 **PIF** (Population Impact Factor)
 
 1. **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Combined death toll reported above 900; thousands still missing (figures vary by desk). Roads gone for tens of kilometres; hydropower tunnels with workers unaccounted for; further lake-burst risk flagged. Search still limited to helicopter access in places.
+   Combined death toll now above 1,000 (Nepal ~987, Tibet/China 16); roughly 4,462 still missing (figures continue to shift by desk). Hydropower tunnels and remote valleys remain hard to reach; further glacier-collapse risk noted by Chinese authorities. Seventh day of search and recovery.
 
 2. **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   First U.S. strike on Iranian launchers at Larak Island in over a month (Sunday). Iran reported strikes on U.S. positions in Jordan and Al Minhad, UAE. Hormuz remains a live civilian-energy risk, not only a military one.
+   Tanker struck by three projectiles in the Strait on Monday; Iran reported intercepting a U.S. drone and struck U.S. positions in Jordan. U.S. had hit Iranian launchers on Larak Island days earlier. Live civilian shipping and energy-price risk remains elevated.
 
-3. **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery, not a new shock)  
-   Official dead **6,509** as of 24 August (ReliefWeb sitrep 34, 27 August). UN plan still covers **1.3 million** people over six months. About 29% of rubble cleared. Tens of thousands still listed missing depending on the source. The feed moved on. The caseload did not.
+3. **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
+   Official dead **6,509** as of late August. UN six-month plan still covers ~1.3 million people. Rubble clearance and missing-person lists continue; the feed has largely moved on while the caseload has not.
+
+4. **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
+   UNGRD figures hold near **331** dead, ~240 missing, hundreds of thousands affected (Cali and Pereira hardest hit). Standing high-caseload recovery file.
 
 **Mid-PUF Items**
 
-- DRC Ebola — still the active high-burden outbreak. Uganda’s separate outbreak was declared over 28 August after 42 days with no new confirmed case.
-- Ukraine: Russian strike on a weapons depot late Friday killed 38 and burned nearby homes — deadliest single Russian attack on Ukraine reported this year. Ongoing since Feb 2022.
-- Haiti / Kenscoff: 23 August gang assault — at least 47 killed, 52+ abducted (OHCHR). Ongoing urban collapse.
-- Indonesia wildfires / regional haze. Dry-season file, weeks old.
-- Middletown NJ flooding (27 August): cars trapped on Rts 35/36; pockets of Belford under water. Recovery, not a new event today.
+- Haiti / Kenscoff: 23 August gang assault — at least 47 killed, 52+ abducted (OHCHR). Violence continues to spread beyond the capital even as operations intensify in Port-au-Prince.
+- Sudan: still the largest single-country humanitarian caseload; fighting and displacement persist in Kordofan and Darfur with limited global attention.
+- Ukraine: ongoing Russian strikes and infrastructure pressure; multi-year file.
+- Myanmar civil war: continued airstrikes, displacement, and civilian harm ahead of junta electoral processes; under-covered relative to scale.
+- Local: residual effects from late-August Monmouth flooding and overnight power outages restored; thunderstorm risk continues into early September.
 
 **Positive PIF Spotlight**
 
-- Uganda Ebola outbreak officially ended (Africa CDC / WHO, 28 August).
-- London ULEZ follow-up: children’s lung-function growth reported faster after the zone — a rare measurable health co-benefit from a city air rule.
-- High Technology High School (Lincroft / Middletown) named No. 1 STEM high school in the U.S. by U.S. News 2026–27.
+- Kazakhstan: first wild-born Przewalski’s horse foal on the Central Kazakhstan steppe in 200 years — a concrete restoration milestone.
+- Syria mobile cultural bus bringing books, puppets and workshops to children in camps and rural areas.
+- Monmouth County Workforce Development Fall Job Fair scheduled 16 September at Brookdale Community College (Lincroft) — practical local opportunity connecting residents and employers.
 
 **Emerging PIF**
 
-- Secondary dam / glacial-lake threat on the Nepal–China flood corridor.
-- Energy-price and shipping knock-on if Hormuz stays tight.
-- West Nile virus in Monmouth mosquitoes — spraying already done 20 and 27 August; watch late-summer human cases.
+- Secondary glacier / lake-burst risk still flagged along the Nepal–China flood corridor.
+- Shipping and energy-price volatility if Hormuz remains contested.
+- Late-summer West Nile virus watch in Monmouth after earlier positive mosquito pools.
 
 **Top Surfacing PUF**
 
-- **Politics**: SCO summit opens in Bishkek; U.S.–Iran strike/counter-strike cycle; U.S.–Venezuela oil-control announcement sitting on top of the June quake file.
-- **Policies**: Open-space and land-swap ordinance in Middletown (public hearing 8 September); Monmouth mosquito control after WNV-positive pools; WHO renewed Science Council (27 August).
-- **Understanding**: Himalayan flood as climate + steep terrain + hydropower siting; Hormuz as household fuel risk; Venezuela as what a Cat 5 looks like two months later when cameras leave.
-- **Fun**: World Nomad Games opening alongside the Bishkek summit; Monmouth “Pound the Pavement” pancreatic-cancer walk set for 19 September in Neptune.
-- **Forgotten Conflicts**: **Venezuela quake recovery** (see PIF); Sudan (still the largest single-country humanitarian caseload, ~33 million in need); Myanmar civil war; Sahel / Mali; South Sudan relapse risk.
+- **Politics**: U.S.–Iran strike/counter-strike cycle and tanker incident; SCO aftermath; junta electoral push in Myanmar.
+- **Policies**: Middletown open-space / land-swap hearing still on calendar for 8 September; Monmouth job fair and workforce programs; ongoing mosquito control.
+- **Understanding**: Himalayan glacial collapse as climate + topography + infrastructure exposure; Venezuela and Colombia as what Cat 4–5 recovery looks like weeks to months later when cameras leave; Hormuz as household fuel and shipping risk, not only a military headline.
+- **Fun**: Monmouth “Pound the Pavement” pancreatic-cancer walk still set for 19 September in Neptune; local job fair as community connector.
+- **Forgotten Conflicts**: **Venezuela quake recovery** and **Colombia quake recovery** (both still in PIF); Sudan (largest humanitarian caseload); Myanmar civil war; Sahel / Mali; Haiti urban collapse; South Sudan relapse risk.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-Not quiet. Last Thursday’s flash flooding is the fresh physical file. Township land-swap hearing is 8 September. High Tech HS national ranking is the local bright spot. Mosquito work already ran this month after WNV-positive samples.
+Thunderstorm risk today and into the week. Overnight power outages in parts of the county were restored. Township land-swap / open-space hearing remains 8 September. High Technology High School national ranking and the forthcoming job fair at Brookdale remain local bright spots. Residual recovery from the 27 August flooding continues in low-lying pockets.
 
 **What changed since yesterday**
 
-Nepal toll and missing counts kept climbing into the 31 August desks. The Hormuz file moved from “background war” to a named U.S. strike on Larak and an Iranian reply. Uganda’s Ebola close-out is now a confirmed end. Venezuela was missing from the morning pass and is restored here — not because something new broke today, but because 6,500 dead and a million-plus still in the plan is not allowed to age off by silence.
+Nepal–Tibet toll crossed the 1,000 mark with missing counts still in the mid-4,000s; tunnel and remote searches continue. Hormuz saw a fresh tanker strike and reciprocal claims. Colombia and Venezuela remain standing recovery files with no material drop in caseload. Local calendar items (job fair, land-swap hearing) are steady.
 
 **Signal vs Noise note**
 
-Signal is the flood, the chokepoint war, and the disasters the feed has already filed away. Venezuela is the test of whether PIF means duration or only debut.
+Signal is the still-climbing Himalayan caseload, the live Hormuz energy risk, and the high-impact recoveries the broader feed has already filed away. Duration of impact, not debut volume, is the PIF test.
 
 **Story duration**
 
-- Iran / Hormuz war — months (2026 file; this strike is a new spike)
-- Nepal–Tibet floods — days, still unfolding
-- **Venezuela twin quakes — since 24 June 2026 (9+ weeks)**
-- DRC Ebola — weeks to months depending on the wave
+- Nepal–Tibet floods — days to weeks, still unfolding (started 26 August)
+- Iran / Hormuz war — months (2026 file; fresh spike)
+- **Venezuela twin quakes — since 24 June 2026 (10 weeks)**
+- **Colombia M7.4 — since 10 August 2026 (3 weeks)**
+- Haiti gang violence — multi-year, intensifying geographically
+- Sudan — since April 2023, under-covered throughout
 - Ukraine — 4+ years
-- Sudan — since April 2023, under-covered the whole time
+- Myanmar — since 2021 coup, continuing

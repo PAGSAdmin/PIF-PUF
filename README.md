@@ -29,8 +29,10 @@ Idea first noted 29 October 2014. Repo started 18 October 2025. Daily testing wi
 
 ## Read today’s example
 
-Stable link (overwritten each morning):  
-[examples/LATEST.md](examples/LATEST.md)
+Stable link: [examples/LATEST.md](examples/LATEST.md)
+
+Updated each morning at **about 7:30 a.m. US Eastern Time**.  
+That is **11:30 UTC / GMT** while the US is on daylight time, and **12:30 UTC / GMT** when the US is on standard time.
 
 Dated archive stays in `examples/DAILY_YYYY-MM-DD.md`.
 
@@ -86,7 +88,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
-| `examples/LATEST.md` | Today’s public daily reading |
+| `examples/LATEST.md` | Today’s public daily reading (new file ~7:30 a.m. US Eastern) |
 | `examples/DAILY_YYYY-MM-DD.md` | Dated archive |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |

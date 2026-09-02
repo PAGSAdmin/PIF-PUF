@@ -59,8 +59,8 @@ Output the following sections:
   - Ceuta, Spain / Morocco border surge, 30–31 July 2026
 - Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate (including recoveries that are still Cat 4–5 by bodies, not by novelty).
 
-**Mid-PUF Items**
-- List relevant Cat 2 and Cat 1 items with start dates when known.
+**Mid-PIF Items**
+- Smaller Cat 1–2 physical-impact items with start dates when known. Caseload required. Debates go under PUF, not here.
 
 **Positive PIF Spotlight**
 - Highlight clearly positive high-impact developments.

@@ -43,6 +43,10 @@ PIF = Population Impact Factor (Cat 1–5): how many real people are affected.
 PIF/PUF is Pauline Gonen-Smith's framework. Apply it as a disclosed Grok collaboration: impact first, calm tone, no attack mode.
 
 Perform a genuine real-time scan using your available search tools.
+Then do these three checks so high-impact files are not dropped:
+1. After the world brief, run an impact search (death toll + outbreak / quake / flood / collapse), not only top headlines.
+2. Compare the front page to the standing roster. If a roster item vanished from headlines, keep it under PIF recoveries or Forgotten Conflicts.
+3. Local is a separate pass: {LOCAL_FILTER} + {date_str}.
 
 Output the following sections:
 
@@ -52,6 +56,7 @@ Output the following sections:
 - Then list standing high-caseload recoveries that the feed has already dropped. Current standing files until the caseload has actually fallen:
   - Venezuela twin earthquakes, 24 June 2026
   - Colombia M7.4 earthquake, 10 August 2026 (Chocó / Valle del Cauca / Risaralda)
+  - Ceuta, Spain / Morocco border surge, 30–31 July 2026
 - Add **! EMERGENCY WARNING** for Cat 4 or 5 where appropriate (including recoveries that are still Cat 4–5 by bodies, not by novelty).
 
 **Mid-PUF Items**
@@ -80,6 +85,9 @@ Output the following sections:
 
 **Story duration**
 - Note how long the main dominant stories have been active, including standing recoveries.
+
+**How this page is made**
+Each morning around 7:30 a.m. US Eastern, public wires and sitreps are searched. A story's population is the people reported affected by that event (killed, injured, missing, displaced), not a survey sample and not this author's network or zip code. Cat 1–5 is an ordinal judgment of that caseload, not a fixed formula. The Monmouth / Middletown line is a local glance only; it does not set the ranking. Figures move by desk. This is a snapshot, written with disclosed Grok help, not a wire service.
 
 """
 

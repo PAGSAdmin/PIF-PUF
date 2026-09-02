@@ -36,37 +36,38 @@ Local filter: Monmouth / Middletown NJ.
 
 - Ukraine: overnight Russian missile and drone attack on the Kyiv region killed at least 12. Ongoing multi-year file.
 - Haiti: urban collapse and gang violence continue beyond the capital; Kenscoff and related assaults remain the latest high-casualty markers.
-- Sudan: still the largest single-country humanitarian caseload; fighting and displacement persist in Kordofan and Darfur with limited global attention.
-- Myanmar civil war: continued airstrikes, displacement and civilian harm; under-covered relative to scale.
 - Local: severe thunderstorms on 1 September closed portions of Routes 18 and 36 in Monmouth County (downed trees, flash flooding in Middletown and Monmouth Beach). Residual recovery and elevated flood risk continue.
 
 **Positive PIF Spotlight**
 
 - Last-minute flood warning by a school accountant in Nepal enabled more than 900 students and 16 faculty to escape before their school was destroyed — a concrete, lives-saved outcome amid the wider disaster.
 - Uganda’s Ebola outbreak remains closed (Africa CDC / WHO confirmation after 42 days with no new cases).
-- Monmouth County Workforce Development Fall Job Fair set for 16 September at Brookdale Community College (Lincroft) — practical local connector for residents and employers.
+
+**Forgotten Conflicts**
+
+World caseloads, not local. Sudan (still the largest single-country humanitarian file; Kordofan and Darfur). Myanmar civil war. Sahel / Mali. Haiti urban collapse. South Sudan relapse risk.
 
 **Emerging PIF**
 
 - Secondary glacier / lake-burst risk still flagged along the Nepal–China flood corridor.
 - Shipping and energy-price volatility if Hormuz remains contested.
-- Late-summer West Nile virus watch in Monmouth after earlier positive mosquito pools; further storms possible this week.
 
 **Top Surfacing PUF**
 
 - **Politics**: U.S.–Iran strike/counter-strike cycle; SCO summit aftermath in Bishkek; House passage of short-term funding to avert a U.S. government shutdown before the midterms; Spanish nationwide rallies and government–opposition fight over Ceuta.
-- **Policies**: Middletown open-space / land-swap hearing still on calendar for 8 September; Monmouth job fair and workforce programs; ongoing mosquito control; Spain expanding temporary shelter in Ceuta and debating returns law.
+- **Policies**: Spain expanding temporary shelter in Ceuta and debating returns law.
 - **Understanding**: Himalayan glacial collapse as climate + topography + infrastructure exposure; Venezuela and Colombia as what Cat 4–5 recovery looks like weeks to months later when cameras leave; Hormuz as household fuel and shipping risk; Ceuta as a small city absorbing a surge larger than itself, then a month of leftover camps.
-- **Fun**: Monmouth “Pound the Pavement” pancreatic-cancer walk still set for 19 September in Neptune; local job fair as community connector.
-- **Forgotten Conflicts**: **Venezuela quake recovery**, **Colombia quake recovery**, and **Ceuta remaining caseload** (all still in PIF); Sudan (largest humanitarian caseload); Myanmar civil war; Sahel / Mali; Haiti urban collapse; South Sudan relapse risk.
+- **Fun**: No world-level breakthrough today.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-Not quiet. Severe storms on 1 September produced road closures on Routes 18 and 36, flash flooding in Middletown and Monmouth Beach, and power outages that were later restored. Further thunderstorm risk continues into the week. Township land-swap / open-space hearing remains 8 September. The forthcoming job fair at Brookdale and residual recovery from the late-August flooding are the standing local files.
+Physical: severe storms on 1 September — Routes 18 and 36 closures, flash flooding in Middletown and Monmouth Beach; further thunderstorm risk this week; residual late-August flood recovery; West Nile watch after earlier positive mosquito pools.
+
+Local PUF: township open-space / land-swap hearing 8 September; Monmouth Workforce Development Fall Job Fair 16 September at Brookdale (Lincroft); “Pound the Pavement” pancreatic-cancer walk 19 September in Neptune; ongoing mosquito control.
 
 **What changed since yesterday**
 
-Nepal–Tibet toll rose to 1,127 with missing counts still in the multi-thousands; search hopes are dimming. Hormuz saw a new U.S. strike wave and Iranian retaliation across the region. Ukraine registered a fresh high-casualty strike on the capital region. Colombia and Venezuela remain standing recovery files. Ceuta remains on the page — five weeks on, thousands still in the enclave, rallies across Spain today.
+Nepal–Tibet toll rose to 1,127 with missing counts still in the multi-thousands; search hopes are dimming. Hormuz saw a new U.S. strike wave and Iranian retaliation across the region. Ukraine registered a fresh high-casualty strike on the capital region. Colombia, Venezuela and Ceuta remain standing files.
 
 **Signal vs Noise note**
 
@@ -80,11 +81,11 @@ Signal is the still-climbing Himalayan caseload, the live Hormuz energy risk, th
 - **Colombia M7.4 — since 10 August 2026 (3+ weeks)**
 - **Ceuta border surge — since 30 July 2026 (5 weeks)**
 - Ukraine — 4+ years
-- Haiti gang violence — multi-year, intensifying geographically
-- Sudan — since April 2023, under-covered throughout
-- Myanmar — since 2021 coup, continuing
+- Haiti gang violence — multi-year
+- Sudan — since April 2023
+- Myanmar — since 2021 coup
 
 ---
 
 **How this page is made**  
-Each morning around 7:30 a.m. US Eastern, public wires and sitreps are searched. A story’s “population” is the people reported affected by *that* event (killed, injured, missing, displaced), not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload, not a fixed formula. The Monmouth / Middletown line is a local glance only; it does not set the ranking. Figures move by desk. This is a snapshot, written with disclosed Grok help, not a wire service.
+Each morning around 7:30 a.m. US Eastern, public wires and sitreps are searched. A story’s “population” is the people reported affected by *that* event (killed, injured, missing, displaced), not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload, not a fixed formula. The Monmouth / Middletown line is a local glance only; it does not set the ranking. Local PUF stays in that section. Figures move by desk. This is a snapshot, written with disclosed Grok help, not a wire service.

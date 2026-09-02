@@ -17,8 +17,8 @@ Open source (MIT). Unpaid public good. Use it, copy it, tweak it. Credit is appr
 
 A simple alternative to algorithmic feeds. Instead of ranking posts by engagement, it asks:
 
-1. **How many real people are affected?** (PIF — Population Impact Factor, Cat 1–5)
-2. **What kind of story is the rest?** (PUF: Politics, Policies, Understanding, Fun, Forgotten Conflicts)
+1. **How many real people are affected?** (PIF — Population Impact Factor, Cat 1–5, including Forgotten Conflicts)
+2. **What kind of story is the rest?** (PUF: Politics, Policies, Understanding, Fun)
 3. **What is not news?** (JBSM: Jabber, Blabber, Sour, Misc)
 
 The daily reading is the part that is actually in use. A fresh public copy is written to GitHub each morning.
@@ -49,9 +49,10 @@ Copy the printed prompt into Grok with today’s date. You get:
 - **PIF** — up to 8 Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
 - **Mid-PIF Items** — smaller Cat 1–2 impact items with start dates when known
 - **Positive PIF Spotlight** — counters negativity bias on purpose
+- **Forgotten Conflicts** — world caseloads the feed has dropped (PIF, not PUF)
 - **Emerging PIF** — early signals
-- **Top Surfacing PUF** — Politics / Policies / Understanding / Fun / Forgotten Conflicts
-- **Local Filter** — default Monmouth / Middletown NJ (change it in the script)
+- **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
+- **Local Filter** — default Monmouth / Middletown NJ; local PUF lives here too
 - **What changed since yesterday**
 - **Signal vs Noise**
 - **Story duration**

@@ -40,13 +40,15 @@ def generate_daily_prompt() -> str:
     prompt = f"""You are ClarityGuard applying the PIF/PUF framework for a daily reading on {date_str}.
 
 PIF = Population Impact Factor (Cat 1–5): how many real people are affected.
+Forgotten Conflicts are PIF (world caseloads the feed dropped), not PUF.
+PUF = Politics, Policies, Understanding, Fun only.
 PIF/PUF is Pauline Gonen-Smith's framework. Apply it as a disclosed Grok collaboration: impact first, calm tone, no attack mode.
 
 Perform a genuine real-time scan using your available search tools.
 Then do these three checks so high-impact files are not dropped:
 1. After the world brief, run an impact search (death toll + outbreak / quake / flood / collapse), not only top headlines.
 2. Compare the front page to the standing roster. If a roster item vanished from headlines, keep it under PIF recoveries or Forgotten Conflicts.
-3. Local is a separate pass: {LOCAL_FILTER} + {date_str}.
+3. Local is a separate pass: {LOCAL_FILTER} + {date_str}. Local PUF items belong in Local Filter, not in world PUF.
 
 Output the following sections:
 
@@ -65,6 +67,9 @@ Output the following sections:
 **Positive PIF Spotlight**
 - Highlight clearly positive high-impact developments.
 
+**Forgotten Conflicts**
+- World only. Wars and high-caseload files the feed has dropped (Sudan, Myanmar, Sahel, Haiti, South Sudan, and any peer). Not local. Not PUF.
+
 **Emerging PIF**
 - Note any developing future signals worth watching.
 
@@ -73,9 +78,9 @@ Output the following sections:
 - **Policies**
 - **Understanding** (use sub-tags where helpful)
 - **Fun** — Only stories that genuinely break through about large celebrations, major sports/games, awards, or reasonable positive PIF-level joyful events.
-- **Forgotten Conflicts**
 
 **Local Filter** ({LOCAL_FILTER})
+- Local physical files and any local PUF (hearings, town politics, local fun).
 
 **What changed since yesterday**
 - One short paragraph summarizing the main shifts from the previous day.

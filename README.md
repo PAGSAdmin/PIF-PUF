@@ -47,7 +47,7 @@ python pif_puf.py
 Copy the printed prompt into Grok with today’s date. You get:
 
 - **PIF** — up to 8 Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
-- **Mid-PUF Items** — smaller Cat 1–2 items with start dates when known
+- **Mid-PIF Items** — smaller Cat 1–2 impact items with start dates when known
 - **Positive PIF Spotlight** — counters negativity bias on purpose
 - **Emerging PIF** — early signals
 - **Top Surfacing PUF** — Politics / Policies / Understanding / Fun / Forgotten Conflicts

@@ -9,7 +9,7 @@ PIF = Population Impact Factor.
 # Daily reading — 2 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 2 September 2026; Ceuta line and methods note added the same day after a miss. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 2 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -32,7 +32,7 @@ Local filter: Monmouth / Middletown NJ.
 5. **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4** (humanitarian, still live)  
    About **72,000** people crossed into the enclave (~80,000 residents) in two days. Deaths at the surge are reported in a range: Spanish officials ~72 early on; Ceuta’s mayor and later tallies **~100+** on the Spanish side; Wikipedia compiles **at least 111** including Morocco. Most of those who crossed returned within days. **5,000–10,000** remain in camps and streets (government vs local/police counts disagree). Nationwide solidarity rallies are planned in Spain today. This is physical overcrowding and a recorded death toll, not only a politics story — though PUF Politics is loud around it.
 
-**Mid-PUF Items**
+**Mid-PIF Items**
 
 - Ukraine: overnight Russian missile and drone attack on the Kyiv region killed at least 12. Ongoing multi-year file.
 - Haiti: urban collapse and gang violence continue beyond the capital; Kenscoff and related assaults remain the latest high-casualty markers.
@@ -66,7 +66,7 @@ Not quiet. Severe storms on 1 September produced road closures on Routes 18 and 
 
 **What changed since yesterday**
 
-Nepal–Tibet toll rose to 1,127 with missing counts still in the multi-thousands; search hopes are dimming. Hormuz saw a new U.S. strike wave and Iranian retaliation across the region. Ukraine registered a fresh high-casualty strike on the capital region. Colombia and Venezuela remain standing recovery files. Ceuta was missing from the 7:30 pass and is restored here — five weeks on, thousands still in the enclave, rallies across Spain today.
+Nepal–Tibet toll rose to 1,127 with missing counts still in the multi-thousands; search hopes are dimming. Hormuz saw a new U.S. strike wave and Iranian retaliation across the region. Ukraine registered a fresh high-casualty strike on the capital region. Colombia and Venezuela remain standing recovery files. Ceuta remains on the page — five weeks on, thousands still in the enclave, rallies across Spain today.
 
 **Signal vs Noise note**
 

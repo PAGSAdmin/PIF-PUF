@@ -9,7 +9,7 @@ PIF = Population Impact Factor.
 # Daily reading — 4 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 4 September 2026. Hormuz restored the same morning after it was dropped for lack of a new strike. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 4 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -21,10 +21,10 @@ Local filter: Monmouth / Middletown NJ.
    NDRRMA / Nepal Police: death toll 1,252–1,259; roughly 4,200–5,083 still missing or unaccounted for. About 12,000 rescued. Tenth day.
 
 2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Official figures near 6,186–6,250 confirmed cases and 3,007–3,039 deaths (CFR ~48–49 %). Active in multiple provinces; Africa CDC notes early plateau signals, not yet controlled.
+   DRC sitrep as of 1 September, cited by Africa CDC on 3 September: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**), 1,439 recovered; 60 health zones in six provinces. Reuters on 2 September carried an earlier government cut of 6,186 cases / 3,007 deaths. WHO Disease Outbreak News on the file is still dated 30 July (3,605 / 1,587) and is behind the national table. Africa CDC: early plateau, not controlled; four zones past 42 days with no new case; transmission still active in most affected zones. Declared 15 May 2026; PHEIC 17 May. Uganda’s separate imported cluster is closed.
 
 3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Standing energy and shipping file since late February 2026. UKMTO overview dated 4 September: AIS transits still about **90% below** pre-conflict baseline; tanker traffic still dominant among the ships that do move; southern corridor remains the highest-risk lane. IMO has recorded **21 seafarer deaths** in the related incidents. Household fuel-price and electricity exposure continues even on a quiet news day. No new strike overnight is not closure.
+   Standing energy and shipping file since late February 2026. UKMTO 4 September: AIS transits still about **90% below** pre-conflict baseline. IMO: **21 seafarer deaths** in related incidents. Quiet overnight is not closure.
 
 4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509 in late August tallies; UN plan still covers a large displaced caseload.
@@ -57,13 +57,12 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 - Further Himalayan lake-burst / glacier risk (UN).
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
-- Hormuz traffic remaining suppressed if escorts or attacks resume.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S.–Iran file (the *debate*); Spanish Ceuta returns.
+- **Politics**: U.S.–Iran file (the debate); Spanish Ceuta returns.
 - **Policies**: Spain shelter/returns; USDA livestock protocol.
-- **Understanding**: duration vs debut — Hormuz is the test case today; Himalayan glacial-flood cascade.
+- **Understanding**: duration vs debut; Himalayan glacial-flood cascade; DRC Ebola as the second-largest outbreak on record after West Africa 2014–16, with no licensed Bundibugyo vaccine.
 - **Fun**: NZ DOC tally: kākāpō population **325** after 90 chicks added (1 September register). Still critically endangered.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -74,17 +73,17 @@ Local PUF: Circus Liquors housing settlement pending October fairness hearing; l
 
 **What changed since yesterday**
 
-Nepal totals edged up. DRC Ebola remains the largest active outbreak file. Hormuz was missing from the 7:30 pass and is restored from UKMTO/IMO tables — quiet overnight, not over. Standing recoveries unchanged.
+Nepal totals edged up. DRC Ebola checked against Africa CDC / DRC sitrep (1 Sept table): 6,250 / 3,039. Hormuz restored from UKMTO/IMO. Standing recoveries unchanged.
 
 **Signal vs Noise note**
 
-Himalayan caseload and DRC outbreak dominate measured impact. Hormuz is the reminder that energy exposure does not clock out when the strike cycle pauses.
+Himalayan caseload and DRC outbreak dominate measured impact. Hormuz is energy exposure that does not clock out on a quiet night.
 
 **Story duration**
 
 - Nepal–Tibet floods — from 26 August 2026
-- DRC Ebola — from mid-May 2026
-- Iran / Hormuz — from 28 February 2026 (six months)
+- DRC Ebola — declared 15 May 2026
+- Iran / Hormuz — from 28 February 2026
 - Venezuela — since 24 June 2026
 - Colombia — since 10 August 2026
 - Ceuta — since 30 July 2026

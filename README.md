@@ -1,6 +1,8 @@
 # PIF/PUF + ClarityGuard
 
-![PIF/PUF Logo](https://raw.githubusercontent.com/PAGSAdmin/PIF-PUF/main/PIF_PUF_Wynn.Logo.png)
+<p align="center">
+  <img src="PIF_PUF_Wynn.Logo.png" alt="PIF/PUF logo" width="220">
+</p>
 
 **PIF = Population Impact Factor.** News by how many real people are affected (Cat 1–5).  
 **ClarityGuard = the calm prompt voice that applies that lens.**

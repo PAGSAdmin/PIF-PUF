@@ -9,7 +9,7 @@ PIF = Population Impact Factor.
 # Daily reading — 4 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 4 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 4 September 2026. Hormuz restored the same morning after it was dropped for lack of a new strike. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -18,19 +18,22 @@ Local filter: Monmouth / Middletown NJ.
 **PIF** (Population Impact Factor)
 
 1) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   NDRRMA / Nepal Police figures: death toll 1,252–1,259; roughly 4,200–5,083 still missing or unaccounted for. About 12,000 rescued. Tenth day. China side reports low double-digit deaths and hundreds missing.
+   NDRRMA / Nepal Police: death toll 1,252–1,259; roughly 4,200–5,083 still missing or unaccounted for. About 12,000 rescued. Tenth day.
 
 2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Official figures near 6,186–6,250 confirmed cases and 3,007–3,039 deaths (CFR ~48–49 %). Active in multiple provinces and health zones; Africa CDC notes early plateau signals but not yet controlled.
+   Official figures near 6,186–6,250 confirmed cases and 3,007–3,039 deaths (CFR ~48–49 %). Active in multiple provinces; Africa CDC notes early plateau signals, not yet controlled.
 
-3) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
-   Standing recovery file. Official dead held near 6,509 in late August tallies; large displaced caseload continues under UN plans.
+3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+   Standing energy and shipping file since late February 2026. UKMTO overview dated 4 September: AIS transits still about **90% below** pre-conflict baseline; tanker traffic still dominant among the ships that do move; southern corridor remains the highest-risk lane. IMO has recorded **21 seafarer deaths** in the related incidents. Household fuel-price and electricity exposure continues even on a quiet news day. No new strike overnight is not closure.
 
-4) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
-   UNGRD figures near **331** dead, ~240 missing, hundreds of thousands affected across multiple departments.
+4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
+   Official dead held near 6,509 in late August tallies; UN plan still covers a large displaced caseload.
 
-5) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
-   About **72,000** crossed; deaths reported in the 72–80+ range on the Spanish side (higher in some earlier tallies). Thousands remain in camps. Madrid debate is PUF Politics.
+5) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
+   UNGRD figures near **331** dead, ~240 missing, hundreds of thousands affected.
+
+6) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
+   About **72,000** crossed; deaths reported in a range. Thousands remain in camps. Madrid debate is PUF Politics.
 
 **Mid-PIF Items**
 
@@ -40,46 +43,48 @@ Local filter: Monmouth / Middletown NJ.
 
 **Positive PIF Spotlight**
 
-- Nepal school warning still the clearest measured lives-saved count in that file (hundreds of students and staff evacuated before structural loss).
-- Two men rescued alive from a hydropower tunnel days after the Nepal floods (agency and wire confirmation).
-- Uganda Ebola outbreak remains closed (Africa CDC / WHO; prior 42-day clear).
-- USDA/APHIS phased reopen of selected southern ports to Mexican cattle under screwworm protocol (Douglas, AZ from late August). Livelihoods, not eradication.
+- Nepal school warning: hundreds of students and staff out before structural loss.
+- Two men rescued alive from a hydropower tunnel after the Nepal floods.
+- Uganda Ebola outbreak remains closed (Africa CDC / WHO).
+- USDA/APHIS phased reopen of selected southern ports to Mexican cattle (Douglas, AZ). Livelihoods, not eradication of screwworm.
 
 **Forgotten Conflicts**
 
-Sudan (UN / OCHA still among the largest single-country humanitarian files). Myanmar. Sahel / Mali. Haiti. South Sudan.
+Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 
 **Emerging PIF**
 
-- Further Himalayan lake-burst / glacier risk (UN warnings).
-- New World screwworm still present in Mexico and limited U.S. detections (USDA/APHIS).
-- Greater Horn of Africa food insecurity and health crisis (WHO strategic plan covering tens of millions).
+- Further Himalayan lake-burst / glacier risk (UN).
+- New World screwworm still present (USDA/APHIS).
+- Greater Horn of Africa food insecurity (WHO).
+- Hormuz traffic remaining suppressed if escorts or attacks resume.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S.–Iran / regional file; Spanish Ceuta returns and EU migration debate.
-- **Policies**: Spain shelter/returns; USDA livestock protocol and port reopenings.
-- **Understanding**: duration vs debut on standing recoveries; Himalayan glacial-flood cascade risk.
-- **Fun**: NZ Department of Conservation official tally: kākāpō population **325** after 90 chicks from the 2026 season were added (past 300 for the first time in about 75 years). Still critically endangered. (DOC media release 1 September; still the strongest measured positive item.)
+- **Politics**: U.S.–Iran file (the *debate*); Spanish Ceuta returns.
+- **Policies**: Spain shelter/returns; USDA livestock protocol.
+- **Understanding**: duration vs debut — Hormuz is the test case today; Himalayan glacial-flood cascade.
+- **Fun**: NZ DOC tally: kākāpō population **325** after 90 chicks added (1 September register). Still critically endangered.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-Physical: warm, humid day with slight afternoon thunderstorm chance; residual storm effects noted earlier in the week.
+Physical: warm, humid; slight afternoon thunderstorm chance.
 
-Local PUF: Circus Liquors site affordable-housing settlement still pending court fairness hearing (October); land-swap hearing 8 September; High Tech High School national STEM ranking; Pound the Pavement pancreatic-cancer walk 19 September; Wind & Sea Festival 19 September at Bayshore Waterfront Park.
+Local PUF: Circus Liquors housing settlement pending October fairness hearing; land-swap 8 September; High Tech HS STEM ranking; Pound the Pavement 19 September; Wind & Sea Festival 19 September, Bayshore Waterfront Park.
 
 **What changed since yesterday**
 
-Nepal NDRRMA/Police totals edged higher into the 1,252–1,259 range with missing figures still in the thousands. DRC Ebola caseload remains the largest active outbreak file. Standing recoveries (Venezuela, Colombia, Ceuta, Flores) unchanged in order. Positive and Fun lines remain tied to agency counts (NDRRMA, WHO/Africa CDC, USDA/APHIS, NZ DOC).
+Nepal totals edged up. DRC Ebola remains the largest active outbreak file. Hormuz was missing from the 7:30 pass and is restored from UKMTO/IMO tables — quiet overnight, not over. Standing recoveries unchanged.
 
 **Signal vs Noise note**
 
-Himalayan caseload and DRC outbreak dominate measured impact. Standing recoveries and measured positives hold their place. Good-impact items today are still measured and modest.
+Himalayan caseload and DRC outbreak dominate measured impact. Hormuz is the reminder that energy exposure does not clock out when the strike cycle pauses.
 
 **Story duration**
 
 - Nepal–Tibet floods — from 26 August 2026
 - DRC Ebola — from mid-May 2026
+- Iran / Hormuz — from 28 February 2026 (six months)
 - Venezuela — since 24 June 2026
 - Colombia — since 10 August 2026
 - Ceuta — since 30 July 2026
@@ -91,4 +96,4 @@ Himalayan caseload and DRC outbreak dominate measured impact. Standing recoverie
 ---
 
 **How this page is made**  
-Each morning around 7:30 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. The Monmouth / Middletown line is a local glance only. Local PUF stays there. Snapshot, disclosed Grok help, not a wire service.
+Each morning around 7:30 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. The Monmouth / Middletown line is a local glance only. Local PUF stays there. Snapshot, disclosed Grok help, not a wire service.

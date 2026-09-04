@@ -73,7 +73,7 @@ Local PUF: Circus Liquors housing settlement pending October fairness hearing; l
 
 **What changed since yesterday**
 
-Nepal totals edged up. DRC Ebola checked against Africa CDC / DRC sitrep (1 Sept table): 6,250 / 3,039. Hormuz restored from UKMTO/IMO. Standing recoveries unchanged.
+Compared with the 3 September page: DRC Bundibugyo Ebola is now on the main PIF list (Africa CDC / DRC sitrep 1 September: 6,250 cases / 3,039 deaths). Nepal Police / NDRRMA totals moved from 1,243–1,252 to 1,252–1,259. Hormuz remains a standing Cat 4 file. Venezuela, Colombia, Ceuta and Flores are unchanged. That is the day-to-day delta — not later same-day edits.
 
 **Signal vs Noise note**
 

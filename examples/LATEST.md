@@ -37,7 +37,7 @@ Local filter: Monmouth / Middletown NJ.
 
 **Mid-PIF Items**
 
-- Ukraine: capital-region and infrastructure strikes continue (physical file). Talks and “will the U.S. still help” sit under Politics.
+- Ukraine: capital-region and infrastructure strikes continue (physical file). Talks sit under Politics.
 - Haiti: urban collapse and gang violence beyond the capital.
 - Indonesia Flores / NTT (15 August 2026): standing recovery, **111** dead (BNPB).
 
@@ -61,10 +61,10 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S. midterms — mail-in ballots and a White House emergency appeal to the Supreme Court; Vance declining to call the Iran fight a “war”; dispute over the Bandar Sirik wedding strike; Madrid fight over Ceuta; renewed talk of Kyiv/Moscow envoys (the *talk*, not the overnight casualties).
-- **Policies**: proposed USPS role as mail-ballot gatekeeper (district block; SCOTUS ask); Spain shelter/returns rules for remaining Ceuta arrivals; USDA livestock protocol at the southern border; New Zealand Medsafe authorization of pharmaceutical MDMA with psychotherapy for severe PTSD (second country after Australia).
-- **Understanding**: duration vs debut on standing recoveries; Himalayan glacial-flood cascade; Bundibugyo Ebola as the second-largest outbreak on record with no licensed vaccine; “not a war” versus UKMTO tables showing six months of suppressed transits.
-- **Fun**: NZ DOC tally: kākāpō population **325** after 90 chicks added (1 September register). Still critically endangered.
+- **Politics**: U.S. midterms — mail-in ballots and a White House emergency appeal to the Supreme Court; Vance declining to call the Iran fight a “war”; dispute over the Bandar Sirik wedding strike; Madrid fight over Ceuta; Kyiv/Moscow envoy talk.
+- **Policies**: proposed USPS mail-ballot gatekeeper rule; Spain shelter/returns; USDA livestock protocol; New Zealand Medsafe authorization of pharmaceutical MDMA with psychotherapy for severe PTSD.
+- **Understanding**: duration vs debut; Himalayan glacial-flood cascade; Bundibugyo Ebola with no licensed vaccine; “not a war” versus UKMTO tables.
+- **Fun**: FIBA Women’s Basketball World Cup opens today (4–13 September). US Open tennis still in its second week. Mediterranean Games in Taranto closed yesterday. (Kākāpō 325 remains the conservation register from 1 September; not today’s Fun line.)
 
 **Local Filter** (Monmouth / Middletown NJ)
 

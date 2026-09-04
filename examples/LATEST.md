@@ -21,7 +21,7 @@ Local filter: Monmouth / Middletown NJ.
    NDRRMA / Nepal Police: death toll 1,252–1,259; roughly 4,200–5,083 still missing or unaccounted for. About 12,000 rescued. Tenth day.
 
 2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   DRC sitrep as of 1 September, cited by Africa CDC on 3 September: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**), 1,439 recovered; 60 health zones in six provinces. Reuters on 2 September carried an earlier government cut of 6,186 cases / 3,007 deaths. WHO Disease Outbreak News on the file is still dated 30 July (3,605 / 1,587) and is behind the national table. Africa CDC: early plateau, not controlled; four zones past 42 days with no new case; transmission still active in most affected zones. Declared 15 May 2026; PHEIC 17 May. Uganda’s separate imported cluster is closed.
+   DRC sitrep as of 1 September, cited by Africa CDC on 3 September: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**), 1,439 recovered; 60 health zones in six provinces. WHO DON on this file is still dated 30 July and is behind the national table. Africa CDC: early plateau, not controlled. Declared 15 May 2026. Uganda’s separate imported cluster is closed.
 
 3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Standing energy and shipping file since late February 2026. UKMTO 4 September: AIS transits still about **90% below** pre-conflict baseline. IMO: **21 seafarer deaths** in related incidents. Quiet overnight is not closure.
@@ -37,7 +37,7 @@ Local filter: Monmouth / Middletown NJ.
 
 **Mid-PIF Items**
 
-- Ukraine: ongoing capital-region and infrastructure strikes.
+- Ukraine: capital-region and infrastructure strikes continue (physical file). Talks and “will the U.S. still help” sit under Politics.
 - Haiti: urban collapse and gang violence beyond the capital.
 - Indonesia Flores / NTT (15 August 2026): standing recovery, **111** dead (BNPB).
 
@@ -46,7 +46,7 @@ Local filter: Monmouth / Middletown NJ.
 - Nepal school warning: hundreds of students and staff out before structural loss.
 - Two men rescued alive from a hydropower tunnel after the Nepal floods.
 - Uganda Ebola outbreak remains closed (Africa CDC / WHO).
-- USDA/APHIS phased reopen of selected southern ports to Mexican cattle (Douglas, AZ). Livelihoods, not eradication of screwworm.
+- USDA/APHIS phased reopen of selected southern ports to Mexican cattle (Douglas, AZ).
 
 **Forgotten Conflicts**
 
@@ -57,12 +57,13 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 - Further Himalayan lake-burst / glacier risk (UN).
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
+- UN warning of a strong El Niño into early 2027 — weather exposure, not yet a counted disaster.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S.–Iran file (the debate); Spanish Ceuta returns.
-- **Policies**: Spain shelter/returns; USDA livestock protocol.
-- **Understanding**: duration vs debut; Himalayan glacial-flood cascade; DRC Ebola as the second-largest outbreak on record after West Africa 2014–16, with no licensed Bundibugyo vaccine.
+- **Politics**: U.S. midterms — mail-in ballots and a White House emergency appeal to the Supreme Court; Vance declining to call the Iran fight a “war”; dispute over the Bandar Sirik wedding strike; Madrid fight over Ceuta; renewed talk of Kyiv/Moscow envoys (the *talk*, not the overnight casualties).
+- **Policies**: proposed USPS role as mail-ballot gatekeeper (district block; SCOTUS ask); Spain shelter/returns rules for remaining Ceuta arrivals; USDA livestock protocol at the southern border; New Zealand Medsafe authorization of pharmaceutical MDMA with psychotherapy for severe PTSD (second country after Australia).
+- **Understanding**: duration vs debut on standing recoveries; Himalayan glacial-flood cascade; Bundibugyo Ebola as the second-largest outbreak on record with no licensed vaccine; “not a war” versus UKMTO tables showing six months of suppressed transits.
 - **Fun**: NZ DOC tally: kākāpō population **325** after 90 chicks added (1 September register). Still critically endangered.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -77,7 +78,7 @@ Compared with the 3 September page: DRC Bundibugyo Ebola is now on the main PIF 
 
 **Signal vs Noise note**
 
-Himalayan caseload and DRC outbreak dominate measured impact. Hormuz is energy exposure that does not clock out on a quiet night.
+Himalayan caseload and DRC outbreak dominate measured impact. Most of what is trending this morning is PUF — midterms and the naming of the Iran fight — not a new PIF shock.
 
 **Story duration**
 

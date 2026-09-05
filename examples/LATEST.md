@@ -9,7 +9,7 @@ PIF = Population Impact Factor.
 # Daily reading — 5 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 5 September 2026. Second pass the same morning. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 5 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -21,10 +21,10 @@ Local filter: Monmouth / Middletown NJ.
    Nepal Police / NDRRMA, 5 September: death toll **1,344** in Nepal; about **4,898** still missing; more than **13,000** rescued. Eleventh day.
 
 2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   1 September sitrep via Africa CDC: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**). Still not controlled. WHO DON remains behind that table.
+   1 September sitrep via Africa CDC: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**). Still not controlled.
 
 3) **Strait of Hormuz / Iran war file** → **Cat 4**  
-   Standing exposure, not a new shock today. Last UKMTO overview (4 September): AIS transits still about **90% below** pre-conflict baseline. Early-week tanker hits and two seafarer deaths on the Saudi tanker *Sidr* are already in that file. Overnight chatter (unverified tanker-hit claims) is PUF Politics until UKMTO or IMO add a line. Leave it on the list because the table has not recovered — not because the feed is loud.
+   UKMTO overview, 4 September: AIS transits still about **90% below** the pre-conflict baseline. Early-week tanker hits and two seafarer deaths on the Saudi tanker *Sidr* remain the latest counted maritime casualties. Unverified Saturday tanker claims sit under Politics until a maritime desk records them.
 
 4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -40,8 +40,8 @@ Local filter: Monmouth / Middletown NJ.
 - Ukraine: capital-region and infrastructure strikes continue.
 - Haiti: urban collapse and gang violence beyond the capital.
 - Indonesia Flores / NTT (15 August 2026): **111** dead (BNPB).
-- Nigeria, Rivers State: at least **37** dead after inhaling fumes while siphoning from an illegally tapped pipeline (AFP, 4 September). One-day industrial accident, not a standing outbreak.
-- Japan Kumamoto (28 July 2026): building-damage tally still being revised (FDMA / prefecture); rain on damaged roofs remains the local hazard. Not a new quake today.
+- Nigeria, Rivers State: at least **37** dead after inhaling fumes while siphoning from an illegally tapped pipeline (AFP, 4 September).
+- Japan Kumamoto (28 July 2026): building-damage tally still being revised; rain on damaged roofs remains the local hazard.
 
 **Positive PIF Spotlight**
 
@@ -56,16 +56,16 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 **Emerging PIF**
 
 - Further Himalayan lake-burst / glacier risk; a M5.1 in Tibet on 3 September with no reported casualties.
-- East Malaysia haze emergency in Serian, Sarawak (schools closed after Kalimantan fire smoke).
-- Jiangxi, China mudslide under Typhoon Saudel: **1** dead, **11** missing (5 September) — watch, not a list item.
+- East Malaysia haze emergency in Serian, Sarawak, after Kalimantan fire smoke; schools closed.
+- Jiangxi, China mudslide under Typhoon Saudel: **1** dead, **11** missing (5 September).
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S. midterms and mail-in/SCOTUS fight; naming of the Iran conflict and unverified Saturday tanker claims; Madrid fight over Ceuta.
+- **Politics**: U.S. midterms and mail-in/SCOTUS fight; naming of the Iran conflict; Madrid fight over Ceuta.
 - **Policies**: USPS mail-ballot rule still in the courts; Spain shelter/returns; USDA livestock protocol.
-- **Understanding**: duration vs debut; Himalayan glacial-flood cascade; Bundibugyo with no licensed vaccine; Hormuz chat versus the UKMTO table.
+- **Understanding**: duration vs debut; Himalayan glacial-flood cascade; Bundibugyo with no licensed vaccine.
 - **Fun**: FIBA Women’s Basketball World Cup, day two in Berlin.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -76,11 +76,11 @@ Local PUF: land-swap hearing 8 September; job fair 16 September at Brookdale; Po
 
 **What changed since yesterday**
 
-Compared with the 4 September page: Nepal Police totals moved from 1,252–1,259 to **1,344**, missing near 4,898. DRC Ebola unchanged from the 1 September sitrep. Hormuz remains on the table, not because of overnight chat. Venezuela, Colombia, Ceuta and Flores remain. Mid-PIF adds the Rivers State pipeline deaths. New measured positive: a woman rescued after 10 days.
+Compared with the 4 September page: Nepal Police totals moved from 1,252–1,259 to **1,344**, missing near 4,898. DRC Ebola unchanged from the 1 September sitrep. Hormuz, Venezuela, Colombia, Ceuta and Flores remain. Mid-PIF adds the Rivers State pipeline deaths. New measured positive: a woman rescued after 10 days.
 
 **Signal vs Noise note**
 
-Nepal is the only list item whose official total moved overnight. Hormuz noise is high; the maritime table is unchanged.
+Nepal is the only list item whose official total moved overnight. The Hormuz maritime table is unchanged.
 
 **Story duration**
 

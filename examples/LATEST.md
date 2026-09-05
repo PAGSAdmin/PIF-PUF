@@ -9,7 +9,7 @@ PIF = Population Impact Factor.
 # Daily reading — 5 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 5 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked morning and afternoon of 5 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ.
 
@@ -23,8 +23,8 @@ Local filter: Monmouth / Middletown NJ.
 2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    1 September sitrep via Africa CDC: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**). Still not controlled.
 
-3) **Strait of Hormuz / Iran war file** → **Cat 4**  
-   UKMTO overview, 4 September: AIS transits still about **90% below** the pre-conflict baseline. Early-week tanker hits and two seafarer deaths on the Saudi tanker *Sidr* remain the latest counted maritime casualties. Unverified Saturday tanker claims sit under Politics until a maritime desk records them.
+3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+   UKMTO overview, 4 September: AIS transits still about **90% below** the pre-conflict baseline. CENTCOM statement, 5 September: IRGC ballistic missiles toward two U.S. Navy warships; no U.S. personnel harmed; U.S. forces then struck three IRGC crude carriers — M/T *Downy* off Kharg Island, M/T *Stark 1* near Jask, and unladen M/T *Kylo* (*Noxen*) in the Gulf of Oman after the crew was directed to abandon ship. Counted seafarer deaths on commercial hulls remain the early-week *Sidr* casualties until IMO or UKMTO add a new line.
 
 4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -60,10 +60,11 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 - Jiangxi, China mudslide under Typhoon Saudel: **1** dead, **11** missing (5 September).
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
+- Hormuz: further restriction of commercial transit if the 5 September exchange continues.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S. midterms and mail-in/SCOTUS fight; naming of the Iran conflict; Madrid fight over Ceuta.
+- **Politics**: CENTCOM–IRGC exchange of 5 September; U.S. midterms and mail-in/SCOTUS fight; Madrid fight over Ceuta.
 - **Policies**: USPS mail-ballot rule still in the courts; Spain shelter/returns; USDA livestock protocol.
 - **Understanding**: duration vs debut; Himalayan glacial-flood cascade; Bundibugyo with no licensed vaccine.
 - **Fun**: FIBA Women’s Basketball World Cup, day two in Berlin.
@@ -76,11 +77,11 @@ Local PUF: land-swap hearing 8 September; job fair 16 September at Brookdale; Po
 
 **What changed since yesterday**
 
-Compared with the 4 September page: Nepal Police totals moved from 1,252–1,259 to **1,344**, missing near 4,898. DRC Ebola unchanged from the 1 September sitrep. Hormuz, Venezuela, Colombia, Ceuta and Flores remain. Mid-PIF adds the Rivers State pipeline deaths. New measured positive: a woman rescued after 10 days.
+Compared with the 4 September page: Nepal Police totals moved from 1,252–1,259 to **1,344**. DRC Ebola unchanged from the 1 September sitrep. Afternoon of 5 September: CENTCOM recorded missiles toward two U.S. warships and strikes on three IRGC tankers. Venezuela, Colombia, Ceuta and Flores remain.
 
 **Signal vs Noise note**
 
-Nepal is the only list item whose official total moved overnight. The Hormuz maritime table is unchanged.
+Nepal remains the climbing humanitarian caseload. Hormuz is a live official exchange as of this afternoon; the UKMTO transit table is still the 4 September cut.
 
 **Story duration**
 

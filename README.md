@@ -29,12 +29,24 @@ Idea first noted 29 October 2014. Repo started 18 October 2025. Daily testing wi
 
 ---
 
+## Scope and method
+
+This is not a world census.
+
+The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
+
+Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Social volume is a miss-check, not a ranking. Snapshot, disclosed Grok help, not a wire service.
+
+The same wording appears at the top and bottom of each [daily reading](examples/LATEST.md).
+
+---
+
 ## Read today’s example
 
 Stable link: [examples/LATEST.md](examples/LATEST.md)
 
-Updated each morning at **about 7:30 a.m. US Eastern Time**.  
-That is **11:30 UTC / GMT** while the US is on daylight time, and **12:30 UTC / GMT** when the US is on standard time.
+Updated each morning at **about 10:00 a.m. US Eastern Time**.  
+That is **14:00 UTC / GMT** while the US is on daylight time, and **15:00 UTC / GMT** when the US is on standard time.
 
 Dated archive stays in `examples/DAILY_YYYY-MM-DD.md`.
 
@@ -91,7 +103,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
-| `examples/LATEST.md` | Today’s public daily reading (new file ~7:30 a.m. US Eastern) |
+| `examples/LATEST.md` | Today’s public daily reading (new file ~10:00 a.m. US Eastern) |
 | `examples/DAILY_YYYY-MM-DD.md` | Dated archive |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |

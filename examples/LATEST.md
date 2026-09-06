@@ -11,6 +11,8 @@ PIF = Population Impact Factor.
 Generated in the disclosed Grok collaboration.  
 Sources checked the morning of 6 September 2026. Numbers move; this is a snapshot, not a wire service.
 
+The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
+
 Local filter: Monmouth / Middletown NJ.
 
 ---

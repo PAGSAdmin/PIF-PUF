@@ -16,9 +16,11 @@ The watch is the shocks and debates that dominate U.S. platforms that day, plus 
 
 Local filter: Monmouth / Middletown NJ.
 
+PUF below is this watch’s lanes for today. Fork the repo to change place or lanes.
+
 ---
 
-**PIF** (Population Impact Factor)
+**PIF — on the platforms today**
 
 1) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    Nepal Police, 6 September: death toll **1,344**; nearly **5,000** missing; more than **13,100** rescued. Twelfth day. Identification is now the official bottleneck (98 bodies handed to families; DNA sampling opened).
@@ -29,6 +31,8 @@ Local filter: Monmouth / Middletown NJ.
 3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    UKMTO, 4 September: AIS transits still about **90% below** pre-conflict baseline. CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). 6 September: IRGC state media reports a strike on a U.S. naval drone; CENTCOM has not posted a matching casualty line. Counted commercial seafarer deaths remain the early-week *Sidr* casualties until IMO or UKMTO add a number.
 
+**PIF — still open, platforms moved on**
+
 4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
 
@@ -38,24 +42,26 @@ Local filter: Monmouth / Middletown NJ.
 6) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
    About **72,000** crossed; thousands remain in camps.
 
-**Mid-PIF Items**
+7) **Ukraine** → **Cat 4**  
+   Capital-region and infrastructure strikes continue.
 
-- Ukraine: capital-region and infrastructure strikes continue.
-- Haiti: urban collapse and gang violence beyond the capital.
-- Indonesia Flores / NTT (15 August 2026): **111** dead (BNPB).
-- Philippines: NDRRMC, 6 September — **43** dead from the southwest monsoon and recent cyclones, most in Benguet landslides.
-- Nigeria, Rivers State: at least **37** dead at an illegally tapped pipeline (4 September).
-- Japan Kumamoto (28 July 2026): **38** dead (FDMA); building-damage tally still being revised.
+8) **Haiti** → **Cat 3–4**  
+   Urban collapse and gang violence beyond the capital.
+
+Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
+
+**Mid-PIF**
+
+- Indonesia Flores / NTT (15 August 2026) → **Cat 3** — **111** dead (BNPB).
+- Philippines southwest monsoon and recent cyclones → **Cat 2** — NDRRMC, 6 September: **43** dead, most in Benguet landslides.
+- Nigeria, Rivers State pipeline fumes (4 September) → **Cat 2** — at least **37** dead.
+- Japan Kumamoto (28 July 2026) → **Cat 2** — **38** dead (FDMA); building-damage tally still being revised.
 
 **Positive PIF Spotlight**
 
 - Woman, 60, rescued after 10 days in Nuwakot (5 September).
 - Nepal school warning still the largest measured lives-saved count in that file.
 - Uganda Ebola outbreak remains closed.
-
-**Forgotten Conflicts**
-
-Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 
 **Emerging PIF**
 
@@ -67,10 +73,10 @@ Sudan (UN / OCHA). Myanmar. Sahel / Mali. Haiti. South Sudan.
 
 **Top Surfacing PUF**
 
-- **Politics**: CENTCOM–IRGC exchange still live this morning (IRGC drone claim; no new CENTCOM casualty line). Mail-in / USPS rule still before the courts as states begin sending ballots.
-- **Policies**: none new today.
-- **Understanding**: Nepal identification bottleneck after the water recedes.
-- **Fun**: FIBA Women’s Basketball World Cup, day three in Berlin. France already through from Group B. USA play Italy later today.
+- **Politics** (named contest over power moving today): CENTCOM–IRGC exchange still live this morning (IRGC drone claim; no new CENTCOM casualty line). Mail-in / USPS rule still before the courts as states begin sending ballots.
+- **Policies** (rule, budget, or protocol that moved today): none new today.
+- **Understanding** (mechanism that makes a list item make sense today): Nepal identification bottleneck after the water recedes.
+- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup, day three in Berlin. France already through from Group B. USA play Italy later today.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
@@ -80,7 +86,7 @@ Local PUF: Middletown Community Blood Drive today, 1 p.m., Sports Complex; Highl
 
 **What changed since yesterday**
 
-Compared with the 5 September page: Nepal Police total holds at **1,344**. DRC Ebola unchanged. Hormuz carries Saturday’s CENTCOM tanker strikes; Sunday IRGC drone claim is state media. Mid-PIF adds the Philippines monsoon/cyclone toll (**43**). Venezuela, Colombia, Ceuta and Flores remain.
+Compared with the 5 September page: Nepal Police total holds at **1,344**. DRC Ebola unchanged. Hormuz carries Saturday’s CENTCOM tanker strikes; Sunday IRGC drone claim is state media. PIF is now split: on the platforms vs still open. Mid-PIF carries Cats. Philippines monsoon/cyclone toll (**43**) is Mid-PIF Cat 2.
 
 **Signal vs Noise note**
 

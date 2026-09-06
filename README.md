@@ -5,6 +5,7 @@
 </p>
 
 **PIF = Population Impact Factor.** News by how many real people are affected (Cat 1–5).  
+**PUF = Politics, Policies, Understanding, Fun.**  
 **ClarityGuard = the calm prompt voice that applies that lens.**
 
 These were always one project. They are together again in this repo.
@@ -19,7 +20,7 @@ Open source (MIT). Unpaid public good. Use it, copy it, tweak it. Credit is appr
 
 A simple alternative to algorithmic feeds. Instead of ranking posts by engagement, it asks:
 
-1. **How many real people are affected?** (PIF — Population Impact Factor, Cat 1–5, including Forgotten Conflicts)
+1. **How many real people are affected?** (PIF — Population Impact Factor, Cat 1–5)
 2. **What kind of story is the rest?** (PUF: Politics, Policies, Understanding, Fun)
 3. **What is not news?** (JBSM: Jabber, Blabber, Sour, Misc)
 
@@ -35,9 +36,27 @@ This is not a world census.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
 
-Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Social volume is a miss-check, not a ranking. Snapshot, disclosed Grok help, not a wire service.
+PIF on the public page is split:
 
-The same wording appears at the top and bottom of each [daily reading](examples/LATEST.md).
+- **On the platforms today** — counted shocks that dominate U.S. feeds that day.
+- **Still open, platforms moved on** — standing files whose table has not closed (recoveries and forgotten conflicts).
+
+Mid-PIF lines carry a Cat. Social volume is a miss-check, not a ranking.
+
+Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
+
+---
+
+## PUF lanes
+
+The public [daily reading](examples/LATEST.md) is this watch. To change place or lanes, edit `LOCAL_FILTER` and the prompt block in `pif_puf.py`.
+
+| Lane | What it is | Source |
+|---|---|---|
+| **Politics** | A named contest over power that is moving today | The actor’s desk first (command, court, filing); wires second |
+| **Policies** | A rule, budget, or protocol that changed or was blocked today | Gazette / agency / docket |
+| **Understanding** | The mechanism that makes a PIF or Politics item make sense today | Sitrep or specialist agency note |
+| **Fun** | An official calendar lift for that calendar day | The register (FIBA, prize body, national calendar). If empty, say none |
 
 ---
 
@@ -60,18 +79,18 @@ python pif_puf.py
 
 Copy the printed prompt into Grok with today’s date. You get:
 
-- **PIF** — up to 8 Population Impact Factor stories, Cat 1–5 (`! EMERGENCY WARNING` on Cat 4–5)
-- **Mid-PIF Items** — smaller Cat 1–2 impact items with start dates when known
-- **Positive PIF Spotlight** — counters negativity bias on purpose
-- **Forgotten Conflicts** — world caseloads the feed has dropped (PIF, not PUF)
-- **Emerging PIF** — early signals
+- **PIF — on the platforms today**
+- **PIF — still open, platforms moved on** (includes forgotten conflicts)
+- **Mid-PIF** — smaller counted items, each with a Cat
+- **Positive PIF Spotlight**
+- **Emerging PIF**
 - **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
-- **Local Filter** — default Monmouth / Middletown NJ; local PUF lives here too
+- **Local Filter** — default Monmouth / Middletown NJ
 - **What changed since yesterday**
 - **Signal vs Noise**
 - **Story duration**
 
-In `pif_puf.py` you can set `MANUAL_DATE` and turn `INCLUDE_TRACKING` on if you want the optional chart row.
+In `pif_puf.py` you can set `MANUAL_DATE`, `LOCAL_FILTER`, and which PUF lanes to keep.
 
 Tone comes from ClarityGuard: calm, no attack mode, impact first, media volume last.
 
@@ -89,8 +108,8 @@ Paste it into Grok, Claude, or ChatGPT, then add the text and: `Run this through
 
 1. Fork or clone this repo.
 2. Read [examples/LATEST.md](examples/LATEST.md) or run `python pif_puf.py` and paste the output into any capable model with search.
-3. Change the local filter to your place.
-4. Tweak section order or wording in the script. That is the intended way to improve it.
+3. Change `LOCAL_FILTER` to your place.
+4. Keep or drop PUF lanes in the script. That is the intended way to improve it.
 5. Scored examples in this folder (`PIF_CAT*`, `POLITICS_*`, `FUN_*`, `BLABBER_*`, etc.) show how a single post is labelled.
 
 No install beyond Python 3. No API key required for the generator itself.

@@ -2,12 +2,16 @@
 PIF/PUF + ClarityGuard — daily prompt generator
 -----------------------------------------------
 PIF = Population Impact Factor.
+PUF = Politics, Policies, Understanding, Fun.
 PIF/PUF is Pauline Gonen-Smith's framework, developed as a
 disclosed collaboration with Grok (xAI): she defined the framework;
 Grok produced the working prompts, examples, and repo text.
 
 Usage:
     python pif_puf.py
+
+Knobs: MANUAL_DATE, LOCAL_FILTER, INCLUDE_TRACKING.
+Change LOCAL_FILTER to your place. Edit the prompt block to keep or drop PUF lanes.
 """
 
 from datetime import datetime
@@ -29,9 +33,13 @@ def generate_daily_prompt() -> str:
 
 PIF = Population Impact Factor (Cat 1–5): people already affected. Harmful or beneficial. Always distinct from PUF.
 PUF = Politics, Policies, Understanding, Fun only.
-Forgotten Conflicts are PIF (world caseloads the feed dropped), after Positive Spotlight and before Emerging.
-Local PUF stays in Local Filter.
 Social-media volume is a miss-check only. It does not rank PIF.
+
+Split PIF into two blocks (max 8 numbered lines across both):
+1) PIF — on the platforms today: shocks that dominate U.S. feeds AND have a counted caseload.
+2) PIF — still open, platforms moved on: standing files whose table has not closed (recoveries + forgotten conflicts). No separate Forgotten Conflicts heading.
+
+Mid-PIF: smaller counted items. Every Mid-PIF line MUST carry a Cat.
 
 SOURCE ORDER — do not drift:
 1. Official sitreps and tables: WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO, FIBA/FIFA/World Athletics/IOC calendars, national registers (e.g. NZ DOC).
@@ -39,25 +47,30 @@ SOURCE ORDER — do not drift:
 3. Features last. Never the reason a story is listed.
 
 SCAN ORDER — do not skip:
-World brief; impact search (death toll + outbreak/quake/flood/collapse + chokepoint shipping/energy); roster vs headlines — SILENCE IS NOT CLOSURE; separate local pass ({LOCAL_FILTER} + {date_str}); positive/discovery pass on agency counts; Fun pass on TODAY's official calendar.
+World brief; impact search (death toll + outbreak/quake/flood/collapse + chokepoint shipping/energy); roster vs headlines; separate local pass ({LOCAL_FILTER} + {date_str}); positive/discovery pass on agency counts; Fun pass on TODAY's official calendar.
 
-Standing PIF until exposure actually falls:
-- Nepal–Tibet floods while search or totals still move
-- DRC Bundibugyo Ebola while Africa CDC/WHO list it active
-- Hormuz / Iran since 28 Feb 2026 while UKMTO/IMO show suppressed transits or seafarer deaths. A quiet night does NOT remove it. The naming of the war is PUF Politics.
-- Venezuela 24 June 2026; Colombia 10 August 2026; Ceuta 30–31 July 2026
+Standing files until exposure actually falls:
+- Nepal–Tibet floods while search or totals still move (usually platforms-today)
+- DRC Bundibugyo Ebola while Africa CDC/WHO list it active (usually platforms-today)
+- Hormuz / Iran since 28 Feb 2026 while UKMTO/IMO show suppressed transits or CENTCOM/IRGC record a new exchange
+- Venezuela 24 June 2026; Colombia 10 August 2026; Ceuta 30–31 July 2026 (usually still-open)
 
-PIF list: up to 8, do not pad. Breaking first, standing recoveries after. ! EMERGENCY WARNING on Cat 4–5. Cat 1–2 with a count → Mid-PIF.
+PUF lanes — only what moved TODAY; define on the page in the heading:
+- Politics: named contest over power moving today. Source: the actor's desk first (command, court, filing).
+- Policies: rule, budget, or protocol that changed or was blocked today. Source: gazette / agency / docket.
+- Understanding: mechanism that makes a PIF or Politics item make sense today. Source: sitrep or specialist agency note.
+- Fun: official calendar lift for that calendar day. Source: the register. If empty, say none.
+The public LATEST is this watch. Users change place and lanes in this file.
 
-Positive PIF: measured good impact from an agency count. Do not reprint yesterday unless it is still the strongest measured item.
+Positive PIF: measured good impact from an agency count.
+Emerging PIF: may be harmful or beneficial.
+WHAT CHANGED: compare only to yesterday's examples/DAILY_YYYY-MM-DD.md.
 
-Emerging PIF: may be harmful or beneficial, including discoveries that will change lives in number.
+Output sections in order: PIF on the platforms today; PIF still open, platforms moved on; Mid-PIF (with Cats); Positive PIF Spotlight; Emerging PIF; Top Surfacing PUF; Local Filter; What changed since yesterday; Signal vs Noise; Story duration; How this page is made.
 
-Fun (PUF): a lift dated today from an official fixture or register — championship that opens or closes today, a final decided overnight, an award or record ratified today. Not recycled conservation lines. Not cute features. If the calendar is empty after the look, say none.
-
-WHAT CHANGED SINCE YESTERDAY: Compare only to examples/DAILY_YYYY-MM-DD.md from yesterday. Do not describe same-day corrections. Name the real delta (new file, moved total, closed file). Standing files that remain, say they remain.
-
-Output sections in order: PIF; Mid-PIF; Positive PIF Spotlight; Forgotten Conflicts; Emerging PIF; Top Surfacing PUF (Politics / Policies / Understanding / Fun); Local Filter; What changed since yesterday; Signal vs Noise; Story duration; How this page is made (sitreps first, wires second, features last).
+Header must include both expansions:
+PIF = Population Impact Factor.
+PUF = Politics, Policies, Understanding, Fun.
 
 Tone: calm, impact first. Snapshot, not a wire service.
 """

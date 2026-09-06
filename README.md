@@ -34,6 +34,8 @@ Idea first noted 29 October 2014. Repo started 18 October 2025. Daily testing wi
 
 This is not a world census.
 
+The point is to keep counted shocks in view when platforms do not. Feeds are inconsistent and often drop a caseload when it stops producing posts. PIF keeps the table visible anyway.
+
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
 
 PIF on the public page is split:
@@ -41,7 +43,7 @@ PIF on the public page is split:
 - **On the platforms today** — counted shocks that dominate U.S. feeds that day.
 - **Still open, platforms moved on** — standing files whose table has not closed (recoveries and forgotten conflicts).
 
-Mid-PIF lines carry a Cat. Social volume is a miss-check, not a ranking.
+Up to 8 numbered items in the first block. The second block is a roster and is not dropped to make room for a new headline. Mid-PIF lines carry a Cat. Social volume is a miss-check, not a ranking.
 
 Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 

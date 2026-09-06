@@ -35,11 +35,12 @@ PIF = Population Impact Factor (Cat 1–5): people already affected. Harmful or 
 PUF = Politics, Policies, Understanding, Fun only.
 Social-media volume is a miss-check only. It does not rank PIF.
 
-Split PIF into two blocks (max 8 numbered lines across both):
-1) PIF — on the platforms today: shocks that dominate U.S. feeds AND have a counted caseload.
-2) PIF — still open, platforms moved on: standing files whose table has not closed (recoveries + forgotten conflicts). No separate Forgotten Conflicts heading.
+Split PIF into two blocks. They do not share one cap:
+1) PIF — on the platforms today: up to 8 numbered shocks that dominate U.S. feeds AND have a counted caseload. Do not pad.
+2) PIF — still open, platforms moved on: standing roster. Do NOT drop a standing file to make room for a new headline. Add a new recovery to this block; do not turn it into a world census — roster only (current recoveries + a short forgotten line).
+No separate Forgotten Conflicts heading.
 
-Mid-PIF: smaller counted items. Every Mid-PIF line MUST carry a Cat.
+Mid-PIF: smaller counted items, separate from both caps. Every Mid-PIF line MUST carry a Cat.
 
 SOURCE ORDER — do not drift:
 1. Official sitreps and tables: WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO, FIBA/FIFA/World Athletics/IOC calendars, national registers (e.g. NZ DOC).

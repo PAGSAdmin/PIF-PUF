@@ -2,7 +2,8 @@ This file is overwritten each morning at about 10:00 a.m. US Eastern Time (14:00
 
 Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
 
-PIF = Population Impact Factor.
+PIF = Population Impact Factor.  
+PUF = Politics, Policies, Understanding, Fun.
 
 ---
 

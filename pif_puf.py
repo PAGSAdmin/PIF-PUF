@@ -24,14 +24,17 @@ def generate_daily_prompt() -> str:
 
 PIF = Population Impact Factor (Cat 1–5). Always distinct from PUF.
 PUF = Politics, Policies, Understanding, Fun only.
+PUBLIC VOICE. No notes to self. No workshop talk about headings or layout.
 
 Two PIF blocks only. No Mid-PIF heading.
-1) On the platforms today: up to 8. Counted caseload AND loud on U.S. feeds. Cat 1 belongs here if it is actually on U.S. homepages. Do not pad.
-2) Still open, platforms moved on: roster. Every line still carries a Cat. Do not drop a standing file for a new headline.
+1) On the platforms today: up to 8. Counted caseload AND loud on U.S. feeds. Cat 1 belongs here if it is on U.S. homepages. Do not pad.
+2) Still open, platforms moved on: roster. Every line carries a Cat. Do not drop a standing file for a new headline.
 
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 
 SIGNAL VS NOISE: name what is actually loud on U.S. homepages that morning. Do not call the largest PIF the feed unless it is also the U.S. lead.
+
+WHAT CHANGED: public news delta only — moved totals, new counted files, closed files, block transfers that a reader can see (e.g. Ebola is no longer on U.S. platforms). Never mention Mid-PIF, headings removed, repo edits, or how the page was rearranged.
 
 SOURCE ORDER: sitreps first; wires second; features last.
 SCAN: world brief; impact search; roster vs headlines; local pass ({LOCAL_FILTER} + {date_str}); positive pass; Fun on TODAY's official calendar.

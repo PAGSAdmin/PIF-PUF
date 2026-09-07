@@ -90,7 +90,7 @@ Local PUF: Labor Day. Township offices closed today. Township workshop and Huber
 
 **What changed since yesterday**
 
-Compared with the 6 September page: Nepal official recovered bodies moved from **1,344** to **1,355**. DRC Ebola moved to still-open. Mid-PIF heading removed; those lines now sit in the two PIF blocks (Miami on platforms; Flores, Philippines, Nigeria, Kumamoto still-open).
+Nepal Police / NDRRMA recovered-body total moved from **1,344** to **1,355**; missing still near 5,000. DRC Ebola is no longer on U.S. platforms; the table is now **6,604** confirmed and **3,175** dead (ECDC). Hormuz has no new CENTCOM line. Miami cargo overrun (**5** dead) is on U.S. homepages. Standing recoveries unchanged.
 
 **Signal vs Noise note**
 

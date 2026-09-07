@@ -38,14 +38,14 @@ The point is to keep counted shocks in view when platforms do not. Feeds are inc
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
 
-PIF on the public page is two blocks only. There is no Mid-PIF heading.
+PIF is listed in two places:
 
-- **On the platforms today** — counted shocks that dominate U.S. feeds that day. Up to 8. Do not pad. A Cat 1 item belongs here if it is actually on U.S. homepages.
-- **Still open, platforms moved on** — standing roster whose table has not closed. Every line carries a Cat. This block is not dropped to make room for a new headline.
+- **On the platforms today** — counted events that U.S. feeds are carrying that morning. A small caseload still belongs here if it is actually on the homepages.
+- **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page.
 
-A file can move between the two blocks as the feeds change. Quiet is not closure. A file leaves the page only when the responsible agency has closed the caseload.
+A file can move from one list to the other as the feeds change. Silence is not closure. A file leaves the page only when the responsible agency has closed the caseload.
 
-Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not call the largest PIF “the feed” unless that file is also the U.S. lead. Social volume is a miss-check, not a ranking.
+Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
 
 Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 

@@ -38,12 +38,14 @@ The point is to keep counted shocks in view when platforms do not. Feeds are inc
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
 
-PIF on the public page is split:
+PIF on the public page is two blocks only. There is no Mid-PIF heading.
 
-- **On the platforms today** — counted shocks that dominate U.S. feeds that day.
-- **Still open, platforms moved on** — standing files whose table has not closed (recoveries and forgotten conflicts).
+- **On the platforms today** — counted shocks that dominate U.S. feeds that day. Up to 8. Do not pad. A Cat 1 item belongs here if it is actually on U.S. homepages.
+- **Still open, platforms moved on** — standing roster whose table has not closed. Every line carries a Cat. This block is not dropped to make room for a new headline.
 
-Up to 8 numbered items in the first block. The second block is a roster and is not dropped to make room for a new headline. Mid-PIF lines carry a Cat. Social volume is a miss-check, not a ranking.
+A file can move between the two blocks as the feeds change. Quiet is not closure. A file leaves the page only when the responsible agency has closed the caseload.
+
+Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not call the largest PIF “the feed” unless that file is also the U.S. lead. Social volume is a miss-check, not a ranking.
 
 Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 
@@ -82,14 +84,13 @@ python pif_puf.py
 Copy the printed prompt into Grok with today’s date. You get:
 
 - **PIF — on the platforms today**
-- **PIF — still open, platforms moved on** (includes forgotten conflicts)
-- **Mid-PIF** — smaller counted items, each with a Cat
+- **PIF — still open, platforms moved on**
 - **Positive PIF Spotlight**
 - **Emerging PIF**
 - **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
 - **Local Filter** — default Monmouth / Middletown NJ
 - **What changed since yesterday**
-- **Signal vs Noise**
+- **Signal vs Noise** — what is actually loud on U.S. homepages
 - **Story duration**
 
 In `pif_puf.py` you can set `MANUAL_DATE`, `LOCAL_FILTER`, and which PUF lanes to keep.

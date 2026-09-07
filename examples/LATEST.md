@@ -25,13 +25,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 1) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    Nepal MOFA / NDRRMA, 7 September 14:00 NPT: **1,355** bodies recovered; about **5,000** still missing (including ~600 foreigners); **13,396** rescued. Thirteenth day. Nepal is observing a national day of mourning. Identification remains the bottleneck (98 bodies handed to families). Tibet side last reported **43** dead.
 
-2) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Latest national/Africa CDC cut used here remains the 1 September sitrep: **6,250** confirmed cases, **3,039** deaths (CFR **48.6%**). Still not controlled. CDC still lists the outbreak active.
-
-3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    UKMTO overview, 4 September: AIS transits still about **90% below** pre-conflict baseline. Last official U.S. line remains CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). No new CENTCOM casualty line this morning. Counted commercial seafarer deaths remain the early-week *Sidr* casualties until IMO or UKMTO add a number.
 
 **PIF — still open, platforms moved on**
+
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 7 September (data through 5 September): **6,604** confirmed cases, **3,175** deaths. Africa CDC last week: too early to call the outbreak controlled. Still active in dozens of health zones. Not on U.S. platforms this morning.
 
 4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -75,7 +75,7 @@ Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
 - **Politics** (named contest over power moving today): Iranian officials saying a restricted zone in Hormuz is coming; no matching CENTCOM line this morning. U.S. federal offices closed for Labor Day.
 - **Policies** (rule, budget, or protocol that moved today): none new today.
-- **Understanding** (mechanism that makes a list item make sense today): Nepal’s identification bottleneck and national mourning on day 13, while ~5,000 remain missing.
+- **Understanding** (mechanism that makes a list item make sense today): Nepal’s identification bottleneck and national mourning on day 13, while ~5,000 remain missing. Ebola is the largest open outbreak on the page and is not on U.S. platforms today.
 - **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup, day four in Berlin. Belgium 80, Australia 68 this morning. USA play Czechia later today.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -86,11 +86,11 @@ Local PUF: Labor Day. Township offices closed today. Township workshop and Huber
 
 **What changed since yesterday**
 
-Compared with the 6 September page: Nepal official recovered bodies moved from **1,344** to **1,355**; missing still near 5,000; rescued **13,396**. National day of mourning. DRC Ebola unchanged from the 1 September sitrep. Hormuz: no new CENTCOM statement this morning. Standing roster unchanged.
+Compared with the 6 September page: Nepal official recovered bodies moved from **1,344** to **1,355**. DRC Ebola moved from “on the platforms today” to “still open, platforms moved on”; ECDC cut **6,604** / **3,175**. Hormuz stays on the platforms. Standing recoveries unchanged.
 
 **Signal vs Noise note**
 
-Nepal’s official table moved by 11 overnight. Hormuz is Saturday’s official exchange plus Monday political talk of a restricted zone.
+Nepal is the feed. Ebola is the larger open caseload and is not the feed.
 
 **Story duration**
 

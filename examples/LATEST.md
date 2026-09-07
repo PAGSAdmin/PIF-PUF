@@ -26,37 +26,40 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    Nepal MOFA / NDRRMA, 7 September 14:00 NPT: **1,355** bodies recovered; about **5,000** still missing (including ~600 foreigners); **13,396** rescued. Thirteenth day. Nepal is observing a national day of mourning. Identification remains the bottleneck (98 bodies handed to families). Tibet side last reported **43** dead.
 
 2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   UKMTO overview, 4 September: AIS transits still about **90% below** pre-conflict baseline. Last official U.S. line remains CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). No new CENTCOM casualty line this morning. Counted commercial seafarer deaths remain the early-week *Sidr* casualties until IMO or UKMTO add a number. On U.S. feeds today mainly as record Labor Day fuel prices and the war itself.
+   UKMTO overview, 4 September: AIS transits still about **90% below** pre-conflict baseline. Last official U.S. line remains CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). No new CENTCOM casualty line this morning. On U.S. feeds today mainly as record Labor Day fuel prices and the war itself.
+
+3) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
+   At least **5** dead (local officials / FAA). On U.S. homepages this morning.
 
 **PIF — still open, platforms moved on**
 
-3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 7 September (data through 5 September): **6,604** confirmed cases, **3,175** deaths. Africa CDC last week: too early to call the outbreak controlled. Still active in dozens of health zones. Not on U.S. platforms this morning.
+4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 7 September (data through 5 September): **6,604** confirmed cases, **3,175** deaths. Africa CDC last week: too early to call the outbreak controlled. Not on U.S. platforms this morning.
 
-4) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
+5) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
 
-5) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
+6) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
    UNGRD near **331** dead, ~240 missing.
 
-6) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
+7) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
    About **72,000** crossed; thousands remain in camps.
 
-7) **Ukraine** → **Cat 4**  
+8) **Ukraine** → **Cat 4**  
    Capital-region and infrastructure strikes continue. U.S. envoys in Kyiv over the weekend.
 
-8) **Haiti** → **Cat 3–4**  
+9) **Haiti** → **Cat 3–4**  
    Urban collapse and gang violence beyond the capital.
 
+10) **Indonesia Flores / NTT (15 August 2026)** → **Cat 3** — **111** dead (BNPB).
+
+11) **Philippines southwest monsoon and recent cyclones** → **Cat 2** — NDRRMC last cut **43** dead, most in Benguet landslides.
+
+12) **Nigeria, Rivers State pipeline fumes (4 September)** → **Cat 2** — at least **37** dead.
+
+13) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA); first emergency housing units handed over 5 September.
+
 Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
-
-**Mid-PIF**
-
-- Indonesia Flores / NTT (15 August 2026) → **Cat 3** — **111** dead (BNPB).
-- Philippines southwest monsoon and recent cyclones → **Cat 2** — NDRRMC last cut **43** dead, most in Benguet landslides.
-- Nigeria, Rivers State pipeline fumes (4 September) → **Cat 2** — at least **37** dead.
-- Japan Kumamoto (28 July 2026) → **Cat 2** — **38** dead (FDMA); first emergency housing units handed over 5 September.
-- Miami International Airport cargo overrun (6 September) → **Cat 1** — at least **5** dead (local officials / FAA).
 
 **Positive PIF Spotlight**
 
@@ -87,7 +90,7 @@ Local PUF: Labor Day. Township offices closed today. Township workshop and Huber
 
 **What changed since yesterday**
 
-Compared with the 6 September page: Nepal official recovered bodies moved from **1,344** to **1,355**. DRC Ebola moved to still-open; ECDC cut **6,604** / **3,175**. Hormuz stays on the platforms. Mid-PIF adds the Miami cargo crash (**5** dead).
+Compared with the 6 September page: Nepal official recovered bodies moved from **1,344** to **1,355**. DRC Ebola moved to still-open. Mid-PIF heading removed; those lines now sit in the two PIF blocks (Miami on platforms; Flores, Philippines, Nigeria, Kumamoto still-open).
 
 **Signal vs Noise note**
 

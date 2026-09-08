@@ -24,7 +24,7 @@ A simple alternative to algorithmic feeds. Instead of ranking posts by engagemen
 2. **What kind of story is the rest?** (PUF: Politics, Policies, Understanding, Fun)
 3. **What is not news?** (JBSM: Jabber, Blabber, Sour, Misc)
 
-The daily reading is the part that is actually in use. A fresh public copy is written to GitHub each morning.
+The daily reading is the part that is actually in use. The public copy lives at [examples/LATEST.md](examples/LATEST.md).
 
 Idea first noted 29 October 2014. Repo started 18 October 2025. Daily testing with Grok from March 2025.
 
@@ -47,7 +47,7 @@ A file can move from one list to the other as the feeds change. Silence is not c
 
 Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
 
-Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
+When the page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 
 ---
 
@@ -68,8 +68,7 @@ The public [daily reading](examples/LATEST.md) is this watch. To change place or
 
 Stable link: [examples/LATEST.md](examples/LATEST.md)
 
-Updated each morning at **about 10:00 a.m. US Eastern Time**.  
-That is **14:00 UTC / GMT** while the US is on daylight time, and **15:00 UTC / GMT** when the US is on standard time.
+Updated when the author sits with the sources. Not a daily wire.
 
 Dated archive stays in `examples/DAILY_YYYY-MM-DD.md`.
 
@@ -125,7 +124,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
-| `examples/LATEST.md` | Today’s public daily reading (new file ~10:00 a.m. US Eastern) |
+| `examples/LATEST.md` | Public daily reading (updated when the author sits with the sources) |
 | `examples/DAILY_YYYY-MM-DD.md` | Dated archive |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |

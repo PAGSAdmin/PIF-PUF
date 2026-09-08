@@ -57,7 +57,7 @@ The public [daily reading](examples/LATEST.md) is this watch. To change place or
 
 | Lane | What it is | Source |
 |---|---|---|
-| **Politics** | A named contest over power that is moving today | The actor’s desk first (command, court, filing); wires second |
+| **Politics** | A named contest over power moving today | The actor’s desk first (command, court, filing); wires second |
 | **Policies** | A rule, budget, or protocol that changed or was blocked today | Gazette / agency / docket |
 | **Understanding** | The mechanism that makes a PIF or Politics item make sense today | Sitrep or specialist agency note |
 | **Fun** | An official calendar lift for that calendar day | The register (FIBA, prize body, national calendar). If empty, say none |
@@ -68,7 +68,7 @@ The public [daily reading](examples/LATEST.md) is this watch. To change place or
 
 Stable link: [examples/LATEST.md](examples/LATEST.md)
 
-Updated when the author sits with the sources. Not a daily wire.
+Updated daily in the U.S. morning, or when the author can sit with the sources.
 
 Dated archive stays in `examples/DAILY_YYYY-MM-DD.md`.
 
@@ -124,7 +124,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
-| `examples/LATEST.md` | Public daily reading (updated when the author sits with the sources) |
+| `examples/LATEST.md` | Public daily reading (updated daily in the U.S. morning, or when the author can sit with the sources) |
 | `examples/DAILY_YYYY-MM-DD.md` | Dated archive |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |

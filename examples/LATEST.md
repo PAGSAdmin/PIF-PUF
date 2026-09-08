@@ -1,6 +1,4 @@
-This file is overwritten each morning at about 10:00 a.m. US Eastern Time (14:00 UTC/GMT on US daylight time; 15:00 UTC/GMT on US standard time).
-
-Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
+This page is updated when the author sits with the sources. Not a daily wire. Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
 
 PIF = Population Impact Factor.  
 PUF = Politics, Policies, Understanding, Fun.
@@ -114,6 +112,6 @@ U.S. platforms this morning: Canada’s new tariffs, midterms, mail ballots, Hur
 ---
 
 **How this page is made**  
-Each morning around 10:00 a.m. US Eastern, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload.
+When this page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload.
 
 This is not a world census. The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance. Local PUF stays there. Snapshot, disclosed Grok help, not a wire service.

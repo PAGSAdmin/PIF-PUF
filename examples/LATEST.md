@@ -7,10 +7,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 7 September 2026
+# Daily reading — 8 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 7 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 8 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -22,19 +22,19 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **PIF — on the platforms today**
 
-1) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Nepal MOFA / NDRRMA, 7 September 14:00 NPT: **1,355** bodies recovered; about **5,000** still missing (including ~600 foreigners); **13,396** rescued. Thirteenth day. Nepal is observing a national day of mourning. Identification remains the bottleneck (98 bodies handed to families). Tibet side last reported **43** dead.
+1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+   UKMTO last cut: AIS transits still far below pre-conflict baseline. Last official U.S. combat line remains CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). Iranian officials still talking a maritime exclusion zone. On U.S. feeds as the war and the pump.
 
-2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   UKMTO overview, 4 September: AIS transits still about **90% below** pre-conflict baseline. Last official U.S. line remains CENTCOM, 5 September: IRGC missiles toward two U.S. Navy ships; no U.S. personnel harmed; three IRGC crude carriers struck (*Downy*, *Stark 1*, *Kylo*). No new CENTCOM casualty line this morning. On U.S. feeds today mainly as record Labor Day fuel prices and the war itself.
-
-3) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   At least **5** dead (local officials / FAA). On U.S. homepages this morning.
+2) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
+   Officials now say all **5** dead were on the ground, in vehicles the Amazon-operated cargo jet hit after it left the runway (NTSB investigating). Still on U.S. homepages.
 
 **PIF — still open, platforms moved on**
 
+3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last official Nepal cut used here: NDRRMA / MOFA **1,355** bodies recovered; about **5,000** missing; **13,396** rescued. Fourteenth day. Identification still the bottleneck. Tibet side last reported **43** dead. On world desks, not the U.S. homepage this morning.
+
 4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 7 September (data through 5 September): **6,604** confirmed cases, **3,175** deaths. Africa CDC last week: too early to call the outbreak controlled. Not on U.S. platforms this morning.
+   ECDC / INSP SitRep 114 (data through 5 September): **6,604** confirmed cases, **3,175** deaths in DRC. Combined DRC-plus-Uganda about **6,624** / **3,177**. Africa CDC: too early to call it controlled.
 
 5) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -46,55 +46,57 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    About **72,000** crossed; thousands remain in camps.
 
 8) **Ukraine** → **Cat 4**  
-   Capital-region and infrastructure strikes continue. U.S. envoys in Kyiv over the weekend.
+   After a weekend pause, Russia struck Kyiv overnight: **2** dead, at least **10** injured (local authorities).
 
 9) **Haiti** → **Cat 3–4**  
-   Urban collapse and gang violence beyond the capital.
+   Urban collapse and gang violence beyond the capital. U.S. deportation flights into Cap-Haïtien continue.
 
 10) **Indonesia Flores / NTT (15 August 2026)** → **Cat 3** — **111** dead (BNPB).
 
-11) **Philippines southwest monsoon and recent cyclones** → **Cat 2** — NDRRMC last cut **43** dead, most in Benguet landslides.
+11) **Philippines southwest monsoon and recent cyclones** → **Cat 2** — NDRRMC last cut **43** dead.
 
 12) **Nigeria, Rivers State pipeline fumes (4 September)** → **Cat 2** — at least **37** dead.
 
-13) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA); first emergency housing units handed over 5 September.
+13) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA).
+
+14) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — Reuters: ballistic missiles and drones; **73** injured; some energy sites briefly halted.
 
 Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Four people pulled alive from Nepal tunnels and houses over 4–5 September, including the 60-year-old woman in Nuwakot.
+- Four people pulled alive from Nepal tunnels and houses over 4–5 September.
 - Nepal school warning still the largest measured lives-saved count in that file.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
+- Hurricane Lowell approaching western Hawaii (flood / mudslide risk; no counted death toll in this morning’s U.S. briefs).
 - Further Himalayan lake-burst / glacier risk.
-- East Malaysia haze emergency in Serian, Sarawak.
-- Jiangxi, China flood/mudslide file under Typhoon Saudel still open on the GDACS orange board.
+- Jiangxi flood/mudslide file under Typhoon Saudel still on the GDACS orange board.
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
 
 **Top Surfacing PUF**
 
-- **Politics** (named contest over power moving today): Iranian officials saying a restricted zone in Hormuz is coming; mail-ballot rule back at the Supreme Court; U.S. federal offices closed for Labor Day.
-- **Policies** (rule, budget, or protocol that moved today): none new today.
-- **Understanding** (mechanism that makes a list item make sense today): U.S. Labor Day gas price is the domestic face of the Hormuz file. Nepal’s identification bottleneck on day 13. Ebola is the largest open outbreak on the page and is not on U.S. platforms today.
-- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup, day four in Berlin. Belgium 80, Australia 68 this morning. USA play Czechia later today.
+- **Politics** (named contest over power moving today): Canada’s retaliatory tariffs on about US$20 billion of U.S. goods take effect today. Mail-ballot rule still before the Supreme Court. Iranian talk of a Hormuz exclusion zone.
+- **Policies** (rule, budget, or protocol that moved today): Canadian tariff schedule now live.
+- **Understanding** (mechanism that makes a list item make sense today): Miami’s five dead were people on the ground, not in the cockpit. Nepal remains the identification bottleneck on day 14.
+- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup playoff round opens in Berlin. Hungary play Japan; Germany play South Korea later today. USA already through from group play (105–64 vs Czechia yesterday).
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No local PIF this morning.
 
-Local PUF: Labor Day. Township offices closed today. Township workshop and Huber Woods bird walk Tuesday 8 September.
+Local PUF: Township Committee workshop tonight, 7 p.m., Town Hall. Adult and teen indoor volleyball, 6:30 p.m., Croydon Hall.
 
 **What changed since yesterday**
 
-Nepal Police / NDRRMA recovered-body total moved from **1,344** to **1,355**; missing still near 5,000. DRC Ebola is no longer on U.S. platforms; the table is now **6,604** confirmed and **3,175** dead (ECDC). Hormuz has no new CENTCOM line. Miami cargo overrun (**5** dead) is on U.S. homepages. Standing recoveries unchanged.
+Nepal official recovered-body total is still **1,355** on the last NDRRMA/MOFA cut; the file is not on U.S. homepages this morning. Ebola table unchanged at **6,604** / **3,175**. Hormuz has no new CENTCOM combat line; exclusion-zone talk continues. Miami stays on U.S. homepages; officials say all five dead were on the ground. Kyiv overnight: **2** dead. Houthi strikes in Saudi Arabia: **73** injured.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: Labor Day domestic news (Miami cargo crash, record holiday fuel prices) and the Iran / Hormuz war as the reason at the pump. Nepal is the largest moving humanitarian table and is on world desks, not the U.S. homepage. Ebola is the largest open caseload on this page and is not on U.S. platforms today.
+U.S. platforms this morning: Canada’s new tariffs, midterms, mail ballots, Hurricane Lowell over Hawaii, and the Miami crash follow-up. Iran / Hormuz is still in the mix as the war and the pump. Nepal and Ebola are the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

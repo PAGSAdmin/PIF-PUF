@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 9 September 2026
+# Daily reading — 10 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 9 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 10 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,21 +21,21 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   CENTCOM, late 8 September: U.S. forces destroyed five IRGC-linked crude carriers (*Kaviz*, *Charminar*, *Horizon 1*, *Riesco*, *Derya*) after the IRGC twice targeted a U.S. Navy warship; crews ordered off first; no U.S. personnel harmed. IRGC says it fired on a U.S. base in Jordan and at ships near Hormuz; Jordan says it intercepted 18 missiles. Brent near $100. Last UKMTO/AIS picture still far below the pre-war baseline.
+   Last official U.S. combat cut remains CENTCOM, 8 September: five IRGC-linked crude carriers destroyed after the IRGC twice targeted a U.S. Navy warship; no U.S. personnel harmed. Brent closed above **$100**. Trump says pump prices may not fall until after the midterms. No new CENTCOM tanker line this morning.
 
-2) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   **5** dead, all on the ground. Investigators say flight data show an abort of an unsteady landing before the jet hit a van. Still on U.S. homepages.
+2) **Hurricane Lowell, Hawaii** → **Cat 2**  
+   At least **2** dead (Kauaʻi storm-surge drowning; Oʻahu tree fall). Governor’s office: damage estimate above **$400 million**. Kauaʻi still digging out from a ~90% outage.
 
-3) **Hurricane Lowell, Hawaii** → **Cat 2**  
-   One death reported on Oʻahu. About 90% of Kauaʻi without power after the closest pass west of Niʻihau. NWS: 21.11 inches of rain at Kilohana; gusts near 92 mph at Puʻu Lua. Storm now weakening north-northwest of the islands.
+3) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
+   **5** dead, all on the ground. New NTSB cut: one pilot warned they were coming in too fast for nearly two minutes before the jet left the runway.
 
 **PIF — still open, platforms moved on**
 
 4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Nepal Police / NDRRMA, 9 September: **1,365** bodies recovered; **5,326** missing (including at least 589 foreigners); 102 identified and returned to families. Tibet side last reported **43** dead. Fifteenth day. Not a U.S. homepage lead.
+   NDRRMA, 10 September: **1,377** bodies recovered; **5,130** missing; **13,656** rescued. Sixteenth day. Tibet side last reported **43** dead.
 
 5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, updated 8 September (data through 6 September): **6,686** confirmed cases, **3,226** deaths. Still not controlled. Not on U.S. platforms this morning.
+   ECDC, updated 9 September (data through 7 September): **6,757** confirmed cases, **3,267** deaths. Still not controlled.
 
 6) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -47,20 +47,25 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    About **72,000** crossed; thousands remain in camps.
 
 9) **Ukraine** → **Cat 4**  
-   Overnight Kyiv strikes from 8 September still the last counted cut used here (**2** dead).
+   Russian attacks killed **7** people (Al Jazeera / local authorities, 10 September).
 
 10) **Haiti** → **Cat 3–4**  
    Urban collapse and gang violence beyond the capital.
 
-11) **Indonesia Flores / NTT (15 August 2026)** → **Cat 3** — **111** dead (BNPB).
+11) **Bangladesh measles outbreak** → **Cat 4**  
+   Local reports put suspected measles deaths at **1,009** after seven more child deaths in 24 hours (The Business Standard). Needs a ministry sitrep to lock.
 
-12) **Philippines southwest monsoon and recent cyclones** → **Cat 2** — NDRRMC last cut **43** dead.
+12) **Indonesia Flores / NTT (15 August 2026)** → **Cat 3** — **111** dead (BNPB).
 
-13) **Nigeria, Rivers State pipeline fumes (4 September)** → **Cat 2** — at least **37** dead.
+13) **Qingdao cargo-ship fire (10 September)** → **Cat 2** — at least **20** dead, 5 missing (CNN / local authorities).
 
-14) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA).
+14) **Philippines southwest monsoon** → **Cat 2** — NDRRMC last cut **43** dead.
 
-15) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — Reuters last cut: **73** injured.
+15) **Nigeria, Rivers State pipeline fumes (4 September)** → **Cat 2** — at least **37** dead.
+
+16) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA).
+
+17) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — last Reuters cut **73** injured. Houthis also reported taking Mocha today (Politics more than a new PIF table).
 
 Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
@@ -72,30 +77,29 @@ Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 **Emerging PIF**
 
 - Further Himalayan lake-burst / glacier risk.
-- Jiangxi flood/mudslide file under Typhoon Saudel still on the GDACS orange board.
 - New World screwworm still present (USDA/APHIS).
 - Greater Horn of Africa food insecurity (WHO).
 
 **Top Surfacing PUF**
 
-- **Politics** (named contest over power moving today): New exchange in the Iran war (five tankers; Jordan base). Trump signed orders to ban some Canadian dairy, alcohol and motorcycles in three weeks. New Hampshire primaries. Mail-ballot fight continues.
-- **Policies** (rule, budget, or protocol that moved today): U.S. counter-tariff orders on selected Canadian goods, timed to Canada’s schedule that went live yesterday.
-- **Understanding** (mechanism that makes a list item make sense today): Brent near $100 is the domestic face of yesterday’s tanker strikes. Lowell is the counted Hawaiian file behind the outage maps.
-- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup playoff games in Berlin today: China vs Puerto Rico; Australia vs Italy. USA play Hungary in the quarter-finals tomorrow.
+- **Politics** (named contest over power moving today): GOP midterm convention in Dallas; Trump pledged $5,000 payments if Republicans hold Congress. Oil-at-$100 is the domestic face of the Iran file. Missouri map back at the Supreme Court.
+- **Policies** (rule, budget, or protocol that moved today): U.S. counter-bans on selected Canadian goods still queued for 29 September.
+- **Understanding** (mechanism that makes a list item make sense today): Brent above $100 after Tuesday’s tanker strikes. Lowell deaths rose as recovery crews reached the shoreline and the Oʻahu campsite.
+- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup quarter-finals. USA 108, Hungary 56 this morning; USA to the semi-finals Saturday.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No local PIF this morning.
 
-Local PUF: Car-seat safety checkpoint, 2–6 p.m., Station 11 Old Village Fire Company. Adult basketball, 6 p.m., Croydon Hall. Housing Authority meeting, 6:30 p.m.
+Local PUF: The Weight Band tonight at the Vogel, Red Bank. Hot, mostly sunny, high near 86–89°F.
 
 **What changed since yesterday**
 
-Nepal recovered-body total moved from **1,355** to **1,365**; missing listed at **5,326**. DRC Ebola moved from **6,604** / **3,175** to **6,686** / **3,226**. Hormuz: CENTCOM reports five more tankers destroyed; IRGC says it fired on a Jordan base and at ships. Hurricane Lowell now has a counted death (**1**) and a Kauaʻi-wide outage. Miami still on U.S. homepages.
+Nepal recovered-body total moved from **1,365** to **1,377**; missing **5,130**. DRC Ebola moved from **6,686** / **3,226** to **6,757** / **3,267**. Hormuz: no new CENTCOM combat line; Brent closed above $100. Hurricane Lowell deaths moved from **1** to **2**. Ukraine overnight: **7** dead. Qingdao ship fire: **20** dead. Bangladesh measles file added at a reported **1,009** deaths, pending a ministry sitrep.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the new Hormuz tanker strikes and Jordan-base fire, midterms and mail ballots, Miami crash follow-up, and Hurricane Lowell over Hawaii. Nepal and Ebola are the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Dallas midterm convention, oil above $100, Miami cockpit warnings, and Hurricane Lowell’s second death. Iran / Hormuz is the reason at the pump. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

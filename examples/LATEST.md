@@ -32,10 +32,10 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — still open, platforms moved on**
 
 4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   NDRRMA, 10 September: **1,377** bodies recovered; **5,130** missing; **13,656** rescued. Sixteenth day. Tibet side last reported **43** dead.
+   NDRRMA / MOFA, 10 September 14:00 NPT: **1,377** bodies recovered; **5,130** missing; **13,656** rescued. Sixteenth day. Tibet side last reported **43** dead.
 
 5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, updated 9 September (data through 7 September): **6,757** confirmed cases, **3,267** deaths. Still not controlled.
+   ECDC, updated 10 September (data through 8 September): **6,843** confirmed cases, **3,310** deaths, **1,611** recovered. Still not controlled.
 
 6) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
@@ -65,14 +65,16 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 16) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA).
 
-17) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — last Reuters cut **73** injured. Houthis also reported taking Mocha today (Politics more than a new PIF table).
+17) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — last Reuters cut **73** injured.
 
 Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal school warning still the largest measured lives-saved count in that file.
-- Uganda Ebola outbreak remains closed.
+- Nepal MOFA, 10 September: **13,656** people pulled out of the Bhote Koshi corridor, including more than 300 foreigners. The Nepali Army counts **4,040** of those as air rescues (3,757 Nepalis, 283 foreigners). Last live finds inside tunnels and houses were 4–5 September; the airlift is still the measured good in that file.
+- ECDC today: **1,611** Bundibugyo patients have recovered. Treatment-bed occupancy, which ran above 200% in late May, was down to about 66% by late August (Africa CDC / WHO response notes).
+- Kauaʻi Fire Chief Michael Gibson: everyone reported missing or unaccounted for after Lowell had been located by Tuesday morning. The National Guard task force is on the island for recovery, not search.
+- Uganda’s Ebola outbreak remains closed.
 
 **Emerging PIF**
 
@@ -95,7 +97,7 @@ Local PUF: The Weight Band tonight at the Vogel, Red Bank. Hot, mostly sunny, hi
 
 **What changed since yesterday**
 
-Nepal recovered-body total moved from **1,365** to **1,377**; missing **5,130**. DRC Ebola moved from **6,686** / **3,226** to **6,757** / **3,267**. Hormuz: no new CENTCOM combat line; Brent closed above $100. Hurricane Lowell deaths moved from **1** to **2**. Ukraine overnight: **7** dead. Qingdao ship fire: **20** dead. Bangladesh measles file added at a reported **1,009** deaths, pending a ministry sitrep.
+Nepal recovered-body total moved from **1,365** to **1,377**; missing **5,130**; rescued **13,656**. DRC Ebola moved to **6,843** / **3,310**, with **1,611** recovered. Hormuz: no new CENTCOM combat line; Brent closed above $100. Hurricane Lowell deaths moved from **1** to **2**. Ukraine overnight: **7** dead. Qingdao ship fire: **20** dead.
 
 **Signal vs Noise note**
 

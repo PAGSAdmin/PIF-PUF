@@ -78,9 +78,15 @@ Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
 **Emerging PIF**
 
-- Further Himalayan lake-burst / glacier risk.
-- New World screwworm still present (USDA/APHIS).
-- Greater Horn of Africa food insecurity (WHO).
+Hazard watch (the Lowell slot — named storm or board before a death table exists):
+- GDACS still tracking Pacific cyclones **Norbert**, **Marie** and **Karina** behind Lowell. Further Himalayan lake-burst / glacier risk on the same corridor as Bhote Koshi.
+- New World screwworm still present (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
+
+Discovery / tech / cure (agency or trial desk; population-scale if it works):
+- WHO, 9 September: prequalified the multi-dose vial of maternal RSV vaccine RSVpreF (Abrysvo). RSV still associated with about **3.6 million** child hospitalisations and **100,000** deaths under age 5 each year. Multi-dose is the delivery step, not a new molecule.
+- Lancet Infectious Diseases / Cincinnati Children’s: phase-2 challenge trial of oral Shigella vaccine WRSs2 reported **89%** protection. Shigella is a leading cause of child dysentery; no licensed vaccine yet.
+- ARPA-H, 9 September: ADVOCATE awards to build an FDA-path clinical AI for heart-failure care. Claimed target population is U.S. counties with no cardiologist — nearly half of them. Not a therapy; a proposed 24/7 clinical teammate.
+- UCLA Health: SLIViT imaging model and an organoid+AI drug-screen platform (Nature Protocols). Lab-scale; listed because they are named university desks this week, not because they have treated a patient.
 
 **Top Surfacing PUF**
 

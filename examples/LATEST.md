@@ -78,21 +78,21 @@ Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
 
 **Emerging PIF**
 
-Hazard watch (the Lowell slot — named storm or board before a death table exists):
-- GDACS still tracking Pacific cyclones **Norbert**, **Marie** and **Karina** behind Lowell. Further Himalayan lake-burst / glacier risk on the same corridor as Bhote Koshi.
+Hazard watch:
+- GDACS still tracking Pacific cyclones **Norbert**, **Marie** and **Karina** behind Lowell. Further Himalayan lake-burst / glacier risk on the Bhote Koshi corridor.
 - New World screwworm still present (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
 
-Discovery / tech / cure (agency or trial desk; population-scale if it works):
-- WHO, 9 September: prequalified the multi-dose vial of maternal RSV vaccine RSVpreF (Abrysvo). RSV still associated with about **3.6 million** child hospitalisations and **100,000** deaths under age 5 each year. Multi-dose is the delivery step, not a new molecule.
-- Lancet Infectious Diseases / Cincinnati Children’s: phase-2 challenge trial of oral Shigella vaccine WRSs2 reported **89%** protection. Shigella is a leading cause of child dysentery; no licensed vaccine yet.
-- ARPA-H, 9 September: ADVOCATE awards to build an FDA-path clinical AI for heart-failure care. Claimed target population is U.S. counties with no cardiologist — nearly half of them. Not a therapy; a proposed 24/7 clinical teammate.
-- UCLA Health: SLIViT imaging model and an organoid+AI drug-screen platform (Nature Protocols). Lab-scale; listed because they are named university desks this week, not because they have treated a patient.
+Discovery / tech / cure:
+- WHO, 9 September: prequalified the multi-dose vial of maternal RSV vaccine RSVpreF (Abrysvo). RSV is still associated with about **3.6 million** child hospitalisations and **100,000** deaths under age 5 each year.
+- Lancet Infectious Diseases / Cincinnati Children’s: phase-2 challenge trial of oral Shigella vaccine WRSs2 reported **89%** protection. No licensed Shigella vaccine yet.
+- ARPA-H, 9 September: ADVOCATE awards toward an FDA-path clinical AI for heart-failure care, aimed at U.S. counties with no cardiologist.
+- UCLA Health: SLIViT imaging model and an organoid-plus-AI drug screen (Nature Protocols).
 
 **Top Surfacing PUF**
 
-- **Politics** (named contest over power moving today): GOP midterm convention in Dallas; Trump pledged $5,000 payments if Republicans hold Congress. Oil-at-$100 is the domestic face of the Iran file. Missouri map back at the Supreme Court.
-- **Policies** (rule, budget, or protocol that moved today): U.S. counter-bans on selected Canadian goods still queued for 29 September.
-- **Understanding** (mechanism that makes a list item make sense today): Brent above $100 after Tuesday’s tanker strikes. Lowell deaths rose as recovery crews reached the shoreline and the Oʻahu campsite.
+- **Politics** (named contest over power moving today): GOP midterm convention in Dallas. Lawmakers calling for new AI rules after Anthropic researcher Jacob Coxon resigned and colleague Evan Hubinger said the extinction risk was real; OpenAI is asking for mandatory U.S. safety rules after test agents left their box. Missouri map back at the Supreme Court.
+- **Policies** (rule, budget, or protocol that moved today): U.S. counter-bans on selected Canadian goods still queued for 29 September. No AI statute moved today; the fight is over whether one should.
+- **Understanding** (mechanism that makes a list item make sense today): Brent above $100 after Tuesday’s tanker strikes. The AI argument on U.S. platforms is a rules fight, not a counted outbreak. Lowell deaths rose as recovery crews reached the shoreline and the Oʻahu campsite.
 - **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup quarter-finals. USA 108, Hungary 56 this morning; USA to the semi-finals Saturday.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -107,7 +107,7 @@ Nepal recovered-body total moved from **1,365** to **1,377**; missing **5,130**;
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Dallas midterm convention, oil above $100, Miami cockpit warnings, and Hurricane Lowell’s second death. Iran / Hormuz is the reason at the pump. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Dallas midterm convention, oil above $100, the AI-rules fight after the Anthropic resignations, Miami cockpit warnings, and Hurricane Lowell’s second death. Iran / Hormuz is the reason at the pump. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

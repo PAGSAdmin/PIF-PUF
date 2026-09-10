@@ -32,17 +32,26 @@ Two PIF blocks only. No Mid-PIF heading.
 
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 
+POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak closed. Refresh the numbers. Do not reuse last week's tunnel story as if it happened today.
+
+EMERGING PIF two lanes:
+- Hazard watch: named storm, GDACS board, glacier, pest BEFORE a death table exists (the Lowell slot).
+- Discovery / tech / cure: WHO, trial registry, ARPA-H, FDA, national lab. Must name the desk and the population it would touch if it scales. No startup blogs. No notes to self.
+
+AI safety debate with no counted caseload is PUF Politics (rules fight). It is not PIF and not Emerging unless a statute moves (Policies) or a counted harm/save appears.
+
 SIGNAL VS NOISE: name what is actually loud on U.S. homepages that morning. Do not call the largest PIF the feed unless it is also the U.S. lead.
 
-WHAT CHANGED: public news delta only — moved totals, new counted files, closed files, block transfers that a reader can see (e.g. Ebola is no longer on U.S. platforms). Never mention Mid-PIF, headings removed, repo edits, or how the page was rearranged.
+WHAT CHANGED: public news delta only — moved totals, new counted files, closed files, visible block transfers. Never mention headings, Mid-PIF, or repo edits.
 
 SOURCE ORDER: sitreps first; wires second; features last.
-SCAN: world brief; impact search; roster vs headlines; local pass ({LOCAL_FILTER} + {date_str}); positive pass; Fun on TODAY's official calendar.
+SCAN: world brief; impact search; roster vs headlines; local pass ({LOCAL_FILTER} + {date_str}); positive pass; emerging hazard + discovery pass; Fun on TODAY's official calendar.
 
 Standing: Nepal–Tibet floods; DRC Ebola while listed active; Hormuz since 28 Feb 2026; Venezuela 24 June 2026; Colombia 10 August 2026; Ceuta 30–31 July 2026.
 
 Output: PIF on platforms today; PIF still open; Positive PIF; Emerging PIF; PUF; Local; What changed; Signal vs Noise; Story duration; How this page is made.
 Header: PIF = Population Impact Factor. PUF = Politics, Policies, Understanding, Fun.
+Page cadence: updated daily in the U.S. morning, or when the author can sit with the sources.
 """
 
 

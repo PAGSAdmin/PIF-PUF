@@ -10,7 +10,7 @@
 
 These were always one project. They are together again in this repo.
 
-This page is made by Pauline Gonen-Smith. I live in Middletown Township, New Jersey. I paint in oils and keep a garden. I spent a working life in research administration and now sit with the sources in the morning, or when I can. Grok is the disclosed clerk. The reading is unpaid and public.
+This page is made by Pauline Gonen-Smith. I live in Middletown Township, New Jersey. I paint in oils and keep a garden. I spent a working life in research administration and now sit with the sources in the morning, or when I can.
 
 PIF/PUF is Pauline Gonen-Smith’s framework, developed as a disclosed collaboration with Grok (xAI): she defined the framework; Grok produced the working prompts, examples, and repo text.
 

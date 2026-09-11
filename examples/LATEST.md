@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 10 September 2026
+# Daily reading — 11 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 10 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 11 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -16,108 +16,112 @@ Local filter: Monmouth / Middletown NJ.
 
 PUF below is this watch’s lanes for today. Fork the repo to change place or lanes.
 
+**11 September 2001 — twenty-five years.**  
+**2,977** people were killed that morning at the World Trade Center, the Pentagon, and aboard United 93 near Shanksville. The New York City Fire Department lost **343** members that day; more than **600** additional firefighters have since died of 9/11-related illness. This is a closed attack with an open health file. Ceremonies today at all three sites. A seventh moment of silence in New York is for those who died later of the dust.
+
 ---
 
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Last official U.S. combat cut remains CENTCOM, 8 September: five IRGC-linked crude carriers destroyed after the IRGC twice targeted a U.S. Navy warship; no U.S. personnel harmed. Brent closed above **$100**. Trump says pump prices may not fall until after the midterms. No new CENTCOM tanker line this morning.
+   Last CENTCOM tanker cut remains 8 September (five carriers after IRGC shots at a U.S. warship; no U.S. personnel harmed). Jerusalem Post shipping desk: Hormuz traffic down to single digits. Oil reported above **$110** a barrel; U.S. diesel above **$6**. No new CENTCOM combat line this morning.
 
 2) **Hurricane Lowell, Hawaii** → **Cat 2**  
-   At least **2** dead (Kauaʻi storm-surge drowning; Oʻahu tree fall). Governor’s office: damage estimate above **$400 million**. Kauaʻi still digging out from a ~90% outage.
-
-3) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   **5** dead, all on the ground. New NTSB cut: one pilot warned they were coming in too fast for nearly two minutes before the jet left the runway.
+   **2** dead. Damage estimate above **$400 million**. About 9,000 of Kauaʻi’s 36,000 utility customers have power back. Schools on the island slated to reopen Monday. Lowell is now post-tropical.
 
 **PIF — still open, platforms moved on**
 
-4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   NDRRMA / MOFA, 10 September 14:00 NPT: **1,377** bodies recovered; **5,130** missing; **13,656** rescued. Sixteenth day. Tibet side last reported **43** dead.
+3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last NDRRMA / MOFA cut: **1,377** bodies recovered; **5,130** missing; **13,656** rescued. Seventeenth day. Tibet side last reported **43** dead.
 
-5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, updated 10 September (data through 8 September): **6,843** confirmed cases, **3,310** deaths, **1,611** recovered. Still not controlled.
+4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC last weekday cut (data through 8 September): **6,843** confirmed cases, **3,310** deaths, **1,611** recovered.
 
-6) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
+5) **Venezuela twin earthquakes (24 June 2026)** → **Cat 5** (recovery)  
    Official dead held near 6,509.
 
-7) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
+6) **Colombia M7.4 earthquake (10 August 2026)** → **Cat 4–5** (recovery)  
    UNGRD near **331** dead, ~240 missing.
 
-8) **Ceuta, Spain — Morocco border surge (from 30–31 July 2026)** → **Cat 3–4**  
+7) **Ceuta, Spain — Morocco border surge** → **Cat 3–4**  
    About **72,000** crossed; thousands remain in camps.
 
-9) **Ukraine** → **Cat 4**  
-   Russian attacks killed **7** people (Al Jazeera / local authorities, 10 September).
+8) **Ukraine** → **Cat 4**  
+   Last counted cut used here: **7** dead on 10 September.
 
-10) **Haiti** → **Cat 3–4**  
-   Urban collapse and gang violence beyond the capital.
+9) **Haiti** → **Cat 3–4**
+
+10) **9/11-related illness** → **Cat 3**  
+   More than **600** additional FDNY deaths after the day itself (Reuters / department tallies). Open health file, not a new attack.
 
 11) **Bangladesh measles outbreak** → **Cat 4**  
-   Local reports put suspected measles deaths at **1,009** after seven more child deaths in 24 hours (The Business Standard). Needs a ministry sitrep to lock.
+   Local reports **1,009** suspected deaths. Still needs a ministry sitrep.
 
-12) **Indonesia Flores / NTT (15 August 2026)** → **Cat 3** — **111** dead (BNPB).
+12) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
+   **5** dead. Off most U.S. homepages today because of the anniversary.
 
-13) **Qingdao cargo-ship fire (10 September)** → **Cat 2** — at least **20** dead, 5 missing (CNN / local authorities).
+13) **Indonesia Flores / NTT** → **Cat 3** — **111** dead (BNPB).
 
-14) **Philippines southwest monsoon** → **Cat 2** — NDRRMC last cut **43** dead.
+14) **Qingdao cargo-ship fire (10 September)** → **Cat 2** — at least **20** dead.
 
-15) **Nigeria, Rivers State pipeline fumes (4 September)** → **Cat 2** — at least **37** dead.
+15) **Philippines southwest monsoon** → **Cat 2** — **43** dead.
 
-16) **Japan Kumamoto (28 July 2026)** → **Cat 2** — **38** dead (FDMA).
+16) **Nigeria Rivers State pipeline fumes** → **Cat 2** — at least **37** dead.
 
-17) **Houthi strikes on Saudi Arabia (8 September)** → **Cat 2** — last Reuters cut **73** injured.
+17) **Japan Kumamoto** → **Cat 2** — **38** dead.
 
-Also open: Sudan (UN / OCHA), Myanmar, Sahel / Mali, South Sudan.
+18) **Houthi / Saudi** → **Cat 2** — last injury cut **73**. Houthis reported taking Mocha / both sides of Bab al-Mandeb (Politics more than a new death table).
+
+Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal MOFA, 10 September: **13,656** people pulled out of the Bhote Koshi corridor, including more than 300 foreigners. The Nepali Army counts **4,040** of those as air rescues (3,757 Nepalis, 283 foreigners). Last live finds inside tunnels and houses were 4–5 September; the airlift is still the measured good in that file.
-- ECDC today: **1,611** Bundibugyo patients have recovered. Treatment-bed occupancy, which ran above 200% in late May, was down to about 66% by late August (Africa CDC / WHO response notes).
-- Kauaʻi Fire Chief Michael Gibson: everyone reported missing or unaccounted for after Lowell had been located by Tuesday morning. The National Guard task force is on the island for recovery, not search.
-- Uganda’s Ebola outbreak remains closed.
+- Nepal: **13,656** rescued; **4,040** by air (MOFA / Nepali Army).
+- ECDC: **1,611** Bundibugyo recoveries.
+- Kauaʻi: ~9,000 customers restored; fire chief had already accounted for those reported missing.
+- Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- GDACS still tracking Pacific cyclones **Norbert**, **Marie** and **Karina** behind Lowell. Further Himalayan lake-burst / glacier risk on the Bhote Koshi corridor.
-- New World screwworm still present (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
+- GDACS still tracking Pacific cyclones **Norbert**, **Marie** and **Karina**. Further Himalayan lake-burst / glacier risk.
+- New World screwworm (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
 
 Discovery / tech / cure:
-- WHO, 9 September: prequalified the multi-dose vial of maternal RSV vaccine RSVpreF (Abrysvo). RSV is still associated with about **3.6 million** child hospitalisations and **100,000** deaths under age 5 each year.
-- Lancet Infectious Diseases / Cincinnati Children’s: phase-2 challenge trial of oral Shigella vaccine WRSs2 reported **89%** protection. No licensed Shigella vaccine yet.
-- ARPA-H, 9 September: ADVOCATE awards toward an FDA-path clinical AI for heart-failure care, aimed at U.S. counties with no cardiologist.
-- UCLA Health: SLIViT imaging model and an organoid-plus-AI drug screen (Nature Protocols).
+- WHO multi-dose maternal RSV vial (Abrysvo), prequalified 9 September. RSV still about **100,000** child deaths a year under age 5.
+- Shigella vaccine WRSs2: **89%** protection in a phase-2 challenge trial (Lancet Infectious Diseases).
+- ARPA-H ADVOCATE awards toward FDA-path heart-failure clinical AI.
 
 **Top Surfacing PUF**
 
-- **Politics** (named contest over power moving today): GOP midterm convention in Dallas. Lawmakers calling for new AI rules after Anthropic researcher Jacob Coxon resigned and colleague Evan Hubinger said the extinction risk was real; OpenAI is asking for mandatory U.S. safety rules after test agents left their box. Missouri map back at the Supreme Court.
-- **Policies** (rule, budget, or protocol that moved today): U.S. counter-bans on selected Canadian goods still queued for 29 September. No AI statute moved today; the fight is over whether one should.
-- **Understanding** (mechanism that makes a list item make sense today): Brent above $100 after Tuesday’s tanker strikes. The AI argument on U.S. platforms is a rules fight, not a counted outbreak. Lowell deaths rose as recovery crews reached the shoreline and the Oʻahu campsite.
-- **Fun** (official calendar lift for this calendar day): FIBA Women’s Basketball World Cup quarter-finals. USA 108, Hungary 56 this morning; USA to the semi-finals Saturday.
+- **Politics** (named contest over power moving today): 25th-anniversary ceremonies. President at the Pentagon; Vice President and four former presidents at Ground Zero. AI-rules fight after the Anthropic resignations continues underneath.
+- **Policies**: no new statute this morning.
+- **Understanding**: Twenty-five years. The day killed **2,977**. The dust kept killing. Oil above $110 is still the domestic face of Hormuz.
+- **Fun**: FIBA Women’s World Cup is dark today. Semi-finals Saturday: USA vs Spain; France vs Germany.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No local PIF this morning.
+No new local PIF this morning.
 
-Local PUF: The Weight Band tonight at the Vogel, Red Bank. Hot, mostly sunny, high near 86–89°F.
+Middletown lost **37** residents on 11 September 2001 — more than any town outside New York City. Township memorial service tonight, **7:00 p.m.**, World Trade Center Memorial Gardens, 36 Church Street, next to the Arts Center. PBA 9/11 Memorial 5K bib pickup at the train station, 3:30–5:30 p.m.; race Saturday.
 
 **What changed since yesterday**
 
-Nepal recovered-body total moved from **1,365** to **1,377**; missing **5,130**; rescued **13,656**. DRC Ebola moved to **6,843** / **3,310**, with **1,611** recovered. Hormuz: no new CENTCOM combat line; Brent closed above $100. Hurricane Lowell deaths moved from **1** to **2**. Ukraine overnight: **7** dead. Qingdao ship fire: **20** dead.
+Nepal and Ebola tables held. Hormuz: oil reported above **$110**; traffic described in single digits. Lowell now post-tropical; about 9,000 Kauaʻi customers restored. Miami off most homepages. 11 September 2001 is twenty-five years today.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Dallas midterm convention, oil above $100, the AI-rules fight after the Anthropic resignations, Miami cockpit warnings, and Hurricane Lowell’s second death. Iran / Hormuz is the reason at the pump. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning are the 25th anniversary — Ground Zero, the Pentagon, Shanksville — and, under that, oil above $110. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 
+- 11 September 2001 — 25 years today
 - Nepal–Tibet floods — from 26 August 2026
 - DRC Ebola — declared 15 May 2026
 - Iran / Hormuz — from 28 February 2026
 - Venezuela — since 24 June 2026
 - Colombia — since 10 August 2026
 - Ceuta — since 30 July 2026
-- Indonesia Flores — since 15 August 2026
 - Ukraine — 4+ years
 - Sudan — since April 2023
 - Myanmar — since 2021 coup
@@ -125,6 +129,6 @@ U.S. platforms this morning: the Dallas midterm convention, oil above $100, the 
 ---
 
 **How this page is made**  
-When this page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload.
+When this page is refreshed, official sitreps and tables are searched first. Wires second. Features last. A story’s population is the people reported affected by that event. Cat 1–5 is an ordinal judgment of that caseload.
 
-This is not a world census. The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance. Local PUF stays there. Snapshot, disclosed Grok help, not a wire service.
+This is not a world census. Snapshot, disclosed Grok help, not a wire service.

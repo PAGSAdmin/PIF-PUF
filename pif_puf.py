@@ -32,6 +32,8 @@ Two PIF blocks only. No Mid-PIF heading.
 
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 
+9/11 ANNIVERSARY: the commemorative note and the 11 September 2001 attack as a daily item are for 11 September only. Do not carry them forward. A 9/11-related illness line returns only if there is new counted health-impact news on U.S. platforms that day.
+
 POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak closed. Refresh the numbers. Do not reuse last week's tunnel story as if it happened today.
 
 EMERGING PIF two lanes:

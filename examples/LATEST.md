@@ -67,20 +67,22 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,676** rescued (NDRRMA). **703** Nepalis stranded in China returned through Tatopani.
-- DRC authorities: **1,671** Ebola recoveries.
+- Nepal NDRRMA: **13,676** rescued. **703** Nepalis stranded in Tibet/China came home through Tatopani.
+- Congolese authorities: **1,671** Bundibugyo recoveries.
+- WHO: about **2,000** frontline workers in Tshopo and Bas-Uélé have received Ervebo, from a 50,000-dose frontline allocation.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- Pacific cyclones still on the GDACS board behind Lowell. Further Himalayan lake-burst / glacier risk.
+- Tropical Storm **Norbert** still active in the East Pacific (through 12 September on the live ACE board). São Paulo Civil Defense had a severe-storm / isolated-tornado watch into this morning.
+- Further Himalayan lake-burst / glacier risk on the Bhote Koshi corridor.
 - New World screwworm (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
 
 Discovery / tech / cure:
-- WHO multi-dose maternal RSV vial (Abrysvo). RSV still about **100,000** child deaths a year under age 5.
-- Shigella vaccine WRSs2: **89%** in a phase-2 challenge trial.
-- ARPA-H ADVOCATE awards toward FDA-path heart-failure clinical AI.
+- WHO plans a phase-3 ring trial of Ervebo against Bundibugyo, about **20,000** of the DRC stockpile, earliest October–November. No licensed Bundibugyo vaccine yet.
+- Shigella vaccine WRSs2: **89%** protection in a phase-2 challenge trial (Lancet Infectious Diseases, this week).
+- WHO multi-dose maternal RSV vial (Abrysvo), prequalified 9 September.
 
 **Top Surfacing PUF**
 
@@ -97,7 +99,7 @@ Local PUF: Middletown PBA 9/11 Memorial 5K, train station, 8:30 a.m. TLC / Salt-
 
 **What changed since yesterday**
 
-The 11 September 2001 commemorative note is off the page. Nepal recovered-body total moved from **1,377** to **1,385**; rescued **13,676**. DRC Ebola moved to **7,022** / **3,398** on a Congolese-authority cut. Brent eased to **$104.61** after an $110 print. Lowell moved to still-open. Miami returned to weekend homepages as an operator story. Ukraine overnight: **3** dead, **28** wounded at Odesa.
+Nepal recovered-body total moved from **1,377** to **1,385**; rescued **13,676**. DRC Ebola moved to **7,022** / **3,398** on a Congolese-authority cut. Brent eased to **$104.61** after an $110 print. Lowell is no longer a U.S. homepage lead. Miami returned to weekend homepages as an operator story. Ukraine overnight: **3** dead, **28** wounded at Odesa.
 
 **Signal vs Noise note**
 

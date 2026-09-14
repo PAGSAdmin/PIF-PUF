@@ -26,23 +26,20 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 2) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
    **5** dead. Amazon has suspended 21 Air, the carrier whose jet left the runway.
 
-3) **Pennsylvania measles death** → **Cat 1**  
-   County coroner: unvaccinated 40-year-old woman died Saturday of complications of a probable measles case.
-
 **PIF — still open, platforms moved on**
 
-4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    Last NDRRMA / PTI cut: **1,386** recovered; **5,130** missing; **13,676** rescued. Twentieth day. No fresh Monday sitrep yet.
 
-5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    Congolese cut as of 10 September: **7,022** / **3,398**. Three cases confirmed 13 September inside Savo displacement camp, Ituri (~70,000 people). Government still says “under control.” ECDC weekday page last stamped 11 September (**6,942** / **3,349**, **1,647** recovered). Table not closed.
 
-6) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    Basarnas Monday: **6** dead, **108** rescued, **129** still missing of **243** on board.
 
-7) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
+6) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
 
-8) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files, no new agency close.
+7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files, no new agency close.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
@@ -80,7 +77,7 @@ Local PUF: Square dancing, Thompson Park Activity Barn, 7 p.m. Sunny, high near 
 
 **What changed since yesterday**
 
-Brent moved to about **$108**. Amazon suspended 21 Air. Pennsylvania measles death added. Java Sea missing revised to **129**. Three Ebola cases confirmed in Savo camp. USA won the World Cup final.
+Brent moved to about **$108**. Amazon suspended 21 Air. Java Sea missing revised to **129**. Three Ebola cases confirmed in Savo camp. USA won the World Cup final.
 
 **Signal vs Noise note**
 

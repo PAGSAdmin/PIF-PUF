@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 14 September 2026
+# Daily reading — 15 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 14 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 15 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,32 +21,32 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$108**; WTI about **$103**. Diesel U.S. average reported **$6.20**. Oman talks with Iran postponed. Houthis seized the Hanish Islands. Energy Secretary Wright says weekly average Hormuz flow is about 10 million barrels a day; ship-tracking over the weekend still in single digits. Sunday’s commercial hull strike: **1** dead.
+   Brent near **$105–108**. Kpler: **4** commodity vessels Monday, from 10 Sunday. TankerTrackers: some daylight VLCC traffic both ways on 14 September imagery. UKMTO: another projectile report Tuesday, no damage listed. Talks still postponed. Houthis: Saudi airstrikes, **3** dead (Houthi claim).
 
 2) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   **5** dead. Amazon has suspended 21 Air, the carrier whose jet left the runway.
+   **5** dead. Amazon’s 21 Air pause still the U.S. follow-up.
 
 **PIF — still open, platforms moved on**
 
 3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA / PTI cut: **1,386** recovered; **5,130** missing; **13,676** rescued. Twentieth day. No fresh Monday sitrep yet.
+   Last NDRRMA / PTI cut: **1,386** recovered; **5,130** missing; **13,676** rescued. Twenty-first day.
 
 4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Congolese cut as of 10 September: **7,022** / **3,398**. Three cases confirmed 13 September inside Savo displacement camp, Ituri (~70,000 people). Government still says “under control.” ECDC weekday page last stamped 11 September (**6,942** / **3,349**, **1,647** recovered). Table not closed.
+   ECDC, 14 September 13:30 (data through 12 September): **7,200** confirmed, **3,475** deaths. Recoveries **1,712** on the 13 September DRC epi note. Minister Kamba: daily confirmations about **80** (from ~120), R about **0.9**; six of 62 zones past 42 days with no new case. 16 health workers infected in Katwa, three dead. Table not closed.
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Basarnas Monday: **6** dead, **108** rescued, **129** still missing of **243** on board.
+   **6** dead, about **108–109** rescued, **128–129** missing of **243**. Hull inverted, drifted, now at about 30 m.
 
 6) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
 
-7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files, no new agency close.
+7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
 - Nepal: **13,676** rescued on the last NDRRMA cut.
-- DRC: ten health zones with 21 days of no new case; **1,671** recoveries on the Congolese cut.
+- Ebola recoveries **1,712**. Six health zones past 42 days with no new case; four more past 21.
 - WHO: about **2,000** frontline workers given Ervebo in Tshopo and Bas-Uélé.
 - Uganda Ebola outbreak remains closed.
 
@@ -55,33 +55,32 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 Hazard watch:
 - Further Himalayan lake-burst / glacier risk.
 - New World screwworm (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
-- Houthi hold on Hanish / Bab el-Mandeb is a shipping-lane hazard before a larger death table.
+- Houthi hold on Hanish / Bab el-Mandeb.
 
 Discovery / tech / cure:
 - WHO Bundibugyo Ervebo ring trial still planned October–November.
-- Shigella WRSs2 **89%** (Lancet Infectious Diseases).
-- WHO multi-dose maternal RSV vial (Abrysvo).
+- Shigella WRSs2 **89%**. WHO multi-dose maternal RSV vial (Abrysvo).
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump: “whoever wins AI wins.” Second federal judge froze the mail-ballot order. Houthis tightening the Red Sea. Johnson says the $5,000 “dividend” needs Congress.
-- **Policies**: NSA announced a restructuring toward AI and cyber. Amazon’s 21 Air pause is a private-desk rule, not a statute.
-- **Understanding**: Oil near $108 with talks postponed and the Saudi East-West line still shut.
-- **Fun**: USA 97, France 79 — fifth straight FIBA Women’s World Cup. Stewart MVP. Spain took bronze.
+- **Politics**: Supreme Court blocked the midterm mail-ballot restrictions. Trump still frames AI as a race to win. Fed expected to raise rates.
+- **Policies**: the mail-ballot Postal Service plan is stopped for this cycle.
+- **Understanding**: Diesel and $105 oil are still the domestic face of Hormuz even if a few VLCCs show on satellite.
+- **Fun**: none on the official calendar this morning.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Square dancing, Thompson Park Activity Barn, 7 p.m. Sunny, high near 74–76°F.
+Local PUF: Adult volleyball and yoga, Croydon Hall / Croydon Gym, 6:30 p.m. Sunny, high near 70–78°F.
 
 **What changed since yesterday**
 
-Brent moved to about **$108**. Amazon suspended 21 Air. Java Sea missing revised to **129**. Three Ebola cases confirmed in Savo camp. USA won the World Cup final.
+ECDC Ebola cut moved to **7,200** / **3,475**; recoveries **1,712**. Hormuz Monday transits reported as low as **4**. Supreme Court rejected the mail-ballot order. No new Nepal sitrep.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: oil near $108, Amazon/21 Air, AI go-faster vs slow-down, midterm mechanics. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Court on mail ballots, AI as a race, the Fed, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

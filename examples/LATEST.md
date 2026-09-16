@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 15 September 2026
+# Daily reading — 16 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 15 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 16 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,33 +21,35 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent near **$105–108**. Kpler: **4** commodity vessels Monday, from 10 Sunday. TankerTrackers: some daylight VLCC traffic both ways on 14 September imagery. UKMTO: another projectile report Tuesday, no damage listed. Talks still postponed. Houthis: Saudi airstrikes, **3** dead (Houthi claim).
+   Oil still above **$100**. Saudi East-West pipeline remains shut; Yanbu loaded no crude since 11 September. Windward: nine Hormuz transits in 24 hours, many dark. CBO put the U.S. war cost at **$38 billion** through 1 August. House voted a third time to direct an end or a new authorization (no force of law).
 
-2) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   **5** dead. Amazon’s 21 Air pause still the U.S. follow-up.
+2) **Los Angeles news-helicopter crash** → **Cat 1**  
+   **3** dead after an NBC4 / Telemundo 52 helicopter came down while covering a bus collision.
 
 **PIF — still open, platforms moved on**
 
 3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA / PTI cut: **1,386** recovered; **5,130** missing; **13,676** rescued. Twenty-first day.
+   NDRRMA / PTI Tuesday: **1,399** recovered; **5,170** missing; **13,742** rescued. Twenty-second day.
 
 4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 14 September 13:30 (data through 12 September): **7,200** confirmed, **3,475** deaths. Recoveries **1,712** on the 13 September DRC epi note. Minister Kamba: daily confirmations about **80** (from ~120), R about **0.9**; six of 62 zones past 42 days with no new case. 16 health workers infected in Katwa, three dead. Table not closed.
+   ECDC, 15 September 15:40 (data through 13 September): **7,258** confirmed, **3,510** deaths, **1,726** recovered. UN Ebola coordinator: still a massive epidemic, growth in some zones. Table not closed.
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   **6** dead, about **108–109** rescued, **128–129** missing of **243**. Hull inverted, drifted, now at about 30 m.
+   **6** dead, **108** rescued, **129** missing of **243**. Search continues; hull inverted.
 
-6) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
+6) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
+   **5** dead. Amazon / 21 Air pause. Off most homepages today.
 
-7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+7) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
+
+8) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,676** rescued on the last NDRRMA cut.
-- Ebola recoveries **1,712**. Six health zones past 42 days with no new case; four more past 21.
-- WHO: about **2,000** frontline workers given Ervebo in Tshopo and Bas-Uélé.
+- Nepal: **13,742** rescued (NDRRMA Tuesday).
+- Ebola recoveries **1,726**. Minister still cites falling daily confirmations; UN says the epidemic is not over.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
@@ -55,7 +57,7 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 Hazard watch:
 - Further Himalayan lake-burst / glacier risk.
 - New World screwworm (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
-- Houthi hold on Hanish / Bab el-Mandeb.
+- Houthi hold on Hanish / Bab el-Mandeb; Petroline still offline.
 
 Discovery / tech / cure:
 - WHO Bundibugyo Ervebo ring trial still planned October–November.
@@ -63,24 +65,24 @@ Discovery / tech / cure:
 
 **Top Surfacing PUF**
 
-- **Politics**: Supreme Court blocked the midterm mail-ballot restrictions. Trump still frames AI as a race to win. Fed expected to raise rates.
-- **Policies**: the mail-ballot Postal Service plan is stopped for this cycle.
-- **Understanding**: Diesel and $105 oil are still the domestic face of Hormuz even if a few VLCCs show on satellite.
+- **Politics**: Fed expected to raise rates today. Trump in North Carolina. House war-powers vote; Massie impeachment resolution on Hegseth. Times/Siena: Democrats edged on midterm issues.
+- **Policies**: CBO war-cost table. $2.8 billion Israel arms package approved.
+- **Understanding**: Diesel and three-figure oil are still the domestic face of two wars and a shut Saudi line.
 - **Fun**: none on the official calendar this morning.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Adult volleyball and yoga, Croydon Hall / Croydon Gym, 6:30 p.m. Sunny, high near 70–78°F.
+Local PUF: Youth dodgeball 4:30 p.m., adult basketball 6 p.m., Croydon Hall. Library board 7 p.m. Sunny, high near 77–82°F.
 
 **What changed since yesterday**
 
-ECDC Ebola cut moved to **7,200** / **3,475**; recoveries **1,712**. Hormuz Monday transits reported as low as **4**. Supreme Court rejected the mail-ballot order. No new Nepal sitrep.
+Nepal recovered-body total moved from **1,386** to **1,399**; missing **5,170**; rescued **13,742**. ECDC Ebola cut moved to **7,258** / **3,510**, recoveries **1,726**. LA helicopter crash: **3** dead. Miami off most homepages.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Court on mail ballots, AI as a race, the Fed, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the LA helicopter, the Fed, midterms, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

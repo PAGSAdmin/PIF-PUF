@@ -55,13 +55,13 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 **Emerging PIF**
 
 Hazard watch:
-- Further Himalayan lake-burst / glacier risk.
-- New World screwworm (USDA/APHIS). Greater Horn of Africa food insecurity (WHO).
-- Houthi hold on Hanish / Bab el-Mandeb; Petroline still offline.
+- NHC: disturbance ~600 miles east of Bermuda, 30% chance of becoming a depression in seven days (next Atlantic name: Fay). Separate watch on the northern Gulf late week.
+- Tropical Depression **24W** east of the Marianas, forecast to curve toward Tokyo; possible name Dujuan. Lowell slot for the next named Pacific system.
+- Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- WHO Bundibugyo Ervebo ring trial still planned October–November.
-- Shigella WRSs2 **89%**. WHO multi-dose maternal RSV vial (Abrysvo).
+- FDA, 15 September: Expedited IND Pilot now accepting paired sponsor–research-institution applications through 30 October. Aim is a shorter path from discovery to first-in-human trial.
+- WHO Bundibugyo Ervebo ring trial still planned October–November — the open Ebola table’s next measured tool.
 
 **Top Surfacing PUF**
 

@@ -62,10 +62,10 @@ Discovery / tech / cure:
 
 **Top Surfacing PUF**
 
-- **Politics**: Fed raised a quarter point to about **3.9%**, first hike in three years; Trump called the governors politicians. Midterm map still the U.S. lead around that.
-- **Policies**: the rate decision is the rule that moved. Retail sales +1.2% in August.
-- **Understanding**: a 25-basis-point hike on top of diesel and $105 oil is the affordability stack seven weeks from the midterms.
-- **Fun**: none on the official calendar this morning.
+- **Politics**: Fed raised a quarter point to about **3.9%**, first hike in three years.
+- **Policies**: that rate decision is the rule that moved. Retail sales +1.2% in August.
+- **Understanding**: A 25-basis-point funds-rate rise raises the price of new borrowing. Diesel and three-figure crude raise the price of moving goods. Those two costs stack; they are not the same instrument.
+- **Fun**: Constitution Day (17 September). Thursday Night Football: Lions at Bills, 8:15 p.m. ET, Prime. WNBA regular season returns tonight. MLB: Phillies at Mets, 7:15 p.m. ET, FOX.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
@@ -79,7 +79,7 @@ Nepal dead **1,399 → 1,404**; missing restated near **6,150**. Fed hiked. Bren
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Fed hike, midterms, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Fed hike, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

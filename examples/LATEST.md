@@ -62,8 +62,8 @@ Discovery / tech / cure:
 
 **Top Surfacing PUF**
 
-- **Politics**: Fed raised a quarter point to about **3.9%**, first hike in three years.
-- **Policies**: that rate decision is the rule that moved. Retail sales +1.2% in August.
+- **Politics**: House passed two anti-fraud bills Wednesday: H.R. 9576 (permanent DOJ National Fraud Enforcement Division) **352–72**, and H.R. 10326, the PROOF Act (state data-sharing on Medicaid, SNAP, TANF). Both still need the Senate.
+- **Policies**: those two House texts. Fed raised a quarter point to about **3.9%**. Retail sales +1.2% in August.
 - **Understanding**: A 25-basis-point funds-rate rise raises the price of new borrowing. Diesel and three-figure crude raise the price of moving goods. Those two costs stack; they are not the same instrument.
 - **Fun**: Constitution Day (17 September). Thursday Night Football: Lions at Bills, 8:15 p.m. ET, Prime. WNBA regular season returns tonight. MLB: Phillies at Mets, 7:15 p.m. ET, FOX.
 
@@ -75,11 +75,11 @@ Local PUF: partly sunny, high near 81–86°F; shower chance tonight.
 
 **What changed since yesterday**
 
-Nepal dead **1,399 → 1,404**; missing restated near **6,150**. Fed hiked. Brent eased off the $108 print to about **$106**. CEPI funded Bundibugyo trial-readiness. Tedros: North Kivu weekly cases doubled.
+Nepal dead **1,399 → 1,404**; missing restated near **6,150**. Fed hiked. House passed PROOF and the Fraud Enforcement Division bills. Brent eased off the $108 print to about **$106**. CEPI funded Bundibugyo trial-readiness. Tedros: North Kivu weekly cases doubled.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Fed hike, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Fed hike, the House fraud bills, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

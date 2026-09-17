@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 16 September 2026
+# Daily reading — 17 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 16 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 17 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,68 +21,65 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Oil still above **$100**. Saudi East-West pipeline remains shut; Yanbu loaded no crude since 11 September. Windward: nine Hormuz transits in 24 hours, many dark. CBO put the U.S. war cost at **$38 billion** through 1 August. House voted a third time to direct an end or a new authorization (no force of law).
+   Brent settled **$105.83**, WTI **$102.43** Wednesday after Saudi extra cargoes via Oman STS; still three-figure oil. Vance: energy-crisis risk if both Hormuz and Bab el-Mandeb stay tight. UN-commissioned experts cited “reasonable grounds” for U.S. war-crimes findings on two Iran strikes (at least **178** civilians reported). Petroline still the shut workaround.
 
-2) **Los Angeles news-helicopter crash** → **Cat 1**  
-   **3** dead after an NBC4 / Telemundo 52 helicopter came down while covering a bus collision.
+2) **Los Angeles news-helicopter crash (16 September)** → **Cat 1**  
+   **3** dead. Still on U.S. homepages as airspace / news-chopper hazard.
 
 **PIF — still open, platforms moved on**
 
 3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   NDRRMA / PTI Tuesday: **1,399** recovered; **5,170** missing; **13,742** rescued. Twenty-second day.
+   Nepal Police / PTI Wednesday: **1,404** dead; about **6,150** missing (includes **587** foreign nationals); **13,700+** rescued; **104–105** bodies identified and returned. Twenty-third day.
 
 4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 15 September 15:40 (data through 13 September): **7,258** confirmed, **3,510** deaths, **1,726** recovered. UN Ebola coordinator: still a massive epidemic, growth in some zones. Table not closed.
+   Last ECDC weekday cut: **7,258** / **3,510**, **1,726** recovered. Tedros: North Kivu weekly cases nearly doubled (~100 to 200+). CEPI **$3.9 million** for Bundibugyo surveillance and trial-readiness. Table not closed.
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   **6** dead, **108** rescued, **129** missing of **243**. Search continues; hull inverted.
+   **6** dead, **108** rescued, **129** missing of **243**.
 
-6) **Miami International Airport cargo overrun (6 September)** → **Cat 1**  
-   **5** dead. Amazon / 21 Air pause. Off most homepages today.
+6) **Miami cargo overrun / Hurricane Lowell** — standing Cat 1 and Cat 2 files.
 
-7) **Hurricane Lowell, Hawaii** → **Cat 2** — **3** direct deaths; dissipated.
-
-8) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,742** rescued (NDRRMA Tuesday).
-- Ebola recoveries **1,726**. Minister still cites falling daily confirmations; UN says the epidemic is not over.
+- Nepal: **13,700+** rescued; **105** identified remains returned.
+- Ebola recoveries **1,726**. Ituri transmission still described as declining; South Kivu quiet since May.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC: disturbance ~600 miles east of Bermuda, 30% chance of becoming a depression in seven days (next Atlantic name: Fay). Separate watch on the northern Gulf late week.
-- Tropical Depression **24W** east of the Marianas, forecast to curve toward Tokyo; possible name Dujuan. Lowell slot for the next named Pacific system.
+- NHC Eastern Pacific: tropical wave near 101W; high chance of a depression early next week off southwestern Mexico.
+- Atlantic: no named storm this morning. Upper low toward Florida; shower risk, not a Fay watch with numbers.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- FDA, 15 September: Expedited IND Pilot now accepting paired sponsor–research-institution applications through 30 October. Aim is a shorter path from discovery to first-in-human trial.
-- WHO Bundibugyo Ervebo ring trial still planned October–November — the open Ebola table’s next measured tool.
+- CEPI **$3.9 million** for Bundibugyo real-time intelligence and trial design (B-REACT plus Imperial and Makerere modelling).
+- FDA Expedited IND Pilot still open through 30 October.
 
 **Top Surfacing PUF**
 
-- **Politics**: Fed expected to raise rates today. Trump in North Carolina. House war-powers vote; Massie impeachment resolution on Hegseth. Times/Siena: Democrats edged on midterm issues.
-- **Policies**: CBO war-cost table. $2.8 billion Israel arms package approved.
-- **Understanding**: Diesel and three-figure oil are still the domestic face of two wars and a shut Saudi line.
+- **Politics**: Fed raised a quarter point to about **3.9%**, first hike in three years; Trump called the governors politicians. Midterm map still the U.S. lead around that.
+- **Policies**: the rate decision is the rule that moved. Retail sales +1.2% in August.
+- **Understanding**: a 25-basis-point hike on top of diesel and $105 oil is the affordability stack seven weeks from the midterms.
 - **Fun**: none on the official calendar this morning.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Youth dodgeball 4:30 p.m., adult basketball 6 p.m., Croydon Hall. Library board 7 p.m. Sunny, high near 77–82°F.
+Local PUF: partly sunny, high near 81–86°F; shower chance tonight.
 
 **What changed since yesterday**
 
-Nepal recovered-body total moved from **1,386** to **1,399**; missing **5,170**; rescued **13,742**. ECDC Ebola cut moved to **7,258** / **3,510**, recoveries **1,726**. LA helicopter crash: **3** dead. Miami off most homepages.
+Nepal dead **1,399 → 1,404**; missing restated near **6,150**. Fed hiked. Brent eased off the $108 print to about **$106**. CEPI funded Bundibugyo trial-readiness. Tedros: North Kivu weekly cases doubled.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the LA helicopter, the Fed, midterms, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: the Fed hike, midterms, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

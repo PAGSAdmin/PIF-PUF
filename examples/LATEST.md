@@ -21,7 +21,7 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled **$105.83**, WTI **$102.43** Wednesday after Saudi extra cargoes via Oman STS; still three-figure oil. Vance: energy-crisis risk if both Hormuz and Bab el-Mandeb stay tight. UN-commissioned experts cited “reasonable grounds” for U.S. war-crimes findings on two Iran strikes (at least **178** civilians reported). Petroline still the shut workaround.
+   Brent settled **$105.83**, WTI **$102.43** Wednesday after Saudi extra cargoes via Oman ship-to-ship. Still three-figure oil. Petroline, the East-West workaround, remains shut.
 
 2) **Los Angeles news-helicopter crash (16 September)** → **Cat 1**  
    **3** dead. Still on U.S. homepages as airspace / news-chopper hazard.

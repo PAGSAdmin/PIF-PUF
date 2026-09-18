@@ -78,7 +78,7 @@ Nepal **1,404 → 1,410**; rescued **13,756**. ECDC Ebola **7,475** / **3,605**,
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: early voting, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. homepages this morning: midterm early voting, the USPS halt after the Court order, Buffett leaving the Berkshire chair, Brent still above $100 after the *Trend* incident.
 
 **Story duration**
 

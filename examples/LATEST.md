@@ -52,19 +52,19 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 **Emerging PIF**
 
 Hazard watch:
-- NHC: no named Atlantic or East Pacific cyclone this morning.
+- NHC Atlantic: Invest 98-L east of Bermuda, development odds cut to **10%**. No named storm. Next name still Fay.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- CEPI **$3.9 million** Bundibugyo trial-readiness still the open Ebola desk.
-- FDA Expedited IND Pilot still open through 30 October.
+- FDA, 17 September: taletrectinib (Ibtrozi) label updated — median duration of response **49.7 months** in TKI-naive ROS1-positive NSCLC (TRUST-I).
+- CEPI **$3.9 million** Bundibugyo trial-readiness remains the open Ebola desk.
 
 **Top Surfacing PUF**
 
 - **Politics**: In-person midterm early voting has begun. House is in recess. USPS halted the mail-ballot screening system after the Court order.
 - **Policies**: that USPS halt. Bank of Japan raised to **1.25%**, highest since 1995.
 - **Understanding**: Brent off the week’s $108 high to about **$104** after Saudi STS cargoes. The funds-rate rise and three-figure crude are still two separate cost stacks.
-- **Fun**: Warren Buffett steps down as Berkshire chairman after 56 years; Howard Buffett takes the chair. Local: Manasquan at Middletown North football, 7 p.m.
+- **Fun**: Riot Fest opens in Chicago (Twenty One Pilots, Tool). Shaky Knees opens in Atlanta (The Strokes). Wheelchair tennis marking 50 years.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
@@ -78,7 +78,7 @@ Nepal **1,404 → 1,410**; rescued **13,756**. ECDC Ebola **7,475** / **3,605**,
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: early voting, Buffett, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: early voting, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

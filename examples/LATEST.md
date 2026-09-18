@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 17 September 2026
+# Daily reading — 18 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 17 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 18 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,21 +21,21 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled **$105.83**, WTI **$102.43** Wednesday after Saudi extra cargoes via Oman ship-to-ship. Still three-figure oil. Petroline, the East-West workaround, remains shut.
-
-2) **Los Angeles news-helicopter crash (16 September)** → **Cat 1**  
-   **3** dead. Still on U.S. homepages as airspace / news-chopper hazard.
+   Brent about **$104**; WTI about **$101**. IRGC claimed a strike on the Togo-flagged tanker *Trend*; UKMTO logged a security incident northeast of Khasab, crew safe, no environmental cut listed. Petroline still the shut workaround; Saudi STS cargoes via Oman continue.
 
 **PIF — still open, platforms moved on**
 
-3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Nepal Police / PTI Wednesday: **1,404** dead; about **6,150** missing (includes **587** foreign nationals); **13,700+** rescued; **104–105** bodies identified and returned. Twenty-third day.
+2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   NDRRMA Thursday: **1,410** dead; **6,145** missing; **13,756** rescued. Twenty-fourth day.
 
-4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last ECDC weekday cut: **7,258** / **3,510**, **1,726** recovered. Tedros: North Kivu weekly cases nearly doubled (~100 to 200+). CEPI **$3.9 million** for Bundibugyo surveillance and trial-readiness. Table not closed.
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 18 September 14:20 (data through 16 September): **7,475** confirmed, **3,605** deaths, **1,798** recovered. Table not closed.
 
-5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   **6** dead, **108** rescued, **129** missing of **243**.
+4) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+   **9** dead, **108** rescued, **126** missing of **243**.
+
+5) **Los Angeles news-helicopter crash / bus collision (16 September)** → **Cat 1**  
+   Helicopter **3** dead; bus **2** dead. SUV driver charged. Off most homepages.
 
 6) **Miami cargo overrun / Hurricane Lowell** — standing Cat 1 and Cat 2 files.
 
@@ -45,41 +45,40 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,700+** rescued; **105** identified remains returned.
-- Ebola recoveries **1,726**. Ituri transmission still described as declining; South Kivu quiet since May.
+- Nepal: **13,756** rescued.
+- Ebola recoveries **1,798**.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC Eastern Pacific: tropical wave near 101W; high chance of a depression early next week off southwestern Mexico.
-- Atlantic: no named storm this morning. Upper low toward Florida; shower risk, not a Fay watch with numbers.
+- NHC: no named Atlantic or East Pacific cyclone this morning.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- CEPI **$3.9 million** for Bundibugyo real-time intelligence and trial design (B-REACT plus Imperial and Makerere modelling).
+- CEPI **$3.9 million** Bundibugyo trial-readiness still the open Ebola desk.
 - FDA Expedited IND Pilot still open through 30 October.
 
 **Top Surfacing PUF**
 
-- **Politics**: House passed two anti-fraud bills Wednesday: H.R. 9576 (permanent DOJ National Fraud Enforcement Division) **352–72**, and H.R. 10326, the PROOF Act (state data-sharing on Medicaid, SNAP, TANF). Both still need the Senate.
-- **Policies**: those two House texts. Fed raised a quarter point to about **3.9%**. Retail sales +1.2% in August.
-- **Understanding**: A 25-basis-point funds-rate rise raises the price of new borrowing. Diesel and three-figure crude raise the price of moving goods. Those two costs stack; they are not the same instrument.
-- **Fun**: Constitution Day (17 September). Thursday Night Football: Lions at Bills, 8:15 p.m. ET, Prime. WNBA regular season returns tonight. MLB: Phillies at Mets, 7:15 p.m. ET, FOX.
+- **Politics**: In-person midterm early voting has begun. House is in recess. USPS halted the mail-ballot screening system after the Court order.
+- **Policies**: that USPS halt. Bank of Japan raised to **1.25%**, highest since 1995.
+- **Understanding**: Brent off the week’s $108 high to about **$104** after Saudi STS cargoes. The funds-rate rise and three-figure crude are still two separate cost stacks.
+- **Fun**: Warren Buffett steps down as Berkshire chairman after 56 years; Howard Buffett takes the chair. Local: Manasquan at Middletown North football, 7 p.m.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: partly sunny, high near 81–86°F; shower chance tonight.
+Local PUF: Middletown North vs Manasquan, 7 p.m. Partly sunny, high near 80–84°F.
 
 **What changed since yesterday**
 
-Nepal dead **1,399 → 1,404**; missing restated near **6,150**. Fed hiked. House passed PROOF and the Fraud Enforcement Division bills. Brent eased off the $108 print to about **$106**. CEPI funded Bundibugyo trial-readiness. Tedros: North Kivu weekly cases doubled.
+Nepal **1,404 → 1,410**; rescued **13,756**. ECDC Ebola **7,475** / **3,605**, recoveries **1,798**. Java Sea deaths **6 → 9**; missing **126**. Tanker *Trend* incident in Hormuz. LA helicopter off most homepages.
 
 **Signal vs Noise note**
 
-U.S. platforms this morning: the Fed hike, the House fraud bills, the LA helicopter follow. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
+U.S. platforms this morning: early voting, Buffett, oil still above $100. Nepal and Ebola remain the largest open caseloads on this page and are not U.S. homepage leads.
 
 **Story duration**
 

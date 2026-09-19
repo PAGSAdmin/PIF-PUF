@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 18 September 2026
+# Daily reading — 19 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 18 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 19 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,64 +21,62 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$104**; WTI about **$101**. IRGC claimed a strike on the Togo-flagged tanker *Trend*; UKMTO logged a security incident northeast of Khasab, crew safe, no environmental cut listed. Petroline still the shut workaround; Saudi STS cargoes via Oman continue.
+   Brent still about **$104**. Saudi air-raid alerts overnight. Iran–Oman corridor talk continues; strait not reopened. Petroline still the shut workaround.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   NDRRMA Thursday: **1,410** dead; **6,145** missing; **13,756** rescued. Twenty-fourth day.
+   Last NDRRMA cut (Thursday): **1,410** dead; **6,145** missing; **13,756** rescued. Twenty-fifth day. No Saturday sitrep yet.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 18 September 14:20 (data through 16 September): **7,475** confirmed, **3,605** deaths, **1,798** recovered. Table not closed.
+   Last ECDC weekday cut (18 September): **7,475** / **3,605**, **1,798** recovered. Next ECDC epi update due 21 September. Table not closed.
 
 4) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    **9** dead, **108** rescued, **126** missing of **243**.
 
-5) **Los Angeles news-helicopter crash / bus collision (16 September)** → **Cat 1**  
-   Helicopter **3** dead; bus **2** dead. SUV driver charged. Off most homepages.
+5) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
-6) **Miami cargo overrun / Hurricane Lowell** — standing Cat 1 and Cat 2 files.
-
-7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+6) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,756** rescued.
+- Nepal: **13,756** rescued on the last cut.
 - Ebola recoveries **1,798**.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC Atlantic: Invest 98-L east of Bermuda, development odds cut to **10%**. No named storm. Next name still Fay.
+- Florida: state desk confirmed a dengue death in a surge described as one of the worst in decades. One counted death; watch the caseload, not the adjective.
+- NHC: Invest 98-L fading. No named Atlantic storm.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- FDA, 17 September: taletrectinib (Ibtrozi) label updated — median duration of response **49.7 months** in TKI-naive ROS1-positive NSCLC (TRUST-I).
-- CEPI **$3.9 million** Bundibugyo trial-readiness remains the open Ebola desk.
+- MSF / Epicentre **BRAVO** study opened 19 September in Bunia: Ervebo in **20,000** frontline workers in Ituri and North Kivu, nine to 12 months.
+- FDA taletrectinib label: **49.7-month** median duration of response (TRUST-I).
 
 **Top Surfacing PUF**
 
-- **Politics**: In-person midterm early voting has begun. House is in recess. USPS halted the mail-ballot screening system after the Court order.
-- **Policies**: that USPS halt. Bank of Japan raised to **1.25%**, highest since 1995.
-- **Understanding**: Brent off the week’s $108 high to about **$104** after Saudi STS cargoes. The funds-rate rise and three-figure crude are still two separate cost stacks.
-- **Fun**: Riot Fest opens in Chicago (Twenty One Pilots, Tool). Shaky Knees opens in Atlanta (The Strokes). Wheelchair tennis marking 50 years.
+- **Politics**: White House press access fight after Trump said CNN, MS NOW and Politico are barred. Greenland security deal announced, island remains Danish. Early voting continues.
+- **Policies**: Medicaid “GENEROUS” most-favored-nation drug pricing said to cover all 50 states.
+- **Understanding**: Oil held near **$104** without a new weekly spike. Two cost stacks still sit side by side: the funds rate and three-figure crude.
+- **Fun**: Riot Fest day two, Chicago. Shaky Knees continues, Atlanta. Sea.Hear.Now opens in Asbury Park (Mumford & Sons, The Strokes).
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Middletown North vs Manasquan, 7 p.m. Partly sunny, high near 80–84°F.
+Local PUF: Sea.Hear.Now, Asbury Park, 19–20 September. Partly sunny, high near 70–73°F.
 
 **What changed since yesterday**
 
-Nepal **1,404 → 1,410**; rescued **13,756**. ECDC Ebola **7,475** / **3,605**, recoveries **1,798**. Java Sea deaths **6 → 9**; missing **126**. Tanker *Trend* incident in Hormuz. LA helicopter off most homepages.
+No new Nepal sitrep. ECDC table unchanged (weekend). MSF opened the BRAVO Ervebo study. Florida dengue death confirmed. White House press-access fight is the Saturday homepage lead.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: midterm early voting, the USPS halt after the Court order, Buffett leaving the Berkshire chair, Brent still above $100 after the *Trend* incident.
+U.S. homepages this morning: the White House press-access fight, Greenland, early voting, oil still above $100.
 
 **Story duration**
 

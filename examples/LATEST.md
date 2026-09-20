@@ -49,6 +49,7 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 **Emerging PIF**
 
 Hazard watch:
+- Pennsylvania measles: more than **700** confirmed on the state / Times cut. Watch the table. Not a numbered PIF line.
 - Florida dengue: one confirmed death; watch the state table.
 - NHC: no named Atlantic storm.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.

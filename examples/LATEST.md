@@ -31,12 +31,15 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    INSP bulletin as of 18 September (published 19th): **7,614** confirmed, **3,676** deaths, **1,864** recovered. Dungu (Haut-Uélé) newly listed. ECDC weekday page still the 18 September cut. Next ECDC epi 21 September.
 
-4) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+4) **Ukraine war** → **Cat 5**  
+   OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut). January–August 2026: **2,222** killed, **13,058** injured. August: **372** killed, **2,349** injured.
+
+5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    **9** dead, **108** rescued, **126** missing of **243**.
 
-5) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
+6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
-6) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+7) **Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
@@ -60,7 +63,7 @@ Discovery / tech / cure:
 
 **Top Surfacing PUF**
 
-- **Politics**: White House press-access fight continues. Greenland security deal. Early voting. Ukraine launched a large drone wave on Moscow Oblast (refinery fire; **2** dead on the Russian cut).
+- **Politics**: White House press-access fight continues. Greenland security deal. Early voting. A large Ukrainian drone wave on Moscow Oblast is on the Sunday wires.
 - **Policies**: California election-interference bills signed.
 - **Understanding**: Hormuz still closed on Tehran’s stated terms. Crude and the funds rate remain two separate cost stacks.
 - **Fun**: Sea.Hear.Now day two, Asbury Park. Riot Fest closes in Chicago. First gold of the Asian Games (triathlon, Japan).
@@ -73,7 +76,7 @@ Local PUF: Sea.Hear.Now, Asbury Park. Rain this morning, high near 71–74°F.
 
 **What changed since yesterday**
 
-Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**.
+Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**. Ukraine standing line now carries the OHCHR civilian table.
 
 **Signal vs Noise note**
 
@@ -87,7 +90,7 @@ U.S. homepages this morning: the White House press-access fight, the Moscow dron
 - Venezuela — since 24 June 2026
 - Colombia — since 10 August 2026
 - Hurricane Lowell — 7–12 September 2026
-- Ukraine — 4+ years
+- Ukraine — from 24 February 2022
 
 ---
 

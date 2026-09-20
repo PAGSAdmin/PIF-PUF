@@ -23,23 +23,20 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Speaker Ghalibaf: no reopening until Iran’s conditions are met. Brent still three-figure on last close. Petroline still the shut workaround.
 
-2) **Pennsylvania measles outbreak** → **Cat 2**  
-   State / Times cut: more than **700** confirmed cases, described as the largest current U.S. outbreak. This is the caseload, not a single coroner line.
-
 **PIF — still open, platforms moved on**
 
-3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    Nepal Police Sunday: **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-sixth day.
 
-4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    INSP bulletin as of 18 September (published 19th): **7,614** confirmed, **3,676** deaths, **1,864** recovered. Dungu (Haut-Uélé) newly listed. ECDC weekday page still the 18 September cut. Next ECDC epi 21 September.
 
-5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+4) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    **9** dead, **108** rescued, **126** missing of **243**.
 
-6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
+5) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
-7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+6) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
@@ -75,11 +72,11 @@ Local PUF: Sea.Hear.Now, Asbury Park. Rain this morning, high near 71–74°F.
 
 **What changed since yesterday**
 
-Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**. Pennsylvania measles outbreak (**700+**) is on U.S. homepages as a counted table.
+Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the Pennsylvania measles caseload, the White House press-access fight, the Moscow drone wave, oil still above $100.
+U.S. homepages this morning: the White House press-access fight, the Moscow drone wave, oil still above $100.
 
 **Story duration**
 

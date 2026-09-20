@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 19 September 2026
+# Daily reading — 20 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 19 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 20 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,62 +21,65 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent still about **$104**. Saudi air-raid alerts overnight. Iran–Oman corridor talk continues; strait not reopened. Petroline still the shut workaround.
+   Speaker Ghalibaf: no reopening until Iran’s conditions are met. Brent still three-figure on last close. Petroline still the shut workaround.
+
+2) **Pennsylvania measles outbreak** → **Cat 2**  
+   State / Times cut: more than **700** confirmed cases, described as the largest current U.S. outbreak. This is the caseload, not a single coroner line.
 
 **PIF — still open, platforms moved on**
 
-2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA cut (Thursday): **1,410** dead; **6,145** missing; **13,756** rescued. Twenty-fifth day. No Saturday sitrep yet.
+3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Nepal Police Sunday: **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-sixth day.
 
-3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last ECDC weekday cut (18 September): **7,475** / **3,605**, **1,798** recovered. Next ECDC epi update due 21 September. Table not closed.
+4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   INSP bulletin as of 18 September (published 19th): **7,614** confirmed, **3,676** deaths, **1,864** recovered. Dungu (Haut-Uélé) newly listed. ECDC weekday page still the 18 September cut. Next ECDC epi 21 September.
 
-4) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    **9** dead, **108** rescued, **126** missing of **243**.
 
-5) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
+6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
-6) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+7) **Venezuela / Colombia / Ceuta / Ukraine / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
 Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,756** rescued on the last cut.
-- Ebola recoveries **1,798**.
+- Nepal: **13,784** rescued.
+- Ebola recoveries **1,864** on the INSP cut.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- Florida: state desk confirmed a dengue death in a surge described as one of the worst in decades. One counted death; watch the caseload, not the adjective.
-- NHC: Invest 98-L fading. No named Atlantic storm.
+- Florida dengue: one confirmed death; watch the state table.
+- NHC: no named Atlantic storm.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- MSF / Epicentre **BRAVO** study opened 19 September in Bunia: Ervebo in **20,000** frontline workers in Ituri and North Kivu, nine to 12 months.
+- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers (opened 19 September).
 - FDA taletrectinib label: **49.7-month** median duration of response (TRUST-I).
 
 **Top Surfacing PUF**
 
-- **Politics**: White House press access fight after Trump said CNN, MS NOW and Politico are barred. Greenland security deal announced, island remains Danish. Early voting continues.
-- **Policies**: Medicaid “GENEROUS” most-favored-nation drug pricing said to cover all 50 states.
-- **Understanding**: Oil held near **$104** without a new weekly spike. Two cost stacks still sit side by side: the funds rate and three-figure crude.
-- **Fun**: Riot Fest day two, Chicago. Shaky Knees continues, Atlanta. Sea.Hear.Now opens in Asbury Park (Mumford & Sons, The Strokes).
+- **Politics**: White House press-access fight continues. Greenland security deal. Early voting. Ukraine launched a large drone wave on Moscow Oblast (refinery fire; **2** dead on the Russian cut).
+- **Policies**: California election-interference bills signed.
+- **Understanding**: Hormuz still closed on Tehran’s stated terms. Crude and the funds rate remain two separate cost stacks.
+- **Fun**: Sea.Hear.Now day two, Asbury Park. Riot Fest closes in Chicago. First gold of the Asian Games (triathlon, Japan).
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Sea.Hear.Now, Asbury Park, 19–20 September. Partly sunny, high near 70–73°F.
+Local PUF: Sea.Hear.Now, Asbury Park. Rain this morning, high near 71–74°F.
 
 **What changed since yesterday**
 
-No new Nepal sitrep. ECDC table unchanged (weekend). MSF opened the BRAVO Ervebo study. Florida dengue death confirmed. White House press-access fight is the Saturday homepage lead.
+Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**. Pennsylvania measles outbreak (**700+**) is on U.S. homepages as a counted table.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the White House press-access fight, Greenland, early voting, oil still above $100.
+U.S. homepages this morning: the Pennsylvania measles caseload, the White House press-access fight, the Moscow drone wave, oil still above $100.
 
 **Story duration**
 

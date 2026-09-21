@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 20 September 2026
+# Daily reading — 21 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 20 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 21 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,66 +21,67 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Speaker Ghalibaf: no reopening until Iran’s conditions are met. Brent still three-figure on last close. Petroline still the shut workaround.
+   Brent about **$101**. Weekend visible transits **17**, down from **37** a week earlier (Kpler / Reuters). UKMTO logged another projectile strike on an inbound tanker; two crew wounded on that cut. Petroline still the shut workaround.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Nepal Police Sunday: **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-sixth day.
+   Nepal Police Sunday: **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-seventh day. No Monday sitrep yet.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   INSP bulletin as of 18 September (published 19th): **7,614** confirmed, **3,676** deaths, **1,864** recovered. Dungu (Haut-Uélé) newly listed. ECDC weekday page still the 18 September cut. Next ECDC epi 21 September.
+   ECDC, 21 September 14:35 (data through 19 September): **7,672** confirmed, **3,699** deaths, **1,879** recovered. Table not closed.
 
 4) **Ukraine war** → **Cat 5**  
-   OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut). January–August 2026: **2,222** killed, **13,058** injured. August: **372** killed, **2,349** injured.
+   OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut). January–August 2026: **2,222** killed, **13,058** injured.
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   **9** dead, **108** rescued, **126** missing of **243**.
+   **9** dead, **108** rescued, **126** missing of **243**. Underwater search continues.
 
 6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
 7) **Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
 
-Also open: Sudan, Myanmar, Sahel / Mali, South Sudan.
+Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 
 **Positive PIF Spotlight**
 
-- Nepal: **13,784** rescued.
-- Ebola recoveries **1,864** on the INSP cut.
+- Nepal: **13,784** rescued on the last police cut.
+- Ebola recoveries **1,879**.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- Pennsylvania measles: more than **700** confirmed on the state / Times cut. Watch the table.
+- NHC Atlantic: Tropical Storm Fay, **65 mph**, mid-ocean southwest of the Azores, forecast to weaken. Not a U.S. land threat on this advisory.
+- Eastern Pacific: Tropical Storms Polo and Odalys offshore of Mexico.
+- Pennsylvania measles: more than **700** confirmed. Watch the state table.
 - Florida dengue: one confirmed death; watch the state table.
-- NHC: no named Atlantic storm.
 - Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
-- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers (opened 19 September).
+- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
 - FDA taletrectinib label: **49.7-month** median duration of response (TRUST-I).
 
 **Top Surfacing PUF**
 
-- **Politics**: White House press-access fight continues. Greenland security deal. Early voting. A large Ukrainian drone wave on Moscow Oblast is on the Sunday wires.
-- **Policies**: California election-interference bills signed.
-- **Understanding**: Hormuz still closed on Tehran’s stated terms. Crude and the funds rate remain two separate cost stacks.
-- **Fun**: Sea.Hear.Now day two, Asbury Park. Riot Fest closes in Chicago. First gold of the Asian Games (triathlon, Japan).
+- **Politics**: CNN, MS NOW and Politico say they have notified the White House they are suing over denied access. UN General Assembly week. Xi visit preparation. ICE shooting in Austin is on the wires.
+- **Policies**: the press-access fight is the rule in motion. UNGA is the diplomatic calendar.
+- **Understanding**: Visible Hormuz traffic is a trickle; Brent eased to about **$101**. The funds rate and three-figure crude remain two stacks.
+- **Fun**: Yom Kippur begins this evening. Asian Games continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: Sea.Hear.Now, Asbury Park. Rain this morning, high near 71–74°F.
+Local PUF: partly sunny then cloudy, high near 71°F; shower chance tonight.
 
 **What changed since yesterday**
 
-Nepal Police **1,410 → 1,451**; rescued **13,784**. INSP Ebola **7,614** / **3,676**, recoveries **1,864**. Ukraine standing line now carries the OHCHR civilian table.
+ECDC Ebola **7,614 → 7,672** / **3,676 → 3,699**, recoveries **1,879**. Brent off to about **$101**. Fay named in the open Atlantic. No new Nepal police cut.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the White House press-access fight, the Moscow drone wave, oil still above $100.
+U.S. homepages this morning: the White House press-access lawsuit notice, UNGA / Xi week, the Austin ICE shooting, oil still above $100.
 
 **Story duration**
 

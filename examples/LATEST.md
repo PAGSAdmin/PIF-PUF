@@ -55,19 +55,17 @@ Hazard watch:
 - NHC Eastern Pacific: Hurricane Polo, **150 mph**, Category 4 approaching 5, south of Zihuatanejo. Forecast to stay offshore of southwestern Mexico.
 - Atlantic: Fay weakening to a remnant low southwest of the Azores. Not a U.S. land threat.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
-- Florida dengue: one confirmed death; watch the state table.
-- Further Himalayan lake-burst / glacier risk. Petroline still offline.
 
 Discovery / tech / cure:
+- FDA, 21 September: Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
-- FDA taletrectinib label: **49.7-month** median duration of response (TRUST-I).
 
 **Top Surfacing PUF**
 
 - **Politics**: Trump addresses UNGA. Networks suspended White House pool video after the CNN / MS NOW / Politico ban; those outlets have sued. Xi visit this week.
-- **Policies**: the press-access fight is the rule in motion.
+- **Policies**: the press-access fight is the rule in motion. College-sports bill on the Senate calendar.
 - **Understanding**: Brent printed **$100.34**. Reopen-in-seven-days talk is a condition set, not an open strait.
-- **Fun**: Yom Kippur continues. College-sports bill on the Senate calendar.
+- **Fun**: Asian Games continue in Japan.
 
 **Local Filter** (Monmouth / Middletown NJ)
 

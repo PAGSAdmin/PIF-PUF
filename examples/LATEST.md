@@ -1,4 +1,4 @@
-This page is updated daily in the U.S. morning, or when the author can sit with the sources. Dated copies stay in this folder as `DAILY_YYYY-MM-DD.md`.
+This page is updated daily in the U.S. morning, or when the author can sit with the sources. This file is overwritten. There is no dated public archive.
 
 PIF = Population Impact Factor.  
 PUF = Politics, Policies, Understanding, Fun.

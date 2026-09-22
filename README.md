@@ -79,9 +79,7 @@ The public [daily reading](examples/LATEST.md) is this watch. To change place or
 
 Stable link: [examples/LATEST.md](examples/LATEST.md)
 
-Updated daily in the U.S. morning, or when the author can sit with the sources.
-
-Dated archive stays in `examples/DAILY_YYYY-MM-DD.md`.
+Updated daily in the U.S. morning, or when the author can sit with the sources. This file is overwritten. There is no dated public archive.
 
 ---
 
@@ -135,8 +133,7 @@ No install beyond Python 3. No API key required for the generator itself.
 |---|---|
 | `pif_puf.py` | Daily prompt generator |
 | `CLARITYGUARD_PROMPT.md` | Single-item prompt |
-| `examples/LATEST.md` | Public daily reading (updated daily in the U.S. morning, or when the author can sit with the sources) |
-| `examples/DAILY_YYYY-MM-DD.md` | Dated archive |
+| `examples/LATEST.md` | Public daily reading (overwritten when refreshed) |
 | `NOVELTY_STATEMENT.md` | Why the split is different |
 | `GROKIPEDIA_INTEGRATION.md` | Proposed sidebar (not built) |
 | Scored `*.md` examples | Worked labels, one post each |

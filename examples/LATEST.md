@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 22 September 2026
+# Daily reading — 23 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 22 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 23 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,12 +21,12 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled **$100.34** Monday. Tehran-side talk of a possible seven-day reopen if the U.S. eases pressure; other Iranian cuts deny those reports. Strait not reopened. Petroline still the shut workaround.
+   UNGA-side talks. Trump said the U.S. and Iran met about three hours Tuesday. Brent dipped below **$100** on reopen talk, then recovered near **$100**. Strait not reopened. Petroline still the shut workaround.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-eighth day.
+   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Twenty-ninth day.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    Last ECDC weekday cut (21 September): **7,672** confirmed, **3,699** deaths, **1,879** recovered. Table not closed.
@@ -35,7 +35,7 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Basarnas / Kompas Tuesday: **18** dead, **117** missing of **243**. Day ten of the search.
+   Basarnas Wednesday: **19** dead, **116** missing of **243**.
 
 6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
@@ -47,39 +47,40 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 
 - Nepal: **13,784** rescued on the last police cut.
 - Ebola recoveries **1,879**.
+- CDC: U.S. teenage mental-health measures improved on the latest youth survey.
 - Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC Eastern Pacific: Hurricane Polo, **150 mph**, Category 4 approaching 5, south of Zihuatanejo. Forecast to stay offshore of southwestern Mexico.
-- Atlantic: Fay weakening to a remnant low southwest of the Azores. Not a U.S. land threat.
+- NHC Eastern Pacific: Hurricane Polo, **150–155 mph**, Category 4, south of Zihuatanejo. Core forecast to stay offshore; tropical-storm rain and wind on the southwest Mexican coast.
+- Atlantic: no named storm.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
 
 Discovery / tech / cure:
-- FDA, 21 September: Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
+- FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump addresses UNGA. Networks suspended White House pool video after the CNN / MS NOW / Politico ban; those outlets have sued. Xi visit this week.
-- **Policies**: the press-access fight is the rule in motion. College-sports bill on the Senate calendar.
-- **Understanding**: Brent printed **$100.34**. Reopen-in-seven-days talk is a condition set, not an open strait.
-- **Fun**: Asian Games continue in Japan.
+- **Politics**: UNGA continues. Xi in Washington. U.S.–Denmark–Greenland Arctic security agreement signed. Press-pool shutdown and lawsuit still running.
+- **Policies**: administration move to drop about **750,000** people from ACA marketplace enrollment, framed as fraud cut.
+- **Understanding**: reopen talk and a low-rate East-West pipeline restart are not an open Hormuz.
+- **Fun**: Asian Games — Ri Song-gum (DPRK) three world records in the women’s 49 kg. First recorded sea-turtle nest on a Southern California beach.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: cloudy, shower chance, high near 66–70°F; northeast wind and a gale warning on the coast.
+Local PUF: mostly cloudy and breezy, high near 68°F; northeast gusts. Youth dodgeball and adult basketball at Croydon Hall. Car-seat checkpoint, Station 11, 2–6 p.m.
 
 **What changed since yesterday**
 
-Java Sea deaths **9 → 18**; missing **117**. Brent **$101 → $100.34**. Polo now a major hurricane offshore of Mexico. Fay collapsing to a remnant.
+Java Sea deaths **18 → 19**; missing **116**. Fay is off the Atlantic board. Polo still a Category 4 offshore of Mexico. Brent traded through **$100** on reopen talk.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: UNGA, the press-pool shutdown and lawsuit, the Austin ICE shooting follow, oil still three-figure.
+U.S. homepages this morning: UNGA and the Iran line, Xi in Washington, Greenland deal, Polo off Mexico, oil around $100.
 
 **Story duration**
 

@@ -48,13 +48,11 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 - Nepal: **13,784** rescued on the last police cut.
 - Ebola recoveries **1,879**.
 - CDC: U.S. teenage mental-health measures improved on the latest youth survey.
-- Uganda Ebola outbreak remains closed.
 
 **Emerging PIF**
 
 Hazard watch:
 - NHC Eastern Pacific: Hurricane Polo, **150–155 mph**, Category 4, south of Zihuatanejo. Core forecast to stay offshore; tropical-storm rain and wind on the southwest Mexican coast.
-- Atlantic: no named storm.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
 
 Discovery / tech / cure:

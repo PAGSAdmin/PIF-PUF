@@ -61,13 +61,14 @@ Discovery / tech / cure:
 - FDA genetics panel met 23 September on GRAIL Galleri multi-cancer blood test (PMA).
 
 AI:
-- FDA: first Deputy Commissioner for Technology and Artificial Intelligence (Jared Seehafer). Cross-agency desk, not a model release.
-- Anthropic Claude outage 22 September is closed on the status page after **1,600+** Downdetector reports.
+- Trump–Xi talks include AI safeguards. Sanders and Casar introduced a bill to ban artificial superintelligence and stand up a Department of AI. Canada’s Carney: catastrophe risk is “above zero.”
+- FDA: first Deputy Commissioner for Technology and Artificial Intelligence (Jared Seehafer).
+- Anthropic Claude outage 22 September closed after **1,600+** Downdetector reports.
 
 **Top Surfacing PUF**
 
 - **Politics**: Trump–Xi White House summit. Judge Timothy Kelly ordered White House access restored for CNN, MS NOW and Politico for 14 days. Trade truce with China extended two months.
-- **Policies**: that temporary restraining order is the rule in motion. Sanders–Casar ASI ban bill stays here, not in Emerging AI.
+- **Policies**: that temporary restraining order is the rule in motion.
 - **Understanding**: Brent back above **$103**. Reopen talk is still a condition set.
 - **Fun**: Asian Games continue. First recorded sea-turtle nest on a Southern California beach remains on the wires.
 
@@ -79,7 +80,7 @@ Local PUF: mostly cloudy, high near 69°F; northeast gusts.
 
 **What changed since yesterday**
 
-ECDC Ebola **7,672 → 7,773** / **3,699 → 3,759**, recoveries **1,935**. Polo now Category 5, **160 mph**. Brent **$100 → $103.08**. Press-access TRO issued overnight. Emerging PIF now has an AI lane.
+ECDC Ebola **7,672 → 7,773** / **3,699 → 3,759**, recoveries **1,935**. Polo now Category 5, **160 mph**. Brent **$100 → $103.08**. Press-access TRO issued overnight.
 
 **Signal vs Noise note**
 

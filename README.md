@@ -49,16 +49,15 @@ A file can move from one list to the other as the feeds change. Silence is not c
 
 **Positive PIF** is the counted good in those same files: people rescued, recovered, found, or an outbreak closed. The number has to come from an agency table.
 
-**Emerging PIF** has two lanes:
+**Emerging PIF** has three lanes. Keep them current. Do not pad with wallpaper.
 
-- **Hazard watch** — a named storm, board, glacier, or pest before there is a death table. That is how a hurricane sits on the page before landfall counts exist.
+- **Hazard watch** — a named storm, board, glacier, pest, or outbreak table before it is a numbered PIF line. Give the desk, the intensity or count, who is under a watch or warning, and the next place the track could touch. That is how a hurricane sits on the page before landfall counts exist.
 - **Discovery / tech / cure** — a WHO prequalification, a trial result, an ARPA-H or FDA desk, a national lab. The line names the desk and the population it would touch if it scales.
-
-A loud argument with no counted caseload (including an AI-rules fight) is PUF Politics, not Emerging and not PIF.
+- **AI** — a named agency desk, a model or tool with a counted user or patient population, an outage with a public incident table, or a lab/trial that would touch people if it scales. Speeches, ban bills, and culture-war AI fights stay PUF Politics or Policies.
 
 Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
 
-When the page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
+When the page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, NHC, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 
 ---
 
@@ -94,7 +93,7 @@ Copy the printed prompt into Grok with today’s date. You get:
 - **PIF — on the platforms today**
 - **PIF — still open, platforms moved on**
 - **Positive PIF Spotlight**
-- **Emerging PIF** — hazard watch, and discovery / tech / cure
+- **Emerging PIF** — hazard watch, discovery / tech / cure, and AI
 - **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
 - **Local Filter** — default Monmouth / Middletown NJ
 - **What changed since yesterday**

@@ -52,17 +52,22 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 **Emerging PIF**
 
 Hazard watch:
-- NHC Eastern Pacific: Hurricane Polo, **160 mph**, Category 5, west-southwest of Zihuatanejo. Core still forecast offshore; tropical-storm rain and wind on the southwest Mexican coast. Baja watch later in the week.
+- NHC: Hurricane Polo, Category 5, **160 mph**, 175 miles west-southwest of Zihuatanejo, moving northwest at 9 mph. Core still forecast offshore. Tropical Storm Warning Tecpan de Galeana to Manzanillo. NHC rain: **4–6 inches** on coastal Guerrero, isolated **8**. Baja California approached as a hurricane early next week.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
 
 Discovery / tech / cure:
 - FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
+- FDA genetics panel met 23 September on GRAIL Galleri multi-cancer blood test (PMA).
+
+AI:
+- FDA: first Deputy Commissioner for Technology and Artificial Intelligence (Jared Seehafer). Cross-agency desk, not a model release.
+- Anthropic Claude outage 22 September is closed on the status page after **1,600+** Downdetector reports.
 
 **Top Surfacing PUF**
 
 - **Politics**: Trump–Xi White House summit. Judge Timothy Kelly ordered White House access restored for CNN, MS NOW and Politico for 14 days. Trade truce with China extended two months.
-- **Policies**: that temporary restraining order is the rule in motion.
+- **Policies**: that temporary restraining order is the rule in motion. Sanders–Casar ASI ban bill stays here, not in Emerging AI.
 - **Understanding**: Brent back above **$103**. Reopen talk is still a condition set.
 - **Fun**: Asian Games continue. First recorded sea-turtle nest on a Southern California beach remains on the wires.
 
@@ -74,7 +79,7 @@ Local PUF: mostly cloudy, high near 69°F; northeast gusts.
 
 **What changed since yesterday**
 
-ECDC Ebola **7,672 → 7,773** / **3,699 → 3,759**, recoveries **1,935**. Polo now Category 5, **160 mph**. Brent **$100 → $103.08**. Press-access TRO issued overnight.
+ECDC Ebola **7,672 → 7,773** / **3,699 → 3,759**, recoveries **1,935**. Polo now Category 5, **160 mph**. Brent **$100 → $103.08**. Press-access TRO issued overnight. Emerging PIF now has an AI lane.
 
 **Signal vs Noise note**
 

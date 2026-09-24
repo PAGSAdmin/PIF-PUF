@@ -53,7 +53,7 @@ A file can move from one list to the other as the feeds change. Silence is not c
 
 - **Hazard watch** — a named storm, board, glacier, pest, or outbreak table before it is a numbered PIF line. Give the desk, the intensity or count, who is under a watch or warning, and the next place the track could touch. That is how a hurricane sits on the page before landfall counts exist.
 - **Discovery / tech / cure** — a WHO prequalification, a trial result, an ARPA-H or FDA desk, a national lab. The line names the desk and the population it would touch if it scales.
-- **AI** — a named agency desk, a model or tool with a counted user or patient population, an outage with a public incident table, or a lab/trial that would touch people if it scales. Speeches, ban bills, and culture-war AI fights stay PUF Politics or Policies.
+- **AI** — where PUF meets PIF. The political fight belongs here when it is the live contest over systems that already touch large populations. So do named desks, outages with a public incident table, and tools or trials that would touch people if they scale. AI does not get a Cat 1–5 mark unless there is a counted caseload (deaths, displaced, patients, users on an official table). Until then it stays in this lane, not in the numbered PIF blocks.
 
 Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
 

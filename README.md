@@ -42,8 +42,8 @@ The watch is the shocks and debates that dominate U.S. platforms that day, plus 
 
 PIF is listed in two places:
 
-- **On the platforms today** — counted events that U.S. feeds are carrying that morning. A small caseload still belongs here if it is actually on the homepages.
-- **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page.
+- **On the platforms today** — counted events that U.S. feeds are carrying that morning. A small caseload still belongs here if it is actually on the homepages. This block sits at the top of the page.
+- **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page. This roster sits near the bottom, immediately before Story duration.
 
 A file can move from one list to the other as the feeds change. Silence is not closure. A file leaves the page only when the responsible agency has closed the caseload.
 
@@ -91,13 +91,13 @@ python pif_puf.py
 Copy the printed prompt into Grok with today’s date. You get:
 
 - **PIF — on the platforms today**
-- **PIF — still open, platforms moved on**
 - **Positive PIF Spotlight**
 - **Emerging PIF** — hazard watch, discovery / tech / cure, and AI
 - **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
 - **Local Filter** — default Monmouth / Middletown NJ
 - **What changed since yesterday**
 - **Signal vs Noise** — what is actually loud on U.S. homepages
+- **PIF — still open, platforms moved on** — immediately before Story duration
 - **Story duration**
 
 In `pif_puf.py` you can set `MANUAL_DATE`, `LOCAL_FILTER`, and which PUF lanes to keep.

@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 24 September 2026
+# Daily reading — 25 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 24 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 25 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,21 +21,21 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled **$103.08** Wednesday. Strait not reopened. Rezaei: it opens only if Iran’s conditions are met. Petroline still the shut workaround.
+   Brent about **$105**. Reports of a phased U.S.–Iran reopen talk; strait not open. Senate rejected a war-powers resolution to halt the Iran war. Petroline still the shut workaround.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirtieth day.
+   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirty-first day.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 23 September 14:45 (data through 21 September): **7,773** confirmed, **3,759** deaths, **1,935** recovered. Table not closed.
+   Last ECDC weekday cut (23 September): **7,773** confirmed, **3,759** deaths, **1,935** recovered. Table not closed.
 
 4) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Latest public cuts: about **19–20** dead, **115–116** missing of **243**.
+   Day twelve of the search. About **20** identified dead of **243**; Basarnas still working the wreck.
 
 6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 
@@ -52,39 +52,40 @@ Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Polo, Category 5, **160 mph**, 175 miles west-southwest of Zihuatanejo, moving northwest at 9 mph. Core still forecast offshore. Tropical Storm Warning Tecpan de Galeana to Manzanillo. NHC rain: **4–6 inches** on coastal Guerrero, isolated **8**. Baja California approached as a hurricane early next week.
+- CPHC / NHC: Hurricane Nolo, **85 mph**, 220 miles south of South Point, Hawai‘i. Hurricane Watch for Hawai‘i County. Rain **15–30 inches** on the eastern and southern Big Island, isolated **35**. Catastrophic flash-flood warning into the weekend. Center forecast to stay south of the island, then turn west.
+- NHC: Hurricane Polo, Category 5, **160 mph**, 425 miles SSE of Cabo San Lucas, moving west. No Mexican coastal warnings now. Forecast to approach Baja California Sur as a hurricane Monday.
+- September nor’easter: more than **40 million** people on the U.S. East Coast in the weekend rain-and-wind field.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
 
 Discovery / tech / cure:
 - FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
-- FDA genetics panel met 23 September on GRAIL Galleri multi-cancer blood test (PMA).
 
 AI:
-- Trump–Xi talks include AI safeguards. Sanders and Casar introduced a bill to ban artificial superintelligence and stand up a Department of AI. Canada’s Carney: catastrophe risk is “above zero.”
-- FDA: first Deputy Commissioner for Technology and Artificial Intelligence (Jared Seehafer).
-- Anthropic Claude outage 22 September closed after **1,600+** Downdetector reports.
+- Pope Leo, opening a France trip: a “paradise of machines” risks humanity.
+- Trump–Xi summit included AI safeguards. Sanders–Casar ASI ban bill is still on the calendar.
+- FDA: first Deputy Commissioner for Technology and Artificial Intelligence.
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump–Xi White House summit. Judge Timothy Kelly ordered White House access restored for CNN, MS NOW and Politico for 14 days. Trade truce with China extended two months.
-- **Policies**: that temporary restraining order is the rule in motion.
-- **Understanding**: Brent back above **$103**. Reopen talk is still a condition set.
-- **Fun**: Asian Games continue. First recorded sea-turtle nest on a Southern California beach remains on the wires.
+- **Politics**: Trump–Xi state dinner after a ceremony-heavy summit. CNN, MS NOW and Politico back on the White House grounds under the 14-day order. Netanyahu at UNGA; New York protest arrests.
+- **Policies**: Senate rejected the Iran war-powers resolution. Third-country deportation policy is at the Supreme Court.
+- **Understanding**: Brent near **$105**. Phased-reopen talk is not an open strait.
+- **Fun**: Asian Games continue. Fulton Sheen beatification step in St. Louis.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
 No new local PIF.
 
-Local PUF: mostly cloudy, high near 69°F; northeast gusts.
+Local PUF: mostly cloudy and breezy, high near 73°F. Coastal flood warning into the afternoon. Rain likely after midnight; weekend nor’easter, gusts 40–45 mph.
 
 **What changed since yesterday**
 
-ECDC Ebola **7,672 → 7,773** / **3,699 → 3,759**, recoveries **1,935**. Polo now Category 5, **160 mph**. Brent **$100 → $103.08**. Press-access TRO issued overnight.
+Hurricane Nolo is on the Hawai‘i watch. Polo still Category 5, track now aimed at Baja early next week. Brent **$103 → about $105**. Nor’easter is the local weekend file.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the Trump–Xi summit, the press-access order, Polo at Category 5 off Mexico, oil back above $103.
+U.S. homepages this morning: the Trump–Xi dinner, the press-access return, Netanyahu at the U.N., Nolo at Hawai‘i, oil near $105.
 
 **Story duration**
 

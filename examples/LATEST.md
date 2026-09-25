@@ -23,26 +23,6 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Brent about **$105**. Reports of a phased U.S.–Iran reopen talk; strait not open. Senate rejected a war-powers resolution to halt the Iran war. Petroline still the shut workaround.
 
-**PIF — still open, platforms moved on**
-
-2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirty-first day.
-
-3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last ECDC weekday cut (23 September): **7,773** confirmed, **3,759** deaths, **1,935** recovered. Table not closed.
-
-4) **Ukraine war** → **Cat 5**  
-   OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
-
-5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Day twelve of the search. About **20** identified dead of **243**; Basarnas still working the wreck.
-
-6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
-
-7) **Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
-
-Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
-
 **Positive PIF Spotlight**
 
 - Nepal: **13,784** rescued on the last police cut.
@@ -86,6 +66,26 @@ Hurricane Nolo is on the Hawai‘i watch. Polo still Category 5, track now aimed
 **Signal vs Noise note**
 
 U.S. homepages this morning: the Trump–Xi dinner, the press-access return, Netanyahu at the U.N., Nolo at Hawai‘i, oil near $105.
+
+**PIF — still open, platforms moved on**
+
+2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirty-first day.
+
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last ECDC weekday cut (23 September): **7,773** confirmed, **3,759** deaths, **1,935** recovered. Table not closed.
+
+4) **Ukraine war** → **Cat 5**  
+   OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
+
+5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+   Day twelve of the search. About **20** identified dead of **243**; Basarnas still working the wreck.
+
+6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
+
+7) **Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto** — standing files.
+
+Also open: Sudan, Myanmar, Sahel / Mali, South Sudan, Somalia.
 
 **Story duration**
 

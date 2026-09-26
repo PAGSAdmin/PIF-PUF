@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 25 September 2026
+# Daily reading — 26 September 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 25 September 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 26 September 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,20 +21,20 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$105**. Reports of a phased U.S.–Iran reopen talk; strait not open. Senate rejected a war-powers resolution to halt the Iran war. Petroline still the shut workaround.
+   Brent last print about **$104** (weekend). Iran’s seven-day reopen offer is still a condition set. Strait not open. Petroline still the shut workaround.
 
 **Positive PIF Spotlight**
 
 - Nepal: **13,784** rescued on the last police cut.
-- Ebola recoveries **1,935**.
+- Ebola recoveries **1,966**.
 - CDC: U.S. teenage mental-health measures improved on the latest youth survey.
 
 **Emerging PIF**
 
 Hazard watch:
-- CPHC / NHC: Hurricane Nolo, **85 mph**, 220 miles south of South Point, Hawai‘i. Hurricane Watch for Hawai‘i County. Rain **15–30 inches** on the eastern and southern Big Island, isolated **35**. Catastrophic flash-flood warning into the weekend. Center forecast to stay south of the island, then turn west.
-- NHC: Hurricane Polo, Category 5, **160 mph**, 425 miles SSE of Cabo San Lucas, moving west. No Mexican coastal warnings now. Forecast to approach Baja California Sur as a hurricane Monday.
-- September nor’easter: more than **40 million** people on the U.S. East Coast in the weekend rain-and-wind field.
+- CPHC / NHC: Hurricane Nolo, **105 mph**, 145 miles south of South Point, Hawai‘i, nearly stationary. Tropical-storm conditions on the Big Island; hurricane conditions possible in steep terrain. Forecast to become a major hurricane later today, remaining south of the islands, then turn west.
+- NHC: Hurricane Polo, Category 5, **165 mph**. Hurricane Watch for the west coast of Baja California Sur. Tropical-storm conditions possible late Sunday; landfall as a hurricane Monday.
+- September nor’easter on the U.S. East Coast: roads flooding in coastal New Jersey, some homes inundated, thousands without power. Gusts 50 mph at the Jersey Shore / New York metro.
 - Pennsylvania measles: more than **700** confirmed. Watch the state table.
 
 Discovery / tech / cure:
@@ -42,44 +42,44 @@ Discovery / tech / cure:
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
 
 AI:
-- Pope Leo, opening a France trip: a “paradise of machines” risks humanity.
-- Trump–Xi summit included AI safeguards. Sanders–Casar ASI ban bill is still on the calendar.
-- FDA: first Deputy Commissioner for Technology and Artificial Intelligence.
+- U.S. and China agreed a “super intelligence” dialogue after the Trump–Xi summit.
+- OpenAI disclosed models accessing public U.S. government sites (SEC, Census) in unexpected ways.
+- Sanders–Casar ASI ban bill remains on the calendar.
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump–Xi state dinner after a ceremony-heavy summit. CNN, MS NOW and Politico back on the White House grounds under the 14-day order. Netanyahu at UNGA; New York protest arrests.
-- **Policies**: Senate rejected the Iran war-powers resolution. Third-country deportation policy is at the Supreme Court.
-- **Understanding**: Brent near **$105**. Phased-reopen talk is not an open strait. UNGA relief pass: OCHA FTS, 25 September — Global Humanitarian Overview **41.6%** funded (**$14.59bn** of **$35.07bn**). WFP at UNGA: **266 million** people facing acute hunger. UNHCR Friday: Sudan–Chad crossings about **400 a day** this week (twenty-fold). Guterres asked donors to keep UNRWA standing.
-- **Fun**: Asian Games continue. Fulton Sheen beatification step in St. Louis.
+- **Politics**: White House signaled CNN off Air Force One for today’s Knoxville trip. Trump posted a map labeling Hormuz “Trump Strait.” Supreme Court rejected the GOP-backed Missouri congressional map.
+- **Policies**: that Air Force One restriction is the live rule. Supreme Court allowed states to keep using the federal voter-eligibility database for now.
+- **Understanding**: Brent near **$104**, market closed. A rename is not a reopening. UNGA relief pass (Friday tables still the last cut): OCHA GHO **41.6%** funded; UNHCR Sudan–Chad about **400 a day** last week.
+- **Fun**: Brisbane Lions win a third straight AFL premiership.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF.
+Local PIF: nor’easter in progress. NWS Philadelphia: showers, north wind ~25 mph, gusts to **50**. AP: coastal New Jersey roads flooded, some homes inundated.
 
-Local PUF: mostly cloudy and breezy, high near 73°F. Coastal flood warning into the afternoon. Rain likely after midnight; weekend nor’easter, gusts 40–45 mph.
+Local PUF: high near 63°F. Rain through Sunday.
 
 **What changed since yesterday**
 
-Hurricane Nolo is on the Hawai‘i watch. Polo still Category 5, track now aimed at Baja early next week. Brent **$103 → about $105**. Nor’easter is the local weekend file. UNGA relief pass added under Understanding.
+Nolo **85 → 105 mph**. Polo **160 → 165 mph**, Hurricane Watch now up for Baja. ECDC Ebola **7,773 → 7,890** / **3,759 → 3,799**, recoveries **1,966**. Nor’easter is on the ground in Monmouth, not only a forecast.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the Trump–Xi dinner, the press-access return, Netanyahu at the U.N., Nolo at Hawai‘i, oil near $105.
+U.S. homepages this morning: the nor’easter, CNN off Air Force One, Nolo at Hawai‘i, Polo at Baja, oil still three figures.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirty-first day.
+   Last Nepal Police cut (Sunday): **1,451** dead; about **6,000** missing; **13,784** rescued. Thirty-second day.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last ECDC weekday cut (23 September): **7,773** confirmed, **3,759** deaths, **1,935** recovered. Table not closed.
+   ECDC, 25 September 16:05 (data through 23 September): **7,890** confirmed, **3,799** deaths, **1,966** recovered. Table not closed.
 
 4) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
 
 5) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Day twelve of the search. About **20** identified dead of **243**; Basarnas still working the wreck.
+   Search continues. About **20** identified dead of **243** on the last public cut.
 
 6) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
 

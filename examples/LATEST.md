@@ -24,7 +24,7 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    Brent last print **$104.32** (weekend). Trump rejected Iran’s seven-day reopen offer. Strait not open.
 
 2) **U.S. East Coast nor’easter** → **Cat 1**  
-   AP: at least one death; about **100,000** customers without power at Saturday’s peak. Coastal flood and high-wind warnings still up through Sunday. This is the outage and flood table, not a single coroner line.
+   AP: at least one death; about **100,000** customers without power at Saturday’s peak. Coastal flood and high-wind warnings still up through Sunday.
 
 **Positive PIF Spotlight**
 
@@ -62,7 +62,7 @@ Local PUF: rain and wind through Sunday; high near 66°F.
 
 **What changed since yesterday**
 
-Nor’easter moved onto the platforms block (outage table + AP death). Polo **165 → 120 mph**, now Category 3 with Baja warnings. Nolo **105 → 90 mph**; Hawaii watches down. Trump rejected the Hormuz offer.
+Nor’easter moved onto the platforms block. Polo **165 → 120 mph**, now Category 3 with Baja warnings. Nolo **105 → 90 mph**; Hawaii watches down. Trump rejected the Hormuz offer.
 
 **Signal vs Noise note**
 

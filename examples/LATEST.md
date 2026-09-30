@@ -52,7 +52,7 @@ AI:
 - **Politics**: U.S. military says the Iraq troop withdrawal is complete. Jack Smith on the Hill. Cornell case still live.
 - **Policies**: Supreme Court let third-country deportations resume for now. Fuel-economy rollback stands.
 - **Understanding**: More barrels on the water is not the same as a settled reopen. Rial at a new low versus the dollar.
-- **Fun**: none named on the U.S. calendar this morning.
+- **Fun**: MLB Wild Card Game 2 — Phillies at Braves, White Sox at Astros, Red Sox at Yankees, Cubs at Padres. WNBA first-round Game 2 — Dream at Mystics, Valkyries at Wings. Steelers at Browns tonight.
 
 **Local Filter** (Monmouth / Middletown NJ)
 

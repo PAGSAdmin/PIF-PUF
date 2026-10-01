@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 30 September 2026
+# Daily reading — 1 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the evening of 30 September 2026 (U.S. afternoon). Numbers move; this is a snapshot, not a wire service.
+Sources checked the evening of 1 October 2026 (U.S. afternoon). Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,21 +21,20 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$99–103**. Kpler: Hormuz seven-day average about **13.2 million** barrels a day (77% of the pre-war 17 million). Mediators still working. Not treated as a full reopen.
-
-2) **Polo remnants / U.S. Southwest flood** → **Cat 1**  
-   NHC last advisory on Polo. Remnants plus Rachel moisture: road floods and dam-failure evacuations in small New Mexico towns.
+   Brent about **$99–102**. Reuters morning print **$98.67**; later spot near **$102**. Kpler still has Hormuz near 77% of pre-war barrels. Iran says it received a U.S. reply; not a reopen.
 
 **Positive PIF Spotlight**
 
+- SpaceX Crew-13 launched: four astronauts (U.S., Canada, Russia) on the way to the ISS.
 - Nepal: **13,795** rescued on the 26 September NDRRMA cut.
-- Ebola recoveries **2,088**.
+- Ebola recoveries **2,121**.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Rachel, Category 1, about **85 mph**, southwest of Cabo Corrientes. Forecast to become a major hurricane later this week. Moisture feeding the U.S. central flood threat.
-- CPHC / NHC: Hurricane Nolo, Category 1, **75 mph**, over Papahānaumokuākea. Hurricane Warning Nihoa to French Frigate Shoals; Tropical Storm Watch west to Maro Reef. Kaua‘i and Ni‘ihau 3–6 inches through Thursday.
+- NHC: Hurricane Rachel, Category 3, **120 mph**, about 245 miles south of the tip of Baja California, moving west at 3 mph. Slow motion next couple of days.
+- CPHC / NHC: Tropical Storm Nolo, **60 mph**, about 120 miles SSE of French Frigate Shoals. Forecast to become a hurricane again by the weekend.
+- Polo remnants: Grant County and southwest New Mexico roads closed Tuesday–Wednesday; some Hatch-area evacuation orders lifted. Rincon still wet.
 - California measles exposures in six counties. Pennsylvania table still more than **700** confirmed.
 
 Discovery / tech / cure:
@@ -43,39 +42,42 @@ Discovery / tech / cure:
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
 
 AI:
-- White House: voluntary accord with tech firms to “self-police” AI, internal and external reviews.
-- OpenAI said it would pause training of its latest model after reports of agents going rogue.
-- America.gov chatbot launched; CBS tested it on health questions.
+- White House voluntary “self-police” accord still the named desk.
+- OpenAI pause on training of its latest model still in force.
+- California order: state agencies to call it artificial intelligence, not “super intelligence.”
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S. military says the Iraq troop withdrawal is complete. Jack Smith on the Hill. Cornell case still live.
-- **Policies**: Supreme Court let third-country deportations resume for now. Fuel-economy rollback stands.
-- **Understanding**: More barrels on the water is not the same as a settled reopen. Rial at a new low versus the dollar.
-- **Fun**: MLB Wild Card Game 2 — Phillies at Braves, White Sox at Astros, Red Sox at Yankees, Cubs at Padres. WNBA first-round Game 2 — Dream at Mystics, Valkyries at Wings. Steelers at Browns tonight.
+- **Politics**: Flydubai Dubai–Tel Aviv flight. Copilot stabbed the pilot and tried to crash the jet; passengers and crew stopped it. About 170 aboard. Trump said Iran may be linked; Tehran denies. Iraq withdrawal still the second homepage story.
+- **Policies**: Supreme Court granted review of the no-bond detention policy. $500 ACA checks going out to nearly one million people.
+- **Understanding**: Gulf export numbers and a three-figure Brent print are still not a settled strait.
+- **Fun**: MLB Wild Card Game 2 — Yankees swept the Red Sox 2–0; White Sox swept the Astros; Padres swept the Cubs; Phillies–Braves tied 1–1. WNBA: Dream swept the Mystics; Wings tied the Valkyries 1–1. Fever at Aces, Game 3, tonight. Steelers at Browns, Thursday night.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Partly cloudy, high near 71°F.
+No new local PIF. High near 70s, dry.
 
 **What changed since yesterday**
 
-Polo’s last NHC advisory; remnants now the U.S. flood file. Rachel is a hurricane. Nolo **115 → 75 mph**. ECDC Ebola **8,116** / **3,924**, recoveries **2,088**. Iraq withdrawal announced complete.
+Rachel **85 → 120 mph**, Category 3. Nolo **75 → 60 mph**, tropical storm. ECDC Ebola **8,224** / **3,982**, recoveries **2,121**. Polo remnants off the platforms block; some New Mexico orders lifted. Flydubai cockpit attack is the U.S. lead.
 
 **Signal vs Noise note**
 
-U.S. homepages this morning: the Iraq withdrawal, the AI accord, SCOTUS on deportations, Polo remnants in the Southwest, oil still elevated.
+U.S. homepages: the Flydubai flight, the Iraq withdrawal, oil, Rachel, playoff scores.
 
 **PIF — still open, platforms moved on**
 
-3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Thirty-sixth day.
+2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Thirty-seventh day.
 
-4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 30 September 14:00 (data through 27 September): **8,116** confirmed, **3,924** deaths, **2,088** recovered.
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 1 October 16:30 (data through 29 September): **8,224** confirmed, **3,982** deaths, **2,121** recovered. **851** in isolation.
 
-5) **Ukraine war** → **Cat 5**  
+4) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
+
+5) **Polo remnants / Southwest flood** → **Cat 1**  
+   Roads and some towns hit. Evacuation orders near Hatch partly lifted. Rincon still under water.
 
 6) **U.S. East Coast nor’easter** → **Cat 1**  
    About **200,000** lost power over the event. One death in Brooklyn. System gone.
@@ -83,9 +85,9 @@ U.S. homepages this morning: the Iraq withdrawal, the AI accord, SCOTUS on depor
 7) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    Polri cut through 28 September: **66** dead, **69** still sought, **108** survivors of **243**.
 
-8) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files.
+8) **Los Angeles news-helicopter / Miami cargo / Hurricane Lowell** — standing Cat 1–2 files. Separate: a medical helicopter crashed off Santa Catalina; two dead, one missing.
 
-Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
+Also open: **Sudan** (RSF drone strike on a Kordofan dormitory, five dead), Myanmar, Sahel / Mali, South Sudan, Somalia. Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 
 **Story duration**
 

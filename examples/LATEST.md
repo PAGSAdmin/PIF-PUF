@@ -40,13 +40,13 @@ Discovery / tech / cure:
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers (standing desk).
 
 AI:
-- No new counted harm or statute today. Midterm spending and the White House voluntary accord remain the named desks, not a caseload.
+- Loud on the platforms, not a caseload. Pope Leo XIV, Friday address to artists at the Vatican (Dicastery for Culture and Education, “The Art of Possibility”) and on X: urgent to distinguish human art from what machines produce; an ontological difference before an aesthetic one; algorithms “lack the spark of humanity.” Church wants to renew an alliance with artists and cultural institutions. No counted harm, no new statute.
 
 **Top Surfacing PUF**
 
-- **Politics**: Camp David meeting on Iran. Tanker hit off Oman; who fired is not named. Cornell file: Hochul said she will close New York’s intoxication loophole after the special-prosecutor appointment.
-- **Policies**: September jobs still the last cut — **+29,000**; unemployment **4.2%**. No new official table today.
-- **Understanding**: Escorted crude has looked healthier and a tanker was still hit off Oman. Both can be true. Neither is an open strait.
+- **Politics**: Camp David meeting on Iran. Tanker hit off Oman; who fired is not named. Cornell file: Hochul said she will close New York’s intoxication loophole after the special-prosecutor appointment. Pope Leo’s artist–AI line is a rules-and-culture fight, not a bill.
+- **Policies**: September jobs still the last cut — **+29,000**; unemployment **4.2%**. No new official table today. No AI statute moved.
+- **Understanding**: Escorted crude has looked healthier and a tanker was still hit off Oman. Both can be true. Neither is an open strait. The pope’s line is about the source of the image, not a death table.
 - **Fun**: Valkyries beat the Wings **77–73** Friday in San Francisco and won their first playoff series. Semifinals Sunday: Valkyries–Aces, Dream–Liberty. Yankees left Aaron Judge (calf) off the ALDS roster.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -55,11 +55,11 @@ No new local PIF. Mostly sunny, high near 70°F. Showers likely Sunday.
 
 **What changed since yesterday**
 
-Rachel **110 → 80 mph**, still no watches. Nolo **70 → 115 mph**, now a major hurricane; warning east of Maro Reef dropped. UKMTO: tanker struck off Oman; crew safe. Camp David meeting on the Iran file. ECDC page still the 1 October cut; next ECDC update due 5 October. Nepal still the 26 September NDRRMA cut. Thirty-ninth day.
+Rachel **110 → 80 mph**, still no watches. Nolo **70 → 115 mph**, now a major hurricane; warning east of Maro Reef dropped. UKMTO: tanker struck off Oman; crew safe. Camp David meeting on the Iran file. Pope Leo’s Friday artist–AI warning is still circulating on the platforms Saturday. ECDC page still the 1 October cut; next ECDC update due 5 October. Nepal still the 26 September NDRRMA cut. Thirty-ninth day.
 
 **Signal vs Noise note**
 
-U.S. weekend homepages: the Iran meeting, the Oman tanker, Nolo as a major hurricane, Cornell, the Valkyries series win.
+U.S. weekend homepages and feeds: the Iran meeting, the Oman tanker, Nolo as a major hurricane, Cornell, the Valkyries series win, and the pope’s artist–AI line.
 
 **PIF — still open, platforms moved on**
 

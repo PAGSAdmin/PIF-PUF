@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 2 October 2026
+# Daily reading — 3 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the afternoon of 2 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the evening of 3 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,55 +21,53 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$102**. Reuters Friday morning **$101.61**. A third U.S. carrier and about **9,000** troops are heading toward the Gulf. Strait not open.
+   Brent about **$102** (tracker cut Saturday evening **$102.25**). UKMTO early Saturday: a crude tanker struck by an unknown projectile about **4** nautical miles east of Oman; crew safe; no environmental impact reported. Strait not open. Axios: Trump and Vance met security aides at Camp David on the next steps. A third carrier and Marines are still heading toward the Gulf.
 
 **Positive PIF Spotlight**
 
-- Ebola recoveries **2,121** on the last ECDC cut.
+- Ebola recoveries **2,121** on the last ECDC cut; DRC government Friday said more than **2,000** recovered.
 - Nepal: **13,795** rescued on the 26 September NDRRMA cut.
-- SpaceX Crew-13 still on the way to the ISS.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Rachel, **110 mph**, about 255 miles south-southwest of Baja, passing north of Socorro Island, moving west at 6 mph. No coastal watches. Expected to stay a hurricane for several days.
-- CPHC / NHC: Tropical Storm Nolo, **70 mph**, about 80 miles west-southwest of French Frigate Shoals. Expected to become a hurricane later today and a major hurricane by early Sunday.
+- CPHC / NHC: Hurricane Nolo is a major hurricane, **115 mph**, category 3, west of the main Hawaiian Islands (about 175 miles south-southwest of Maro Reef on the morning graphic). The Tropical Storm Warning east of Maro Reef was discontinued. Expected to cross the date line in about a day. No watches for the main islands.
+- NHC: Hurricane Rachel, **80 mph** at 2 p.m. MST, about 270 miles southwest of the southern tip of Baja, moving slowly west-northwest. No coastal watches. Weakening; still forecast to stay a hurricane for a few days.
 - California measles exposures in six counties. Pennsylvania table still more than **700** confirmed.
 
 Discovery / tech / cure:
-- FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
-- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
+- FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS (standing desk).
+- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers (standing desk).
 
 AI:
-- Groups aligned with Anthropic and OpenAI are spending millions on the midterms.
-- White House voluntary “self-police” accord and the OpenAI training pause still the named desks.
+- No new counted harm or statute today. Midterm spending and the White House voluntary accord remain the named desks, not a caseload.
 
 **Top Surfacing PUF**
 
-- **Politics**: Third carrier and Marines toward the Middle East. Trump said Iran would be struck “very hard” if a Flydubai link is confirmed. Cornell case: Hochul named the attorney general as special prosecutor.
-- **Policies**: September jobs **+29,000**; unemployment **4.2%**. $500 ACA checks still going out.
-- **Understanding**: A healthier Saudi export picture and a third carrier can both be true. Neither is an open strait.
-- **Fun**: Aces beat the Fever **94–83**; A’ja Wilson 36 points. Wings–Valkyries Game 3 tonight in San Francisco. MLB wild-card round mostly closed (Yankees, White Sox, Padres through).
+- **Politics**: Camp David meeting on Iran. Tanker hit off Oman; who fired is not named. Cornell file: Hochul said she will close New York’s intoxication loophole after the special-prosecutor appointment.
+- **Policies**: September jobs still the last cut — **+29,000**; unemployment **4.2%**. No new official table today.
+- **Understanding**: Escorted crude has looked healthier and a tanker was still hit off Oman. Both can be true. Neither is an open strait.
+- **Fun**: Valkyries beat the Wings **77–73** Friday in San Francisco and won their first playoff series. Semifinals Sunday: Valkyries–Aces, Dream–Liberty. Yankees left Aaron Judge (calf) off the ALDS roster.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Partly cloudy, high near 86°F.
+No new local PIF. Mostly sunny, high near 70°F. Showers likely Sunday.
 
 **What changed since yesterday**
 
-Rachel **120 → 110 mph**, no watches. Nolo **60 → 70 mph**, hurricane expected later today. DRC government Friday figure: **8,300** confirmed, **4,018** dead. ECDC page still the 1 October cut (**8,224** / **3,982**); next ECDC update due 5 October. Third U.S. carrier ordered toward the Gulf.
+Rachel **110 → 80 mph**, still no watches. Nolo **70 → 115 mph**, now a major hurricane; warning east of Maro Reef dropped. UKMTO: tanker struck off Oman; crew safe. Camp David meeting on the Iran file. ECDC page still the 1 October cut; next ECDC update due 5 October. Nepal still the 26 September NDRRMA cut. Thirty-ninth day.
 
 **Signal vs Noise note**
 
-U.S. homepages: the carrier move, the Flydubai file, Cornell, jobs, Rachel and Nolo, playoff scores.
+U.S. weekend homepages: the Iran meeting, the Oman tanker, Nolo as a major hurricane, Cornell, the Valkyries series win.
 
 **PIF — still open, platforms moved on**
 
 2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Thirty-eighth day.
+   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Thirty-ninth day.
 
 3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 2 October 14:45, still the 30 September report (data through 29 September): **8,224** confirmed, **3,982** deaths, **2,121** recovered. DRC government Friday: **8,300** confirmed, **4,018** dead.
+   ECDC, still the 30 September report (data through 29 September): **8,224** confirmed, **3,982** deaths, **2,121** recovered. DRC government Friday: **8,300** confirmed, **4,018** dead. A transit camp near Bunia was burned earlier in the week; about **19,000** people left the site.
 
 4) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).

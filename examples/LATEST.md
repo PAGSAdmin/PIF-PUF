@@ -43,15 +43,17 @@ Discovery / tech / cure:
 - FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
 - MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers.
 
-AI:
-- Midterm voting is underway in some states. NPR: some voters are using AI to decide.
-- Groups aligned with Anthropic and OpenAI are still spending on the midterms.
+AI — the cultural fight:
+- Pope Leo XIV, 2 October, to artists in the Consistory Hall, then on X: an ontological difference, before an aesthetic one, between human art and what a machine generates by statistical calculation on millions of images made by other people. Algorithms lack the spark of the human. The Church wants to renew an alliance with artists and cultural institutions to safeguard what is human. He quoted his encyclical *Magnifica Humanitas*. In May he set up a Vatican commission on AI. Last week he warned of a “paradise of machines” and said researcher warnings should be taken seriously.
+- Same week: Anthropic has been talking to religious scholars about morals inside Claude. The fight is no longer only labs and campaigns. A religious desk is drawing a line at the work itself.
+- Midterm voting is underway in some states. NPR: some voters are using AI to decide. Groups aligned with Anthropic and OpenAI are still spending on the midterms.
+- White House voluntary “self-police” accord and the OpenAI training pause remain the policy desks.
 
 **Top Surfacing PUF**
 
 - **Politics**: Cornell president said the university must do better on the sexual-assault file. Trump on the campaign trail. Brazil and Bosnia vote today.
 - **Policies**: Trump announced **$90** Medicare premium payments for seniors ahead of the midterms.
-- **Understanding**: A closed strait and a three-figure Brent print can sit next to a healthier Saudi export picture. Neither is a reopen.
+- **Understanding**: A closed strait and a three-figure Brent print can sit next to a healthier Saudi export picture. Neither is a reopen. The art fight is the same shape: a machine can imitate the look and still not be the thing.
 - **Fun**: WNBA semifinals Game 1 today — Dream at Liberty, Valkyries at Aces. MLB division series Game 1: Brewers won; Yankees lost to the Rays.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -60,11 +62,11 @@ No new local PIF. Showers, high near 64°F.
 
 **What changed since yesterday**
 
-Rachel **110 → 100 mph**. Nolo is a Category 2 hurricane, **110 mph**, west of Hawaii over open water. INSP bulletin of 1 October (published 2 October): **8,376** confirmed, **4,042** deaths, **2,182** recovered. Medical flight debris field off Nantucket. Iran speaker restated the strait stays shut.
+Rachel **110 → 100 mph**. Nolo is a Category 2 hurricane, **110 mph**, west of Hawaii over open water. INSP bulletin of 1 October (published 2 October): **8,376** confirmed, **4,042** deaths, **2,182** recovered. Medical flight debris field off Nantucket. Iran speaker restated the strait stays shut. AI lane now carries the 2 October papal address on human art.
 
 **Signal vs Noise note**
 
-U.S. homepages: the missing medical flight, Cornell, the carrier and oil, playoff scores.
+U.S. homepages: the missing medical flight, Cornell, the carrier and oil, playoff scores. The papal art line is loud on X and quiet on U.S. front pages.
 
 **PIF — still open, platforms moved on**
 

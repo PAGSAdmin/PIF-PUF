@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 5 October 2026
+# Daily reading — 6 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 5 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 6 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,63 +21,61 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$102–103**. Parliament speaker Qalibaf: the strait stays shut until seven conditions in the June memorandum are met. Houthis claimed strikes on Aramco sites. OPEC+ left November targets unchanged. A third U.S. carrier is still heading toward the Gulf. Camp David meeting Friday on next steps, not announced.
-
-2) **Boston-bound medical flight** → **Cat 1**  
-   Coast Guard suspended the search Sunday evening. Debris about 20 miles off Nantucket. Six aboard — four Canadian, two Bermudian. Latitude Air Ambulance says the crew, the patient, and the escort are presumed dead. Jet dropped from about 24,000 feet after the last radio call.
+   Brent about **$98–100**, down from **$102**. Gulf barrels are moving; refined products are not. International Chamber of Commerce: fertilizer capacity down nearly **40%** since the strait was disrupted; grain prices could rise sharply if it stays shut. Third U.S. carrier still heading toward the Gulf. B-1 bombers left RAF Fairford after a reported Iranian drone threat.
 
 **Positive PIF Spotlight**
 
-- Nobel Prize in Medicine: Karl Deisseroth, Peter Hegemann, and Georg Nagel, for optogenetics.
-- Ebola recoveries **2,213** on the 2 October INSP bulletin.
+- Nobel in Medicine for optogenetics — Deisseroth, Hegemann, Nagel.
+- Ebola recoveries **2,235** on the 6 October ECDC cut.
 - Nepal: **13,795** rescued on the 26 September NDRRMA cut.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Rachel, **90 mph**, about 405 miles west-southwest of Baja, moving west at 8 mph. No coastal watches. Gradual weakening expected by midweek.
-- Nolo remains a hurricane well west of Hawaii on the last CPHC cut, over open ocean.
-- California measles exposures in six counties. Pennsylvania table still more than **700** confirmed.
+- NHC: Hurricane Rachel, **85 mph**, about 585 miles west-southwest of Baja, moving west at 8 mph. No coastal watches. Swells still reaching Baja and southern California.
+- New York: Hochul declared a disaster emergency over measles spread in the state and next door. Pennsylvania table still more than **700** confirmed. California exposures still open.
+- Irkutsk watch, not an outbreak. Darya Shipilova, 28, a technician at the anti-plague institute, died 1–2 October of pneumonia of unknown origin. Rospotrebnadzor says no work pathogen was found in her samples and no lab accident was recorded. About **189** contacts under observation. WHO: none symptomatic; more information requested. The broken-tube account is from an independent outlet, not the agency.
 
 Discovery / tech / cure:
-- Nobel in Medicine for optogenetics — light used to switch nerve cells on and off.
-- FDA Fast Track for LYT-200 in relapsed/refractory high-risk MDS.
-- MSF / Epicentre **BRAVO** Ervebo study in **20,000** frontline workers. No licensed vaccine for Bundibugyo, the strain in this outbreak.
+- Nobel in Medicine for optogenetics.
+- No licensed vaccine for Bundibugyo, the strain in the DRC outbreak.
 
 AI — the cultural fight:
-- Pope Leo XIV, 2 October: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people. Algorithms lack the spark of the human. Church wants an alliance with artists. Encyclical *Magnifica Humanitas*. Vatican AI commission since May.
-- Trump named Director of National Intelligence Jay Clayton as AI czar, to lead a new Super Intelligence Force.
-- Anthropic still talking to religious scholars about morals inside Claude. Midterm groups aligned with Anthropic and OpenAI still spending.
+- Pope Leo XIV, 2 October: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people. Algorithms lack the spark of the human.
+- Trump named Jay Clayton AI czar, to lead a Super Intelligence Force.
 
 **Top Surfacing PUF**
 
-- **Politics**: U.S. pulled B-1 bombers out of RAF Fairford. Trump posted Senator Tom Cotton’s cell number over a daylight-saving bill. Supreme Court term opens with a climate case.
-- **Policies**: OPEC+ held November output targets. Justice Department will not reopen the Powell building case.
-- **Understanding**: Rising barrels through Hormuz and a closed-strait statement can both be on the page. Neither is a settled reopen.
-- **Fun**: WNBA semifinals opened Sunday — Dream at Liberty, Valkyries at Aces. MLB division series continues.
+- **Politics**: Pentagon says Trump approved a firing-squad execution for Nidal Hasan, the Fort Hood shooter. First military firing squad since the Second World War. Cornell faculty no-confidence resolution over the assault file.
+- **Policies**: Supreme Court hearing Boulder’s climate case against Exxon and Suncor. Pentagon said a Caribbean boat strike killed four; no evidence published.
+- **Understanding**: A lower Brent print and a closed-strait fertilizer warning can both be true. The Irkutsk segment is louder than the table.
+- **Fun**: WNBA semifinals continue — Liberty–Dream, Aces–Valkyries. MLB division series continues.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clearing, high near 71°F.
+No new local PIF. Sunny, high near 62°F.
 
 **What changed since yesterday**
 
-Rachel **100 → 90 mph**. INSP sitrep 141, data through 2 October: **8,442** confirmed, **4,080** deaths, **2,213** recovered. Coast Guard suspended the Nantucket search; six presumed dead. Nobel in Medicine for optogenetics. Clayton named AI czar.
+Brent **$102 → about $98–100**. Rachel **90 → 85 mph**. ECDC, 6 October (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered. Kenya reported its first imported case; the patient died after arriving in Nairobi on 3 October. Nantucket search stays suspended. Irkutsk is a contact watch, not a counted outbreak.
 
 **Signal vs Noise note**
 
-U.S. homepages: the medical flight, Hormuz and the Houthi claim, the bomber pullout, the Nobel. The papal art line is still louder on X than on front pages.
+U.S. homepages: the Fairford bomber pullout, the firing-squad order, the climate case, oil. Irkutsk is the fear line. The table is one death and asymptomatic contacts.
 
 **PIF — still open, platforms moved on**
 
-3) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Forty-first day.
+2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Forty-second day.
 
-4) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   INSP sitrep 141, data through 2 October: **8,442** confirmed, **4,080** deaths, **2,213** recovered, **846** in isolation. Sixty-six new cases that day. Contact follow-up **73.1%** against a 95% target. No licensed Bundibugyo vaccine.
+3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 6 October 16:25 (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered, **896** in isolation. Kenya: one imported case, dead.
 
-5) **Ukraine war** → **Cat 5**  
+4) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
+
+5) **Boston-bound medical flight** → **Cat 1**  
+   Search suspended. Six presumed dead. Debris about 20 miles off Nantucket.
 
 6) **Polo remnants / Southwest flood** → **Cat 1**  
    Some Hatch-area orders lifted. Rincon still wet on the last local cut.

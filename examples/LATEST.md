@@ -46,14 +46,17 @@ Discovery / tech / cure:
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
-- Pope Leo XIV, 2 October: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people.
-- Trump named Jay Clayton AI czar, to lead a Super Intelligence Force.
+- New York City Council, 6 October: OpenAI, Anthropic, Google, and Meta on catastrophe odds. Speaker Julie Menin called one answer flippant. A former Anthropic engineer told the council that, on the current path, loss of control is more likely than not. Ten bills on the table, including a human shut-off.
+- Sam Altman, this week: the world should accept some bad things happening for the benefits of the technology.
+- Super Intelligence Force, announced 4 October: Jay Clayton, Andrew Ferguson, Emil Michael, Scott Kupor. Reports to the president and Susie Wiles. Mandate includes religious organizations and the companies.
+- Pope Leo XIV, 2 October, still circulating, not a U.S. homepage: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people. *Magnifica Humanitas* already rejected machine consciousness. Anthropic’s Chris Olah nearly pulled the company from the May launch over that line.
+- OpenAI will watermark ChatGPT text for EU users under the AI Act.
 
 **Top Surfacing PUF**
 
 - **Politics**: Israel marked the third anniversary of 7 October. FBI said it stopped a planned attack at the Mall of America; an 18-year-old was arrested. Pentagon firing-squad order for Nidal Hasan still on the page.
 - **Policies**: Administration considering a pause in the federal gasoline tax. Justice Department moving to strip citizenship from 40 naturalized citizens.
-- **Understanding**: More barrels through Hormuz and nine attacks this month can both be true. Neither is a reopen.
+- **Understanding**: More barrels through Hormuz and nine attacks this month can both be true. Neither is a reopen. A machine can imitate the look and still not be the thing.
 - **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -62,11 +65,11 @@ No new local PIF. Mild, high in the mid-60s.
 
 **What changed since 6 October**
 
-No page on 7 October. Rachel **85 → 75 mph**, now forecast to turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block: **3,887** nationally, New York **108**. UKMTO: at least nine Hormuz attacks this month. ECDC still the 6 October cut.
+No page on 7 October. Rachel **85 → 75 mph**, now forecast to turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block: **3,887** nationally, New York **108**. UKMTO: at least nine Hormuz attacks this month. AI lane refreshed: NYC Council hearing and Altman, not only the 2 October papal line.
 
 **Signal vs Noise note**
 
-U.S. homepages: 7 October commemorations, the Fairford pullout, measles, Rachel’s turn, oil. Irkutsk is still the fear line. The table is one death and asymptomatic contacts.
+U.S. homepages: 7 October commemorations, the Fairford pullout, measles, Rachel’s turn, oil. The papal art line is still on X. The live AI desk is the Council hearing.
 
 **PIF — still open, platforms moved on**
 

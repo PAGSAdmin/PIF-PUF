@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 6 October 2026
+# Daily reading — 8 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 6 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked overnight into 8 October 2026, covering 7 October. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,7 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$98–100**, down from **$102**. Gulf barrels are moving; refined products are not. International Chamber of Commerce: fertilizer capacity down nearly **40%** since the strait was disrupted; grain prices could rise sharply if it stays shut. Third U.S. carrier still heading toward the Gulf. B-1 bombers left RAF Fairford after a reported Iranian drone threat.
+   Brent settled near **$100**. UKMTO logged at least **nine** attacks in the waterway so far this month. Flows are up; Vitol put recent crude leaving the strait near **12 million** barrels a day. Indirect U.S.–Iran nuclear talks were held in New York. A third carrier is still heading toward the Gulf.
+
+2) **U.S. measles** → **Cat 2**  
+   Times cut: **3,887** cases this year, the highest in more than 30 years. New York **108**, most since 2019; Hochul declared a disaster emergency. Pennsylvania more than **1,000** cases and **five** deaths.
+
+3) **Hurricane Rachel** → **Cat 1**  
+   NHC discussion, 8:00 p.m. PDT 7 October: **75 mph**, about 21.4N 122.9W. Forecast to weaken, then turn northeast and approach extreme northern Baja and Southern California as a tropical storm over the weekend. Swells already on those coasts.
 
 **Positive PIF Spotlight**
 
@@ -32,61 +38,54 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Rachel, **85 mph**, about 585 miles west-southwest of Baja, moving west at 8 mph. No coastal watches. Swells still reaching Baja and southern California.
-- New York: Hochul declared a disaster emergency over measles spread in the state and next door. Pennsylvania table still more than **700** confirmed. California exposures still open.
-- Irkutsk watch, not an outbreak. Darya Shipilova, 28, a technician at the anti-plague institute, died 1–2 October of pneumonia of unknown origin. Rospotrebnadzor says no work pathogen was found in her samples and no lab accident was recorded. About **189** contacts under observation. WHO: none symptomatic; more information requested. The broken-tube account is from an independent outlet, not the agency.
+- Rachel’s weekend turn toward northern Baja and Southern California. No watches yet on the last advisory.
+- Irkutsk remains a contact watch. One death, pneumonia of unknown origin. About **189** contacts; WHO said none were symptomatic. Not a counted outbreak.
 
 Discovery / tech / cure:
 - Nobel in Medicine for optogenetics.
-- No licensed vaccine for Bundibugyo, the strain in the DRC outbreak.
+- No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
-- Pope Leo XIV, 2 October: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people. Algorithms lack the spark of the human.
+- Pope Leo XIV, 2 October: an ontological difference, before an aesthetic one, between human art and what a machine generates from millions of images made by other people.
 - Trump named Jay Clayton AI czar, to lead a Super Intelligence Force.
 
 **Top Surfacing PUF**
 
-- **Politics**: Pentagon says Trump approved a firing-squad execution for Nidal Hasan, the Fort Hood shooter. First military firing squad since the Second World War. Cornell faculty no-confidence resolution over the assault file.
-- **Policies**: Supreme Court hearing Boulder’s climate case against Exxon and Suncor. Pentagon said a Caribbean boat strike killed four; no evidence published.
-- **Understanding**: A lower Brent print and a closed-strait fertilizer warning can both be true. The Irkutsk segment is louder than the table.
-- **Fun**: WNBA semifinals continue — Liberty–Dream, Aces–Valkyries. MLB division series continues.
+- **Politics**: Israel marked the third anniversary of 7 October. FBI said it stopped a planned attack at the Mall of America; an 18-year-old was arrested. Pentagon firing-squad order for Nidal Hasan still on the page.
+- **Policies**: Administration considering a pause in the federal gasoline tax. Justice Department moving to strip citizenship from 40 naturalized citizens.
+- **Understanding**: More barrels through Hormuz and nine attacks this month can both be true. Neither is a reopen.
+- **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Sunny, high near 62°F.
+No new local PIF. Mild, high in the mid-60s.
 
-**What changed since yesterday**
+**What changed since 6 October**
 
-Brent **$102 → about $98–100**. Rachel **90 → 85 mph**. ECDC, 6 October (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered. Kenya reported its first imported case; the patient died after arriving in Nairobi on 3 October. Nantucket search stays suspended. Irkutsk is a contact watch, not a counted outbreak.
+No page on 7 October. Rachel **85 → 75 mph**, now forecast to turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block: **3,887** nationally, New York **108**. UKMTO: at least nine Hormuz attacks this month. ECDC still the 6 October cut.
 
 **Signal vs Noise note**
 
-U.S. homepages: the Fairford bomber pullout, the firing-squad order, the climate case, oil. Irkutsk is the fear line. The table is one death and asymptomatic contacts.
+U.S. homepages: 7 October commemorations, the Fairford pullout, measles, Rachel’s turn, oil. Irkutsk is still the fear line. The table is one death and asymptomatic contacts.
 
 **PIF — still open, platforms moved on**
 
-2) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
-   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Forty-second day.
+4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+   Last NDRRMA cut (26 September): **1,453** dead; **5,285** missing; **13,795** rescued. Forty-fourth day.
 
-3) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 6 October 16:25 (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered, **896** in isolation. Kenya: one imported case, dead.
+5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+   ECDC, 6 October (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered, **896** in isolation. Kenya: one imported case, dead; 28 contacts quarantined.
 
-4) **Ukraine war** → **Cat 5**  
+6) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
 
-5) **Boston-bound medical flight** → **Cat 1**  
+7) **Boston-bound medical flight** → **Cat 1**  
    Search suspended. Six presumed dead. Debris about 20 miles off Nantucket.
 
-6) **Polo remnants / Southwest flood** → **Cat 1**  
+8) **Polo remnants / Southwest flood** → **Cat 1**  
    Some Hatch-area orders lifted. Rincon still wet on the last local cut.
 
-7) **U.S. East Coast nor’easter** → **Cat 1**  
-   About **200,000** lost power over the event. One death in Brooklyn. System gone.
-
-8) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
-   Polri cut through 28 September: **66** dead, **69** still sought, **108** survivors of **243**.
-
-Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter: two dead, one missing. Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
+Also open: nor’easter (system gone; about **200,000** lost power; one death in Brooklyn). Java Sea ferry: **66** dead, **69** still sought. **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 
 **Story duration**
 
@@ -97,6 +96,7 @@ Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles n
 - Colombia — since 10 August 2026
 - Hurricane Lowell — 7–12 September 2026
 - Hurricane Polo — 20–30 September 2026
+- Hurricane Rachel — from 29 September 2026
 - Ukraine — from 24 February 2022
 
 ---

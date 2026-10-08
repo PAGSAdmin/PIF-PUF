@@ -31,7 +31,6 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **Positive PIF Spotlight**
 
-Nobels, as announced. Off the page a week after the last one (economics, 12 October).
 - Medicine, 5 October: Karl Deisseroth, Peter Hegemann, Georg Nagel — optogenetics.
 - Physics, 6 October: Francis Halzen — IceCube, high-energy neutrinos from space, a cubic kilometre of South Pole ice.
 - Chemistry, 7 October: Henri Kagan and Kenso Soai — non-linear effects and autocatalysis in asymmetric synthesis.
@@ -69,7 +68,7 @@ No new local PIF. Mild, high in the mid-60s.
 
 **What changed since 6 October**
 
-No page on 7 October. Rachel **85 → 75 mph**, forecast turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block. Stale pass: Nepal search ended; Java Sea later tally **80** dead, **55** missing; Polo orders lifted 30 September; Irkutsk observation completed. Nobels now listed by day, not Medicine alone.
+No page on 7 October. Rachel **85 → 75 mph**, forecast turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block. Stale pass: Nepal search ended; Java Sea later tally **80** dead, **55** missing; Polo orders lifted 30 September; Irkutsk observation completed. Physics and Chemistry added to the Nobel list.
 
 **Signal vs Noise note**
 

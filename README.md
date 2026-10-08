@@ -40,24 +40,28 @@ The point is to keep counted shocks in view when platforms do not. Feeds are inc
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed, plus a Monmouth / Middletown glance.
 
+**Locked PIF wall.** A numbered line needs an agency table for a shock: dead, missing, displaced, in treatment, a closed search, a landfall or outage count. An ordinary circulating human illness is not a PIF, even when platforms and officials are loud about it. Measles is the example. It is one of the infections people get. A political fight over vaccination does not make it a population-impact file, and the reading does not concentrate on that fight. Ebola stays, because it has a counted treatment table that has not closed.
+
 PIF is listed in two places:
 
 - **On the platforms today** — counted events that U.S. feeds are carrying that morning. A small caseload still belongs here if it is actually on the homepages. This block sits at the top of the page.
 - **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page. This roster sits near the bottom, immediately before Story duration.
 
-A file can move from one list to the other as the feeds change. Silence is not closure. A file leaves the page only when the responsible agency has closed the caseload.
+A file can move from one list to the other as the feeds change. Silence is not closure. A file leaves the page only when the responsible agency has closed the caseload. A closed watch does not stay written as if it were still open.
 
-**Positive PIF** is the counted good in those same files: people rescued, recovered, found, or an outbreak closed. The number has to come from an agency table.
+**Positive PIF** is the counted good in those same files: people rescued, recovered, found, or an outbreak closed. The number has to come from an agency table. A prize list names the laureate the day it is announced and stays through the announcement week. It comes off a week after the last prize.
 
 **Emerging PIF** has three lanes. Keep them current. Do not pad with wallpaper.
 
 - **Hazard watch** — a named storm, board, glacier, pest, or outbreak table before it is a numbered PIF line. Give the desk, the intensity or count, who is under a watch or warning, and the next place the track could touch. That is how a hurricane sits on the page before landfall counts exist.
 - **Discovery / tech / cure** — a WHO prequalification, a trial result, an ARPA-H or FDA desk, a national lab. The line names the desk and the population it would touch if it scales.
-- **AI** — where PUF meets PIF. The political fight belongs here when it is the live contest over systems that already touch large populations. So do named desks, outages with a public incident table, and tools or trials that would touch people if they scale. AI does not get a Cat 1–5 mark unless there is a counted caseload (deaths, displaced, patients, users on an official table). Until then it stays in this lane, not in the numbered PIF blocks.
+- **AI** — where PUF meets PIF. The political fight belongs here when it is the live contest over systems that already touch large populations. So do named desks, outages with a public incident table, and tools or trials that would touch people if they scale. AI does not get a Cat 1–5 mark unless there is a counted caseload (deaths, displaced, patients, users on an official table). Until then it stays in this lane, not in the numbered PIF blocks. A line from last week does not stay as if it were today’s homepage.
 
 **UNGA / relief pass** (during the General Assembly only). After Politics, look once at OCHA, UNHCR, WFP, UNICEF, and the day’s UNGA schedule. A speech alone stays Politics. If a standing still-open file gets a new count or a named appeal, keep it on the roster and put one line under Understanding: who asked, for what caseload. If a war or famine not on the page gets both a humanitarian table and U.S. platform talk because of UN week, it may enter still-open or Emerging hazard. Table first.
 
 Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
+
+The public page does not carry notes to self: no lines about when an item will be removed, no workshop talk about headings.
 
 When the page is refreshed, official sitreps and tables are searched first (WHO, Africa CDC, OCHA/ReliefWeb, NDRRMA, Nepal Police, UNGRD, IOM, USDA/APHIS, UKMTO/IMO maritime tables, NHC, UNHCR/WFP/UNICEF during UNGA, national registers such as NZ DOC). Wires second, and only to fill a gap or show disagreement. Newspaper features last, never as the reason a story is listed. A story’s population is the people reported affected by that event, not a survey sample and not this author’s network or zip code. Cat 1–5 is an ordinal judgment of that caseload. Snapshot, disclosed Grok help, not a wire service.
 

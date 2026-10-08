@@ -24,7 +24,7 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
    Brent about **$104–105**, up more than 5% this morning. Kpler: seven tankers through the strait on Tuesday, the lowest since 23 July. Ten tankers struck between 28 September and 4 October. UKMTO: a tanker hit by multiple projectiles on Wednesday, with casualties.
 
 2) **U.S. measles** → **Cat 2**  
-   Times cut: **3,887** cases this year. New York **108**; Hochul declared a disaster emergency. Pennsylvania more than **1,000** cases and **five** deaths.
+   The case table is the PIF. Times cut: **3,887** cases this year. New York **108**; Hochul declared a disaster emergency. Pennsylvania Department of Health, 7 October: **1,078** cases, **207** hospitalized, **4** in people vaccinated for age. The department lists **5** measles-associated deaths. That is the state’s phrase, not a single cause-of-death table. CDC had acknowledged **1** measles death as of late September. Lancaster coroner: a six-week-old’s death was caused by measles; she also had Amish lethal microcephaly. Another infant who tested positive had a lacerated spleen listed as the primary cause. Shapiro and Kennedy have argued from versus with.
 
 3) **Tropical Storm Rachel** → **Cat 1**  
    NHC, 2:00 a.m. PDT: downgraded, **70 mph**, about 895 miles west of Baja, moving west-northwest at 8 mph. A sharp turn northeast is forecast in about 24 hours. Approach to northern Baja and Southern California over the weekend at or near tropical-storm strength. Swells building on those coasts.
@@ -63,7 +63,7 @@ AI — the cultural fight:
 
 - **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment.
 - **Policies**: Administration still considering a pause in the federal gasoline tax. Oil’s morning jump is the price desk.
-- **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price.
+- **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price. A measles-associated death is not the same line as a death caused by measles.
 - **Fun**: WNBA semifinals and MLB division series continue. Eva Marie Saint has died at 102.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -72,11 +72,11 @@ No new local PIF. Partly sunny, high near 74°F.
 
 **What changed since this morning’s page**
 
-Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added. Seven Hormuz transits on Tuesday.
+Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added. Pennsylvania measles deaths marked as associated, not a settled cause table.
 
 **Signal vs Noise note**
 
-U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, measles, the 7 October arguments. Irkutsk is still being recapped. WHO closed that watch yesterday.
+U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, measles, the 7 October arguments. The measles case count is the table. The five Pennsylvania deaths are a classification fight.
 
 **PIF — still open, platforms moved on**
 

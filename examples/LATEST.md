@@ -58,8 +58,8 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment. Shapiro and Kennedy are arguing measles deaths as from versus with.
-- **Policies**: Pennsylvania Department of Health, 7 October: **1,078** measles cases, **207** hospitalized. The department lists **5** measles-associated deaths. CDC had acknowledged **1** measles death as of late September. New York **108**; Hochul declared a disaster emergency. Times cut: **3,887** U.S. cases this year. Not a numbered PIF. Administration still considering a pause in the federal gasoline tax.
+- **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment.
+- **Policies**: Administration still considering a pause in the federal gasoline tax. Oil’s morning jump is the price desk.
 - **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price.
 - **Fun**: WNBA semifinals and MLB division series continue. Eva Marie Saint has died at 102.
 
@@ -69,11 +69,11 @@ No new local PIF. Partly sunny, high near 74°F.
 
 **What changed since this morning’s page**
 
-Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added. Measles off the numbered PIF block.
+Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added.
 
 **Signal vs Noise note**
 
-U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the measles emergency, the 7 October arguments. Measles is on the policy desk, not the PIF list.
+U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the 7 October arguments.
 
 **PIF — still open, platforms moved on**
 

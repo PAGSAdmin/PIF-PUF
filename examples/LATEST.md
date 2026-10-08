@@ -23,13 +23,10 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Brent about **$104–105**, up more than 5% this morning. Kpler: seven tankers through the strait on Tuesday, the lowest since 23 July. Ten tankers struck between 28 September and 4 October. UKMTO: a tanker hit by multiple projectiles on Wednesday, with casualties.
 
-2) **U.S. measles** → **Cat 2**  
-   The case table is the PIF. Times cut: **3,887** cases this year. New York **108**; Hochul declared a disaster emergency. Pennsylvania Department of Health, 7 October: **1,078** cases, **207** hospitalized, **4** in people vaccinated for age. The department lists **5** measles-associated deaths. That is the state’s phrase, not a single cause-of-death table. CDC had acknowledged **1** measles death as of late September. Lancaster coroner: a six-week-old’s death was caused by measles; she also had Amish lethal microcephaly. Another infant who tested positive had a lacerated spleen listed as the primary cause. Shapiro and Kennedy have argued from versus with.
-
-3) **Tropical Storm Rachel** → **Cat 1**  
+2) **Tropical Storm Rachel** → **Cat 1**  
    NHC, 2:00 a.m. PDT: downgraded, **70 mph**, about 895 miles west of Baja, moving west-northwest at 8 mph. A sharp turn northeast is forecast in about 24 hours. Approach to northern Baja and Southern California over the weekend at or near tropical-storm strength. Swells building on those coasts.
 
-4) **Gulf storm** → **Cat 1**  
+3) **Gulf storm** → **Cat 1**  
    Wires: a system in the Gulf (Isaias / Esaias in the morning cuts) is expected to be a hurricane by tonight, heading toward the refining coast. Rain, wind, and surge on the watch.
 
 **Positive PIF Spotlight**
@@ -61,9 +58,9 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment.
-- **Policies**: Administration still considering a pause in the federal gasoline tax. Oil’s morning jump is the price desk.
-- **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price. A measles-associated death is not the same line as a death caused by measles.
+- **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment. Shapiro and Kennedy are arguing measles deaths as from versus with.
+- **Policies**: Pennsylvania Department of Health, 7 October: **1,078** measles cases, **207** hospitalized. The department lists **5** measles-associated deaths. CDC had acknowledged **1** measles death as of late September. New York **108**; Hochul declared a disaster emergency. Times cut: **3,887** U.S. cases this year. Not a numbered PIF. Administration still considering a pause in the federal gasoline tax.
+- **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price.
 - **Fun**: WNBA semifinals and MLB division series continue. Eva Marie Saint has died at 102.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -72,29 +69,29 @@ No new local PIF. Partly sunny, high near 74°F.
 
 **What changed since this morning’s page**
 
-Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added. Pennsylvania measles deaths marked as associated, not a settled cause table.
+Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added. Measles off the numbered PIF block.
 
 **Signal vs Noise note**
 
-U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, measles, the 7 October arguments. The measles case count is the table. The five Pennsylvania deaths are a classification fight.
+U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the measles emergency, the 7 October arguments. Measles is on the policy desk, not the PIF list.
 
 **PIF — still open, platforms moved on**
 
-5) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
+4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    NDRRMA cut of 26 September: **1,453** dead; **5,285** missing; **13,795** rescued. AP, 7 October: search ended; at least **1,455** dead; **5,285** still unaccounted for. Caseload open. Rescue phase closed.
 
-6) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
+5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
    ECDC, 6 October (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered, **896** in isolation. Kenya: one imported case, dead; 28 contacts quarantined.
 
-7) **Ukraine war** → **Cat 5**  
+6) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
 
-8) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
+7) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    Last agency cut on this page was Polri through 28 September: **66** dead, **69** still sought. A 7 October public tally lists **80** dead and **55** missing.
 
 Closed on the last cut, not numbered: Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone).
 
-Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Bangladesh measles / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
+Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 
 **Story duration**
 

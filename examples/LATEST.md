@@ -31,9 +31,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **Positive PIF Spotlight**
 
-- Nobel in Medicine for optogenetics — Deisseroth, Hegemann, Nagel.
-- Ebola recoveries **2,235** on the 6 October ECDC cut.
-- Nepal: **13,795** rescued on the 26 September NDRRMA cut. Search has since ended.
+Nobels, as announced. Off the page a week after the last one (economics, 12 October).
+- Medicine, 5 October: Karl Deisseroth, Peter Hegemann, Georg Nagel — optogenetics.
+- Physics, 6 October: Francis Halzen — IceCube, high-energy neutrinos from space, a cubic kilometre of South Pole ice.
+- Chemistry, 7 October: Henri Kagan and Kenso Soai — non-linear effects and autocatalysis in asymmetric synthesis.
+- Literature, 8 October, not yet. Peace, 9 October. Economics, 12 October.
+
+Also: Ebola recoveries **2,235** on the 6 October ECDC cut. Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 
 **Emerging PIF**
 
@@ -42,7 +46,7 @@ Hazard watch:
 - Irkutsk watch closed on the agency cut. WHO, 7 October: Russia reported no plague cases in Irkutsk oblast. No high-threat pathogen in contacts. Observation completed. One death, 2 October, pneumonia of unknown origin. The broken-tube account was never confirmed.
 
 Discovery / tech / cure:
-- Nobel in Medicine for optogenetics.
+- Physics: IceCube neutrinos. Chemistry: mirror-image molecules, used in drug manufacture. Medicine: optogenetics.
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
@@ -65,7 +69,7 @@ No new local PIF. Mild, high in the mid-60s.
 
 **What changed since 6 October**
 
-No page on 7 October. Rachel **85 → 75 mph**, forecast turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block. Stale pass: Nepal search ended; Java Sea later tally **80** dead, **55** missing; Polo orders were lifted 30 September; Irkutsk observation completed, no plague registered.
+No page on 7 October. Rachel **85 → 75 mph**, forecast turn toward northern Baja and Southern California. Brent settled near **$100**. U.S. measles on the platforms block. Stale pass: Nepal search ended; Java Sea later tally **80** dead, **55** missing; Polo orders lifted 30 September; Irkutsk observation completed. Nobels now listed by day, not Medicine alone.
 
 **Signal vs Noise note**
 

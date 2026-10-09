@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 8 October 2026
+# Daily reading — 9 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 8 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 9 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -20,60 +20,59 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **PIF — on the platforms today**
 
-1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$104–105**, up more than 5% this morning. Kpler: seven tankers through the strait on Tuesday, the lowest since 23 July. Ten tankers struck between 28 September and 4 October. UKMTO: a tanker hit by multiple projectiles on Wednesday, with casualties.
+1) **Hurricane Isaias** → **Cat 2** + **! EMERGENCY WARNING**  
+   NHC, 09:00 UTC: **110 mph**, pressure **963 mb**, about 320 miles north-northeast of Progreso, moving north-northeast at 15 mph. Seas near the center **32 ft**. Landfall in the northern Gulf warning area tonight or early Saturday. Likely a major hurricane this morning; slight weakening expected before landfall. Most likely track on the morning wires: the Alabama–Florida line, surge across Pensacola Bay. National Guard deploying. Residents boarding up.
 
-2) **Tropical Storm Rachel** → **Cat 1**  
-   NHC, 2:00 a.m. PDT: downgraded, **70 mph**, about 895 miles west of Baja, moving west-northwest at 8 mph. A sharp turn northeast is forecast in about 24 hours. Approach to northern Baja and Southern California over the weekend at or near tropical-storm strength. Swells building on those coasts.
+2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+   Brent about **$103**. Tuesday transits were the lowest since late July. At least **12** tanker attacks from 28 September to 2 October, including one in the Gulf of Oman. Trump said the U.S. would not attack Iran before the midterms and that talks were productive. The military is still preparing options.
 
-3) **Gulf storm** → **Cat 1**  
-   Wires: a system in the Gulf (Isaias / Esaias in the morning cuts) is expected to be a hurricane by tonight, heading toward the refining coast. Rain, wind, and surge on the watch.
+3) **Tropical Storm Rachel** → **Cat 1**  
+   NHC, 09:00 UTC: **50 mph**, near 22.7N 124.9W, now moving northeast at 3 mph. The turn has started. Still no coastal watches on the last discussion. Swells on Southern California and northern Baja.
 
 **Positive PIF Spotlight**
 
 - Medicine, 5 October: Karl Deisseroth, Peter Hegemann, Georg Nagel — optogenetics.
-- Physics, 6 October: Francis Halzen — IceCube, high-energy neutrinos from space, a cubic kilometre of South Pole ice.
-- Chemistry, 7 October: Henri Kagan and Kenso Soai — non-linear effects and autocatalysis in asymmetric synthesis.
-- Literature, 8 October: Anne Carson — “bold and inventive oeuvre” in dialogue with the classical tradition.
-- Peace, 9 October. Economics, 12 October.
+- Physics, 6 October: Francis Halzen — IceCube, high-energy neutrinos, South Pole ice.
+- Chemistry, 7 October: Henri Kagan and Kenso Soai — asymmetric synthesis.
+- Literature, 8 October: Anne Carson.
+- Peace, 9 October: Navi Pillay, for work on peace and international law. Former UN human rights chief, former ICC judge.
+- Economics, 12 October.
 
-Also: Ebola recoveries **2,235** on the 6 October ECDC cut. Nepal search ended; **13,795** rescued on the last NDRRMA cut.
+Also: Ebola recoveries still the prior cut. Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 
 **Emerging PIF**
 
 Hazard watch:
-- Rachel’s weekend turn. No coastal watches on the last advisory.
-- Gulf storm, name still uneven in the morning wires, track toward the refining coast.
-- Irkutsk watch closed. WHO, 7 October: no plague cases in Irkutsk oblast. Observation completed. One death, pneumonia of unknown origin.
+- Isaias landfall tonight or early Saturday. Surge and inland flood are the count that is not in yet.
+- Rachel’s northeast turn. Hurricane Simon is south of Manzanillo, over open water, not a U.S. watch.
 
 Discovery / tech / cure:
-- This week’s Nobels: optogenetics, IceCube neutrinos, mirror-image molecules.
+- This week’s Nobels through Peace.
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
-- New York City Council, 6 October: OpenAI, Anthropic, Google, and Meta on catastrophe odds. Speaker Julie Menin called one answer flippant. A former Anthropic engineer told the council that, on the current path, loss of control is more likely than not.
-- Sam Altman, this week: the world should accept some bad things happening for the benefits of the technology.
-- Super Intelligence Force, 4 October: Jay Clayton, Andrew Ferguson, Emil Michael, Scott Kupor.
-- Pope Leo XIV, 2 October, still circulating, not a U.S. homepage: an ontological difference, before an aesthetic one, between human art and what a machine generates from images made by other people.
+- New York City Council, 6 October, still the last live hearing: catastrophe odds from OpenAI, Anthropic, Google, and Meta. A former Anthropic engineer said loss of control is more likely than not on the current path.
+- Super Intelligence Force, 4 October: Clayton, Ferguson, Michael, Kupor.
+- Pope Leo XIV, 2 October, still circulating, not a U.S. homepage: an ontological difference between human art and what a machine generates from images made by other people.
 
 **Top Surfacing PUF**
 
-- **Politics**: Third anniversary of 7 October still on the page. Mamdani’s statement drew criticism. FBI said it stopped a planned attack at the Mall of America. Abraham Lincoln due back in San Diego after the Iran deployment.
-- **Policies**: Administration still considering a pause in the federal gasoline tax. Oil’s morning jump is the price desk.
-- **Understanding**: More barrels last week and seven transits on Tuesday can both be true. The attack count is what moved the price.
-- **Fun**: WNBA semifinals and MLB division series continue. Eva Marie Saint has died at 102.
+- **Politics**: Abraham Lincoln is back in San Diego after the Iran deployment. Pentagon says the Hasan firing-squad execution will be livestreamed. ICE shooting in New York drew clashes.
+- **Policies**: Vance said Microsoft and other firms are suspended from H-1B. FBI and Justice announced seizure of tools tied to a Chinese-linked hacking group.
+- **Understanding**: A lower transit count and a presidential “no strike before the midterms” can both be on the page. Neither reopens the strait.
+- **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Partly sunny, high near 74°F.
+No new local PIF. Sunny, high near 72°F.
 
-**What changed since this morning’s page**
+**What changed since yesterday**
 
-Brent **$100 → about $104–105**. Rachel **75 mph hurricane → 70 mph tropical storm**. Literature: Anne Carson. Gulf storm added.
+Gulf storm named and intensified: Isaias **110 mph**, landfall window tonight or early Saturday. Rachel **70 → 50 mph**, now moving northeast. Brent about **$103**. Peace Prize: Navi Pillay. INSP, via WAM: Ebola **8,728** cases, **4,205** deaths, data announced Thursday.
 
 **Signal vs Noise note**
 
-U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the 7 October arguments.
+U.S. homepages: Isaias, the Gulf boarding-up, oil, the carrier homecoming. Nepal and Ebola are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -81,7 +80,7 @@ U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the
    NDRRMA cut of 26 September: **1,453** dead; **5,285** missing; **13,795** rescued. AP, 7 October: search ended; at least **1,455** dead; **5,285** still unaccounted for. Caseload open. Rescue phase closed.
 
 5) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-   ECDC, 6 October (data through 4 October): **8,603** confirmed, **4,148** deaths, **2,235** recovered, **896** in isolation. Kenya: one imported case, dead; 28 contacts quarantined.
+   WAM, citing the National Institute of Public Health, 9 October: **8,728** cases, **4,205** deaths; **63** new cases and **27** deaths in the prior day. ECDC cut on this page remains 6 October: **8,603** / **4,148**. Kenya: one imported case, dead.
 
 6) **Ukraine war** → **Cat 5**  
    OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
@@ -89,7 +88,7 @@ U.S. homepages: oil and the tanker attacks, the Gulf storm, Rachel’s turn, the
 7) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    Last agency cut on this page was Polri through 28 September: **66** dead, **69** still sought. A 7 October public tally lists **80** dead and **55** missing.
 
-Closed on the last cut, not numbered: Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone).
+Closed on the last cut, not numbered: Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone). Irkutsk watch (WHO: no plague cases; observation completed).
 
 Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 
@@ -103,6 +102,7 @@ Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles n
 - Hurricane Lowell — 7–12 September 2026
 - Hurricane Polo — 20–30 September 2026
 - Hurricane Rachel — from 29 September 2026
+- Hurricane Isaias — October 2026
 - Ukraine — from 24 February 2022
 
 ---

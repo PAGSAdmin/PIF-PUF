@@ -51,7 +51,9 @@ Hazard watch:
 - Hurricane Simon, Category 4, **150 mph**, heading toward Mexico’s Pacific coast. Not a U.S. watch.
 
 Discovery / tech / cure:
-- This week’s Nobels through Peace.
+- WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified. Types 6, 11, 16, 18. Indicated for girls and boys 9 to 26. Opens UN procurement.
+- NEJM, reported 10 October: seven people with retinitis pigmentosa given an optogenetic treatment. Six gained a clinically meaningful ability to locate an object. One adverse event, resolved in minutes. The method is the one that won medicine on Monday.
+- NIH, reported 9 October: a public-private cancer-vaccine program, launch set for December. First targets pancreatic, liver, colorectal, and some childhood tumors. Personalized, not a preventive shot.
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
@@ -72,7 +74,7 @@ No new local PIF. Mostly cloudy, high near 68°F.
 
 **What changed since yesterday**
 
-Isaias made landfall near Destin as a Category 2 and is now a post-tropical cyclone over Alabama. Rachel **50 → 60 mph**, warning up, border landfall tonight. Brent about **$105**. Panama **7.7**. Simon is a Category 4 off Mexico.
+Isaias made landfall near Destin as a Category 2 and is now a post-tropical cyclone over Alabama. Rachel **50 → 60 mph**, warning up, border landfall tonight. Brent about **$105**. Panama **7.7**. Simon is a Category 4 off Mexico. Discovery lane refreshed: Cervavac prequalified, optogenetic trial, NIH cancer-vaccine program.
 
 **Signal vs Noise note**
 

@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 10 October 2026
+# Daily reading — 11 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 10 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 11 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -20,17 +20,17 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **PIF — on the platforms today**
 
-1) **Hurricane Isaias** → **Cat 2** + **! EMERGENCY WARNING**  
-   Landfall near Destin, Florida, Friday evening, Category 2, about **105 mph**, about **5 ft** of surge. It had reached Category 3, **120 mph**, before coming ashore. Now a post-tropical cyclone over southern Alabama, about **65 mph**, moving north. Hurricane warnings down. Flooding rain continues across the Panhandle, southern Alabama, and southwest Georgia. Hundreds of thousands without power; CNN put the customer count near **900,000**. Emergency declarations in Florida and Alabama.
+1) **Hurricane Isaias** → **Cat 2**  
+   Landfall near Destin Friday evening, Category 2. Four dead on the morning wires: a tree on a home in Escambia County, generator fumes, a tree in Birmingham, and a fourth Alabama death confirmed by the governor without details. Power still out for about **397,000** customers as of 9:30 a.m. ET, most in Florida. System is post-tropical and moving north.
 
-2) **Tropical Storm Rachel** → **Cat 1**  
-   NHC, 5:00 a.m. PDT: **60 mph**, about 470 miles southwest of Punta Baja, moving east-northeast at **21 mph**. Tropical storm warning up. Center expected ashore near the U.S.–Mexico border tonight. Watches for extreme Southern California.
+2) **Riyadh airport attack** → **Cat 2**  
+   Saudi authorities: **12** dead, more than **300** wounded, Saturday. Dead include four Saudis, two Bangladeshis, and one each from Palestine, the U.S., Egypt, Jordan, Syria, and Sudan. Rubio acknowledged the American. Saudi-led coalition blamed Iran-backed Houthis. Latest of several attacks on King Khalid International this week.
 
 3) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$105**. Tuesday transits were the lowest since late July. At least **12** tanker attacks from 28 September to 2 October. Trump said no U.S. strike before the midterms. The military is still preparing options.
+   Brent about **$105**. Tuesday transits were the lowest since late July. At least **12** tanker attacks from 28 September to 2 October. Trump said no U.S. strike before the midterms. Iran is reviewing a U.S. response to a proposal that would reopen the strait within seven days.
 
-4) **Panama earthquakes** → **Cat 2**  
-   AP: a **7.7** near Pitaloza Arriba, Herrera province, Friday morning, plus aftershocks. Buildings collapsed. Evacuations. No death table on the morning wires.
+4) **Post-tropical Rachel** → **Cat 1**  
+   NHC, 5:00 a.m. PDT: **40 mph**, about 130 miles northeast of San Diego, moving north at 25 mph. Warnings for Baja discontinued. Heavy rain and gusty wind across the Southwest. Expected to dissipate later today. Remnants continue the rain.
 
 **Positive PIF Spotlight**
 
@@ -46,14 +46,15 @@ Also: Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 **Emerging PIF**
 
 Hazard watch:
-- Isaias inland flood and the power count, still moving.
-- Rachel ashore near the border tonight.
+- Isaias flood and the remaining outage count.
+- Rachel remnants over the Southwest today.
 - Hurricane Simon, Category 4, **150 mph**, heading toward Mexico’s Pacific coast. Not a U.S. watch.
+- Panama **7.7**, Friday. Buildings collapsed. Still no death table.
 
 Discovery / tech / cure:
-- WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified. Types 6, 11, 16, 18. Indicated for girls and boys 9 to 26. Opens UN procurement.
-- NEJM, reported 10 October: seven people with retinitis pigmentosa given an optogenetic treatment. Six gained a clinically meaningful ability to locate an object. One adverse event, resolved in minutes. The method is the one that won medicine on Monday.
-- NIH, reported 9 October: a public-private cancer-vaccine program, launch set for December. First targets pancreatic, liver, colorectal, and some childhood tumors. Personalized, not a preventive shot.
+- WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified. Types 6, 11, 16, 18. Opens UN procurement.
+- NEJM: seven people with retinitis pigmentosa given an optogenetic treatment. Six could locate an object.
+- NIH: a public-private cancer-vaccine program, launch set for December. Pancreatic, liver, colorectal, and some childhood tumors.
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
@@ -63,22 +64,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump said he struck a deal with Putin for Russian diesel, weeks before the midterms. Trump and Iranian officials both say the U.S. election calendar is not driving the war talks.
-- **Policies**: Medicaid coverage cut for hundreds of thousands of legal immigrants, including refugees, effective at the start of October.
-- **Understanding**: Isaias hit the refining coast and Brent is still about **$105**. The Gulf outage and the strait can both hold the price.
+- **Politics**: Trump called the Riyadh attack unacceptable. Justice is looking at whether the White House TV pool’s coverage halt violated antitrust law.
+- **Policies**: Medicaid coverage cut for hundreds of thousands of legal immigrants, effective at the start of October.
+- **Understanding**: The Riyadh count is a caseload. The Houthi claim is a political line. They are not the same thing.
 - **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Mostly cloudy, high near 68°F.
+No new local PIF. Rain, high near 66°F.
 
 **What changed since yesterday**
 
-Isaias made landfall near Destin as a Category 2 and is now a post-tropical cyclone over Alabama. Rachel **50 → 60 mph**, warning up, border landfall tonight. Brent about **$105**. Panama **7.7**. Simon is a Category 4 off Mexico. Discovery lane refreshed: Cervavac prequalified, optogenetic trial, NIH cancer-vaccine program.
+Isaias: four dead; power still out for about **397,000**. Rachel is post-tropical, inland, **40 mph**, dissipating today. Riyadh airport: **12** dead, more than **300** wounded. Brent about **$105**.
 
 **Signal vs Noise note**
 
-U.S. homepages: Isaias, the power outages, Rachel’s turn toward the border, oil. Nepal and Ebola are not the lead.
+U.S. homepages: Isaias, the outages, Riyadh, Rachel’s remnants. Nepal and Ebola are not the lead.
 
 **PIF — still open, platforms moved on**
 

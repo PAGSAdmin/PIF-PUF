@@ -58,9 +58,10 @@ Discovery / tech / cure:
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
-- New York City Council, 6 October, still the last live hearing: catastrophe odds from OpenAI, Anthropic, Google, and Meta.
-- Super Intelligence Force, 4 October: Clayton, Ferguson, Michael, Kupor.
-- Pope Leo XIV, 2 October, still circulating, not a U.S. homepage: an ontological difference between human art and what a machine generates from images made by other people.
+- CNBC, today: independent evaluators are the live desk. METR, Apollo Research, Transluce. Anthropic’s Dario Amodei pledged last month to embed them. Altman endorsed. Trump supported the idea. OpenAI, Friday: contracts with third-party assessors are being finalized.
+- The federal line is still the voluntary pact Trump signed with the labs late last month. **308** words. Signers include OpenAI, Anthropic, Meta, Google, SpaceXAI, Nvidia. Altman, Vanity Fair, recorded 2 October: a good start, and in some sense it has no real power.
+- California: Newsom signed an independent-verifier framework and a state registry for AI auditors. Anthropic and OpenAI both endorsed the bills.
+- Pope Leo XIV is not the U.S. homepage. His line remains the ontological one: a machine that generates from other people’s images is not a human maker. *Magnifica Humanitas* already rejected machine consciousness.
 
 **Top Surfacing PUF**
 
@@ -75,7 +76,7 @@ No new local PIF. Rain, high near 66°F.
 
 **What changed since yesterday**
 
-Isaias: four dead; power still out for about **397,000**. Rachel is post-tropical, inland, **40 mph**, dissipating today. Riyadh airport: **12** dead, more than **300** wounded. Brent about **$105**.
+Isaias: four dead; power still out for about **397,000**. Rachel is post-tropical, inland, **40 mph**, dissipating today. Riyadh airport: **12** dead, more than **300** wounded. Brent about **$105**. AI lane is the evaluator contracts, not the 6 October hearing.
 
 **Signal vs Noise note**
 

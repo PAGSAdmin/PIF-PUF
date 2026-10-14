@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 13 October 2026
+# Daily reading — 14 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 13 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 14 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,13 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Airport operations remain suspended. Thursday strikes on the same airport killed at least **3**, including a pilot. Saudi-led coalition blamed Iran-backed Houthis and called Saturday a war crime.
+   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Airport operations remain suspended. Thursday strikes on the same airport killed at least **3**, including a pilot. Reuters noted the week’s death toll on the airport reached **18**. Saudi-led coalition blamed Iran-backed Houthis and called Saturday a war crime.
 
 2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$105–106**. Oil edged lower after three days up. At least **17** tanker attacks in and around the strait since 28 September. Rezaei said the U.S. response to Iran’s seven conditions was insufficient. Defense Department, Friday: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent about **$106**. UKMTO: a container ship and a tanker struck by unknown projectiles in the strait. Iranian officials told Reuters they are deploying new tactics to target ships, aiming to keep oil prices high and influence the U.S. midterms. At least **17** tanker attacks in and around the strait since 28 September. Defense Department, Friday: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 3) **Hurricane Isaias** → **Cat 2**  
-   Four dead. Landfall near Destin Friday, Category 2. Florida still had more than **149,000** customers without power on the Monday cut. No newer agency table this morning.
+   Four dead. Landfall near Destin Friday, Category 2. About **160,000** customers still without power in Florida and Alabama on the Monday morning cut. Peak was about **950,000**. No newer agency table this morning.
 
 **Positive PIF Spotlight**
 
@@ -55,28 +55,28 @@ Discovery / tech / cure:
 - No licensed vaccine for Bundibugyo.
 
 AI — the cultural fight:
-- Reuters, today: Anthropic and OpenAI have sought control over what outside evaluators can publish. Sources say the labs wanted strict editorial control as recently as 5 October. Amodei had said evaluators should publish key findings without editorial control. OpenAI says it redacts confidential information and does not seek approval over the full text.
+- Reuters, 13 October: Anthropic and OpenAI have sought control over what outside evaluators can publish. Sources say the labs wanted strict editorial control as recently as 5 October. Amodei had said evaluators should publish key findings without editorial control. OpenAI says it redacts confidential information and does not seek approval over the full text.
 - The federal line is still Trump’s voluntary pact, **308** words. Altman: a good start, and in some sense it has no real power.
 - California: Newsom signed an independent-verifier framework and a state registry for AI auditors.
 
 **Top Surfacing PUF**
 
-- **Politics**: White House asked Greece ambassador Kimberly Guilfoyle to resign after allegations of improper conduct. Justice is investigating whether the networks’ White House pool boycott violated antitrust law.
-- **Policies**: Trump’s diesel deal with Putin remains the supply line. Medicaid cut for legal immigrants remains in effect.
-- **Understanding**: The airport count is a caseload. The Houthi claim is a political line. Oil did not need a new barrel lost to stay above **$100**.
+- **Politics**: Iranian officials said the new ship-targeting tactics are meant to keep oil high ahead of the U.S. midterms. Twelve senators called Trump’s diesel deal with Putin a betrayal of Ukraine.
+- **Policies**: DHS refugee policy takes effect today: days to challenge status revocation cut from 30 to 10.
+- **Understanding**: The airport count is a caseload. The Houthi claim is a political line. Two vessels hit in the strait did not need a new barrel lost for Brent to stay above **$100**.
 - **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear, high near 73°F.
+No new local PIF. Cloudy, high near 77°F.
 
 **What changed since yesterday**
 
-Riyadh still closed. No new death table. Brent about **$105–106**. AI lane is the Reuters report on what evaluators can publish. Isaias power is the Monday cut, **149,000** in Florida.
+Two vessels struck in Hormuz. Brent about **$106**. Iranian officials described new ship-targeting tactics. Riyadh airport still closed; week’s death toll on the airport at **18**. Isaias power is the Monday cut, about **160,000** in Florida and Alabama.
 
 **Signal vs Noise note**
 
-U.S. homepages: Riyadh, the airport closure, oil, the Guilfoyle resignation. Nepal and Ebola are not the lead.
+U.S. homepages: Riyadh, the airport closure, oil, the strait strikes. Nepal and Ebola are not the lead.
 
 **PIF — still open, platforms moved on**
 

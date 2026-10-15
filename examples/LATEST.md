@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 14 October 2026
+# Daily reading — 15 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 14 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 15 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,10 +21,10 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Airport operations remain suspended. Thursday strikes on the same airport killed at least **3**, including a pilot. Reuters noted the week’s death toll on the airport reached **18**. Saudi-led coalition blamed Iran-backed Houthis and called Saturday a war crime.
+   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Airport operations remain suspended. Thursday strikes on the same airport killed at least **3**, including a pilot. Week’s death toll on the airport reached **18**. Saudi-led coalition blamed Iran-backed Houthis and called Saturday a war crime.
 
 2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$106**. UKMTO: a container ship and a tanker struck by unknown projectiles in the strait. Iranian officials told Reuters they are deploying new tactics to target ships, aiming to keep oil prices high and influence the U.S. midterms. At least **17** tanker attacks in and around the strait since 28 September. Defense Department, Friday: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent about **$104**. A container ship and a dry bulk carrier sank near the strait after being hit by projectiles. Attacks have surged. Iranian officials said they are deploying new tactics to target ships. At least **17** tanker attacks in and around the strait since 28 September. Defense Department, Friday: **21** U.S. service members killed, **865** wounded in Iran-related operations. U.S. is considering easing some shadow-fleet sanctions to cut shipping costs.
 
 3) **Hurricane Isaias** → **Cat 2**  
    Four dead. Landfall near Destin Friday, Category 2. About **160,000** customers still without power in Florida and Alabama on the Monday morning cut. Peak was about **950,000**. No newer agency table this morning.
@@ -61,22 +61,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Iranian officials said the new ship-targeting tactics are meant to keep oil high ahead of the U.S. midterms. Twelve senators called Trump’s diesel deal with Putin a betrayal of Ukraine.
-- **Policies**: DHS refugee policy takes effect today: days to challenge status revocation cut from 30 to 10.
-- **Understanding**: The airport count is a caseload. The Houthi claim is a political line. Two vessels hit in the strait did not need a new barrel lost for Brent to stay above **$100**.
+- **Politics**: Iranian officials described the new ship-targeting tactics as aimed at keeping oil high ahead of the midterms. Twelve senators called Trump’s diesel deal with Putin a betrayal of Ukraine.
+- **Policies**: DHS refugee policy is in effect: days to challenge status revocation cut from 30 to 10. U.S. is weighing eased shadow-fleet sanctions.
+- **Understanding**: The airport count is a caseload. The Houthi claim is a political line. Two vessels sank near the strait; Brent is still above **$100**.
 - **Fun**: WNBA semifinals and MLB division series continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Cloudy, high near 77°F.
+No new local PIF. Mostly clear, high near 68°F.
 
 **What changed since yesterday**
 
-Two vessels struck in Hormuz. Brent about **$106**. Iranian officials described new ship-targeting tactics. Riyadh airport still closed; week’s death toll on the airport at **18**. Isaias power is the Monday cut, about **160,000** in Florida and Alabama.
+Two vessels sank near Hormuz after projectile hits. Brent about **$104**, down from about **$106**. Attacks have surged. Riyadh airport still closed. Isaias power is the Monday cut, about **160,000** in Florida and Alabama.
 
 **Signal vs Noise note**
 
-U.S. homepages: Riyadh, the airport closure, oil, the strait strikes. Nepal and Ebola are not the lead.
+U.S. homepages: Riyadh, the airport closure, oil, the strait strikes and sinkings. Nepal and Ebola are not the lead.
 
 **PIF — still open, platforms moved on**
 

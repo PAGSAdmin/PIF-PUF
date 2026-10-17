@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 16 October 2026
+# Daily reading — 17 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 16 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 17 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -20,14 +20,14 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **PIF — on the platforms today**
 
-1) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday afternoon at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher critically injured. The 16-year-old suspect, a Bend resident, forced entry by shooting through locked doors with a long gun and was shot dead by a bystander who pursued him inside. Bend Police Chief Mike Krantz confirmed the counts at the Thursday briefing. Schools closed Friday. The lead on U.S. homepages.
+1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
+   Brent settled about **$109.86** on Friday after touching **$110** (highest since May); near that level on Saturday desks. Attacks intensified; at least nine vessels hit since the prior weekend. Kpler: flows about **9.4** million b/d in the week to 14 October, roughly 70% of pre-war average. Saudi-led coalition intercepted missiles toward Yanbu. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
-2) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent about **$106** (spot/futures near **$105.8** on Friday desks). A container ship sank after an Iranian projectile strike (USCENTCOM). Attacks continue; Kpler seven-day average clearance to 13 October was **11.62** million b/d, about 68% of the 17.15 mb/d baseline. IEA moving remaining emergency barrels. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher critically injured (7-year-old now serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander (Kaylub Giamanco) after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-2 coverage on U.S. platforms.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Week’s airport death toll reached **18**. Operations suspended; NOTAM keeps King Khalid closed until 2100 GMT on 17 October. Saudi-led coalition blamed Iran-backed Houthis.
+   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Week’s airport death toll reached **18**. Operations suspended; NOTAM keeps King Khalid closed until 2100 GMT on 17 October (midnight local). Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
@@ -45,9 +45,9 @@ Also: Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 **Emerging PIF**
 
 Hazard watch:
-- NHC: Hurricane Trudy, Category 3, maximum sustained winds near **120 mph**, about 240–250 miles south-southwest of Acapulco, moving northwest. Forecast to approach southwestern and west-central Mexico this weekend as a major hurricane. Watches and warnings in effect; heavy rain risk for Michoacán, Colima and Jalisco.
-- Panama **7.7** (9 October): one death (collapsing wall), **27** injured, widespread damage to homes, schools and bridges. National emergency declared. Aftershocks continue.
-- Isaias: remaining outages down to roughly **10,000** in the Florida Panhandle area (FPL, 15 October). Platforms moved on.
+- NHC (Advisory 17, 9 AM CST 17 October): Hurricane Trudy, Category 1, maximum sustained winds near **90 mph**, about 170 miles south of Manzanillo, moving northwest at 10 mph. Expected to approach the coast of southwestern and west-central Mexico later today and pass near the coast tonight into Sunday. Hurricane and tropical storm watches/warnings in effect; heavy rain and life-threatening surf risk.
+- Panama **7.7** (9 October): one death (collapsing wall), **27** injured, widespread damage. National emergency. Aftershocks continue.
+- Isaias: remaining outages small; platforms moved on.
 
 Discovery / tech / cure:
 - WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified.
@@ -62,22 +62,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing around the school shooting and the Iran/Hormuz file. Hungarian PM Magyar and Zelenskyy met in Brussels; Hungary lifted objections to further Ukraine EU talks after minority-rights steps.
-- **Policies**: IEA completing the remaining emergency oil release. U.S. still weighing eased shadow-fleet sanctions to cut freight rates. DHS refugee-challenge window remains cut to 10 days.
-- **Understanding**: The Bend count is a closed local caseload (four dead at the scene, two critical). Hormuz flows are a measured fraction of baseline. Riyadh remains a closed airport with an open death table.
-- **Fun**: MLB NLCS (Brewers swept Dodgers). WNBA continues.
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump used authority to block recent congressional sanctions on Russia. Katie Zacharia out as press secretary after five days. French nationwide protests (union count over 500,000).
+- **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. DHS refugee-challenge window remains cut to 10 days.
+- **Understanding**: Hormuz flows are a measured fraction of baseline with intensified attacks. Bend is a closed local caseload of four dead at the scene. Riyadh NOTAM expires today; reopening not confirmed.
+- **Fun**: WNBA Finals Game 1 (Atlanta at Golden State). MLB ALCS continues. College football (Georgia vs Auburn, Notre Dame at BYU).
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Cloudy, high near **73°F**, rain likely later tonight, windy (gusts to ~35 mph). Current ~**68°F**.
+No new local PIF. Cloudy and cooler after overnight rain, high near **65°F**, windy (gusts to ~40 mph). Current ~**53°F**.
 
 **What changed since yesterday**
 
-Bend school shooting is the U.S. homepage lead (four dead at the scene, bystander intervention). Brent about **$106**. Trudy is a Category 3 approaching Mexico. Isaias power largely restored (down from the Monday ~160k cut). Riyadh airport still closed to 17 October.
+Brent jumped to about **$110** on intensified Hormuz and Red Sea attacks (Kpler flows ~9.4 mb/d). Trudy weakened to Category 1 but is closer to the Mexican coast. Bend victim and suspect names released. Riyadh NOTAM expires today.
 
 **Signal vs Noise note**
 
-U.S. homepages: the Oregon elementary shooting, Hormuz/oil, Riyadh closure. Nepal, Ebola and Isaias are not the lead.
+U.S. homepages: Hormuz/oil surge, Bend shooting follow-up, Riyadh closure deadline. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

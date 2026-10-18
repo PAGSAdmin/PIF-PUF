@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 17 October 2026
+# Daily reading — 18 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 17 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 18 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,13 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled about **$109.86** on Friday after touching **$110** (highest since May); near that level on Saturday desks. Attacks intensified; at least nine vessels hit since the prior weekend. Kpler: flows about **9.4** million b/d in the week to 14 October, roughly 70% of pre-war average. Saudi-led coalition intercepted missiles toward Yanbu. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent holding near **$109.86–$110** (touched $110 Friday, highest since May; level on Sunday desks). Attacks intensified; at least nine vessels hit since the prior weekend, with further reports of mines and strikes. Kpler: flows about **9.4** million b/d in the week to 14 October, roughly 70% of pre-war average. Saudi-led coalition intercepted missiles toward Yanbu. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher critically injured (7-year-old now serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander (Kaylub Giamanco) after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-2 coverage on U.S. platforms.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher critically injured (7-year-old now serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander (Kaylub Giamanco) after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-3 coverage continues on U.S. platforms.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Saturday: **12** dead, **309** wounded. An Indian citizen wounded that day died Sunday. Sunday: a second strike, a Pakistani resident dead and **11** wounded. Week’s airport death toll reached **18**. Operations suspended; NOTAM keeps King Khalid closed until 2100 GMT on 17 October (midnight local). Saudi-led coalition blamed Iran-backed Houthis.
+   Prior week: **12** dead, **309** wounded in the initial strikes; further deaths brought the airport toll to **18**. NOTAM kept King Khalid closed until 2100 GMT on 17 October (midnight local). Reports on 18 October of resumed operations, but many carriers continue cancellations and no full confirmation of normal traffic. Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
@@ -45,13 +45,13 @@ Also: Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 **Emerging PIF**
 
 Hazard watch:
-- NHC (Advisory 17, 9 AM CST 17 October): Hurricane Trudy, Category 1, maximum sustained winds near **90 mph**, about 170 miles south of Manzanillo, moving northwest at 10 mph. Expected to approach the coast of southwestern and west-central Mexico later today and pass near the coast tonight into Sunday. Hurricane and tropical storm watches/warnings in effect; heavy rain and life-threatening surf risk.
+- NHC (Advisory 20, 2 AM MST / 0900 UTC 18 October): Hurricane Trudy, Category 2, maximum sustained winds near **105 mph** (90 kt), about 135 miles WSW of Manzanillo, moving northwest at 10 mph. Bringing heavy rains and strong winds to portions of southwest and west-central Mexico. Hurricane warning from Manzanillo northward to Cabo Corrientes; tropical storm warnings and watches adjacent. Expected to pass near the coast today into tonight, then move south of Baja California Sur Monday–Tuesday. Rapid weakening forecast to begin later today.
 - Panama **7.7** (9 October): one death (collapsing wall), **27** injured, widespread damage. National emergency. Aftershocks continue.
 - Isaias: remaining outages small; platforms moved on.
 
 Discovery / tech / cure:
 - WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified.
-- NEJM: seven people with retinitis pigmentosa given an optogenetic treatment. Six could locate an object. MCO-010 three-year data show sustained roughly three-line gains.
+- NEJM (published 7 October): seven people with retinitis pigmentosa given an optogenetic treatment. Six could locate an object. MCO-010 three-year data show sustained roughly three-line gains.
 - NIH: a public-private cancer-vaccine program, launch set for December.
 - No licensed vaccine for Bundibugyo.
 
@@ -62,22 +62,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump used authority to block recent congressional sanctions on Russia. Katie Zacharia out as press secretary after five days. French nationwide protests (union count over 500,000).
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump rallied in Kentucky Saturday. Trump used authority to block recent congressional sanctions on Russia. French nationwide protests (union count over 500,000).
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. DHS refugee-challenge window remains cut to 10 days.
-- **Understanding**: Hormuz flows are a measured fraction of baseline with intensified attacks. Bend is a closed local caseload of four dead at the scene. Riyadh NOTAM expires today; reopening not confirmed.
-- **Fun**: WNBA Finals Game 1 (Atlanta at Golden State). MLB ALCS continues. College football (Georgia vs Auburn, Notre Dame at BYU).
+- **Understanding**: Hormuz flows are a measured fraction of baseline with intensified attacks. Bend is a closed local caseload of four dead at the scene. Riyadh NOTAM expired; reopening reports mixed with continued cancellations. Trudy is Category 2 and near the Mexican coast with warnings in effect.
+- **Fun**: WNBA Finals Game 1 (Atlanta at Golden State). MLB ALCS continues. College football weekend wrap (Georgia vs Auburn, Notre Dame at BYU).
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Cloudy and cooler after overnight rain, high near **65°F**, windy (gusts to ~40 mph). Current ~**53°F**.
+No new local PIF. Clear and cooler, high near **57°F**, overnight low around **38°F**. Current morning ~**40°F**, breezy.
 
 **What changed since yesterday**
 
-Brent jumped to about **$110** on intensified Hormuz and Red Sea attacks (Kpler flows ~9.4 mb/d). Trudy weakened to Category 1 but is closer to the Mexican coast. Bend victim and suspect names released. Riyadh NOTAM expires today.
+Brent holding near **$110** on continued Hormuz and Red Sea attacks. Trudy strengthened to Category 2 and is nearer the Mexican coast with warnings in effect. Riyadh NOTAM expired with mixed reports of resumed operations and ongoing cancellations. Bend day-3 coverage continues.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil surge, Bend shooting follow-up, Riyadh closure deadline. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil levels, Bend shooting follow-up, Riyadh status, Trudy approaching Mexico. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

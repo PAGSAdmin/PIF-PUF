@@ -55,6 +55,10 @@ AI — the cultural fight:
 
 No new local PIF. Clear, high near **62–64°F**, overnight low around **50°F**. Morning cooler, light northeast wind.
 
+**What changed since yesterday**
+
+Brent eased into the **$107.5–$108.5** range. Trudy weakened rapidly (Advisory 24) and is forecast post-tropical by tonight. Riyadh remains restricted with continued cancellations.
+
 **Signal vs Noise note**
 
 U.S. homepages: Hormuz/oil easing, Bend shooting follow-up, Riyadh status, Trudy weakening. France protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.

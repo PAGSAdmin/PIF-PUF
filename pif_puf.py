@@ -36,12 +36,12 @@ TRANSFER: files move between blocks as feeds change. Leave the page only when th
 
 9/11 ANNIVERSARY: the commemorative note and the 11 September 2001 attack as a daily item are for 11 September only. Do not carry them forward. A 9/11-related illness line returns only if there is new counted health-impact news on U.S. platforms that day.
 
-POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak closed. Refresh the numbers. Do not reuse last week's tunnel story as if it happened today. Nobel and prize lists: name the laureate the day the prize is announced, and keep the list only through the announcement week. Off a week after the last prize.
+POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak closed. Default is a refresh of the positive side of the still-open roster (rescued / recovered / discharged counts + the date of the agency cut). A new one-off spotlight only when an agency publishes a counted good that morning. If no new agency-counted positive has appeared since the previous morning, say so in one line and do not reuse an earlier item. Nobel and prize lists: name the laureate the day the prize is announced, and keep the list only through the announcement week. Off a week after the last prize.
 
-EMERGING PIF three lanes:
-- Hazard watch: named storm, GDACS board, glacier, pest BEFORE a death table exists.
-- Discovery / tech / cure: WHO, trial registry, ARPA-H, FDA, national lab. Must name the desk and the population it would touch if it scales. No startup blogs.
-- AI: the cultural fight and the policy desks, only while they are live. No Cat unless there is a counted caseload. Do not leave last week's papal line as if it were today's homepage.
+EMERGING PIF three lanes. If a lane has nothing that meets the freshness rule, write “None this morning.” Do not carry forward.
+- Hazard watch: named storm, GDACS board, glacier, pest BEFORE a death table exists. Name the desk, intensity or count, who is under a watch or warning, and the next place the track could touch.
+- Discovery / tech / cure: WHO, trial registry, ARPA-H, FDA, national lab, or peer-reviewed journal (NEJM, Lancet, Nature, Science). Must name the desk, the publication date, and the population it would touch if it scales. Only items published in the last 7 days. No startup blogs.
+- AI: the cultural fight and the policy desks, only while they are live. Only a contest or desk action from the last 72 hours. No Cat unless there is a counted caseload. If nothing new, write “None this morning.”
 
 SIGNAL VS NOISE: name what is actually loud on U.S. homepages that morning. Do not call the largest PIF the feed unless it is also the U.S. lead.
 

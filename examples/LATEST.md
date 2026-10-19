@@ -31,7 +31,7 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 
 **Positive PIF Spotlight**
 
-No new agency-counted positive this morning. (Nobel prize list comes off today. Nepal search ended; **13,795** rescued on the last NDRRMA cut of 26 September.)
+No new agency-counted positive this morning. Nepal search ended; **13,795** rescued on the last NDRRMA cut of 26 September.
 
 **Emerging PIF**
 

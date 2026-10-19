@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 18 October 2026
+# Daily reading — 19 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 18 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 19 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,31 +21,24 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent holding near **$109.86–$110** (touched $110 Friday, highest since May; level on Sunday desks). Attacks intensified; at least nine vessels hit since the prior weekend, with further reports of mines and strikes. Kpler: flows about **9.4** million b/d in the week to 14 October, roughly 70% of pre-war average. Saudi-led coalition intercepted missiles toward Yanbu. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent eased to about **$107.5–$108.5** (from near $110 Friday–Sunday). Attacks continue, including reports of mines and strikes on vessels. Kpler and related tracking: Gulf flows reduced (recent cuts near 8.5–9.4 million b/d, well below pre-war baseline). Saudi-led coalition continues intercepts. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher critically injured (7-year-old now serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander (Kaylub Giamanco) after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-3 coverage continues on U.S. platforms.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander (Kaylub Giamanco) after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-4 coverage; local schools remain closed or on modified schedule while the community mourns.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Prior week: **12** dead, **309** wounded in the initial strikes; further deaths brought the airport toll to **18**. NOTAM kept King Khalid closed until 2100 GMT on 17 October (midnight local). Reports on 18 October of resumed operations, but many carriers continue cancellations and no full confirmation of normal traffic. Saudi-led coalition blamed Iran-backed Houthis.
+   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted. Many carriers continue cancellations (some into late October or November). Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
-- Medicine, 5 October: Karl Deisseroth, Peter Hegemann, Georg Nagel — optogenetics.
-- Physics, 6 October: Francis Halzen — IceCube.
-- Chemistry, 7 October: Henri Kagan and Kenso Soai.
-- Literature, 8 October: Anne Carson.
-- Peace, 9 October: Navi Pillay.
-- Economics, 12 October: Robert E. Hall and Michael Woodford.
-
-The prize list comes off on 19 October.
+The Nobel prize list comes off today.
 
 Also: Nepal search ended; **13,795** rescued on the last NDRRMA cut.
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC (Advisory 20, 2 AM MST / 0900 UTC 18 October): Hurricane Trudy, Category 2, maximum sustained winds near **105 mph** (90 kt), about 135 miles WSW of Manzanillo, moving northwest at 10 mph. Bringing heavy rains and strong winds to portions of southwest and west-central Mexico. Hurricane warning from Manzanillo northward to Cabo Corrientes; tropical storm warnings and watches adjacent. Expected to pass near the coast today into tonight, then move south of Baja California Sur Monday–Tuesday. Rapid weakening forecast to begin later today.
+- NHC (Advisory 24, 2 AM MST / 0900 UTC 19 October): Tropical Storm Trudy, maximum sustained winds near **60 mph** (50 kt), about 155 miles WSW of Cabo Corrientes, moving west at 6 mph. Rapidly weakening; most deep convection dissipated. Forecast to become post-tropical by tonight and dissipate within a few days. Large swells continue to affect the coast of southwestern and west-central Mexico, with life-threatening surf and rip currents.
 - Panama **7.7** (9 October): one death (collapsing wall), **27** injured, widespread damage. National emergency. Aftershocks continue.
 - Isaias: remaining outages small; platforms moved on.
 
@@ -62,22 +55,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump rallied in Kentucky Saturday. Trump used authority to block recent congressional sanctions on Russia. French nationwide protests (union count over 500,000).
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump rallied in Kentucky. Trump used authority to block recent congressional sanctions on Russia. French nationwide protests (Interior Ministry: about **550,000** marchers; roughly **1,800–2,400** arrests; one death of cardiac arrest in Paris; hundreds of police injured; Limoges town hall largely destroyed by arson). Macron addressed the nation Sunday evening; aftermath and cleanup continue.
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. DHS refugee-challenge window remains cut to 10 days.
-- **Understanding**: Hormuz flows are a measured fraction of baseline with intensified attacks. Bend is a closed local caseload of four dead at the scene. Riyadh NOTAM expired; reopening reports mixed with continued cancellations. Trudy is Category 2 and near the Mexican coast with warnings in effect.
-- **Fun**: WNBA Finals Game 1 (Atlanta at Golden State). MLB ALCS continues. College football weekend wrap (Georgia vs Auburn, Notre Dame at BYU).
+- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks. Bend is a closed local caseload of four dead at the scene. Riyadh reopened but restricted, with ongoing airline cancellations. Trudy has weakened to a tropical storm and is moving away from the Mexican coast.
+- **Fun**: WNBA Finals continue. MLB ALCS continues. College football weekend wrap.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear and cooler, high near **57°F**, overnight low around **38°F**. Current morning ~**40°F**, breezy.
+No new local PIF. Clear, high near **62–63°F**, overnight low around **43–47°F**. Morning ~**45°F**, light northeast wind.
 
 **What changed since yesterday**
 
-Brent holding near **$110** on continued Hormuz and Red Sea attacks. Trudy strengthened to Category 2 and is nearer the Mexican coast with warnings in effect. Riyadh NOTAM expired with mixed reports of resumed operations and ongoing cancellations. Bend day-3 coverage continues.
+Brent eased from near **$110** to about **$107.5–$108.5**. Trudy weakened rapidly to a tropical storm and is moving west, away from the coast. Riyadh reopened on the 18th but remains restricted with continued cancellations. Nobel prize list comes off today. French protest aftermath remains in coverage.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil levels, Bend shooting follow-up, Riyadh status, Trudy approaching Mexico. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil easing, Bend shooting follow-up, Riyadh status, Trudy weakening. France protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

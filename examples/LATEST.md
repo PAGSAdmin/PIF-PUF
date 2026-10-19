@@ -21,52 +21,43 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading about **$107.5–$109** (previous close near $109.86; eased from the Friday touch of $110). Strait remains effectively closed to normal commercial traffic (day 232 since 28 February). Attacks continue (mines, projectiles on tankers and a tug). IMF PortWatch and related tracking show commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent trading about **$107.5–$108.5** this morning (eased from the Friday high near $110). Strait remains effectively closed to normal commercial traffic (day 232 since 28 February). Attacks continue (mines and strikes on vessels). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-4/5 coverage; local schools remain closed or on modified schedule while the community mourns.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-4/5 coverage; local schools remain closed or on modified schedule while the community mourns. No new agency counts this morning.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
    Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Many carriers continue cancellations (some into late October or November). Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
-The Nobel prize list comes off today.
-
-Also: Nepal search ended; **13,795** rescued on the last NDRRMA cut.
+No new agency-counted positive this morning. (Nobel prize list comes off today. Nepal search ended; **13,795** rescued on the last NDRRMA cut of 26 September.)
 
 **Emerging PIF**
 
 Hazard watch:
-- NHC (Advisory 24, 2 AM MST / 0900 UTC 19 October): Tropical Storm Trudy, maximum sustained winds near **50–60 mph** (50 kt), about 155 miles WSW of Cabo Corrientes, moving west near 6 mph. Rapidly weakening; most deep convection dissipated. Forecast to become post-tropical by tonight and dissipate within a few days. Large swells continue to affect the coast of southwestern and west-central Mexico, with life-threatening surf and rip currents.
-- Panama **7.7** (9 October): one death (collapsing wall), **27** injured, widespread damage. National emergency. Aftershocks continue.
-- Isaias: remaining outages small; platforms moved on.
+- NHC (Advisory 24, 2 AM MST / 0900 UTC 19 October): Tropical Storm Trudy, maximum sustained winds near **50–60 mph** (50 kt), about 155 miles WSW of Cabo Corrientes, moving west near 6 mph. Rapidly weakening; most deep convection dissipated. Forecast to become post-tropical by tonight and dissipate within a few days. Large swells continue to affect the coast of southwestern and west-central Mexico, with life-threatening surf and rip currents. No coastal watches or warnings in effect.
 
 Discovery / tech / cure:
-- WHO, 8 October: Cervavac, Serum Institute’s quadrivalent HPV vaccine, prequalified.
-- NEJM (published 7 October): ten people with advanced retinitis pigmentosa given an optogenetic treatment (AAV-ChrimsonR + light-stimulating goggles). Seven showed increased light sensitivity; six reached a clinically meaningful threshold; several improved on object detection/localization tasks. Within the limits of the small study, the treatment was considered safe.
-- NIH: a public-private cancer-vaccine program, launch set for December.
-- No licensed vaccine for Bundibugyo.
+- FDA, 16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition (priority review; based on SatraGO-1 and -2 phase 3 trials). Population: people with TED (roughly 155 per 100,000 in the U.S.).
 
 AI — the cultural fight:
-- Reuters / Anthropic, 15 October: Anthropic granted nonprofit METR employee-level access (six staff with hardware, office space and internal systems comparable to risk teams). METR can publish independent assessments of risks, incidents and practices; Anthropic cannot veto publication but can require limited redactions (customer data, privileged information, certain architecture details). Follows the earlier report that both Anthropic and OpenAI had sought control over what evaluators publish.
-- The federal line is still Trump’s voluntary pact, **308** words. Altman: a good start, and in some sense it has no real power.
-- California: Newsom signed an independent-verifier framework and a state registry for AI auditors.
+- None this morning.
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Trump rallied in Kentucky. Trump used authority to block recent congressional sanctions on Russia. French nationwide protests (Interior Ministry: about **550,000** marchers; roughly **2,000–2,400** arrests; one death of cardiac arrest in Paris; hundreds of police injured; Limoges town hall largely destroyed by arson; shops looted). Macron addressed the nation Sunday evening; aftermath, cleanup and political fallout continue.
-- **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. DHS refugee-challenge window remains cut to 10 days.
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. French nationwide protests aftermath (Interior Ministry: about **550,000** marchers; roughly **2,000–2,400** arrests; one death of cardiac arrest in Paris; hundreds of police injured). Macron addressed the nation Sunday evening; cleanup and political fallout continue.
+- **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene. Riyadh reopened but restricted, with ongoing airline cancellations. Trudy has weakened to a tropical storm and is moving away from the Mexican coast.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football weekend wrap.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear/sunny, high near **62–64°F**, overnight low around **50°F**. Morning cooler, light northeast wind.
+No new local PIF. Clear, high near **62–64°F**, overnight low around **50°F**. Morning cooler, light northeast wind.
 
 **What changed since yesterday**
 
-Brent eased from near **$110** into the **$107.5–$109** range. Trudy weakened rapidly to a tropical storm (Advisory 24) and is moving west, away from the coast. Riyadh reopened on the 18th but remains restricted with continued cancellations. Nobel prize list comes off today. French protest aftermath remains in coverage.
+Brent eased into the **$107.5–$108.5** range. Trudy weakened rapidly (Advisory 24) and is forecast post-tropical by tonight. Riyadh remains restricted with continued cancellations. Freshness rules applied: older discovery and AI items dropped; Positive PIF notes no new counted good this morning.
 
 **Signal vs Noise note**
 

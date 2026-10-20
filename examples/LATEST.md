@@ -21,13 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading about **$110–$111** this morning (rose from Monday’s close near $109.55). Strait remains effectively closed to normal commercial traffic (day 233 since 28 February). Attacks continue (mines and strikes on vessels; Houthi claims of further strikes on Saudi energy sites). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent trading about **$110–$111** this morning (Monday close $109.55). Strait remains effectively closed to normal commercial traffic (day 233 since 28 February). Attacks continue (mines and strikes on vessels; Houthi claims of further strikes on Saudi energy sites). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-5 coverage; local schools remained closed Monday while the community mourns. No new agency counts this morning.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-5 coverage; local schools remained closed while the community mourns. No new agency counts this morning.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Many carriers continue cancellations (some into late October or November). Saudi-led coalition blamed Iran-backed Houthis.
+   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Many carriers continue cancellations (some into late October or November). U.S. Embassy security alert of 19 October notes ongoing caution. Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
@@ -46,7 +46,7 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. French nationwide protests aftermath continues on international wires.
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests and weekend riots across France, Italy and other European cities remain on international wires (thousands of arrests reported; violence and looting in multiple cities).
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene. Riyadh reopened but restricted, with ongoing airline cancellations. Trudy is now a dissipating remnant low.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
@@ -57,11 +57,11 @@ No new local PIF. Clear, high near **66–67°F**, overnight low around **49–5
 
 **What changed since yesterday**
 
-Brent rose back into the **$110–$111** range. Trudy became a remnant low (final NHC Advisory 27). Riyadh remains restricted with continued cancellations.
+Brent rose back into the **$110–$111** range. Trudy became a remnant low (final NHC Advisory 27). Riyadh remains restricted with continued cancellations. European cost-of-living protests produced widespread weekend unrest.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil rising again, Bend shooting follow-up, Riyadh status. France protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil, Bend shooting follow-up, Riyadh status. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

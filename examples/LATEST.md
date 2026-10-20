@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 19 October 2026
+# Daily reading — 20 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 19 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 20 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,10 +21,10 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading about **$107.5–$108.5** this morning (eased from the Friday high near $110). Strait remains effectively closed to normal commercial traffic (day 232 since 28 February). Attacks continue (mines and strikes on vessels). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent trading about **$110–$111** this morning (rose from Monday’s close near $109.55). Strait remains effectively closed to normal commercial traffic (day 233 since 28 February). Attacks continue (mines and strikes on vessels; Houthi claims of further strikes on Saudi energy sites). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-4/5 coverage; local schools remain closed or on modified schedule while the community mourns. No new agency counts this morning.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured (7-year-old serious but stable). Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-5 coverage; local schools remained closed Monday while the community mourns. No new agency counts this morning.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
    Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Many carriers continue cancellations (some into late October or November). Saudi-led coalition blamed Iran-backed Houthis.
@@ -36,7 +36,7 @@ No new agency-counted positive this morning. Nepal search ended; **13,795** resc
 **Emerging PIF**
 
 Hazard watch:
-- NHC (Advisory 24, 2 AM MST / 0900 UTC 19 October): Tropical Storm Trudy, maximum sustained winds near **50–60 mph** (50 kt), about 155 miles WSW of Cabo Corrientes, moving west near 6 mph. Rapidly weakening; most deep convection dissipated. Forecast to become post-tropical by tonight and dissipate within a few days. Large swells continue to affect the coast of southwestern and west-central Mexico, with life-threatening surf and rip currents. No coastal watches or warnings in effect.
+- None this morning. (NHC final Advisory 27, 8 PM MST 19 October: Post-Tropical Cyclone Trudy became a remnant low with maximum sustained winds near 35 mph; this was the last NHC advisory. Remnant expected to dissipate within 48 hours. No coastal watches or warnings.)
 
 Discovery / tech / cure:
 - FDA, 16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition (priority review; based on SatraGO-1 and -2 phase 3 trials). Population: people with TED (roughly 155 per 100,000 in the U.S.).
@@ -46,22 +46,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. French nationwide protests aftermath (Interior Ministry: about **550,000** marchers; roughly **2,000–2,400** arrests; one death of cardiac arrest in Paris; hundreds of police injured). Macron addressed the nation Sunday evening; cleanup and political fallout continue.
+- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. French nationwide protests aftermath continues on international wires.
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions.
-- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene. Riyadh reopened but restricted, with ongoing airline cancellations. Trudy has weakened to a tropical storm and is moving away from the Mexican coast.
-- **Fun**: WNBA Finals continue. MLB ALCS continues. College football weekend wrap.
+- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene. Riyadh reopened but restricted, with ongoing airline cancellations. Trudy is now a dissipating remnant low.
+- **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear, high near **62–64°F**, overnight low around **50°F**. Morning cooler, light northeast wind.
+No new local PIF. Clear, high near **66–67°F**, overnight low around **49–50°F**. Morning cooler, light north wind.
 
 **What changed since yesterday**
 
-Brent eased into the **$107.5–$108.5** range. Trudy weakened rapidly (Advisory 24) and is forecast post-tropical by tonight. Riyadh remains restricted with continued cancellations.
+Brent rose back into the **$110–$111** range. Trudy became a remnant low (final NHC Advisory 27). Riyadh remains restricted with continued cancellations.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil easing, Bend shooting follow-up, Riyadh status, Trudy weakening. France protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil rising again, Bend shooting follow-up, Riyadh status. France protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -77,7 +77,7 @@ U.S. homepages: Hormuz/oil easing, Bend shooting follow-up, Riyadh status, Trudy
 7) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
    Last agency cut on this page was Polri through 28 September: **66** dead, **69** still sought. A 7 October public tally lists **80** dead and **55** missing.
 
-Closed on the last cut, not numbered: Post-tropical Rachel (dissipated 11 October). Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone). Irkutsk watch (WHO: no plague cases; observation completed). Hurricane Isaias (power largely restored; remaining small outages not a standing caseload).
+Closed on the last cut, not numbered: Post-tropical Rachel (dissipated 11 October). Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone). Irkutsk watch (WHO: no plague cases; observation completed). Hurricane Isaias (power largely restored; remaining small outages not a standing caseload). Post-tropical Trudy (final advisory 19 October; remnant low dissipating).
 
 Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 

@@ -21,13 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading about **$110.60–$112.40** this morning (up from Wednesday settlement near $108.82; touched five-month highs). Strait remains effectively closed to normal commercial traffic (day 235 since 28 February). Attacks continue (mines and strikes on vessels; Houthi drone strike near Saudi Aramco Shaybah field killed two, operations unaffected; further strike on Dammam airport). U.S. ordered non-emergency government employees and family members to leave Saudi Arabia. Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent trading about **$110.60–$112.40** this morning (up from Wednesday settlement near $108.82; touched five-month highs near $112.55). Strait remains effectively closed to normal commercial traffic (day 235 since 28 February). Attacks continue (mines and strikes on vessels; Houthi drone strike near Saudi Aramco Shaybah field killed two, operations unaffected; further strike on Dammam airport). U.S. ordered non-emergency government employees and family members to leave Saudi Arabia. Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-7 coverage. Police update: four staff and five children were in the classroom; an additional student and adult escaped unharmed. Firearm confirmed legally purchased. Search warrants on home, devices and accounts ongoing. No new agency death or injury counts this morning. Students returning to classes with added support.
+   Thursday at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-7 coverage. Police update: four staff and five children were in the classroom; an additional student and adult escaped unharmed. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88 pump-action shotgun). Search warrants on home, devices and accounts ongoing. No new agency death or injury counts this morning. Students returning to classes with added support.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Limited Saudi airline operations (Saudia, flynas); many international carriers continue cancellations (some into late October, November or beyond). U.S. Embassy security alert of 19 October notes ongoing caution. Saudi-led coalition blamed Iran-backed Houthis.
+   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Limited Saudi airline operations (Saudia, flynas); many international carriers continue cancellations (some into late October, November or beyond). U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
@@ -36,7 +36,7 @@ No new agency-counted positive this morning. Nepal search ended; **13,795** resc
 **Emerging PIF**
 
 Hazard watch:
-- None this morning. (NHC final Advisory 27, 8 PM MST 19 October: Post-Tropical Cyclone Trudy became a remnant low. Remnant forecast to dissipate by early 22 October. No coastal watches or warnings.)
+- None this morning. (NHC final Advisory 27, 8 PM MST 19 October: Post-Tropical Cyclone Trudy became a remnant low. Remnant forecast to dissipate by early 22 October. No coastal watches or warnings. NHC issuing advisories on Subtropical Storm Josephine and Tropical Storm Vance; neither is a new U.S. land-threat caseload this morning.)
 
 Discovery / tech / cure:
 - FDA, 15–16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition (priority review; based on SatraGO-1 and -2 phase 3 trials). Population: people with TED (roughly 155 per 100,000 in the U.S.).
@@ -48,16 +48,16 @@ AI — the cultural fight:
 
 - **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests and weekend riots across France, Italy and other European cities remain on international wires (thousands of arrests reported; violence and looting in multiple cities).
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia.
-- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene; police confirmed additional people in the classroom who escaped and that the firearm was legally purchased. Riyadh operating limited Saudi flights under prior permission, with ongoing international cancellations. Trudy remnant dissipating. DRC Ebola counts continue to rise on agency cuts.
+- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Bend is a closed local caseload of four dead at the scene; police confirmed additional people in the classroom who escaped and that the firearm was legally purchased by the mother. Riyadh operating limited Saudi flights under prior permission, with ongoing international cancellations. Trudy remnant dissipating. DRC Ebola counts continue to rise on agency cuts.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear to sunny, high near **66°F**, overnight low around **48°F**. North wind.
+No new local PIF. Sunny, high near **66°F**, overnight low around **42–48°F**. North wind.
 
 **What changed since yesterday**
 
-Brent rose toward **$111–$112** after a Houthi drone strike near the Shaybah field and a U.S. order to withdraw non-emergency personnel and families from Saudi Arabia. Bend police confirmed the firearm was legally purchased. Trudy remnant forecast to dissipate. Ebola agency cuts show higher case and death totals.
+Brent rose toward **$111–$112** after a Houthi drone strike near the Shaybah field and a U.S. order to withdraw non-emergency personnel and families from Saudi Arabia. Bend police confirmed the firearm was legally purchased by the mother. Trudy remnant forecast to dissipate. Ebola agency cuts show higher case and death totals (latest INSP bulletin 20 October: 9,704 confirmed cases, 4,687 deaths).
 
 **Signal vs Noise note**
 

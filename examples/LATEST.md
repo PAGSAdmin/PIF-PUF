@@ -39,7 +39,9 @@ Hazard watch:
 - None this morning. (No Atlantic tropical cyclones. NHC issuing advisories on Hurricane Vance in the Eastern Pacific; not a U.S. land-threat caseload this morning.)
 
 Discovery / tech / cure:
-- FDA, 15–16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition (priority review; based on SatraGO-1 and -2 phase 3 trials). Population: people with TED (roughly 155 per 100,000 in the U.S.). Still within the 7-day window.
+- FDA, 20 October: approved Hibsago (bepirovirsen) for adults with chronic hepatitis B virus infection without cirrhosis, in combination with existing antiviral therapy — the first of its kind for this use. Still within the 7-day window.
+- FDA, 23 October: approved Awiqli (insulin icodec) as the first once-weekly insulin for Type 2 diabetes in pediatric patients. Still within the 7-day window.
+- FDA, 15–16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition. Still within the 7-day window.
 
 AI — the cultural fight:
 - None this morning.
@@ -57,7 +59,7 @@ No new local PIF. Clear, high near **66°F**, overnight low around **38°F**. Pa
 
 **What changed since yesterday**
 
-Riyadh: partial reopening for Saudi national carriers effective today (Terminal 1 domestic, Terminal 2 international). Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Hormuz: Friday Brent settlement $116.72 holds; no new agency counts. No new tropical hazard this morning.
+Riyadh: partial reopening for Saudi national carriers effective today (Terminal 1 domestic, Terminal 2 international). Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Hormuz: Friday Brent settlement $116.72 holds; no new agency counts. Discovery: FDA hepatitis B (20 Oct) and pediatric once-weekly insulin (23 Oct) approvals added. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 

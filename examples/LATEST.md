@@ -5,10 +5,10 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 24 October 2026
+# Daily reading — 25 October 2026
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 24 October 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 25 October 2026. Numbers move; this is a snapshot, not a wire service.
 
 The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
@@ -21,13 +21,13 @@ PUF below is this watch’s lanes for today. Fork the repo to change place or la
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent settled Friday at **$116.72** (highest close since late April; weekly gain about 6%). Strait remains effectively closed to normal commercial traffic (day 237 since 28 February). Attacks continue (vessel strikes and mines reported). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
+   Brent settled Friday at **$116.72** (highest close since late April; weekly gain about 6%). Markets closed over the weekend; no new settlement this morning. Strait remains effectively closed to normal commercial traffic (day 238 since 28 February). Attacks continue (vessel strikes and mines reported). Tracking shows commercial transits a small fraction of the pre-crisis baseline. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
 2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-9 coverage. Silver Rail Elementary remains closed through at least 30 October. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Search warrants on home, devices and accounts ongoing; investigators examining possible links to online extremist activity. No new agency death or injury counts this morning.
+   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-10 coverage. Silver Rail Elementary remains closed through at least 30 October. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Search warrants on home, devices and accounts ongoing; investigators examining possible links to online extremist activity. No new agency death or injury counts this morning.
 
 3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
-   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted (prior-permission requirement; not available as a planned diversion). Limited Saudi airline operations; many international carriers continue cancellations (some into late October, November or beyond). U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis.
+   Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid reopened on 18 October after the NOTAM expired, but operations remain restricted. Effective today (25 October), Terminal 1 for domestic and Terminal 2 for international flights operated by national carriers. Most foreign airlines continue suspensions (some into November). Fresh Houthi projectiles intercepted over the weekend. U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis.
 
 **Positive PIF Spotlight**
 
@@ -48,20 +48,20 @@ AI — the cultural fight:
 
 - **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests and weekend riots across France, Italy and other European cities remain on international wires (thousands of arrests reported; violence and looting in multiple cities).
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia.
-- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent settled Friday at $116.72. Bend is a closed local caseload of four dead at the scene; police confirmed the firearm was legally purchased by the mother and Silver Rail remains closed through at least 30 October. Riyadh operating limited Saudi flights under prior permission, with ongoing international cancellations. DRC Ebola counts continue to rise on agency cuts.
+- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent Friday settlement $116.72 holds over the weekend. Bend is a closed local caseload of four dead at the scene; police confirmed the firearm was legally purchased by the mother and Silver Rail remains closed through at least 30 October. Riyadh operating limited Saudi flights under prior permission with partial terminal reopening today; many international cancellations continue. DRC Ebola counts continue to rise on agency cuts.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Mostly clear, high near **62°F**, overnight low around **39°F**. Patchy frost possible early.
+No new local PIF. Clear, high near **66°F**, overnight low around **38°F**. Patchy frost possible early.
 
 **What changed since yesterday**
 
-Brent settled Friday at **$116.72** (up from the prior range). Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Riyadh restricted operations continue. No new tropical hazard this morning.
+Riyadh: partial reopening for Saudi national carriers effective today (Terminal 1 domestic, Terminal 2 international). Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Hormuz: Friday Brent settlement $116.72 holds; no new agency counts. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil (Friday settlement higher), Bend shooting follow-up (school closure and investigation), Riyadh status. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil (Friday settlement holds), Bend shooting follow-up (school closure and investigation), Riyadh partial reopening. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

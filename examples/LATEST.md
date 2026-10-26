@@ -13,9 +13,7 @@ PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the 
 Generated in the disclosed Grok collaboration.  
 Sources checked the morning of 26 October 2026. Numbers move; this is a snapshot, not a wire service.
 
-Local filter: Monmouth / Middletown NJ.
-
-PUF below is this watch’s lanes for today. Fork the repo to change place or lanes.
+Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
 ---
 

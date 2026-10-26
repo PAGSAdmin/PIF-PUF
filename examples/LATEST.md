@@ -39,12 +39,12 @@ Hazard watch:
 - None this morning. (No Atlantic tropical cyclones. NHC: formation not expected in the next 7 days. Vance remains in the Eastern Pacific.)
 
 Discovery / tech / cure:
-- FDA, 20 October: approved Hibsago (bepirovirsen) for adults with chronic hepatitis B virus infection without cirrhosis, in combination with existing antiviral therapy — the first of its kind for this use. Still within the 7-day window.
-- FDA, 23 October: approved Awiqli (insulin icodec) as the first once-weekly insulin for Type 2 diabetes in pediatric patients. Still within the 7-day window.
-- FDA, 15–16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition. Still within the 7-day window.
+- FDA, 20 October: approved Hibsago (bepirovirsen) for adults with chronic hepatitis B virus infection without cirrhosis, in combination with existing antiviral therapy — the first of its kind for this use.
+- FDA, 23 October: approved Awiqli (insulin icodec) as the first once-weekly insulin for Type 2 diabetes in pediatric patients.
+- FDA, 15–16 October: approved Enspryng (satralizumab) for adults with thyroid eye disease — the first subcutaneous at-home treatment option for the condition.
 
 AI — the cultural fight:
-- Texas Attorney General Ken Paxton filed suit against OpenAI and Sam Altman on 23 October in Collin County district court, alleging deceptive practices and insufficient safeguards for ChatGPT, particularly regarding minors. Named court filing; within the 72-hour window.
+- Texas Attorney General Ken Paxton filed suit against OpenAI and Sam Altman on 23 October in Collin County district court, alleging deceptive practices and insufficient safeguards for ChatGPT, particularly regarding minors.
 
 **Top Surfacing PUF**
 
@@ -59,7 +59,7 @@ No new local PIF. Clear, high near **70°F**, overnight low around **41°F**.
 
 **What changed since yesterday**
 
-Hormuz: Monday trading opened softer (holding $110–$115 range); Friday settlement $116.72 stands. Riyadh: partial reopening for Saudi carriers continues with very light traffic; Houthis renewed warnings. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: INSP SitRep 161 (as of 22 October, published 23 October) reports **9,816** confirmed cases and **4,757** deaths. AI: Texas AG lawsuit against OpenAI noted (filed 23 October). No new tropical hazard this morning.
+Hormuz: Monday trading opened softer (holding $110–$115 range); Friday settlement $116.72 stands. Riyadh: partial reopening for Saudi carriers continues with very light traffic; Houthis renewed warnings. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: INSP SitRep 161 (as of 22 October, published 23 October) reports **9,816** confirmed cases and **4,757** deaths. Texas Attorney General filed suit against OpenAI on 23 October. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 

@@ -7,10 +7,11 @@ PUF = Politics, Policies, Understanding, Fun.
 
 # Daily reading — 26 October 2026
 
+PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
+PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
+
 Generated in the disclosed Grok collaboration.  
 Sources checked the morning of 26 October 2026. Numbers move; this is a snapshot, not a wire service.
-
-The watch is the shocks and debates that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.
 
 Local filter: Monmouth / Middletown NJ.
 

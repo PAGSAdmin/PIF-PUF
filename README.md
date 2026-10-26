@@ -8,6 +8,8 @@
 **PUF = Politics, Policies, Understanding, Fun.**  
 **ClarityGuard = the calm prompt voice that applies that lens.**
 
+**PIF/PUF is the free daily public framework for ranking news by population impact instead of algorithmic engagement. Disclosed collaboration with Grok.**
+
 These were always one project. They are together again in this repo.
 
 This page is made by Pauline Gonen-Smith. I live in Middletown Township, New Jersey. I paint in oils and keep a garden. I spent a working life in research administration and now sit with the sources in the morning, or when I can.

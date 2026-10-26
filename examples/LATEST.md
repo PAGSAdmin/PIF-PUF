@@ -47,7 +47,7 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests and weekend riots across France, Italy and other European cities remain on international wires (thousands of arrests reported; violence and looting in multiple cities).
+- **Politics**: Brazil runoff 25 October — Lula won a fourth term with roughly 51.7% of the vote. Israel Knesset election is 27 October; latest polls show the opposition leading and neither bloc at 61 seats. Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests and weekend riots across France, Italy and other European cities remain on international wires (thousands of arrests reported; violence and looting in multiple cities).
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent Friday settlement $116.72; Monday trading softer in the $110–$115 range. Bend is a closed local caseload of four dead at the scene; police confirmed the firearm was legally purchased by the mother and Silver Rail remains closed through at least 30 October. Riyadh partial reopening for Saudi carriers continues with very light traffic; many international cancellations continue. DRC Ebola counts continue to rise on agency cuts.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
@@ -58,11 +58,11 @@ No new local PIF. Clear, high near **70°F**, overnight low around **41°F**.
 
 **What changed since yesterday**
 
-Hormuz: Monday trading opened softer (holding $110–$115 range); Friday settlement $116.72 stands. Riyadh: partial reopening for Saudi carriers continues with very light traffic; Houthis renewed warnings. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: INSP SitRep 161 (as of 22 October, published 23 October) reports **9,816** confirmed cases and **4,757** deaths. Texas Attorney General filed suit against OpenAI on 23 October. No new tropical hazard this morning.
+Hormuz: Monday trading opened softer (holding $110–$115 range); Friday settlement $116.72 stands. Riyadh: partial reopening for Saudi carriers continues with very light traffic; Houthis renewed warnings. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: INSP SitRep 161 (as of 22 October, published 23 October) reports **9,816** confirmed cases and **4,757** deaths. Texas Attorney General filed suit against OpenAI on 23 October. Brazil runoff result and Israel election date noted in PUF Politics. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil (Monday softer), Bend shooting follow-up (school closure and investigation), Riyadh partial reopening with light traffic. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Hormuz/oil (Monday softer), Bend shooting follow-up (school closure and investigation), Riyadh partial reopening with light traffic, Brazil runoff result. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 

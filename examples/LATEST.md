@@ -42,7 +42,7 @@ Discovery / tech / cure:
 - FDA, 23 October: approved Awiqli (insulin icodec) as the first once-weekly insulin for Type 2 diabetes in pediatric patients.
 
 AI — the cultural fight:
-- None this morning.
+- Texas Attorney General Ken Paxton filed suit against OpenAI and Sam Altman on 23 October in Collin County district court, alleging deceptive practices and insufficient safeguards for ChatGPT, particularly regarding minors.
 
 **Top Surfacing PUF**
 
@@ -57,7 +57,7 @@ No new local PIF. Clear, high near **61°F**, overnight low around **48°F**.
 
 **What changed since yesterday**
 
-Hormuz: Monday settlement $115.81; Tuesday trading holding $110–$115. Riyadh: partial reopening for Saudi carriers continues with very light traffic. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: latest government cut reports **10,060** confirmed cases and **4,887** deaths. Israel Knesset election is today. No new tropical hazard this morning.
+Hormuz: Monday settlement $115.81; Tuesday trading holding $110–$115. Riyadh: partial reopening for Saudi carriers continues with very light traffic. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: latest government cut reports **10,060** confirmed cases and **4,887** deaths. Israel Knesset election is today. AI lane carries the 23 October Texas AG filing until replaced. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 

@@ -46,7 +46,7 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Israel Knesset election is today (27 October); voters are deciding whether to oust Netanyahu after three years of war. Latest pre-election polls showed the opposition leading and neither bloc at 61 seats. Brazil runoff 25 October — Lula won a fourth term with roughly 51.7% of the vote. Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests across France, Italy and other European cities remain on international wires.
+- **Politics**: Israel Knesset election is today (27 October). Brazil runoff 25 October — Lula won a fourth term with roughly 51.7% of the vote. Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests across France, Italy and other European cities remain on international wires.
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent Monday settlement $115.81; Tuesday trading in the $110–$115 range. Bend is a closed local caseload of four dead at the scene; police confirmed the firearm was legally purchased by the mother and Silver Rail remains closed through at least 30 October. Riyadh partial reopening for Saudi carriers continues with very light traffic; many international cancellations continue. DRC Ebola counts have crossed 10,000 on the latest agency cut.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.

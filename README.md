@@ -46,8 +46,8 @@ The watch is the shocks and debates that dominate U.S. platforms that day, plus 
 
 PIF is listed in two places:
 
-- **On the platforms today** — counted events that U.S. feeds are carrying that morning. A small caseload still belongs here if it is actually on the homepages. This block sits at the top of the page.
-- **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page. This roster sits near the bottom, immediately before Story duration.
+- **On the platforms today** — counted events that are top news items overall on U.S. platforms that morning (national homepages, major wires, broad platform attention). A small caseload still belongs here if it is actually dominating U.S. feeds. Purely local recovery, reopening logistics, or follow-through that no longer drives national platform attention does not stay in this block; it moves to still-open. This block sits at the top of the page.
+- **Still open, platforms moved on** — events whose official table has not closed, even when the feeds have gone quiet or narrowed to local coverage. Each line carries a Cat 1–5 mark. A new headline does not push these files off the page. This roster sits near the bottom, immediately before Story duration.
 
 A file can move from one list to the other as the feeds change. Silence is not closure. A file leaves the page only when the responsible agency has closed the caseload. A closed watch does not stay written as if it were still open.
 

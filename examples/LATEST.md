@@ -22,10 +22,7 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Brent settled Tuesday at **$113.88**. Wednesday trading is holding in the **$111–$115** range this morning. Strait remains effectively closed to normal commercial traffic (day 243 since 28 February). AIS-visible commercial transits average about 7% of the pre-crisis baseline (roughly 5.9 ships a day versus 84.8). Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations.
 
-2) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-13 coverage. Silver Rail Elementary remains closed through at least 30 October. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Search warrants on home, devices and accounts ongoing; investigators examining possible links to online extremist activity. No new agency death or injury counts this morning.
-
-3) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
+2) **Riyadh airport attacks** → **Cat 2** + **! EMERGENCY WARNING**  
    Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid partially reopened 25 October (Terminal 1 domestic, Terminal 2 international for national carriers). Flight tracking continues to show very light traffic. Most foreign airlines remain suspended into November. Houthis continue to describe the airport as a military target. U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis. Intercepts of projectiles continue.
 
 **Positive PIF Spotlight**
@@ -47,9 +44,9 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Israel Knesset election was 27 October. Partial results as of this morning (roughly 70–80% of votes counted) show the Netanyahu bloc leading with about 54 seats, the Eisenkot-led bloc with about 49, and Arab parties with about 17–18; neither main bloc holds a majority. Brazil runoff 25 October — Lula won a fourth term with roughly 51.7% of the vote. Midterms framing continues around Hormuz/oil and the Bend shooting. Cost-of-living protests across France, Italy and other European cities remain on international wires.
+- **Politics**: Israel Knesset election was 27 October. Partial results as of this morning (roughly 70–80% of votes counted) show the Netanyahu bloc leading with about 54 seats, the Eisenkot-led bloc with about 49, and Arab parties with about 17–18; neither main bloc holds a majority. Brazil runoff 25 October — Lula won a fourth term with roughly 51.7% of the vote. Midterms framing continues around Hormuz/oil. Cost-of-living protests across France, Italy and other European cities remain on international wires.
 - **Policies**: IEA completing remaining emergency oil release; U.S. offered strategic-reserve exchange. U.S. still weighing eased shadow-fleet sanctions. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia.
-- **Understanding**: Hormuz flows remain a measured fraction of baseline (AIS-visible about 7% of pre-crisis) amid continued attacks and insurance constraints. Brent Tuesday settlement $113.88; Wednesday trading in the $111–$115 range. Bend is a closed local caseload of four dead at the scene; police confirmed the firearm was legally purchased by the mother and Silver Rail remains closed through at least 30 October. Riyadh partial reopening for Saudi carriers continues with very light traffic; many international cancellations continue. DRC Ebola counts have crossed 10,000 on the latest agency cut.
+- **Understanding**: Hormuz flows remain a measured fraction of baseline (AIS-visible about 7% of pre-crisis) amid continued attacks and insurance constraints. Brent Tuesday settlement $113.88; Wednesday trading in the $111–$115 range. Riyadh partial reopening for Saudi carriers continues with very light traffic; many international cancellations continue. DRC Ebola counts have crossed 10,000 on the latest agency cut.
 - **Fun**: WNBA Finals continue. MLB ALCS continues. College football midweek.
 
 **Local Filter** (Monmouth / Middletown NJ)
@@ -58,13 +55,16 @@ No new local PIF. Mostly cloudy, high near **62°F**, overnight low around **45�
 
 **What changed since yesterday**
 
-Hormuz: Tuesday settlement $113.88; Wednesday trading holding $111–$115; AIS-visible traffic still about 7% of baseline (day 243). Riyadh: partial reopening for Saudi carriers continues with very light traffic. Bend: no new agency death or injury counts; Silver Rail remains closed through at least 30 October. Ebola: latest government cut (as of 26 October) reports **10,141** confirmed cases and **4,928** deaths. Israel Knesset election was yesterday; partial count this morning shows no majority for either main bloc. FDA approved talazoparib with enzalutamide on 26 October for HRR-mutant prostate cancer. AI lane carries the 23 October Texas AG filing until replaced. No new tropical hazard this morning.
+Hormuz: Tuesday settlement $113.88; Wednesday trading holding $111–$115; AIS-visible traffic still about 7% of baseline (day 243). Riyadh: partial reopening for Saudi carriers continues with very light traffic. Bend: moved to still-open (no longer top national; local recovery only). Silver Rail closed through 6 November for repairs. Ebola: latest government cut (as of 26 October) reports **10,141** confirmed cases and **4,928** deaths. Israel Knesset election was yesterday; partial count this morning shows no majority for either main bloc. FDA approved talazoparib with enzalutamide on 26 October for HRR-mutant prostate cancer. AI lane carries the 23 October Texas AG filing until replaced. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 
-U.S. homepages: Israel election partial results, Hormuz/oil, Bend shooting follow-up, Riyadh restricted operations, Brazil runoff result. European protest aftermath is covered on international wires. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: Israel election partial results, Hormuz/oil, midterms framing, Riyadh restricted operations, Brazil runoff result. European protest aftermath is covered on international wires. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
+
+3) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
+   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-13. Silver Rail Elementary remains closed through 6 November for repairs and safety codes (earliest possible return around 9 November). 86.2% of responding families want to return to the building. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Investigation ongoing; no new agency death or injury counts. National platforms have moved on; coverage is local recovery and reopening logistics.
 
 4) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    NDRRMA cut of 26 September: **1,453** dead; **5,285** missing; **13,795** rescued. AP, 7 October: search ended; at least **1,455** dead; **5,285** still unaccounted for. Caseload open. Rescue phase closed.

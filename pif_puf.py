@@ -29,8 +29,8 @@ PUBLIC VOICE. No notes to self. No workshop talk about headings, layout, or when
 LOCKED PIF WALL. A numbered PIF line needs an agency table for a shock: dead, missing, displaced, in treatment, a closed search, a landfall or outage count. Ordinary circulating human illness is not a PIF, even if platforms and officials are loud. Measles is the example. Do not put it on the page. Vaccine politics is not a desk. Do not concentrate the reading on a political fight attached to an ordinary illness.
 
 Two PIF blocks only. No Mid-PIF heading.
-1) On the platforms today: up to 8. Counted caseload AND loud on U.S. feeds. Cat 1 belongs here if it is on U.S. homepages. Do not pad.
-2) Still open, platforms moved on: roster. Every line carries a Cat. Do not drop a standing file for a new headline. A closed watch does not stay as if it were open.
+1) On the platforms today: up to 8. Counted caseload AND top news overall on U.S. platforms that morning (national homepages, major wires, broad platform attention). Purely local recovery, reopening logistics, or follow-through that no longer drives national platform attention does not stay here — move it to still-open. Cat 1 belongs here only if it is actually dominating U.S. feeds. Do not pad.
+2) Still open, platforms moved on: roster. Every line carries a Cat. Do not drop a standing file for a new headline. A closed watch does not stay as if it were open. Local-only coverage of an open caseload belongs here.
 
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 

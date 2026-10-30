@@ -37,7 +37,7 @@ Discovery / tech / cure:
 - FDA, 26 October: approved talazoparib (Talzenna) with enzalutamide for adults with metastatic androgen pathway modulation-naïve or -sensitive prostate cancer with HRR gene mutations.
 
 AI — the cultural fight:
-- None this morning.
+- Pope Leo XIV, 30 October (address to Vatican-scientific AI dialogue): future of AI is not pre-determined; humans have the responsibility to guide, change or reject applications. Machines are tools, not persons. Decisions affecting human life, freedom or the use of force must never be delegated to AI. Calls for institutions with shared standards, independent oversight and accountability so systems serve the human person rather than become exceptionally powerful without foreseeable or controllable consequences.
 
 **Top Surfacing PUF**
 
@@ -52,7 +52,7 @@ No new local PIF. Partly cloudy to clear, high near **70°F**, overnight low aro
 
 **What changed since yesterday**
 
-Hormuz: Brent near $116 this morning after UKMTO-confirmed tanker attack near Khasab (day 245); diplomacy signals continue. Spain Toledo crash (28 October, **69** dead) moved to still-open as national platform attention has shifted to residual identification and recovery. Bend remains still-open (local recovery only; closed through 6 November). Ebola: updated government cut (as of 28 October) reports **10,274** confirmed cases and **4,992** deaths. Israel: final results confirm 53/48/19, no majority. Midterms: Trump shifts from in-person to tele-rallies; DOJ activity on California and Alaska election matters. No new tropical hazard this morning.
+Hormuz: Brent near $116 this morning after UKMTO-confirmed tanker attack near Khasab (day 245); diplomacy signals continue. Spain Toledo crash (28 October, **69** dead) moved to still-open as national platform attention has shifted to residual identification and recovery. Bend remains still-open (local recovery only; closed through 6 November). Ebola: updated government cut (as of 28 October) reports **10,274** confirmed cases and **4,992** deaths. Israel: final results confirm 53/48/19, no majority. Midterms: Trump shifts from in-person to tele-rallies; DOJ activity on California and Alaska election matters. AI lane: Pope Leo XIV address (30 October) on human responsibility and non-delegable decisions in AI systems. No new tropical hazard this morning.
 
 **Signal vs Noise note**
 

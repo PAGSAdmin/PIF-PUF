@@ -36,6 +36,8 @@ TRANSFER: files move between blocks as feeds change. Leave the page only when th
 
 9/11 ANNIVERSARY: the commemorative note and the 11 September 2001 attack as a daily item are for 11 September only. Do not carry them forward. A 9/11-related illness line returns only if there is new counted health-impact news on U.S. platforms that day.
 
+CALENDAR NOTE: After the date line, add a short neutral Calendar note only when the day is a clear marked U.S. or international observance (Halloween, Thanksgiving, Independence Day, Christmas, New Year’s Day, or a comparable widely recognized day). One line. Do not add for ordinary weekdays. Do not force a note if none applies.
+
 POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak closed. Default is a refresh of the positive side of the still-open roster (rescued / recovered / discharged counts + the date of the agency cut). A new one-off spotlight only when an agency publishes a counted good that morning. If no new agency-counted positive has appeared since the previous morning, say so in one line and do not reuse an earlier item. Nobel and prize lists: name the laureate the day the prize is announced, and keep the list only through the announcement week. Off a week after the last prize.
 
 EMERGING PIF three lanes. If a lane has nothing that meets the freshness rule, write “None this morning.” Do not carry forward.

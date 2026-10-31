@@ -7,6 +7,9 @@ PUF = Politics, Policies, Understanding, Fun.
 
 # Daily reading — 31 October 2026
 
+**Calendar note**  
+Halloween (31 October).
+
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 

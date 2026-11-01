@@ -43,7 +43,7 @@ POSITIVE PIF: only agency-counted good — rescued, recovered, found, outbreak c
 EMERGING PIF three lanes. If a lane has nothing that meets the freshness rule, write “None this morning.” Do not carry forward.
 - Hazard watch: named storm, GDACS board, glacier, pest BEFORE a death table exists. Name the desk, intensity or count, who is under a watch or warning, and the next place the track could touch.
 - Discovery / tech / cure: WHO, trial registry, ARPA-H, FDA, national lab, or peer-reviewed journal (NEJM, Lancet, Nature, Science). Must name the desk, the publication date, and the population it would touch if it scales. Only items published in the last 7 days. No startup blogs.
-- AI: the cultural fight and the policy desks, only while they are live. Only a contest or desk action from the last 72 hours. No Cat unless there is a counted caseload. If nothing new, write “None this morning.”
+- AI: the cultural fight and the policy desks. Retain a recent named contest or desk action while it is still circulating on platforms. No Cat unless there is a counted caseload. If nothing recent is still active on platforms, write “None this morning.”
 
 SIGNAL VS NOISE: name what is actually loud on U.S. homepages that morning. Do not call the largest PIF the feed unless it is also the U.S. lead.
 

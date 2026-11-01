@@ -37,7 +37,7 @@ Discovery / tech / cure:
 - FDA, 26 October: approved talazoparib (Talzenna) with enzalutamide for adults with metastatic androgen pathway modulation-naïve or -sensitive prostate cancer with HRR gene mutations.
 
 AI — the cultural fight:
-- None this morning.
+- Pope Leo XIV, 30 October (address to Vatican-scientific AI dialogue): future of AI is not pre-determined; humans have the responsibility to guide, change or reject applications. Machines are tools, not persons. Decisions affecting human life, freedom or the use of force must never be delegated to AI. Calls for institutions with shared standards, independent oversight and accountability so systems serve the human person rather than become exceptionally powerful without foreseeable or controllable consequences. Still circulating on platforms.
 
 **Top Surfacing PUF**
 
@@ -52,7 +52,7 @@ No new local PIF. Mostly clear, high near **61°F**, overnight low around **40°
 
 **What changed since yesterday**
 
-Hormuz: day 247; Brent near $114–$116 after further tanker incidents; Iranian proposal for possible reopening noted. Spain Toledo crash remains still-open (residual recovery after mourning ended). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 2 days out. AI lane closed (Pope Leo XIV address of 30 October now outside the 72-hour window). No new tropical hazard this morning.
+Hormuz: day 247; Brent near $114–$116 after further tanker incidents; Iranian proposal for possible reopening noted. Spain Toledo crash remains still-open (residual recovery after mourning ended). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 2 days out. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
 
 **Signal vs Noise note**
 

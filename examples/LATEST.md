@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 1 November 2026
+# Daily reading — 2 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 1 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 2 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,7 +20,7 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading near **$114–$116** this morning after continued incidents (UKMTO reports of projectiles and limpet-mine attachments; IRGC claims of multiple tankers hitting mines on unauthorized routes). Strait remains effectively closed to normal commercial traffic (day 247 since 28 February). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline. Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. Pentagon options for possible post-midterm strikes remain under discussion; no final decision reported. Iranian proposal for possible reopening within days noted on wires.
+   Brent trading near **$106–$112** this morning after diplomacy signals (Trump reported favoring talks with Netanyahu). Continued incidents (UKMTO reports of projectiles, including a tanker struck ~72 nm east of Ras Al Khafji and a tug partially sunk near the strait; IRGC claims of mines on unauthorized routes). Strait remains effectively closed to normal commercial traffic (day 248 since 28 February). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline. Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. Pentagon options for possible post-midterm strikes remain under discussion; no final decision reported. Iranian proposal for possible reopening within days noted on wires.
 
 **Positive PIF Spotlight**
 
@@ -41,22 +41,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms (2 days out): continued framing around Trump statements on possible post-election Iran action, DOJ election-related activity in California and Alaska, and oil-price effects. Israel Knesset election final results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties record **19**; neither holds a majority. Coalition negotiations underway; results to be certified next week.
+- **Politics**: Midterms (1 day out): continued framing around Trump statements on possible post-election Iran action, DOJ election-related activity in California and Alaska, and oil-price effects. Israel Knesset election final results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties record **19**; neither holds a majority. Coalition negotiations underway; results to be certified next week.
 - **Policies**: IEA completing remaining emergency oil release; U.S. still weighing eased shadow-fleet sanctions amid diplomacy signals. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia remains in effect.
-- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent near $114–$116. Spain crash identification and wreckage clearance continue as residual recovery. Riyadh partial reopening continues with very light traffic. DRC Ebola: latest cut (as of 29 October) **10,351** confirmed cases, **5,026** deaths.
+- **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent near $106–$112. Spain crash identification and wreckage clearance continue as residual recovery. Riyadh partial reopening continues with very light traffic. DRC Ebola: latest cut (as of 29 October) **10,351** confirmed cases, **5,026** deaths.
 - **Fun**: WNBA Finals continue. MLB postseason continues. College football weekend.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Mostly clear, high near **61°F**, overnight low around **40°F**.
+No new local PIF. Partly cloudy, high near **66°F**, overnight low around **39°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 247; Brent near $114–$116 after further tanker incidents; Iranian proposal for possible reopening noted. Spain Toledo crash remains still-open (residual recovery after mourning ended). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 2 days out. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
+Hormuz: day 248; Brent eased near $106–$112 after diplomacy signals; further tanker and tug incidents. Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 1 day out. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
 
 **Signal vs Noise note**
 
-U.S. homepages: midterms framing (2 days out), Hormuz/oil with continued tanker incidents and diplomacy signals, Israel election final results (no majority). Spain is residual recovery. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: midterms framing (1 day out), Hormuz/oil with continued tanker incidents and diplomacy signals, Israel election final results (no majority). Spain is residual recovery. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -67,7 +67,7 @@ U.S. homepages: midterms framing (2 days out), Hormuz/oil with continued tanker 
    Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid partially reopened 25 October (Terminal 1 domestic, Terminal 2 international for national carriers). Flight tracking continues to show very light traffic. Most foreign airlines remain suspended into November. Houthis continue to describe the airport as a military target. U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis. Intercepts of projectiles continue. National platforms have moved on; coverage is residual logistics.
 
 4) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-17. Silver Rail Elementary remains closed through 6 November for repairs and safety codes (earliest possible return around 9 November). 86.2% of responding families want to return to the building. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Investigation ongoing; no new agency death or injury counts. National platforms have moved on; coverage is local recovery and reopening logistics.
+   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-18. Silver Rail Elementary remains closed through 6 November for repairs and safety codes (earliest possible return around 9 November). 86.2% of responding families want to return to the building. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Investigation ongoing; no new agency death or injury counts. National platforms have moved on; coverage is local recovery and reopening logistics.
 
 5) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    NDRRMA cut of 26 September: **1,453** dead; **5,285** missing; **13,795** rescued. AP, 7 October: search ended; at least **1,455** dead; **5,285** still unaccounted for. Caseload open. Rescue phase closed.

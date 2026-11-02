@@ -22,6 +22,9 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Brent trading near **$106–$112** this morning after diplomacy signals (Trump reported favoring talks with Netanyahu). Continued incidents (UKMTO reports of projectiles, including a tanker struck ~72 nm east of Ras Al Khafji and a tug partially sunk near the strait; IRGC claims of mines on unauthorized routes). Strait remains effectively closed to normal commercial traffic (day 248 since 28 February). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline. Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. Pentagon options for possible post-midterm strikes remain under discussion; no final decision reported. Iranian proposal for possible reopening within days noted on wires.
 
+2) **Florida Learjet 60 crash** → **Cat 2** + **! EMERGENCY WARNING**  
+   Sunday 1 November, ~12:50 p.m. near Military Trail and 10th Avenue North, Palm Beach County (Cresthaven / Greenacres area): Learjet 60 en route from Austin-Bergstrom to North Eleuthera, Bahamas, nosedived into a roadway near a residential area and erupted in flames. All **9** people on board killed. No ground fatalities reported. Approximately 600 residents evacuated. NTSB and FAA investigation open. National platforms covering the crash this morning.
+
 **Positive PIF Spotlight**
 
 No new agency-counted positive this morning.
@@ -52,16 +55,13 @@ No new local PIF. Partly cloudy, high near **66°F**, overnight low around **39�
 
 **What changed since yesterday**
 
-Hormuz: day 248; Brent eased near $106–$112 after diplomacy signals; further tanker and tug incidents. Florida Learjet 60 crash (1 November, Palm Beach County): **9** dead; NTSB investigation open. Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 1 day out. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
+Hormuz: day 248; Brent eased near $106–$112 after diplomacy signals; further tanker and tug incidents. Florida Learjet 60 crash (1 November, Palm Beach County): **9** dead; NTSB investigation open; moved to on-the-platforms-today. Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms: 1 day out. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
 
 **Signal vs Noise note**
 
 U.S. homepages: midterms framing (1 day out), Hormuz/oil with continued tanker incidents and diplomacy signals, Florida Learjet crash (9 dead), Israel election final results (no majority). Spain is residual recovery. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
-
-2) **Florida Learjet 60 crash** → **Cat 2** + **! EMERGENCY WARNING**  
-   Sunday 1 November, ~12:50 p.m. near Military Trail and 10th Avenue North, Palm Beach County (Cresthaven / Greenacres area): Learjet 60 en route from Austin-Bergstrom to North Eleuthera, Bahamas, nosedived into a roadway near a residential area and erupted in flames. All **9** people on board killed. No ground fatalities reported. Approximately 600 residents evacuated. NTSB and FAA investigation open. National platforms covering the crash; not the dominant lead.
 
 3) **Spain Toledo high-speed train crash** → **Cat 3** + **! EMERGENCY WARNING**  
    Wednesday 28 October near Urda / Los Yébenes, Toledo province (Madrid–Seville line): Renfe AVE (approx. 397 passengers) rear-ended a stopped Iryo service (approx. 147 passengers). Official death toll **69**; more than 100 treated for injuries, some critical. Three days of national mourning 29–31 October (ended). Rescue crews continuing to clear wreckage and identify victims. Officials cite signaling failure followed by human authorization error. Second major high-speed crash of 2026 (January Adamuz: 46 dead). National platforms have moved on; coverage is residual identification and recovery.

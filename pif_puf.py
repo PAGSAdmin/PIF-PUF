@@ -32,6 +32,8 @@ Two PIF blocks only. No Mid-PIF heading.
 1) On the platforms today: up to 8. Counted caseload AND top news overall on U.S. platforms that morning (national homepages, major wires, broad platform attention). Purely local recovery, reopening logistics, or follow-through that no longer drives national platform attention does not stay here — move it to still-open. Cat 1 belongs here only if it is actually dominating U.S. feeds. Do not pad.
 2) Still open, platforms moved on: roster. Every line carries a Cat. Do not drop a standing file for a new headline. A closed watch does not stay as if it were open. Local-only coverage of an open caseload belongs here.
 
+FRESH COUNTED FILE CHECK. A counted caseload from the previous calendar day that is still receiving national platform coverage (major wires, national homepages, or broad feed presence) belongs in “on the platforms today,” even if it is not the single largest story. Do not place it in the still-open roster solely because other stories are larger. Move it to still-open only when national platform attention has actually dropped.
+
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 
 9/11 ANNIVERSARY: the commemorative note and the 11 September 2001 attack as a daily item are for 11 September only. Do not carry them forward. A 9/11-related illness line returns only if there is new counted health-impact news on U.S. platforms that day.

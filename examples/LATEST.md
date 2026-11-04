@@ -7,6 +7,9 @@ PUF = Politics, Policies, Understanding, Fun.
 
 # Daily reading — 4 November 2026
 
+**Politics**  
+Midterms results (day after Election Day): Democrats projected to win control of both House and Senate. Platforms dominated by the results and what they mean for the remainder of the presidential term.
+
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 

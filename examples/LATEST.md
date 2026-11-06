@@ -40,7 +40,7 @@ AI — the cultural fight:
 **Top Surfacing PUF**
 
 - **Politics**: Midterms aftermath: Democrats projected to win control of both House and Senate. Some races remain open. Continued framing around oil-price effects and possible post-election Iran action. Israel Knesset election final results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties record **19**; neither holds a majority. Coalition negotiations underway; results to be certified next week.
-- **Policies**: IEA completing remaining emergency oil release; U.S. still weighing eased shadow-fleet sanctions amid diplomacy signals. U.S. ordered departure of non-emergency personnel and families from Saudi Arabia remains in effect.
+- **Policies**: IEA completing remaining emergency oil release. U.S. continues pressure on the Iranian shadow fleet (4 November action against fraudulent flag registries under Operation Economic Outcast). U.S. ordered departure of non-emergency personnel and families from Saudi Arabia remains in effect.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent near $95–$97. Spain crash identification and wreckage clearance continue as residual recovery. Riyadh partial reopening continues with very light traffic. DRC Ebola: latest cut (as of 29 October) **10,351** confirmed cases, **5,026** deaths.
 - **Fun**: WNBA Finals continue. MLB postseason continues. College football weekend.
 
@@ -50,7 +50,7 @@ No new local PIF. Rain, high near **68°F**, overnight low around **58°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 252; Brent near $95–$97; continued tanker incidents. Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF lanes refreshed: new FDA accelerated approval (5 November) for head and neck squamous cell carcinoma; NHC low-pressure watch south of Bermuda (20% chance of brief subtropical development); AI lane set to none (Pope address no longer the active circulating piece). No new tropical cyclone.
+Hormuz: day 252; Brent near $95–$97; continued tanker incidents. Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF lanes refreshed: new FDA accelerated approval (5 November) for head and neck squamous cell carcinoma; NHC low-pressure watch south of Bermuda (20% chance of brief subtropical development); AI lane set to none (Pope address no longer the active circulating piece). Policies line updated to reflect ongoing U.S. pressure on the shadow fleet. No new tropical cyclone.
 
 **Signal vs Noise note**
 

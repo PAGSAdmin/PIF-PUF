@@ -29,15 +29,13 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- None this morning. (No Atlantic tropical cyclones. NHC: formation not expected in the next 7 days.)
+- NHC, 6 November: a broad area of nontropical low pressure with gale-force winds a few hundred miles south of Bermuda. 20% chance of brief subtropical development over the next two days while it moves eastward; expected to be absorbed by a new nontropical low later this weekend. No named cyclone. Gale-force winds possible over parts of the central subtropical Atlantic through the weekend.
 
 Discovery / tech / cure:
-- FDA, 20 October: approved Hibsago (bepirovirsen) for adults with chronic hepatitis B virus infection without cirrhosis, in combination with existing antiviral therapy — the first of its kind for this use.
-- FDA, 23 October: approved Awiqli (insulin icodec) as the first once-weekly insulin for Type 2 diabetes in pediatric patients.
-- FDA, 26 October: approved talazoparib (Talzenna) with enzalutamide for adults with metastatic androgen pathway modulation-naïve or -sensitive prostate cancer with HRR gene mutations.
+- FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- Pope Leo XIV, 30 October (address to Vatican-scientific AI dialogue): future of AI is not pre-determined; humans have the responsibility to guide, change or reject applications. Machines are tools, not persons. Decisions affecting human life, freedom or the use of force must never be delegated to AI. Calls for institutions with shared standards, independent oversight and accountability so systems serve the human person rather than become exceptionally powerful without foreseeable or controllable consequences. Still circulating on platforms.
+- None this morning. (Pope Leo XIV address of 30 October is no longer the active circulating piece on platforms.)
 
 **Top Surfacing PUF**
 
@@ -52,7 +50,7 @@ No new local PIF. Rain, high near **68°F**, overnight low around **58°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 252; Brent near $95–$97; continued tanker incidents. Florida Learjet 60 crash moved to still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. AI lane retained (Pope Leo XIV address of 30 October still circulating on platforms). No new tropical hazard this morning.
+Hormuz: day 252; Brent near $95–$97; continued tanker incidents. Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF lanes refreshed: new FDA accelerated approval (5 November) for head and neck squamous cell carcinoma; NHC low-pressure watch south of Bermuda (20% chance of brief subtropical development); AI lane set to none (Pope address no longer the active circulating piece). No new tropical cyclone.
 
 **Signal vs Noise note**
 

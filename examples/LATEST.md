@@ -29,13 +29,14 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- None this morning. (No Atlantic tropical cyclones. NHC: formation not expected in the next 7 days.)
+- NHC, 10 November: Tropical Storm Lana in the Atlantic, intensifying (winds near 80 mph in some reports), tracking west-northwest toward the Bahamas / South Florida area. Miami-Dade and Broward under hurricane watch in some advisories. Not yet a U.S. landfall with counted impact. Formation and track continue to evolve.
 
 Discovery / tech / cure:
+- FDA, 9 November: approved Sunharbo (asundexian) 50 mg tablets, the first Factor XIa inhibitor, in combination with antiplatelet therapy to reduce the risk of stroke in adults with recent non-cardioembolic ischemic stroke (NIHSS ≤15) or high-risk transient ischemic attack.
 - FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- None this morning.
+- None this morning. (Post-midterm talk about possible Democratic bills on AI liability, testing, and data-center costs is present, but no single dominant circulating piece.)
 
 **Top Surfacing PUF**
 
@@ -50,7 +51,7 @@ No new local PIF. Cloudy, high near **61°F**, overnight low around **42°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 256; Brent near $90–$94; continued incidents (U.S. disabled a bulk carrier; tanker fires; limpet mines reported; attack on Saudi East-West pipeline). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF: FDA accelerated approval (5 November) still within window. AI lane remains none. No new tropical cyclone.
+Hormuz: day 256; Brent near $90–$94; continued incidents (U.S. disabled a bulk carrier; tanker fires; limpet mines reported; attack on Saudi East-West pipeline). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF refreshed: new FDA approval (9 November) for Sunharbo (asundexian), first Factor XIa inhibitor for secondary stroke prevention; Tropical Storm Lana watch in the Atlantic (intensifying, track toward Bahamas/South Florida). AI lane remains none. No new tropical cyclone with U.S. counted impact.
 
 **Signal vs Noise note**
 

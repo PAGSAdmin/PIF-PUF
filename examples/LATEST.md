@@ -36,7 +36,7 @@ Discovery / tech / cure:
 - FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- None this morning. (Post-midterm talk about possible Democratic bills on AI liability, testing, and data-center costs is present, but no single dominant circulating piece.)
+- Pope Leo XIV (@Pontifex) posts from 9 November circulating on platforms: challenges posed by AI and unregulated automation can put jobs at risk and threaten integral human development; technology must remain subject to ethics; an algorithm cannot replace human discernment or a worker’s value. Continues themes from his 30 October address (machines are tools not persons; decisions affecting human life, freedom or force must not be delegated to AI; future of AI not pre-determined).
 
 **Top Surfacing PUF**
 
@@ -51,7 +51,7 @@ No new local PIF. Cloudy, high near **61°F**, overnight low around **42°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 256; Brent near $90–$94; continued incidents (U.S. disabled a bulk carrier; tanker fires; limpet mines reported; attack on Saudi East-West pipeline). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF refreshed: new FDA approval (9 November) for Sunharbo (asundexian), first Factor XIa inhibitor for secondary stroke prevention; Tropical Storm Lana watch in the Atlantic (intensifying, track toward Bahamas/South Florida). AI lane remains none. No new tropical cyclone with U.S. counted impact.
+Hormuz: day 256; Brent near $90–$94; continued incidents (U.S. disabled a bulk carrier; tanker fires; limpet mines reported; attack on Saudi East-West pipeline). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF refreshed: new FDA approval (9 November) for Sunharbo (asundexian), first Factor XIa inhibitor for secondary stroke prevention; Tropical Storm Lana watch in the Atlantic (intensifying, track toward Bahamas/South Florida). AI lane updated: Pope Leo XIV posts from 9 November on AI/automation and jobs circulating. No new tropical cyclone with U.S. counted impact.
 
 **Signal vs Noise note**
 

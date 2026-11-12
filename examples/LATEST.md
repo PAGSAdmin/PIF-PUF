@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 11 November 2026
+# Daily reading — 12 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 11 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 12 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,7 +20,7 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading near **$92** this morning. Continued incidents (IRGC claims of a tanker striking a mine and catching fire in the Strait; UKMTO reports of projectiles and fires near Khasab and elsewhere; U.S. military previously disabled a bulk carrier attempting to break the blockade; reports of limpet mines; oil leaks from damaged vessels). Strait remains effectively closed to normal commercial traffic (day 257 since 28 February). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline. Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. Pentagon options for possible further action remain under discussion; no final decision reported. Iranian proposal for possible reopening within days noted on wires.
+   Brent trading near **$92** this morning. Continued incidents (IRGC claims of two oil supertankers disabled by explosions after hitting naval mines on an “unauthorised route”; UKMTO reports of projectiles and fires; U.S. military previously disabled a bulk carrier attempting to break the blockade; reports of limpet mines; oil leaks from damaged vessels). Strait remains effectively closed to normal commercial traffic (day 258 since 28 February). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline. Attacks continue. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. Pentagon options for possible further action remain under discussion; no final decision reported. Iranian proposal for possible reopening within days noted on wires.
 
 **Positive PIF Spotlight**
 
@@ -29,7 +29,7 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- NHC, 11 November: Tropical Storm Lana in the Atlantic, intensifying (reports of Category 1 strength, winds near 80 mph), tracking west-northwest toward the Bahamas / South Florida area. Miami-Dade and Broward under hurricane watch in some advisories. Not yet a U.S. landfall with counted impact. Formation and track continue to evolve.
+- NHC, 12 November: Tropical Storm Lana in the Atlantic, intensifying (reports of Category 1 strength, winds near 80 mph), tracking west-northwest toward the Bahamas / South Florida area. Miami-Dade and Broward under hurricane watch in some advisories. Not yet a U.S. landfall with counted impact. Formation and track continue to evolve.
 
 Discovery / tech / cure:
 - FDA, 9 November: approved Sunharbo (asundexian) 50 mg tablets, the first Factor XIa inhibitor, in combination with antiplatelet therapy to reduce the risk of stroke in adults with recent non-cardioembolic ischemic stroke (NIHSS ≤15) or high-risk transient ischemic attack.
@@ -40,22 +40,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms aftermath: Democrats projected to win control of both House and Senate. Some races remain open. Continued framing around oil-price effects and possible post-election Iran action. Israel Knesset election final results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties record **19**; neither holds a majority. Coalition negotiations underway; results to be certified next week.
+- **Politics**: Midterms aftermath: Democrats projected to win control of both House and Senate. Democrat Scott Colom wins Mississippi Senate race (first Black U.S. senator from the state since Reconstruction). Some races remain open. Continued framing around oil-price effects and possible post-election Iran action. Israel Knesset election final results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties record **19**; neither holds a majority. Coalition negotiations underway; results to be certified next week.
 - **Policies**: IEA completing remaining emergency oil release. U.S. continues pressure on the Iranian shadow fleet (4 November action against fraudulent flag registries under Operation Economic Outcast). U.S. ordered departure of non-emergency personnel and families from Saudi Arabia remains in effect.
 - **Understanding**: Hormuz flows remain a measured fraction of baseline amid continued attacks and insurance constraints. Brent near $92. Spain crash identification and wreckage clearance continue as residual recovery. Riyadh partial reopening continues with very light traffic. DRC Ebola: latest cut (as of 29 October) **10,351** confirmed cases, **5,026** deaths.
 - **Fun**: WNBA Finals continue. MLB postseason continues. College football weekend.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Mostly clear, high near **62°F**, overnight low around **42°F**.
+No new local PIF. Cloudy with rain, high near **59°F**, overnight low around **50°F**.
 
 **What changed since yesterday**
 
-Hormuz: day 257; Brent near $92; continued incidents (IRGC claims of tanker striking mine and catching fire). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues. Emerging PIF: Tropical Storm Lana intensifying (Category 1 reports, track toward Bahamas/South Florida); FDA approvals from 5 and 9 November still within window. AI lane: Pope Leo XIV posts from 9 November still circulating. No new tropical cyclone with U.S. counted impact.
+Hormuz: day 258; Brent near $92; continued incidents (IRGC claims of two supertankers disabled by explosions after hitting mines). Florida Learjet 60 crash remains still-open (national platform attention has dropped). Spain Toledo crash remains still-open (residual recovery). Bend remains still-open (local recovery only). Ebola: same government cut (**10,351** confirmed cases, **5,026** deaths). Israel: final results confirmed at 53/48/19, no majority. Midterms aftermath continues; Democrat Scott Colom wins Mississippi Senate race. Emerging PIF: Tropical Storm Lana intensifying (Category 1 reports, track toward Bahamas/South Florida); FDA approvals from 5 and 9 November still within window. AI lane: Pope Leo XIV posts from 9 November still circulating. No new tropical cyclone with U.S. counted impact.
 
 **Signal vs Noise note**
 
-U.S. homepages: midterms aftermath, Hormuz/oil with continued tanker incidents, Israel election final results (no majority). Florida Learjet is residual investigation. Spain is residual recovery. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
+U.S. homepages: midterms aftermath (including Mississippi Senate result), Hormuz/oil with continued tanker incidents, Israel election final results (no majority). Florida Learjet is residual investigation. Spain is residual recovery. Bend is local recovery only. Nepal, Ebola and smaller international incidents are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -69,7 +69,7 @@ U.S. homepages: midterms aftermath, Hormuz/oil with continued tanker incidents, 
    Prior week: **12** dead, **309** wounded in initial strikes; further deaths brought the airport toll to **18**. King Khalid partially reopened 25 October (Terminal 1 domestic, Terminal 2 international for national carriers). Flight tracking continues to show very light traffic. Most foreign airlines remain suspended into November. Houthis continue to describe the airport as a military target. U.S. Embassy security alert of 20 October notes ongoing caution and special authorization for U.S. government employees at any Saudi airport. Saudi-led coalition blamed Iran-backed Houthis. Intercepts of projectiles continue. National platforms have moved on; coverage is residual logistics.
 
 5) **Bend, Oregon elementary school shooting** → **Cat 2** + **! EMERGENCY WARNING**  
-   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-27. Silver Rail Elementary remains closed through 6 November for repairs and safety codes (earliest possible return around 9 November). 86.2% of responding families want to return to the building. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Investigation ongoing; no new agency death or injury counts. National platforms have moved on; coverage is local recovery and reopening logistics.
+   Thursday 15 October at Silver Rail Elementary: three children (ages 5, 8 and 11) and one teacher killed. A 7-year-old and a 54-year-old teacher injured. Suspect identified as 16-year-old Griffin J. John II, a former student; shot dead by a bystander after a teacher intervened. Bend Police confirmed counts and names of two victims (Rhoam Summer, 5; Megan Lambert, 25). Day-28. Silver Rail Elementary remains closed through 6 November for repairs and safety codes (earliest possible return around 9 November). 86.2% of responding families want to return to the building. Firearm confirmed legally purchased by the mother (Mossberg Maverick 88). Investigation ongoing; no new agency death or injury counts. National platforms have moved on; coverage is local recovery and reopening logistics.
 
 6) **Nepal–Tibet Himalayan flash floods** → **Cat 5** + **! EMERGENCY WARNING**  
    NDRRMA cut of 26 September: **1,453** dead; **5,285** missing; **13,795** rescued. AP, 7 October: search ended; at least **1,455** dead; **5,285** still unaccounted for. Caseload open. Rescue phase closed.

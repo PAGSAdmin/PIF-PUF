@@ -42,7 +42,7 @@ Discovery / tech / cure:
 - FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- Aidoc received FDA Breakthrough Device Designation for First Read, an investigational AI tool to generate preliminary chest radiograph report text (not yet cleared). Circulating as of 14 November. Pope Leo XIV posts from 9 November on AI ethics and job risks remain in circulation within the window.
+- Pope Leo XIV posts from 9 November on AI ethics and job risks remain in circulation within the window.
 
 **Top Surfacing PUF**
 
@@ -57,7 +57,7 @@ No new local PIF. Cloudy, high near **46°F**, overnight low around **37°F**, w
 
 **What changed since yesterday**
 
-Hormuz: day 260; Brent near $95–$96; continued tanker incidents and mine claims. FAA ground stop (13 November) residual cancellations into 14 November. New Orleans river collision (13 November): all accounted for, 32 non-critical hospitalizations. Brooklyn collapse (11 November) residual (DA criminal inquiry; search concluded). Florida Learjet residual investigation. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Israel final results confirmed 53/48/19. Emerging: no confirmed Lana; recent FDA items still in window; Aidoc FDA breakthrough circulating. World Diabetes Day (UN observance).
+Hormuz: day 260; Brent near $95–$96; continued tanker incidents and mine claims. FAA ground stop (13 November) residual cancellations into 14 November. New Orleans river collision (13 November): all accounted for, 32 non-critical hospitalizations. Brooklyn collapse (11 November) residual (DA criminal inquiry; search concluded). Florida Learjet residual investigation. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Israel final results confirmed 53/48/19. Emerging: no confirmed Lana; recent FDA items still in window. World Diabetes Day (UN observance).
 
 **Signal vs Noise note**
 

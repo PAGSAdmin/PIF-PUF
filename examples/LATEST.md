@@ -42,7 +42,9 @@ Discovery / tech / cure:
 - FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- Pope Leo XIV posts from 9 November on AI ethics and job risks remain in circulation within the window.
+- Pope Leo XIV, 9 November X post (still circulating): AI and unregulated automation can put countless jobs at risk and threaten integral human development; technology must always be subject to ethics; an algorithm cannot replace human discernment or a worker’s value; access to work for all is a high priority for evaluating the human quality of development.
+- ~13 November address: children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
+- Core stances still in window: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed” (including ban on lethal autonomous weapons); future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human (creativity).
 
 **Top Surfacing PUF**
 
@@ -57,7 +59,7 @@ No new local PIF. Cloudy, high near **46°F**, overnight low around **37°F**, w
 
 **What changed since yesterday**
 
-Hormuz: day 260; Brent near $95–$96; continued tanker incidents and mine claims. FAA ground stop (13 November) residual cancellations into 14 November. New Orleans river collision (13 November): all accounted for, 32 non-critical hospitalizations. Brooklyn collapse (11 November) residual (DA criminal inquiry; search concluded). Florida Learjet residual investigation. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Israel final results confirmed 53/48/19. Emerging: no confirmed Lana; recent FDA items still in window. World Diabetes Day (UN observance).
+Hormuz: day 260; Brent near $95–$96; continued tanker incidents and mine claims. FAA ground stop (13 November) residual cancellations into 14 November. New Orleans river collision (13 November): all accounted for, 32 non-critical hospitalizations. Brooklyn collapse (11 November) residual (DA criminal inquiry; search concluded). Florida Learjet residual investigation. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Israel final results confirmed 53/48/19. Emerging: no confirmed Lana; recent FDA items still in window. AI cultural fight refreshed with 9 Nov jobs post and 13 Nov minors/manipulation address. World Diabetes Day (UN observance).
 
 **Signal vs Noise note**
 

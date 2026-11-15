@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 14 November 2026
+# Daily reading — 15 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 14 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 15 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,13 +20,10 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent trading near **$95–$96** this morning (settlements ~$95.4–$95.8 on 13 November). Day **260** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~7% of normal; recent 7-day average ~6 ships/day). Continued incidents: UKMTO and JMIC reports of tanker attacks and projectiles in the Strait and Gulf; IRGC claims of multiple tankers hitting mines or exploding (including claims of a tanker ablaze); Houthis claims of strikes on Saudi targets. Oil flows through Hormuz have recovered toward ~82% of pre-war levels in some IEA cuts despite low vessel traffic. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent futures near **$95–$96** this morning (front-month quotes ~$95.8 on 15 November). Day **261** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~7% of normal; recent 7-day average ~6 ships/day). Continued incidents: UKMTO report of a tanker attacked near the Strait (crew safe); IRGC claims of anti-ship missiles from Sirik, mine strikes on tankers using unauthorized routes, and a drone strike on a US radar site in Bahrain (CENTCOM denied damage or injuries). Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
-2) **Nationwide FAA ground stop** → **Cat 3** + **! EMERGENCY WARNING**  
-   Friday 13 November: FAA issued a rare nationwide ground stop for all departing U.S. flights due to telecommunications/radar overload (outdated switches and routers providing inconsistent data; not a cyber attack). Issued ~3:54 p.m. ET, lifted ~8:15 p.m. ET. Thousands of cancellations (Cirium: 8,267 canceled or no-fly of 26,284 scheduled U.S. departures on 13 November, ~31%; residual ~1,201 on 14 November so far). Effects felt through the weekend; residual disruption continues.
-
-3) **New Orleans / Mississippi River collision** → **Cat 2** + **! EMERGENCY WARNING**  
-   Friday 13 November ~12:30 p.m.: Tanker Atlantic Asphalt (lost steering) struck the docked American Heritage river cruise paddle-wheeler near the Crescent City Connection. Ship capsized; massive rescue. All aboard accounted for (~180–197 passengers and crew). **32** hospitalized with non-critical injuries; no critical injuries or deaths reported. Mayor called it a “miracle on the Mississippi.” Investigation ongoing; river traffic closed in vicinity.
+2) **Nationwide FAA ground stop (residual)** → **Cat 3** + **! EMERGENCY WARNING**  
+   Friday 13 November: FAA issued a rare nationwide ground stop for all departing U.S. flights due to telecommunications/radar overload (outdated switches and routers; not a cyber attack). Issued ~3:54 p.m. ET, lifted ~8:15 p.m. ET. Thousands of cancellations (more than 14,000 canceled Friday–Saturday combined). Residual disruption continues Sunday: over 900 flights already canceled as of late Saturday; FAA expects full schedule recovery by end of Sunday. Effects still felt nationally.
 
 **Positive PIF Spotlight**
 
@@ -35,37 +32,39 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- None. No agency-confirmed tropical cyclone with U.S. counted impact (NHC Tropical Weather Discussion shows no Tropical Storm Lana on 14 November).
+- None. No agency-confirmed tropical cyclone with U.S. counted impact.
 
 Discovery / tech / cure:
 - FDA, 9 November: approved Sunharbo (asundexian) 50 mg tablets, the first Factor XIa inhibitor, in combination with antiplatelet therapy to reduce the risk of stroke in adults with recent non-cardioembolic ischemic stroke (NIHSS ≤15) or high-risk transient ischemic attack.
-- FDA, 5 November: granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease has progressed on or after platinum-based chemotherapy and immunotherapy — the first approval in 10 years for this use in that population.
 
 AI — the cultural fight:
-- Pope Leo XIV, 9 November X post (still circulating): AI and unregulated automation can put countless jobs at risk and threaten integral human development; technology must always be subject to ethics; an algorithm cannot replace human discernment or a worker’s value; access to work for all is a high priority for evaluating the human quality of development.
+- Pope Leo XIV, 9 November X post (still circulating within window): AI and unregulated automation can put countless jobs at risk and threaten integral human development; technology must always be subject to ethics; an algorithm cannot replace human discernment or a worker’s value; access to work for all is a high priority for evaluating the human quality of development.
 - ~13 November address: children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
-- Core stances still in window: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed” (including ban on lethal autonomous weapons); future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human (creativity).
+- Core stances still in window: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human.
 
 **Top Surfacing PUF**
 
-- **Politics**: Midterms aftermath continues (Democrats projected to win both chambers; Mississippi Senate result). Israel Knesset election final official results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties **19**; neither holds a majority. Coalition negotiations underway. Hormuz/oil and residual FAA disruption dominate.
+- **Politics**: Midterms aftermath continues. Israel Knesset election final official results: Netanyahu bloc **53** seats, Eisenkot bloc **48**, Arab parties **19**; neither holds a majority. Coalition negotiations underway. Hormuz/oil and residual FAA disruption dominate.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $95–$96. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 12 November): DRC **11,197** confirmed cases, **5,471** deaths.
-- **Fun**: WNBA Finals continue. College football weekend.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $95–$96. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 13 November, data to 11 November): DRC **11,197** confirmed cases, **5,471** deaths.
+- **Fun**: WNBA Finals continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Cloudy, high near **46°F**, overnight low around **37°F**, winds gusting to ~37 mph.
+No new local PIF. Partly cloudy, high near **49°F**, overnight low around **37°F**, winds gusting to ~36 mph.
 
 **What changed since yesterday**
 
-Hormuz: day 260; Brent near $95–$96; continued tanker incidents and mine claims. FAA ground stop (13 November) residual cancellations into 14 November. New Orleans river collision (13 November): all accounted for, 32 non-critical hospitalizations. Brooklyn collapse (11 November) residual (DA criminal inquiry; search concluded). Florida Learjet residual investigation. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Israel final results confirmed 53/48/19. Emerging: no confirmed Lana; recent FDA items still in window. AI cultural fight refreshed with 9 Nov jobs post and 13 Nov minors/manipulation address. World Diabetes Day (UN observance).
+Hormuz: day 261; Brent futures near $95–$96; continued tanker attacks, mine claims, and IRGC drone claim on Bahrain (denied). FAA ground stop residual cancellations into Sunday (over 900 already; recovery expected by end of day). New Orleans river collision residual (weeks to remove vessel; port lawsuit; 8 still hospitalized as of Saturday). Brooklyn collapse residual investigation. Florida Learjet residual. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Emerging: FDA 9 Nov still in window; AI cultural fight items from 9 and 13 Nov still circulating. World Day of Remembrance for Road Traffic Victims (third Sunday in November) and International Day for the Prevention of and Fight against All Forms of Transnational Organised Crime.
 
 **Signal vs Noise note**
 
-U.S. homepages: residual FAA disruption, Hormuz/oil with continued incidents, New Orleans collision, midterms aftermath, Israel election results (no majority). Brooklyn is residual investigation. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: residual FAA disruption, Hormuz/oil with continued incidents, New Orleans residual recovery. Brooklyn is residual investigation. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
+
+3) **New Orleans / Mississippi River collision** → **Cat 2** + **! EMERGENCY WARNING**  
+   Friday 13 November ~12:30 p.m.: Tanker Atlantic Asphalt (lost steering) struck the docked American Heritage river cruise paddle-wheeler near the Crescent City Connection. Ship capsized; massive rescue. All aboard accounted for (197 passengers and crew). **32** hospitalized with non-critical injuries; no critical injuries or deaths reported; 8 still hospitalized as of Saturday. Port of New Orleans sued; Coast Guard investigating; weeks to remove vessel. Residual recovery; national platforms moving on.
 
 4) **Brooklyn building collapse** → **Cat 3** + **! EMERGENCY WARNING**  
    Wednesday 11 November ~4 p.m. at 1321 Flatbush Avenue, Flatbush: three-story building collapsed into adjacent construction excavation. **8** dead (including two children: ages 9 and 10), **18** injured (including four firefighters). FDNY search concluded 12 November with no further victims. Medical examiner: asphyxia due to chest compression for victims. Brooklyn DA opened criminal inquiry. Building had 98 open violations. Residual recovery and investigation; national platforms have moved on.
@@ -86,7 +85,7 @@ U.S. homepages: residual FAA disruption, Hormuz/oil with continued incidents, Ne
    NDRRMA / AP cuts: at least **1,455** dead; **5,285** still unaccounted for. Caseload open; rescue phase closed.
 
 10) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-    Latest agency cut (ECDC as of 12 November, data to 11 November): **11,197** confirmed cases, **5,471** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
+    Latest agency cut (ECDC as of 13 November, data to 11 November): **11,197** confirmed cases, **5,471** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
 
 11) **Ukraine war** → **Cat 5**  
     OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
@@ -114,7 +113,7 @@ Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles n
 - Spain Toledo train crash — 28 October 2026
 - Florida Learjet 60 crash — 1 November 2026
 - Brooklyn building collapse — 11 November 2026
-- Nationwide FAA ground stop — 13–14 November 2026
+- Nationwide FAA ground stop — 13–15 November 2026
 - New Orleans river collision — 13 November 2026
 
 ---

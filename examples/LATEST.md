@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 15 November 2026
+# Daily reading — 16 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 15 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 16 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,10 +20,10 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent futures near **$95–$96** this morning (front-month quotes ~$95.8 on 15 November). Day **261** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~7% of normal; recent 7-day average ~6 ships/day). Continued incidents: UKMTO report of a tanker attacked near the Strait (crew safe); IRGC claims of anti-ship missiles from Sirik, mine strikes on tankers using unauthorized routes, and a drone strike on a US radar site in Bahrain (CENTCOM denied damage or injuries). Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent futures near **$95–$96** this morning (front-month quotes ~$95.2–$95.8). Day **262** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~7% of normal; recent 7-day average ~6 ships/day). Fresh incidents this morning: UKMTO reported a tanker struck by an unknown projectile while outbound in the Strait, causing a fire in the engine room; no casualties, all crew accounted for. Iranian Navy/IRGC claims of mine strikes on tankers using restricted routes. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 2) **Nationwide FAA ground stop (residual)** → **Cat 3** + **! EMERGENCY WARNING**  
-   Friday 13 November: FAA issued a rare nationwide ground stop for all departing U.S. flights due to telecommunications/radar overload (outdated switches and routers; not a cyber attack). Issued ~3:54 p.m. ET, lifted ~8:15 p.m. ET. Thousands of cancellations (more than 14,000 canceled Friday–Saturday combined). Residual disruption continues Sunday: over 900 flights already canceled as of late Saturday; FAA expects full schedule recovery by end of Sunday. Effects still felt nationally.
+   Friday 13 November: FAA issued a rare nationwide ground stop for all departing U.S. flights due to telecommunications/radar overload (outdated switches and routers; not a cyber attack). Issued ~3:54 p.m. ET, lifted ~8:15 p.m. ET. Thousands of cancellations (more than 14,000 Friday–Saturday; ~2,100 on Sunday). Residual disruption continues into Monday with declining numbers (over 270 cancellations early Monday); Transportation Secretary and FAA expect full recovery by Monday. Effects still felt nationally.
 
 **Positive PIF Spotlight**
 
@@ -38,9 +38,9 @@ Discovery / tech / cure:
 - FDA, 9 November: approved Sunharbo (asundexian) 50 mg tablets, the first Factor XIa inhibitor, in combination with antiplatelet therapy to reduce the risk of stroke in adults with recent non-cardioembolic ischemic stroke (NIHSS ≤15) or high-risk transient ischemic attack.
 
 AI — the cultural fight:
-- Pope Leo XIV, 9 November X post (still circulating within window): AI and unregulated automation can put countless jobs at risk and threaten integral human development; technology must always be subject to ethics; an algorithm cannot replace human discernment or a worker’s value; access to work for all is a high priority for evaluating the human quality of development.
-- ~13 November address: children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
-- Core stances still in window: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human.
+- Pope Leo XIV, 9 November X post (edge of 7-day window, still referenced): AI and unregulated automation can put countless jobs at risk and threaten integral human development; technology must always be subject to ethics; an algorithm cannot replace human discernment or a worker’s value; access to work for all is a high priority for evaluating the human quality of development.
+- ~13 November address (still within window): children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
+- Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human.
 
 **Top Surfacing PUF**
 
@@ -51,20 +51,20 @@ AI — the cultural fight:
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Partly cloudy, high near **49°F**, overnight low around **37°F**, winds gusting to ~36 mph.
+No new local PIF. Mostly clear to clear, high near **53°F**, overnight low around **35°F**, winds lighter (gusts to ~27 mph).
 
 **What changed since yesterday**
 
-Hormuz: day 261; Brent futures near $95–$96; continued tanker attacks, mine claims, and IRGC drone claim on Bahrain (denied). FAA ground stop residual cancellations into Sunday (over 900 already; recovery expected by end of day). New Orleans river collision residual (weeks to remove vessel; port lawsuit; 8 still hospitalized as of Saturday). Brooklyn collapse residual investigation. Florida Learjet residual. Spain Toledo residual. Bend residual local. Ebola updated to latest ECDC cut (**11,197** / **5,471**). Emerging: FDA 9 Nov still in window; AI cultural fight items from 9 and 13 Nov still circulating. World Day of Remembrance for Road Traffic Victims (third Sunday in November) and International Day for the Prevention of and Fight against All Forms of Transnational Organised Crime.
+Hormuz: day 262; Brent futures near $95–$96; fresh UKMTO tanker projectile strike this morning (engine-room fire, crew safe) plus continued Iranian mine claims. FAA residual declining into Monday (hundreds of cancellations remaining; recovery expected today). New Orleans: NTSB confirmed steering casualty (rudder stuck starboard); VDR recovered; residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut. Emerging: FDA 9 Nov still in window; AI items from 9 (edge) and 13 Nov still circulating. International Day for Tolerance (UN/UNESCO).
 
 **Signal vs Noise note**
 
-U.S. homepages: residual FAA disruption, Hormuz/oil with continued incidents, New Orleans residual recovery. Brooklyn is residual investigation. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: residual FAA disruption, Hormuz/oil with fresh incidents this morning. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 
 3) **New Orleans / Mississippi River collision** → **Cat 2** + **! EMERGENCY WARNING**  
-   Friday 13 November ~12:30 p.m.: Tanker Atlantic Asphalt (lost steering) struck the docked American Heritage river cruise paddle-wheeler near the Crescent City Connection. Ship capsized; massive rescue. All aboard accounted for (197 passengers and crew). **32** hospitalized with non-critical injuries; no critical injuries or deaths reported; 8 still hospitalized as of Saturday. Port of New Orleans sued; Coast Guard investigating; weeks to remove vessel. Residual recovery; national platforms moving on.
+   Friday 13 November ~12:30 p.m.: Tanker Atlantic Asphalt (lost steering) struck the docked American Heritage river cruise paddle-wheeler near the Crescent City Connection. Ship capsized in ~22 minutes; massive rescue. All aboard accounted for (~190–197 passengers and crew). **32** hospitalized with non-critical injuries; no critical injuries or deaths reported. NTSB (15 November): steering casualty with rudder stuck starboard; voyage data recorder recovered. Port sued; Coast Guard/NTSB investigating; weeks to remove vessel. Residual; national platforms moving on.
 
 4) **Brooklyn building collapse** → **Cat 3** + **! EMERGENCY WARNING**  
    Wednesday 11 November ~4 p.m. at 1321 Flatbush Avenue, Flatbush: three-story building collapsed into adjacent construction excavation. **8** dead (including two children: ages 9 and 10), **18** injured (including four firefighters). FDNY search concluded 12 November with no further victims. Medical examiner: asphyxia due to chest compression for victims. Brooklyn DA opened criminal inquiry. Building had 98 open violations. Residual recovery and investigation; national platforms have moved on.
@@ -113,7 +113,7 @@ Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles n
 - Spain Toledo train crash — 28 October 2026
 - Florida Learjet 60 crash — 1 November 2026
 - Brooklyn building collapse — 11 November 2026
-- Nationwide FAA ground stop — 13–15 November 2026
+- Nationwide FAA ground stop — 13–16 November 2026
 - New Orleans river collision — 13 November 2026
 
 ---

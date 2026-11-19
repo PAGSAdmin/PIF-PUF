@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 18 November 2026
+# Daily reading — 19 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 18 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 19 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,7 +20,7 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent futures near **$89–$93** this morning (front-month quotes ranging ~$88.7–$93.6). Day **264** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~7–8% of normal; recent 7-day average ~6 ships/day). Continued incidents: UKMTO and other reports of tankers struck by projectiles or disabled (engine-room fires); ADNOC L&S vessel attacked with one crew member unaccounted for and 11 injured; IRGC/Iranian Navy claims of mine strikes and drones. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent futures near **$89–$92** this morning (front-month quotes ~$88.8–$92.3). Day **265** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~6–7% of normal; recent 7-day average ~5–6 ships/day). Continued incidents: UKMTO reports of tankers struck by unknown projectiles (engine-room fires, crew safe in latest); IRGC claims of supertankers striking mines and exploding; LPG tanker TARA GAS still reported on fire and adrift; ADNOC vessel residual with one crew missing. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Positive PIF Spotlight**
 
@@ -40,22 +40,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump arrives in Shenzhen (18 November) for APEC summit and historic trilateral with Xi Jinping and Vladimir Putin (nuclear talks, Iran war, Ukraine); bilateral with Xi scheduled; possible Kim Jong Un. Yesterday in Manila for ASEAN and Quad meetings. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
+- **Politics**: Trump, Xi Jinping and Vladimir Putin conclude historic trilateral meeting in Shenzhen (19 November) on the sidelines of APEC (nuclear talks, Iran war, Ukraine); prior bilaterals held. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $89–$93. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 16 November, data to 14 November): DRC **11,376** confirmed cases, **5,568** deaths.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $89–$92. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 16 November, data to 14 November): DRC **11,376** confirmed cases, **5,568** deaths.
 - **Fun**: WNBA Finals continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear, high near **61°F**, overnight low around **36°F**, light winds.
+No new local PIF. Clear, high near **63°F**, overnight low around **36°F**, light winds.
 
 **What changed since yesterday**
 
-Hormuz: day 264; Brent futures near $89–$93; continued tanker attacks including ADNOC vessel with one crew missing. Trump moves from Manila to Shenzhen for Xi/Putin trilateral. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut. AI 13 Nov still within window. World AMR Awareness Week begins; International Day of Islamic Art; World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence.
+Hormuz: day 265; Brent futures near $89–$92; continued UKMTO projectile strikes and Iranian mine claims. Trump-Xi-Putin trilateral concludes in Shenzhen. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut. AI 13 Nov still within window. World Philosophy Day (UNESCO); World Toilet Day (UN); International Men’s Day.
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with continued incidents; Trump Asia trip and Xi/Putin trilateral dominate political coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: Hormuz/oil with continued incidents; Trump-Xi-Putin trilateral dominates political coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 

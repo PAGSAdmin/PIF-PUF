@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 19 November 2026
+# Daily reading — 20 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 19 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 20 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,7 +20,7 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent futures near **$89–$92** this morning (front-month quotes ~$88.8–$92.3). Day **265** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~6–7% of normal; recent 7-day average ~5–6 ships/day). Continued incidents: UKMTO reports of tankers struck by unknown projectiles (engine-room fires, crew safe in latest); IRGC claims of supertankers striking mines and exploding; LPG tanker TARA GAS still reported on fire and adrift; ADNOC vessel residual with one crew missing. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent futures near **$90–$92** this morning (front-month quotes ~$89.7–$91.6). Day **266** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~6–7% of normal; recent 7-day average ~6 ships/day). Residual incidents continue: UKMTO reports of tankers struck by unknown projectiles (engine-room fires, crews safe in recent cases); IRGC claims of mine strikes; LPG tanker TARA GAS fire extinguished; ADNOC vessel residual with one crew missing. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Positive PIF Spotlight**
 
@@ -40,22 +40,22 @@ AI — the cultural fight:
 
 **Top Surfacing PUF**
 
-- **Politics**: Trump, Xi Jinping and Vladimir Putin conclude historic trilateral meeting in Shenzhen (19 November) on the sidelines of APEC (nuclear talks, Iran war, Ukraine); prior bilaterals held. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
+- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows and UN reform. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $89–$92. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 16 November, data to 14 November): DRC **11,376** confirmed cases, **5,568** deaths.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $90–$92. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
 - **Fun**: WNBA Finals continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. Clear, high near **63°F**, overnight low around **36°F**, light winds.
+No new local PIF. Clear, high near **67°F**, overnight low around **39°F**, light winds.
 
 **What changed since yesterday**
 
-Hormuz: day 265; Brent futures near $89–$92; continued UKMTO projectile strikes and Iranian mine claims. Trump-Xi-Putin trilateral concludes in Shenzhen. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut. AI 13 Nov still within window. World Philosophy Day (UNESCO); World Toilet Day (UN); International Men’s Day.
+Hormuz: day 266; Brent futures near $90–$92; residual UKMTO projectile strikes and Iranian mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. World Children’s Day (UN, Convention on the Rights of the Child).
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with continued incidents; Trump-Xi-Putin trilateral dominates political coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath dominates political coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -84,7 +84,7 @@ U.S. homepages: Hormuz/oil with continued incidents; Trump-Xi-Putin trilateral d
    NDRRMA / AP cuts: at least **1,455** dead; **5,285** still unaccounted for. Caseload open; rescue phase closed.
 
 10) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-    Latest agency cut (ECDC as of 16 November, data to 14 November): **11,376** confirmed cases, **5,568** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
+    Latest agency cut (ECDC as of 19 November, data to 16 November): **11,504** confirmed cases, **5,630** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
 
 11) **Ukraine war** → **Cat 5**  
     OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).

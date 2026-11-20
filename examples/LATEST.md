@@ -22,6 +22,13 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
    Brent futures near **$90–$92** this morning (front-month quotes ~$89.7–$91.6). Day **266** since 28 February. AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~6–7% of normal; recent 7-day average ~6 ships/day). Residual incidents continue: UKMTO reports of tankers struck by unknown projectiles (engine-room fires, crews safe in recent cases); IRGC claims of mine strikes; LPG tanker TARA GAS fire extinguished; ADNOC vessel residual with one crew missing. Strait remains effectively closed to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
+**Top Surfacing PUF**
+
+- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows and UN reform. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
+- **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $90–$92. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
+- **Fun**: WNBA Finals continue.
+
 **Positive PIF Spotlight**
 
 No new agency-counted positive this morning.
@@ -37,13 +44,6 @@ Discovery / tech / cure:
 AI — the cultural fight:
 - ~13 November address (still within window): children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
 - Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human.
-
-**Top Surfacing PUF**
-
-- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows and UN reform. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues (Democrats projected to control both chambers). Israel Knesset results: Netanyahu bloc 53, Eisenkot 48, Arab parties 19; no majority, coalition talks ongoing. Hormuz/oil still dominates platforms.
-- **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $90–$92. Brooklyn collapse residual investigation (DA criminal probe open). Spain residual recovery. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
-- **Fun**: WNBA Finals continue.
 
 **Local Filter** (Monmouth / Middletown NJ)
 

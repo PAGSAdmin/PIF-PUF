@@ -20,13 +20,13 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent near **$92** this morning (quotes ~$91.98–$92.57; market closed levels). Day **267** since 28 February (some trackers show 265). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~9% of normal; recent 7-day average ~7.9 ships/day; 10 in last 24h). Residual incidents continue: UKMTO reports two tankers struck by unknown projectiles near Khasab, Oman (warnings 215-26 and 216-26; no casualties; environmental impact unconfirmed). Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent near **$92** this morning (Friday settle $92.57; market closed levels). Day **267** since 28 February (some trackers show 265). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~9% of normal; recent 7-day average ~7.9 ships/day; 10 in last 24h). Residual incidents continue: UKMTO reports two tankers struck by unknown projectiles near Khasab, Oman (warnings 215-26 and 216-26; no casualties; environmental impact unconfirmed). Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Top Surfacing PUF**
 
 - **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $92. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
+- **Understanding / Markets**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $92. S&P −3.70% (entered correction; 7th straight loss), Dow −1.93%, Nasdaq −5.28% (erased 2026 gains). Triggered by Anthropic (ANT) day-2 slide (~8.5–9% after strong debut) plus broader AI valuation concerns and Nvidia weakness. Markets closed; residual narrative continues this morning. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
 - **Fun**: WNBA Finals continue.
 
 **Positive PIF Spotlight**
@@ -36,26 +36,26 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- Tropical Storm / Hurricane Lana: NHC upgraded to Category 1 (max sustained winds ~80 mph); eye projected to graze South Florida by Friday; Miami-Dade and Broward under hurricane watch. No agency-confirmed U.S. counted impact yet.
+- None this morning. NHC: no active tropical cyclones. Non-tropical low east of Florida (10% development chance); no agency-confirmed U.S. counted impact.
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
 
 AI — the cultural fight:
 - ~13 November address (still within window) and subsequent Rome forum / Pope Leo statements: children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
-- Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human.
+- Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human. Market selloff tests AI valuation narrative.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. High near **62°F**, overnight low around **47°F**, partly cloudy / mostly cloudy, light winds.
+No new local PIF. High near **62°F**, overnight low around **41–47°F**, mostly cloudy, light winds.
 
 **What changed since yesterday**
 
-Hormuz: day 267; Brent near $92; residual UKMTO projectile strikes (two tankers 21 Nov) continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Lana Category 1 emerging (South Florida watches).
+Hormuz: day 267; Brent near $92; residual UKMTO projectile strikes (two tankers 21 Nov) continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets: AI-driven selloff (S&P correction, Nasdaq erased 2026 gains) residual narrative. Lana corrected to none (NHC: no active tropical cyclones).
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath dominates political coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead. Lana emerging on weather platforms.
+U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market selloff residual dominate political/economic coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 

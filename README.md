@@ -59,6 +59,11 @@ A file can move from one list to the other as the feeds change. Silence is not c
 - **Discovery / tech / cure** — a WHO prequalification, a trial result, an ARPA-H or FDA desk, a national lab, or a peer-reviewed journal (NEJM, Lancet, Nature, Science). The line names the desk, the publication date, and the population it would touch if it scales. Only items published in the last 7 days. No startup blogs.
 - **AI** — where PUF meets PIF. The political fight belongs here when it is the live contest over systems that already touch large populations. So do named desks, outages with a public incident table, and tools or trials that would touch people if they scale. AI does not get a Cat 1–5 mark unless there is a counted caseload (deaths, displaced, patients, users on an official table). Until then it stays in this lane, not in the numbered PIF blocks. Only a contest or desk action from the last 72 hours. If nothing new, write “None this morning.”
 
+**Platform metrics** (locked):
+- Daily checklist for top-block decisions: confirm agency-counted, national platform dominance or previous-day still receiving national coverage, not purely local.
+- Residual threshold: move to still-open after 2 mornings without leading presence or new updates.
+- Optional light quantitative layer: platform-days or 24h volume note may be added as context, never as a ranking factor.
+
 **UNGA / relief pass** (during the General Assembly only). After Politics, look once at OCHA, UNHCR, WFP, UNICEF, and the day’s UNGA schedule. A speech alone stays Politics. If a standing still-open file gets a new count or a named appeal, keep it on the roster and put one line under Understanding: who asked, for what caseload. If a war or famine not on the page gets both a humanitarian table and U.S. platform talk because of UN week, it may enter still-open or Emerging hazard. Table first.
 
 Signal vs Noise names what is actually loud on U.S. homepages that morning. It does not treat the largest caseload as “the news” unless that file is also the U.S. lead. How many posts a story produces does not set its Cat.
@@ -99,9 +104,9 @@ python pif_puf.py
 Copy the printed prompt into Grok with today’s date. You get:
 
 - **PIF — on the platforms today**
+- **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
 - **Positive PIF Spotlight**
 - **Emerging PIF** — hazard watch, discovery / tech / cure, and AI
-- **Top Surfacing PUF** — Politics / Policies / Understanding / Fun
 - **Local Filter** — default Monmouth / Middletown NJ
 - **What changed since yesterday**
 - **Signal vs Noise** — what is actually loud on U.S. homepages

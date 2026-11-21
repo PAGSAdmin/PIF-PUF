@@ -34,6 +34,11 @@ Two PIF blocks only. No Mid-PIF heading.
 
 FRESH COUNTED FILE CHECK. A counted caseload from the previous calendar day that is still receiving national platform coverage (major wires, national homepages, or broad feed presence) belongs in “on the platforms today,” even if it is not the single largest story. Do not place it in the still-open roster solely because other stories are larger. Move it to still-open only when national platform attention has actually dropped.
 
+PLATFORM METRICS (locked):
+- Daily checklist for top-block decisions: confirm agency-counted, national platform dominance or previous-day still receiving national coverage, not purely local.
+- Residual threshold: move to still-open after 2 mornings without leading presence or new updates.
+- Optional light quantitative layer: platform-days or 24h volume note may be added as context, never as a ranking factor.
+
 TRANSFER: files move between blocks as feeds change. Leave the page only when the agency closes the caseload.
 
 9/11 ANNIVERSARY: the commemorative note and the 11 September 2001 attack as a daily item are for 11 September only. Do not carry them forward. A 9/11-related illness line returns only if there is new counted health-impact news on U.S. platforms that day.
@@ -56,7 +61,7 @@ SCAN: world brief; impact search; roster vs headlines; local pass ({LOCAL_FILTER
 
 Standing: Nepal–Tibet floods; DRC Ebola while listed active; Hormuz since 28 Feb 2026; Venezuela 24 June 2026; Colombia 10 August 2026; Ceuta 30–31 July 2026.
 
-Output order: PIF on platforms today; Positive PIF; Emerging PIF; PUF; Local; What changed; Signal vs Noise; PIF still open; Story duration; How this page is made.
+Output order: PIF on platforms today; Top Surfacing PUF; Positive PIF; Emerging PIF; Local; What changed; Signal vs Noise; PIF still open; Story duration; How this page is made.
 Header: PIF = Population Impact Factor. PUF = Politics, Policies, Understanding, Fun.
 Page cadence: updated daily in the U.S. morning, or when the author can sit with the sources.
 """

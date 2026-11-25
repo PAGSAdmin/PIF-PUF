@@ -37,7 +37,7 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- None this morning. NHC: no active tropical cyclones. Tropical cyclone formation not expected during the next 7 days. No agency-confirmed U.S. counted impact.
+- Non-tropical coastal storm for Thanksgiving (26 November): NWS Mount Holly High Wind Warning in effect for Monmouth County (and coastal NJ) from ~4 a.m. Thursday to 1 a.m. Friday; east winds 25–40 mph with gusts up to 60–70 mph. Coastal Flood Warning also in effect. Widespread tree/power-line damage and power outages expected. JCP&L pre-positioning crews (Holmdel command center) for multiday restoration. NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
@@ -48,15 +48,15 @@ AI — the cultural fight:
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. High near **49–50°F**, overnight low around **38–43°F**, increasing clouds, northeast breeze. Thanksgiving tomorrow (26 November).
+High Wind Warning and Coastal Flood Warning for Thanksgiving Day (26 November): gusts 60–70 mph possible; widespread power outages expected. JCP&L emailing customers about potential cuts and has pre-positioned crews. High near **49–50°F** today (increasing clouds, northeast breeze); rain and very windy tomorrow. No tropical system.
 
 **What changed since yesterday**
 
-Hormuz: day 271; Brent near $91 (up from prior settle); residual UKMTO projectile strikes and IRGC mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets residual with Anthropic below IPO price after 24 November session. Hazard none (NHC: no tropical cyclones expected).
+Hormuz: day 271; Brent near $91 (up from prior settle); residual UKMTO projectile strikes and IRGC mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets residual with Anthropic below IPO price after 24 November session. Hazard: High Wind Warning / coastal storm for Monmouth County Thanksgiving (non-tropical; NHC no cyclone).
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. Local NJ High Wind Warning for Thanksgiving. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 

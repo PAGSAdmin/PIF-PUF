@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 24 November 2026
+# Daily reading — 25 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 24 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 25 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,14 +20,14 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent near **$89** this morning (quotes ~$89.22–$89.37). Day **270** since 28 February (some trackers show 268). AIS-visible commercial transits remain a small fraction of the pre-crisis baseline (~9% of normal; recent 7-day average ~7.3 ships/day; 1 in last 24h). Residual incidents continue: UKMTO reports three vessels struck by unidentified projectiles on 23 November while sailing east (all continued, all crew accounted for); IRGC claims of mine strikes on tankers using unauthorized routes (no independent confirmation). Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent near **$91** this morning (settled $91.40 on 24 November; quotes in the low-to-mid $91s). Day **271** since 28 February (hormuz.now). AIS-visible commercial transits remain ~8–9% of the pre-crisis baseline (7-day average ~7.1 ships/day; 3–5 in last 24h). Residual incidents continue: UKMTO time-late reports of projectile strikes (including three vessels on 23 November, all continued with crew accounted for); IRGC claims of mine strikes on unauthorized routes (unconfirmed). Iran army continues to require coordination for passage. Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Top Surfacing PUF**
 
 - **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $89. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
-  - **Markets**: Residual narrative from the AI-driven selloff continues. Anthropic (ANT) fell below its $83 IPO price in premarket trading this morning after earlier bounce; broader AI valuation concerns persist. Markets open.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $91. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
+  - **Markets**: Residual narrative from the AI-driven selloff continues. On 24 November: S&P 500 −0.5% to 7,201.09 (eighth loss in nine sessions), Nasdaq −1.5% to 23,733.54, Dow +0.85% to 50,018.70. Nvidia −~6% (gave back part of prior day’s +31% on Huang return); Anthropic (ANT) −6.5% to ~$81.91, below its $83 IPO price. Broader AI valuation concerns persist. Markets open.
 - **Fun**: WNBA Finals continue.
 
 **Positive PIF Spotlight**
@@ -43,16 +43,16 @@ Discovery / tech / cure:
 - None within the 7-day freshness window.
 
 AI — the cultural fight:
-- ~13 November address (still within window) and subsequent Rome forum / Pope Leo statements: children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
+- ~13 November address and subsequent Rome forum / Pope Leo statements (still circulating within window): children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
 - Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human. Market residual tests AI valuation narrative.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-No new local PIF. High near **50°F**, overnight low around **34°F**, clear and breezy.
+No new local PIF. High near **49–50°F**, overnight low around **38–43°F**, increasing clouds, northeast breeze. Thanksgiving tomorrow (26 November).
 
 **What changed since yesterday**
 
-Hormuz: day 270; Brent near $89; residual UKMTO projectile strikes and IRGC mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets residual with Anthropic slipping below IPO price. Hazard none (NHC: no tropical cyclones expected).
+Hormuz: day 271; Brent near $91 (up from prior settle); residual UKMTO projectile strikes and IRGC mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets residual with Anthropic below IPO price after 24 November session. Hazard none (NHC: no tropical cyclones expected).
 
 **Signal vs Noise note**
 

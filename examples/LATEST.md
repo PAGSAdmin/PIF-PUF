@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 25 November 2026
+# Daily reading — 26 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 25 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 26 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,14 +20,14 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent near **$91** this morning (settled $91.40 on 24 November; quotes in the low-to-mid $91s). Day **271** since 28 February (hormuz.now). AIS-visible commercial transits remain ~8–9% of the pre-crisis baseline (7-day average ~7.1 ships/day; 3–5 in last 24h). Residual incidents continue: UKMTO time-late reports of projectile strikes (including three vessels on 23 November, all continued with crew accounted for); IRGC claims of mine strikes on unauthorized routes (unconfirmed). Iran army continues to require coordination for passage. Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent near **$90.8–$91.3** this morning (prior settle ~$90.64 on 25 November; quotes low-to-mid $91s). Day **272** since 28 February (hormuz.now). AIS-visible commercial transits remain severely restricted (~8–9% of pre-crisis baseline). Residual incidents continue: IRGC claims two tankers (one supertanker carrying >2 million barrels) hit sea mines north of Oman’s Khasab on an unauthorized route and caught fire (unverified); UKMTO reported an explosion from an unknown projectile ~50 nm west of Dubai. Iran continues to require coordination for passage. Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Top Surfacing PUF**
 
-- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms.
+- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms. Thanksgiving Day in the U.S.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
 - **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $91. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
-  - **Markets**: Residual narrative from the AI-driven selloff continues. On 24 November: S&P 500 −0.5% to 7,201.09 (eighth loss in nine sessions), Nasdaq −1.5% to 23,733.54, Dow +0.85% to 50,018.70. Nvidia −~6% (gave back part of prior day’s +31% on Huang return); Anthropic (ANT) −6.5% to ~$81.91, below its $83 IPO price. Broader AI valuation concerns persist. Markets open.
+  - **Markets**: Markets closed for Thanksgiving. Residual narrative from the AI-driven selloff continues. On 25 November: S&P 500 −0.25% to 7,182.78, Nasdaq −0.62% to 23,585.80, Dow +0.33% to 50,182.95. Broader AI valuation concerns persist. Early close Friday.
 - **Fun**: WNBA Finals continue.
 
 **Positive PIF Spotlight**
@@ -37,7 +37,7 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- Non-tropical coastal storm for Thanksgiving (26 November): NWS Mount Holly High Wind Warning in effect for Monmouth County (and coastal NJ) from ~4 a.m. Thursday to 1 a.m. Friday; east winds 25–40 mph with gusts up to 60–70 mph. Coastal Flood Warning also in effect. Widespread tree/power-line damage and power outages expected. JCP&L pre-positioning crews (Holmdel command center) for multiday restoration. NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
+- Non-tropical coastal storm (Thanksgiving nor’easter): NWS Mount Holly High Wind Warning remains in effect for Monmouth County (and coastal NJ) until 1 a.m. Friday; east winds 30–45 mph with gusts up to 70 mph (localized higher possible). Coastal Flood Warning also in effect. Widespread tree/power-line damage and power outages expected; peak winds this afternoon. JCP&L monitoring with crews pre-positioned (Holmdel command center); current NJ outages low (~940 total as of ~7 a.m., JCP&L ~433). NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
@@ -48,11 +48,11 @@ AI — the cultural fight:
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-High Wind Warning and Coastal Flood Warning for Thanksgiving Day (26 November): gusts 60–70 mph possible; widespread power outages expected. JCP&L emailing customers about potential cuts and has pre-positioned crews. High near **49–50°F** today (increasing clouds, northeast breeze); rain and very windy tomorrow. No tropical system.
+Thanksgiving Day. High Wind Warning and Coastal Flood Warning in effect until early Friday: rain (heavy at times), high near **55°F**, east winds 25–40 mph with gusts up to 60–70 mph. Widespread power outages possible; JCP&L crews on standby. Current outages remain low. No tropical system.
 
 **What changed since yesterday**
 
-Hormuz: day 271; Brent near $91 (up from prior settle); residual UKMTO projectile strikes and IRGC mine claims continue. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating (recovery complete). New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets residual with Anthropic below IPO price after 24 November session. Hazard: High Wind Warning / coastal storm for Monmouth County Thanksgiving (non-tropical; NHC no cyclone).
+Hormuz: day 272; Brent near $91; new IRGC mine claims on two tankers near Khasab (unverified) plus UKMTO projectile report. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets closed (25 Nov residual: S&P −0.25%). Hazard: High Wind Warning active for Monmouth Thanksgiving (non-tropical; NHC no cyclone).
 
 **Signal vs Noise note**
 

@@ -37,7 +37,7 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- Non-tropical coastal storm (Thanksgiving nor’easter): NWS Mount Holly High Wind Warning remains in effect for Monmouth County (and coastal NJ) until 1 a.m. Friday; east winds 30–45 mph with gusts up to 70 mph (localized higher possible). Coastal Flood Warning also in effect. Widespread tree/power-line damage and power outages expected; peak winds this afternoon. JCP&L monitoring with crews pre-positioned (Holmdel command center); current NJ outages low (~940 total as of ~7 a.m., JCP&L ~433). NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
+- Non-tropical coastal storm (Thanksgiving nor’easter) affecting the U.S. East Coast: NWS High Wind Warnings and Coastal Flood Warnings in effect from the Mid-Atlantic through southern New England (including NJ, NY metro, Long Island, and coastal areas) until early Friday; east/northeast winds 25–45 mph with gusts 60–70 mph (locally higher along the coast). Widespread tree and power-line damage and power outages expected; peak winds this afternoon. Utilities (including JCP&L) pre-positioning crews for multiday restoration. Current outages remain low as of morning. NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
@@ -48,15 +48,15 @@ AI — the cultural fight:
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-Thanksgiving Day. High Wind Warning and Coastal Flood Warning in effect until early Friday: rain (heavy at times), high near **55°F**, east winds 25–40 mph with gusts up to 60–70 mph. Widespread power outages possible; JCP&L crews on standby. Current outages remain low. No tropical system.
+Thanksgiving Day. High Wind Warning and Coastal Flood Warning in effect until early Friday: rain (heavy at times), high near **55°F**, east winds 25–40 mph with gusts up to 60–70 mph. Widespread power outages possible; JCP&L crews on standby (Holmdel command center). Current outages remain low. No tropical system.
 
 **What changed since yesterday**
 
-Hormuz: day 272; Brent near $91; new IRGC mine claims on two tankers near Khasab (unverified) plus UKMTO projectile report. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets closed (25 Nov residual: S&P −0.25%). Hazard: High Wind Warning active for Monmouth Thanksgiving (non-tropical; NHC no cyclone).
+Hormuz: day 272; Brent near $91; new IRGC mine claims on two tankers near Khasab (unverified) plus UKMTO projectile report. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets closed (25 Nov residual: S&P −0.25%). Hazard: East Coast Thanksgiving nor’easter with High Wind Warnings (non-tropical; NHC no cyclone).
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. Local NJ High Wind Warning for Thanksgiving. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. East Coast High Wind Warnings for Thanksgiving. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 

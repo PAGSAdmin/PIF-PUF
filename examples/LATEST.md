@@ -5,13 +5,13 @@ PUF = Politics, Policies, Understanding, Fun.
 
 ---
 
-# Daily reading — 26 November 2026
+# Daily reading — 28 November 2026
 
 PIF (Population Impact Factor) is the numbered caseload watch: agency-counted shocks that dominate U.S. platforms that day, plus standing files whose counted caseload has not closed.  
 PUF (Politics, Policies, Understanding, Fun) is the unnumbered surfacing of the debates and context around those shocks.
 
 Generated in the disclosed Grok collaboration.  
-Sources checked the morning of 26 November 2026. Numbers move; this is a snapshot, not a wire service.
+Sources checked the morning of 28 November 2026. Numbers move; this is a snapshot, not a wire service.
 
 Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 
@@ -20,14 +20,14 @@ Local filter: Monmouth / Middletown NJ. Fork the repo to change place or lanes.
 **PIF — on the platforms today**
 
 1) **Strait of Hormuz / Iran war file** → **Cat 4** + **! EMERGENCY WARNING**  
-   Brent near **$90.8–$91.3** this morning (prior settle ~$90.64 on 25 November; quotes low-to-mid $91s). Day **272** since 28 February (hormuz.now). AIS-visible commercial transits remain severely restricted (~8–9% of pre-crisis baseline). Residual incidents continue: IRGC claims two tankers (one supertanker carrying >2 million barrels) hit sea mines north of Oman’s Khasab on an unauthorized route and caught fire (unverified); UKMTO reported an explosion from an unknown projectile ~50 nm west of Dubai. Iran continues to require coordination for passage. Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
+   Brent near **$90.8–$95** this morning (quotes vary by source/settlement; residual from late-week moves). Day **274** since 28 February (hormuz.now). AIS-visible commercial transits remain severely restricted (~6% of pre-crisis baseline; 7-day average ~5.3/day vs ~85). Residual incidents continue (IRGC mine claims, UKMTO projectile reports, coordinated VLCC transit claims). Iran continues to require coordination for passage. Strait remains effectively closed / severely restricted to normal commercial traffic. Defense Department standing: **21** U.S. service members killed, **865** wounded in Iran-related operations. No final decision on further U.S. action reported.
 
 **Top Surfacing PUF**
 
-- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms. Thanksgiving Day in the U.S.
+- **Politics**: Aftermath of Trump-Xi-Putin trilateral in Shenzhen (19 November): joint peace declaration reaffirming a nuclear war cannot be won and must never be fought; pledges on energy flows, UN reform, and oil supply. Limited concrete progress reported on Ukraine or Iran. Midterms aftermath continues. Hormuz/oil still dominates platforms.
 - **Policies**: IEA remaining emergency oil releases. Continued pressure on Iranian shadow fleet. U.S. non-emergency departure order for Saudi Arabia remains in effect. Interim rule limiting China’s indirect access to U.S. AI technology via third-country data centers remains in force.
-- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent near $91. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 19 November, data to 16 November): DRC **11,504** confirmed cases, **5,630** deaths.
-  - **Markets**: Markets closed for Thanksgiving. Residual narrative from the AI-driven selloff continues. On 25 November: S&P 500 −0.25% to 7,182.78, Nasdaq −0.62% to 23,585.80, Dow +0.33% to 50,182.95. Broader AI valuation concerns persist. Early close Friday.
+- **Understanding**: Hormuz flows recovered in volume but traffic severely restricted. Brent residual near $91–95. Brooklyn collapse residual investigation (DA criminal probe open). New Orleans residual. Ebola latest agency cut (ECDC as of 25/26 November, data to ~24 November): DRC **12,021** confirmed cases, **5,904** deaths.
+  - **Markets**: Markets closed for the weekend. Residual narrative from the AI-driven selloff continues. On 27 November (Black Friday half-day): S&P 500 +1.60% to 7,297.49, Nasdaq +2.31% to 24,129.50, Dow +1.18% to 50,774.94. Broader AI valuation concerns persist. Reopen Monday.
 - **Fun**: WNBA Finals continue.
 
 **Positive PIF Spotlight**
@@ -37,26 +37,25 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- Non-tropical coastal storm (Thanksgiving nor’easter) affecting the U.S. East Coast: NWS High Wind Warnings and Coastal Flood Warnings in effect from the Mid-Atlantic through southern New England (including NJ, NY metro, Long Island, and coastal areas) until early Friday; east/northeast winds 25–45 mph with gusts 60–70 mph (locally higher along the coast). Widespread tree and power-line damage and power outages expected; peak winds this afternoon. Utilities (including JCP&L) pre-positioning crews for multiday restoration. Current outages remain low as of morning. NHC confirms no tropical cyclone formation expected in next 7 days; no named system.
+- None within the 7-day freshness window (Thanksgiving nor’easter residual recovery only; NHC confirms no tropical cyclone formation expected in next 7 days).
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
 
 AI — the cultural fight:
-- ~13 November address and subsequent Rome forum / Pope Leo statements (still circulating within window): children and adolescents are particularly vulnerable to AI manipulation; safeguarding minors’ dignity requires digital education, not policies alone.
-- Core stances still circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human. Market residual tests AI valuation narrative.
+- Residual circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human. Market residual tests AI valuation narrative. (13 November statements outside strict 7-day window.)
 
 **Local Filter** (Monmouth / Middletown NJ)
 
-Thanksgiving Day. High Wind Warning and Coastal Flood Warning in effect until early Friday: rain (heavy at times), high near **55°F**, east winds 25–40 mph with gusts up to 60–70 mph. Widespread power outages possible; JCP&L crews on standby (Holmdel command center). Current outages remain low. No tropical system.
+Partly sunny to mostly sunny, high near **52°F**, west winds 10–20 mph (gusts higher earlier). Residual power outages from Thursday’s nor’easter: JCP&L reports continued restoration; Monmouth County ~5,190 customers still out as of morning (coastal Monmouth/Ocean residual estimated by ~11:30 p.m. 29 November for final customers). No tropical system.
 
 **What changed since yesterday**
 
-Hormuz: day 272; Brent near $91; new IRGC mine claims on two tankers near Khasab (unverified) plus UKMTO projectile report. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola held at latest ECDC cut (**11,504** / **5,630**). AI 13 Nov still within window. Markets closed (25 Nov residual: S&P −0.25%). Hazard: East Coast Thanksgiving nor’easter with High Wind Warnings (non-tropical; NHC no cyclone).
+Hormuz: day 274; Brent residual ~$91–95; traffic ~6% baseline. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**12,021** / **5,904**). AI residual within broader circulation. Markets closed (27 Nov residual: S&P +1.60%). Hazard: Thanksgiving nor’easter residual recovery (outages declining; NHC no cyclone).
 
 **Signal vs Noise note**
 
-U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. East Coast High Wind Warnings for Thanksgiving. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
+U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit aftermath and AI market residual dominate political/economic coverage. East Coast nor’easter residual power restoration. FAA residual background. New Orleans residual investigation. Brooklyn residual. Florida Learjet residual. Spain residual recovery. Bend local recovery only. Ebola and smaller international files are not the lead.
 
 **PIF — still open, platforms moved on**
 
@@ -85,7 +84,7 @@ U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit afterm
    NDRRMA / AP cuts: at least **1,455** dead; **5,285** still unaccounted for. Caseload open; rescue phase closed.
 
 10) **DRC Bundibugyo Ebola outbreak** → **Cat 5** + **! EMERGENCY WARNING**  
-    Latest agency cut (ECDC as of 19 November, data to 16 November): **11,504** confirmed cases, **5,630** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
+    Latest agency cut (ECDC as of 25/26 November, data to ~24 November): **12,021** confirmed cases, **5,904** deaths in DRC. Active transmission continues in multiple provinces. Kenya cluster (9 cases, 2 deaths) under monitoring completed. Nigeria index case medically evacuated.
 
 11) **Ukraine war** → **Cat 5**  
     OHCHR civilian table: at least **16,874** killed and **51,273** injured since 24 February 2022 (13 August cut).
@@ -93,7 +92,7 @@ U.S. homepages: Hormuz/oil with residual incidents; Trump-Xi-Putin summit afterm
 12) **Java Sea ferry *Virgo Transport 8*** → **Cat 2–3**  
     Last agency cut (Polri through 28 September): **66** dead, **69** still sought. Later public tallies higher; residual.
 
-Closed on the last cut, not numbered: Post-tropical Rachel (dissipated 11 October). Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone). Irkutsk watch (WHO: no plague cases; observation completed). Hurricane Isaias (power largely restored). Post-tropical Trudy (final advisory 19 October).
+Closed on the last cut, not numbered: Post-tropical Rachel (dissipated 11 October). Boston-bound medical flight (search suspended 4 October; six presumed dead). Polo remnants (orders lifted 30 September). East Coast nor’easter (system gone; residual recovery). Irkutsk watch (WHO: no plague cases; observation completed). Hurricane Isaias (power largely restored). Post-tropical Trudy (final advisory 19 October).
 
 Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles news-helicopter / Miami cargo / Hurricane Lowell. Santa Catalina medical helicopter. Venezuela / Colombia / Ceuta / Haiti / Flores / Qingdao / Philippines / Nigeria pipeline / Kumamoto.
 
@@ -115,6 +114,7 @@ Also open: **Sudan**, Myanmar, Sahel / Mali, South Sudan, Somalia. Los Angeles n
 - Brooklyn building collapse — 11 November 2026
 - Nationwide FAA ground stop — 13–16 November 2026
 - New Orleans river collision — 13 November 2026
+- East Coast Thanksgiving nor’easter — 26–27 November 2026 (residual recovery)
 
 ---
 

@@ -37,13 +37,13 @@ No new agency-counted positive this morning.
 **Emerging PIF**
 
 Hazard watch:
-- None within the 7-day freshness window (Thanksgiving nor’easter residual recovery only; NHC confirms no tropical cyclone formation expected in next 7 days).
+- None (Thanksgiving nor’easter residual recovery only; platforms have moved on; NHC confirms no tropical cyclone formation expected in next 7 days).
 
 Discovery / tech / cure:
 - None within the 7-day freshness window.
 
 AI — the cultural fight:
-- Residual circulating: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few; algorithms lack the spark of the human. Market residual tests AI valuation narrative. (13 November statements outside strict 7-day window.)
+- Circulating: Meta Oversight Board study (released ~27–28 November) finds major AI chatbots more likely to refuse politically critical requests about restrictive governments (average 34% refusal in restrictive jurisdictions vs 14% in permissive ones). Artist copyright pushback continues (Kate Bush, Grace Jones and ~7,000 creatives urging Australia not to weaken copyright for AI training; ~24 November, still circulating). Residual core framing still referenced: machines are tools, not persons; decisions affecting human life, freedom and the use of force must remain under effective human oversight; AI must be “disarmed”; future of AI is not pre-determined; technologies must serve the common good rather than a privileged few.
 
 **Local Filter** (Monmouth / Middletown NJ)
 
@@ -51,7 +51,7 @@ Partly sunny to mostly sunny, high near **52°F**, west winds 10–20 mph (gusts
 
 **What changed since yesterday**
 
-Hormuz: day 274; Brent residual ~$91–95; traffic ~6% baseline. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**12,021** / **5,904**). AI residual within broader circulation. Markets closed (27 Nov residual: S&P +1.60%). Hazard: Thanksgiving nor’easter residual recovery (outages declining; NHC no cyclone).
+Hormuz: day 274; Brent residual ~$91–95; traffic ~6% baseline. Trump-Xi-Putin joint statement aftermath. FAA residual no longer dominating. New Orleans residual. Brooklyn residual. Florida Learjet residual. Spain residual. Bend residual local. Ebola updated to latest ECDC cut (**12,021** / **5,904**). AI lane refreshed to current circulating items (Meta Oversight Board study + artist copyright pushback). Markets closed (27 Nov residual: S&P +1.60%). Hazard: Thanksgiving nor’easter residual recovery (outages declining; NHC no cyclone).
 
 **Signal vs Noise note**
 
